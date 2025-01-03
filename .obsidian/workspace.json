@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Combat.md",
+                "file": "Mechanics/Core Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Core Rules"
             }
           }
         ]
@@ -166,33 +166,32 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
-    "Reference/Items/Weapons.md",
+    "Mechanics/Spacecrafts.md",
+    "Mechanics/Core Rules.md",
     "Mechanics/Combat.md",
-    "Mechanics/Additional Rules.md",
-    "For GMs/Non-Player Characters.md",
     "For GMs/GMs Eyes Only.md",
     "For GMs/Check Difficulties.md",
-    "Reference/Spending XP.md",
-    "Reference/Backgrounds.md",
+    "Mechanics/Additional Rules.md",
+    "WIP Content/Abilities.md",
+    "WIP Content/Spacecraft Combat.md",
     "Reference/Items/Illicit Items.md",
     "Reference/Items/Consumables.md",
     "Reference/Items/Basic Items.md",
-    "Mechanics/Core Rules.md",
-    "Mechanics/Spacecrafts.md",
+    "Reference/Spending XP.md",
+    "Reference/Backgrounds.md",
     "README.md",
-    "lu6878e9oi.tmp",
-    "WIP Content/Expert Items.md",
     "License.md",
+    "For GMs/Non-Player Characters.md",
+    "Setting/The System/Jupiter.md",
+    "Setting/The System/Human Commonwealth/Paragon City.md",
+    "Setting/The System/Human Commonwealth/The Human Commonwealth.md",
     "Setting/The System/Venus.md",
     "To-Do.md",
-    "Setting/The System/Jupiter.md",
     "Setting/The System/Untitled.md",
     "WIP Content/Ship Modules.md",
-    "WIP Content/Spacecraft Combat.md",
     "Setting/The System/Mars.md",
-    "WIP Content/Abilities.md",
     "Setting/General.md",
-    "Setting/The System/Human Commonwealth/The Human Commonwealth.md",
+    "Setting/Tone/Technology.md",
     "Local, gitignore",
     "BodyTemplate.png",
     "Reference/Items",
@@ -202,6 +201,7 @@
     "Exo-Base",
     "lu4376681jptf1.tmp",
     "For GMs",
-    "Players"
+    "Players",
+    "lu4211801hflpq.tmp"
   ]
 }

@@ -25,9 +25,10 @@ To make a check, follow these steps:
 3. Add +1 if you have a relevant skill that applies to the task, check with your GM.
 4. Include any advantages or disadvantages applied to the situation (see below).
 
-Then give this result to the GM, and they will compare it to the DC they set for the check.
-If you rolled at least the DC of the check, you succeed.
-Failing by just one, or rolling the DC exactly could cause a partial success, and rolling way above the DC or way below will indicate an easier success or more spectacular failure.
+Each chech will have a 
+Then give this result to the GM, and they will compare it to the difficulty they set for the check.
+If you rolled at least the difficulty of the check, you succeed.
+Failing by just one, or rolling the difficulty exactly could cause a partial success, and rolling way above the difficulty or way below will indicate an easier success or more spectacular failure.
 See [[Check Difficulties]] for more information.
 ##### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score.
@@ -38,7 +39,7 @@ Sometimes two characters will roll against each other, if they get the same resu
 ##### Setbacks
 When a check is made in a situation where success is eventually possible, a failure might indicate some other setback rather than failure in the direct task itself.
 ##### Multi-Turn Checks
-Sometimes when things are happening simultaneously a check will be split up into multiple parts. The check will have a total difficulty that needs to be reached, and each check you make adds up towards reaching the ultimate goal. However if a roll fails to meet a DC of 10, it is considered a failure, and does not contribute at all. After some number of failures, usually three, the Multi-Turn check may be completely failed. Multiple characters can work together on these checks.
+Sometimes when things are happening simultaneously a check will be split up into multiple parts. The check will have a total difficulty that needs to be reached, and each check you make adds up towards reaching the ultimate goal. However if a roll fails to meet a difficulty of 10, it is considered a failure, and does not contribute at all. After some number of failures, usually three, the Multi-Turn check may be completely failed. Multiple characters can work together on these checks.
 ##### Criticals
 If the dice show a total of 2 "snake-eyes" or 12 "boxcars" the result is a critical, and has either a failure with a setback, or a complete, easy success. This is mostly left up to the GM as to how it works.
 ### Advantages/Disadvantages
@@ -47,21 +48,17 @@ Advantages and Disadvantages are situational bonuses and penalties given by the 
 Advantage occurs when the circumstances are favorable for the player attempting the check. For instance:
 - A tool, device, or another player is actively aiding you in completing the task.
 - The enemy or target you are engaging is hindered in some way (e.g., blinded, stunned, surprised, or grappled).
-- You have prepared thoroughly or the environment naturally assists your task
-	- .....
+- You have prepared thoroughly or the environment naturally assists your task (e.g., navigating after studying a map, shooting from high-ground)
 ##### Disadvantage (-1 to roll)
 A -1 penalty is applied to the check when conditions make success more difficult. For instance:
 - You are trying to perform an action without the proper tools or equipment.
 - The task is being attempted under stressful or hostile conditions (e.g., picking a lock while being shot at, building a shelter while in acid rain).
-- The target or enemy is at an advantage (e.g., a foe has cover, or you're attacking in total darkness).
+- The obstacle or enemy is at an advantage (e.g., a foe has cover, attacking in total darkness).
 - You are hindered by an injury, exhaustion, or other debilitation.
-
 ### Items
 Characters can hold up to 20 items, including multiples of small items. Items like armor, weapons, and special equipment can be added to the item panels on the character sheet, copying over regular details, in addition to the inventory list. 
-
 ### Gaining XP
 Players should receive XP for every 1-2 hours of gameplay, every time they complete a major challenge or a few minor challenges. This XP can then be spent in the future according to [[Spending XP]].
-
 ### Luck Points
 At the start of each session, each player rolls 1d6. They get that many luck points this session, unless they had more points left over from the previous session in which case they keep that number. Then players can donate luck points to other who have fewer than them if they want, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
 

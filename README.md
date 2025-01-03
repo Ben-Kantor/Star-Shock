@@ -18,6 +18,7 @@ Exo-2040 is designed to include the minimal number of rules to cover all essenti
 - Ship Module Compendium
 - Preset NPC Stat Blocks
 - Preset Enhancement Rewards
+- Preset Rare Items
 - List of Cybernetic Enhancements
 ##### Lore & World-Building
 - Human Space Stations and the Earth Space Elevator
@@ -34,14 +35,14 @@ Exo-2040 is designed to include the minimal number of rules to cover all essenti
 - Expand the explanation of technology
 ### Credits
 ##### Writers & Editors
-**Ben Kantor** - _Main Writer_
+Ben Kantor - _Main Writer_
 ##### Inspirations
-- **Traveller TTRPG**
-- **Have Space Suit—Will Travel**
-- **The Storyteller System**
-- **Star Trek**: TOS, TNG, & DS9
-- The science fiction of **Andy Weir**
-- **Jupiter Ascending**
+- Traveller TTRPG
+- Have Space Suit—Will Travel
+- The Storyteller System
+- Star Trek: TOS, TNG, & DS9
+- The science fiction of Andy Weir
+- Jupiter Ascending
 - Pulp Science Fiction Magazines:
     - [Galaxy Magazine](https://archive.org/details/galaxymagazine-1951-02/)
     - [Science Fiction Quarterly](https://archive.org/details/sciencefictionquarterly)

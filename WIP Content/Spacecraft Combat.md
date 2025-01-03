@@ -22,4 +22,4 @@ Each ship will have a damage table that describes what happens as it suffers dam
 | 13   | All sensors and comms disabled                                                |
 | 14   | Movement completely disabled                                                  |
 | 15   | All weapons completely disabled                                               |
-For this ship, fixing any of these issues will require a multi-turn check with a total DC equal to twenty plus twice the total roll.
+For this ship, fixing any of these issues will require a multi-turn check with a total difficulty equal to twenty plus twice the total roll.

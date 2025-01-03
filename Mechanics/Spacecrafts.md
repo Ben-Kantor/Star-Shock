@@ -1,9 +1,10 @@
 ### Transit
 When moving around in the solar system consult this table, for "bands" of the solar system.
 
-| Solar Space | Mercury | Venus | Earth | Mars | Belt | Jupiter | Saturn | Uranus | Neptune | Kuiper Belt | Deep-Space |
+| Solar Space | Mercury | Venus | Earth | Mars | Belt | Jupiter | Saturn | Uranus | Neptune | Kuiper Belt | Deep Space |
 | ----------- | ------- | ----- | ----- | ---- | ---- | ------- | ------ | ------ | ------- | ----------- | ---------- |
 | 1           | 2       | 3     | 4     | 5    | 6    | 7       | 8      | 9      | 10      | 11          | 12         |
+
 Moving up and down between bands costs 1 unit of fuel and takes as many days as the band number you are moving too, divided by two rounded up. Each belt is divided up radially into a number of sections equal to its number, it takes 1 day and 1 unit of fuel to move to the next section.
 
 Slowing to rendezvous or dock with another ship that is not travelling in the same direction costs and additional unit of fuel, but takes no extra time.
