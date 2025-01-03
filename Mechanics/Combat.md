@@ -11,7 +11,7 @@ Actions that do not require a roll can ignore this, however.
 - **Interact with Object** - You can usually only interact with the same object once per turn, and if the interaction requires a check it will be effected by the Action Penalty
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 10m of ground, though in more difficult terrain it might be 5m or less. If the movement requires difficult climbing or other skills, a check may be required.
 - **Assist** - Offer help to a check someone else is about to make, if you succeed on a difficulty 10 check of that type they gain an advantage.
-- **Multi-Turn Checks** - Working on a [Multi-Turn Check](./"Core%20Rules"#Multi-Turn%20Checks.md), can only be done once per turn.
+- **Multi-Turn Checks** - Working on a [Multi-Turn Check](./Core%20Rules#Multi-Turn%20Checks.md), can only be done once per turn.
 - **Block, Dodge, Concentrate, Meditate** - Increase one of your resistances by one until next turn.
 - **Stand up from Prone**
 - **Use a Consumable**
