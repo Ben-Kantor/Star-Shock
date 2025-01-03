@@ -10,5 +10,6 @@
 | 13  | 22  |
 | 14  | 25  |
 | 15  | 30  |
+
 Difficult checks will be harder for unskilled players than in D&D, and skilled player will be much less likely to fail at easy checks.
 Any check with a difficult of 6 or less is always an auto-success.
