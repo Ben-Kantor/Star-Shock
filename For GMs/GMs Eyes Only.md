@@ -1,0 +1,16 @@
+## V1 - Pre-Alpha
+
+### Theme
+This game invites players to explore many messages, including anti-capitalist and anti-fascist ideas, but its core theme is Absurdism. Absurdism is the belief that the universe is irrational and lacks inherent meaning. But rather than despairing at this truth like Nihilism, Absurdism instead celebrates the freedom and joy that come from creating meaning in a meaningless world.
+
+The setting reflects this: it is a positive and uplifting world where characters carve out lives amidst chaos and share their joy with others. Even darker places are filled with potential for improvement and hope. Cynicism and rudeness are rare, and players should see their actions leave a tangible, positive impact on the world.
+### Tips for running
+Don't hide stuff from your players, avoid slow-burns and foreshadowing more than a few sessions ahead. Stuff goes fast in this setting, and if players dedicate themselves they should be able to quickly become renown and make progress in the world, even after one adventure, have NPCs mention that they have heard of the players, and encourage the players to come up with a group name for themselves. NPCs should tend to be nice and speak their mind rather than keep their secrets, or at least to talk a lot about something.  
+
+The game is preferably played without computers, using paper sheets and notes where possible. Of course this is not a strict rule, just a recommendation, and the GM may need a device for notes or to consult the rules.
+### Rule of Cool
+Like some other systems, Exo-2040 is designed to encourage players to be creative, give cool descriptions of their characters actions, and come up with creative solutions to problems rather than following a strictly planned path. Unlike some other games, though, there is no explicit system for this, as such a system can let less creative players and this without a good understanding of the fantasy of the world feel left out. Instead the responsibility falls on the GM to make the game feel fun to play and to reward players for good ideas. Rather than granting and advantage for describing and action, the GM can instead play along and describe the reaction in a similar fashion, as this form of role-playing is its own reward for some players. When players come up with a creative or unintended solution, you should allow it to work unless it is completely nonsensical, even changing stuff in the background in order to make it work if necessary, within reason.
+### Local Rules
+Rather than designing sweeping rules that cover a broad range of possibilities, in many cases this game more exact rules. For instance how each weapon includes rules as to how it is used. The downside of this is that the rules are much less rigorous, but this is accepted as this game relies much more heavily on GM creativity and discretion.
+
+Also, in many cases a rule will say "usually" or "mostly" leaving the exact interpretation unclear. What this means is that by default this is true, but certain exceptions that should be obvious to the GM might change this, and the game is not going to try to make strict rules for them.
