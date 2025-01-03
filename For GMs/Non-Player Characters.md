@@ -3,4 +3,6 @@ To build the stat block of an NPC, first set their attributes. An average human 
 
 Then they should have 2-3 relevant skills. If they are used to combat they will have a weapon and a matching soldier skill and high attribute. Often more trained combats will have multiple weapons and armor.
 
-Then set their resistances as 5 + the relevant attribute. You can increase them by 1 to make the enemies more resilient. They can also be given special features to back up their role.
+Then set their resistances as 5 + the relevant attribute. For more powerful enemies, they can have all their resistances increased by 1 and one or more features to reinforce their role in the story. 
+
+Rather than having NPCs make consciousness checks, just give them a fixed number of damage points after which they fall unconscious. For a base number, take 8 + the total of all their attributes.

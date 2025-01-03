@@ -26,3 +26,5 @@ A set of bandages, healing paste, and a hypo-spray with basic medicines. Needed 
 A palm-sized device capable of projecting detailed holograms in a meter cube area.
 #### Collapsible Shovel (₮10)
 A compact, foldable shovel made of lightweight titanium. Useful for digging or moving debris in survival or engineering situations.
+#### Vacuum-Sealed Rations (₮1)
+One day worth of freeze-dried sustenance, can be reconstituted with water.

@@ -1,9 +1,11 @@
 # EXO-2040
 Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, where human lives are radically transformed by advanced technology. Every planet in the solar system hosts alien species, and much of the galaxy remains unexplored or poorly documented. The game world is deliberately mysterious and wacky, designed to evoke a sense of discovery for players, and give GMs a chance to be creative.
 
-**Exo-2040** is a streamlined yet robust system, aiming to cover all essential mechanics without burdening GMs with gaps to fill. The combat system is accessible while maintaining depth and strikes a balance—combat encounters are less frequent than in _Dungeons & Dragons_ but more common than in _Vampire: The Masquerade._ The game uses a **2d6 system** for checks, offering a steeper difficulty curve, and skills are not tied to specific attributes.
+Exo-2040 is designed to include the minimal number of rules to cover all essential mechanics without burdening GMs with gaps to fill. The combat system is meant to be accessible while maintaining depth, but the game is not intended to contain frequent combat. Everything uses a 2d6 system for checks, offering a steeper difficulty curve, and skills are not tied to specific attributes.
 ### To-Do List
-##### Consider changing the game's name.
+##### Meta
+- Consider changing the game's name.
+- Get links working on the github view
 ##### System Features
 - Psionics
 - Spending XP

@@ -63,7 +63,7 @@ _You are unusually tall and have no eyebrows._
 - (◆◇◇) Order-Keeper Contact - OR - Smuggler Contact.
 - One **{{Soldier}}** Skill and one **{{Explorer}}** Skill.
 - "You have a license to carry and purchase otherwise illegal weapons in the inner solar system and belt
-- Starting Item: Any [Weapon](Weapons).
+- Starting Item: Any [Weapon](Weapons.md).
 #### Enforcer
 - (◆◇◇) High Enforcer Contact.
 - One **{{Soldier}}** Skill and one Skill from **Any Category.**
