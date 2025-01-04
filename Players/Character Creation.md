@@ -8,14 +8,14 @@ Also copy any contacts (p1, ←) you got, with the number of stars in the top ri
 
 Property you start with that you don't carry with you can be tracked in notes (e.g. a spaceship). Make sure to note where it is kept.
 #### Step 2. Attributes and Skills
-Here you will determine the main mechanical strengths and weaknesses of your character. For this part its best to co-ordinate with other players to make sure you have a well-balanced party.
+Here you will determine the main mechanical Strs and weaknesses of your character. For this part its best to co-ordinate with other players to make sure you have a well-balanced party.
 
 Now, divide up 7 points between the four attributes in the game, with no value above 3.  Keep in mind that putting a 0 in any attribute will leave you with serious a weakness and vulnerability to certain attacks. Enter these attributes on your sheet (p2, ↑). 
 
 - **Strength**: Physical power and endurance, for melee combat and brute force tasks.
 - **Dexterity**: Agility, precision, and speed, for ranged combat, stealth, and finesse-based actions.
 - **Intellect**: Mental acuity, problem-solving, and technical skills, for problem-solving and knowledge.
-- **Presence**: Charisma, influence, and force of personality, for social interactions and tests of willpower.
+- **Prs**: Charisma, influence, and force of personality, for social interactions and tests of willpower.
 
 Then choose two skills, one from the **{{Soldier}}** category and one skill from any category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
 

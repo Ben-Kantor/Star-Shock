@@ -5,12 +5,12 @@ At the start of their turn, players declare how many actions they are taking, up
 Each action that involves a dice roll gets -1 for each action more than one that they are taking this turn.
 This is called the **Action Penalty**, and means if you take three actions in a turn, each one gets -2 on the roll.
 Actions that do not require a roll can ignore this, however.
-- **Light Punch** - Make a Dexterity check, deal that much damage to an enemy within 1m, minus their Strength resistance.
-- **Heavy Punch** - Make a Strength check, deal that much damage to an enemy within 1m, minus their Dexterity resistance.
-- **Other Weapon Attack** - Other [Weapons](../Reference/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
+- **Light Punch** - Make a Dex + {{Martial Arts}} check, deal that much damage to an enemy within 1m, minus their Str resistance.
+- **Heavy Punch** - Make a Str + {{Martial Arts}} check, deal that much damage to an enemy within 1m, minus their Dex resistance.
+- **Other Weapon Attack** - Other [Weapons](/Reference/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
 - **Interact with Object** - You can usually only interact with the same object once per turn, and if the interaction requires a check it will be effected by the Action Penalty
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 10m of ground, though in more difficult terrain it might be 5m or less. If the movement requires difficult climbing or other skills, a check may be required.
-- **Assist** - Offer help to a check someone else is about to make, if you succeed on a difficulty 10 check of that type they gain an advantage.
+- **Assist** - Offer help to a check someone else is about to make, if you succeed on a DC 10 check of that type they gain an advantage.
 - **Multi-Turn Checks** - Working on a [Multi-Turn Check](./Core%20Rules.md#Multi-Turn%20Checks), can only be done once per turn.
 - **Block, Dodge, Concentrate, Meditate** - Increase one of your resistances by one until next turn.
 - **Stand up from Prone**
@@ -28,17 +28,17 @@ Alternatively, two players may switch seats to change the initiative position of
 ### Resistances
 Each attribute also serves as a damage reduction for a given type of damage, equal to the attribute plus 5. All damage of that type is reduced by that much, negative abilities count as 0, and damage can be reduced to nothing.
 
-| Ability      | Damage                                |
-| ------------ | ------------------------------------- |
-| Strength     | Light, quick attacks; ranged attacks. |
-| Dexterity    | Heavy, slow attacks; falling objects. |
+| Ability   | Damage                                |
+| --------- | ------------------------------------- |
+| Strength  | Light, quick attacks; ranged attacks. |
+| Dexterity | Heavy, slow attacks; falling objects. |
 | Intellect | Energy weapons, fire, lightning.      |
-| Presence     | Psychic, mental damage                |
+| Presence  | Psychic, mental damage                |
 ### Armor
 Armor has three values: Impact, Pierce, and Energy. Armor you wear will increase these values, and thus reduce damage of the associated type by that much.
 ### Taking Damage
 When damage is dealt to a character, it is added to their previous total damage, which starts at 0. Then if they have seven or more total damage they must make a **consciousness check**.
-To do so, they roll a Strength check, against half the total number of damage they have taken (round up). 
+To do so, they roll a Str check, against half the total number of damage they have taken (round up). 
 - If they succeed, nothing happens.
 - If they fail, they fall unconscious.
 - If they fail by 7 or more, they fall into a coma.
@@ -46,7 +46,7 @@ To do so, they roll a Strength check, against half the total number of damage th
 ##### Unconscious
  While a character is unconscious, If the amount of damage they have decreases while they are unconscious, they may re-roll and wake up on a success. If the amount of damage increases, they must re-roll to see if they fall into a coma, but they don't wake up on a success. Without interference, unconscious characters will wake up after 1 hour.
 ##### Comatose
-Characters in a coma are unable to communicate and do not make consciousness checks as normal, instead every 24 hours they make a coma check (Strength vs half of total damage):
+Characters in a coma are unable to communicate and do not make consciousness checks as normal, instead every 24 hours they make a coma check (Str vs half of total damage):
 - If they succeed, they wake up.
 - If they fail, they take one additional injury.
 - If they fail by seven or more or role snake-eyes, and have more injuries than total xp, they die.

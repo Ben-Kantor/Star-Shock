@@ -5,7 +5,7 @@ During Vessel Combat, each player chooses one aspect of the ship for their chara
 ##### Chases
 While two ships are in an encounter where relative speed matters, each time the character at the helm takes their turn, a roll is made to determine how fast the ship goes. This roll is 2d6 plus the ships speed boost value. If the pilot has a relevant pilot skill they can also add +1 to the roll.
 ### Damage Effects
-Each ship will have a damage table that describes what happens as it suffers damage. When it suffers damage, roll 1d6 + damage taken + number of previous hits, and consult table, to see what effect is suffered. A [Multi-Turn Check](<Core Rules#Multi-Turn Checks>) will be required to solve the problem, with a difficulty described by the ships rules. Here is the base table for a small 6 person transport ship.
+Each ship will have a damage table that describes what happens as it suffers damage. When it suffers damage, roll 1d6 + damage taken + number of previous hits, and consult table, to see what effect is suffered. A [Multi-Turn Check](<Core Rules#Multi-Turn Checks>) will be required to solve the problem, with a DC described by the ships rules. Here is the base table for a small 6 person transport ship.
 
 | Roll | Effect                                                                        |
 | ---- | ----------------------------------------------------------------------------- |
@@ -22,4 +22,4 @@ Each ship will have a damage table that describes what happens as it suffers dam
 | 13   | All sensors and comms disabled                                                |
 | 14   | Movement completely disabled                                                  |
 | 15   | All weapons completely disabled                                               |
-For this ship, fixing any of these issues will require a multi-turn check with a total difficulty equal to twenty plus twice the total roll.
+For this ship, fixing any of these issues will require a multi-turn check with a total DC equal to twenty plus twice the total roll.

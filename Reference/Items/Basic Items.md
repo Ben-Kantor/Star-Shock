@@ -1,11 +1,11 @@
 #### Portable Computator (₮80)
 A brief-case sized typewriter based [Computator](Technology#Computators) terminal which can solve advanced math and physics problems. Only has enough power to answer five prompts until recharged over a shift.
 #### Magnetic Boots (₮30)
-Custom tailored boots with toggleable magnets that allow a user to walk along metal panels. May allow the use of Strength instead of Dexterity to navigate such environments.
+Custom tailored boots with toggleable magnets that allow a user to walk along metal panels. May allow the use of Str instead of Dex to navigate such environments.
 #### Omni-Linguistic Decoder (₮30)
 A hand-held device that translates any known language into the user’s native tongue. May require an Int + {Comms} check to decipher exotic languages or idoms/slang.
 #### Atomic Lantern (₮15)
-Bright lamp with a blue glowing cylinder of enriched radium. Can be focused to blind someone within 10m for a turn unless they make a difficulty 10 Presence check.
+Bright lamp with a blue glowing cylinder of enriched radium. Can be focused to blind someone within 10m for a turn unless they make a DC 10 Prs check.
 #### Spider-Silk Rope (₮5)
 Fifteen meters of rope, can hold up to one ton in earth gravity.
 #### Communicator (₮15)
@@ -19,7 +19,7 @@ A mini toothpaste tube of bright green glue made from Venusian Sap. Only enough 
 #### Self-Focusing Spyglass (₮90)
 Offers a clear enough view to make out 10cm detail 10km away, and 1m details 100km away.
 #### Grappling Harpoon (₮45)
-A gun-like device that fires a hooked cable up to 20m. Allows for quick ascents, securing objects, or pulling enemies. Can pull up to 100kg in earths gravity. May require a Dexterity + {Firearms} check to get a good hook.
+A gun-like device that fires a hooked cable up to 20m. Allows for quick ascents, securing objects, or pulling enemies. Can pull up to 100kg in earths gravity. May require a Dex + {Firearms} check to get a good hook.
 #### Medical Kit (₮25)
 A set of bandages, healing paste, and a hypo-spray with basic medicines. Needed to make basic medicine checks without disadvantage.
 #### Holo-Projector (₮20)
