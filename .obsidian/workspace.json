@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics/Core Rules.md",
+                "file": "Setting/Currency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Rules"
+              "title": "Currency"
             }
           }
         ]
@@ -164,34 +164,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dbaee2d5c586eec",
+  "active": "c0733c9bb7e05cb8",
   "lastOpenFiles": [
-    "Mechanics/Spacecrafts.md",
-    "Mechanics/Core Rules.md",
-    "Mechanics/Combat.md",
-    "README.md",
-    "Players/Character Creation.md",
-    "Reference/Spending XP.md",
-    "For GMs/Check Difficulties.md",
-    "For GMs/GMs Eyes Only.md",
-    "Mechanics/Additional Rules.md",
-    "WIP Content/Abilities.md",
     "WIP Content/Spacecraft Combat.md",
-    "Reference/Items/Illicit Items.md",
-    "Reference/Items/Consumables.md",
-    "Reference/Items/Basic Items.md",
-    "Reference/Backgrounds.md",
     "License.md",
-    "For GMs/Non-Player Characters.md",
-    "Setting/The System/Jupiter.md",
-    "Setting/The System/Human Commonwealth/Paragon City.md",
-    "Setting/The System/Human Commonwealth/The Human Commonwealth.md",
-    "Setting/The System/Venus.md",
-    "To-Do.md",
-    "Setting/The System/Untitled.md",
-    "WIP Content/Ship Modules.md",
+    "License.txt",
+    "README.md",
+    "WIP Content/Preset Stat-Blocks.md",
+    "For GMs/Time Scales.md",
+    "Mechanics/Additional Rules.md",
+    "Mechanics/Combat.md",
+    "Mechanics/Core Rules.md",
+    "Mechanics/Spacecrafts.md",
+    "Setting/The System/Mercury & Solar Space.md",
+    "Setting/The System/The Meteor Belt.md",
+    "Setting/Currency.md",
+    "Setting/Technology.md",
+    "Reference/Backgrounds.md",
+    "Reference/Items/Basic Items.md",
+    "Reference/Items/Illicit Items.md",
+    "WIP Content/Abilities.md",
+    "Reference/Items/Consumables.md",
+    "WIP Content/Secret Lore.md",
+    "WIP Content/Psionics.md",
     "Setting/The System/Mars.md",
-    "Setting/General.md",
+    "Setting/The System/Jupiter.md",
+    "Reference/Items/Weapons.md",
+    "Reference/Spending XP.md",
+    "Setting/The System/Human Commonwealth/Human Spacecraft.md",
     "Local, gitignore",
     "BodyTemplate.png",
     "Reference/Items",
@@ -201,7 +201,6 @@
     "Exo-Base",
     "lu4376681jptf1.tmp",
     "For GMs",
-    "Players",
-    "lu4211801hflpq.tmp"
+    "Players"
   ]
 }

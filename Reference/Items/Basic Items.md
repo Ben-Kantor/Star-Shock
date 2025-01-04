@@ -1,5 +1,5 @@
 #### Portable Computator (₮80)
-A brief-case sized typewriter based [Computator](Technology#Computators) terminal which can solve advanced math and physics problems. Only has enough power to answer five prompts until recharged over a shift.
+A brief-case sized typewriter based [Computator](Technology.md#Computators) terminal which can solve advanced math and physics problems. Only has enough power to answer five prompts until recharged over a shift.
 #### Magnetic Boots (₮30)
 Custom tailored boots with toggleable magnets that allow a user to walk along metal panels. May allow the use of Strength instead of Dexterity to navigate such environments.
 #### Omni-Linguistic Decoder (₮30)

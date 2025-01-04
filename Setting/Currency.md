@@ -1,7 +1,7 @@
 ### TSI
 The main human currency is TSI (_Terran Square-Index_), pronounced "Tsai." Each unit represents one square meter of territory on Earth and is valued at about $10 or £8. TSI are sometime traded in parts, usually decimal tenths. It is represented by ₮, for example, 3.2 TSI would be written as ₮3.2.
 
-₮SI are tracked and stored by the Terran Planetary Reserve. Many humans carry a tsi-card, an aluminum card used to make payments by touching it to another card or station. Tsi-cards are permanently linked to a specific account and display the value of the account on a small analog screen. They cannot be used unless they are near the implanted wrist chip of their owner.
+TSI are tracked and stored by the Human Commonwealth's Planetary Reserve. Many humans carry a tsi-card, an aluminum card used to make payments by touching it to another card or station. Tsi-cards are permanently linked to a specific account and display the value of the account on a small analog screen. They cannot be used unless they are near the implanted wrist chip of their owner.
 ### Trilium
 Trilium (helium-3) is the most widely accepted currency across the solar system. It is traded by the gram and is usually traded in small gas tanks, mostly with prices in powers of two, and never in fractions of a gram. One gram of it is represented by the symbol 🜁. It also serves as the primary fuel for fusion spacecrafts. 8 Grams of Trillium is approximately equal to one Tsi. 
 ### Zenth
