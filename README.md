@@ -12,8 +12,6 @@ Exo-2040 is designed to include the minimal number of rules to cover all essenti
 - Rules for Illicit Items
 - Ship Combat, Ability to Target Modules
 - More Consumable Items
-- Long-Term Downtime
-- Explanation of Time Scales
 ##### Game Resources
 - HTML Live Solar System Map
 - Spacecraft Sheets
