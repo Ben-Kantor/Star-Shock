@@ -164,14 +164,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0733c9bb7e05cb8",
+  "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "WIP Content/Preset Stat-Blocks.md",
+    "Setting/The System/Human Commonwealth/Human Spacecraft.md",
+    "For GMs/Time Scales.md",
     "WIP Content/Spacecraft Combat.md",
     "License.md",
     "License.txt",
     "README.md",
-    "WIP Content/Preset Stat-Blocks.md",
-    "For GMs/Time Scales.md",
     "Mechanics/Additional Rules.md",
     "Mechanics/Combat.md",
     "Mechanics/Core Rules.md",
@@ -191,7 +192,6 @@
     "Setting/The System/Jupiter.md",
     "Reference/Items/Weapons.md",
     "Reference/Spending XP.md",
-    "Setting/The System/Human Commonwealth/Human Spacecraft.md",
     "Local, gitignore",
     "BodyTemplate.png",
     "Reference/Items",

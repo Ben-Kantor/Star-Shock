@@ -9,4 +9,4 @@ Small communicators are flip-phone like devices which communicate like walkey-ta
 ### Photonic Cables
 Large bundled cables that transfer date, data moves at about 10m/s so large computator systems try to be as compact as possible. The bundle of data can be seen as a glowing spot moving along the cable. Cables transferring lots of data might be glowing permanently.
 ### Artificial Gravity
-Artificial gravity is generated in 
+Artificial gravity is created by electrifying a layered material containing tungsten, to generate an attraction force like gravity only in one direction. This is the main reason for the high price of Tungsten.

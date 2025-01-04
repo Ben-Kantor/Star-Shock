@@ -16,3 +16,5 @@ Each ship has a ship stat block, which includes:
 - A speed boost value of 0-4, used in chases
 
 Small ships will have 1-2 upgrade bays, large ones can have 30-40, each bay can include weapons, trubo engines, upgraded communication and sensors, or many other things, but usually are just storage space. Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮10-40, storage modules just use ₮5 of materials. Cargo bays lose pressurization when disabled.
+### Takeoff and Landing
+Taking off and landing from a small body like The Moon takes 2 units, a larger body like Mars takes 3, and a body like Earth or Venus takes 4. Landing on a body with an atmosphere always takes 1, but bodies without atmosphere have the same landing cost as takeoff. Not all ships are capable of atmospheric takeoff and landing, or even non-atmospheric. 

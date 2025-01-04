@@ -8,9 +8,9 @@ Exo-2040 is designed to include the minimal number of rules to cover all essenti
 - Get links working on the github view
 ##### System Features
 - Psionics
-- Spending XP
 - Expert Items
 - Rules for Illicit Items
+- Ship Combat, Ability to Target Modules
 - More Consumable Items
 - More Weapons
 ##### Game Resources
@@ -18,14 +18,12 @@ Exo-2040 is designed to include the minimal number of rules to cover all essenti
 - Spacecraft Sheets
 - Ship Module Compendium
 - Preset NPC Stat Blocks
-- Preset Enhancement Rewards
 - Preset Rare Items
+- Preset Ability Enhancements
 - List of Cybernetic Enhancements
 ##### Lore & World-Building
-- Human Space Stations and the Earth Space Elevator
 - Locations in Paragon City
 - Meteor Belt Settlements
-- Flesh Out Mars & Venus
 - Illicit Substances
 - Fashion
 - Foods
