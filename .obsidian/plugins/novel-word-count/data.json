@@ -292,31 +292,6 @@
         "nonWhitespaceCharacterCount": 4556
       }
     },
-    "README.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 290,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9666666666666667,
-      "characterCount": 2286,
-      "nonWhitespaceCharacterCount": 1925,
-      "readingTimeInMinutes": 1.0943396226415094,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1735973509036,
-      "modifiedDate": 1735973509036,
-      "sizeInBytes": 2288,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9666666666666667,
-        "wordCount": 290,
-        "characterCount": 2286,
-        "nonWhitespaceCharacterCount": 1925
-      }
-    },
     "Players/Character Creation.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -325,15 +300,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.8666666666666667,
-      "characterCount": 7624,
-      "nonWhitespaceCharacterCount": 6107,
+      "characterCount": 7625,
+      "nonWhitespaceCharacterCount": 6108,
       "readingTimeInMinutes": 4.377358490566038,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1735974720611,
-      "modifiedDate": 1735974720611,
-      "sizeInBytes": 7664,
+      "modifiedDate": 1735974956779,
+      "sizeInBytes": 7665,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3.8666666666666667,
@@ -959,6 +934,31 @@
       "createdDate": 1735974693103,
       "modifiedDate": 1735974693103,
       "sizeInBytes": 1495,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Readme.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 282,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.94,
+      "characterCount": 2237,
+      "nonWhitespaceCharacterCount": 1887,
+      "readingTimeInMinutes": 1.0641509433962264,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1735974693104,
+      "modifiedDate": 1735974693105,
+      "sizeInBytes": 2239,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
