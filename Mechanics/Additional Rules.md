@@ -28,8 +28,8 @@ When the party spends several days in a population center or travels aboard a sh
 - Complete up to three Shifts’ worth of activities.
 - Spend time on recreation or leisure.
 - Get a full rest, halving damage as usual.
-This system provides flexibility, allowing detailed play during key moments and efficient pacing during extended downtime.
 
+To run this, go around the table asking each player what their character does during each of the three shifts in a day, then bring the characters together during the night and offer opportunities for roleplay. This system provides flexibility, allowing detailed play during key moments and efficient pacing during extended downtime.
 ### Contacts
 Contacts are NPCs that a player character has a connection to, providing support or access to specific resources. Players can note any NPC they meet as a contact, provided they ask their name and establish a way to contact them in the future.
 ##### Trust Levels

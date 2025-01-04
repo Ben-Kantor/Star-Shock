@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "License.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "License"
             }
           }
         ]
@@ -166,13 +166,17 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "README.md",
+    "WIP Content/Preset Stat-Blocks.md",
+    "For GMs/Time Scales.md",
+    "Mechanics/Additional Rules.md",
+    "Mechanics/Combat.md",
+    "Mechanics/Core Rules.md",
+    "Mechanics/Spacecrafts.md",
     "Setting/The System/Mercury & Solar Space.md",
     "Setting/The System/The Meteor Belt.md",
     "Setting/Tone/Currency.md",
     "Setting/Tone/Technology.md",
-    "Mechanics/Additional Rules.md",
-    "Mechanics/Combat.md",
-    "Mechanics/Core Rules.md",
     "Reference/Backgrounds.md",
     "Reference/Items/Basic Items.md",
     "Reference/Items/Illicit Items.md",
@@ -187,11 +191,7 @@
     "Reference/Spending XP.md",
     "Setting/The System/Human Commonwealth/Human Spacecraft.md",
     "Setting/The System/Human Commonwealth/Paragon City.md",
-    "README.md",
     "License.md",
-    "Setting/The System/Venus.md",
-    "Setting/The System/Human Commonwealth/The Human Commonwealth.md",
-    "Players/Character Creation.md",
     "Local, gitignore",
     "BodyTemplate.png",
     "Reference/Items",
