@@ -12,6 +12,7 @@ Exo-2040 is designed to include the minimal number of rules to cover all essenti
 - Expert Items
 - Rules for Illicit Items
 - More Consumable Items
+- More Weapons
 ##### Game Resources
 - HTML Live Solar System Map
 - Spacecraft Sheets
@@ -43,10 +44,11 @@ Ben Kantor - _Main Writer_
 - Star Trek: TOS, TNG, & DS9
 - The science fiction of Andy Weir
 - Jupiter Ascending
+- Starship Troopers
 - Pulp Science Fiction Magazines:
     - [Galaxy Magazine](https://archive.org/details/galaxymagazine-1951-02/)
     - [Science Fiction Quarterly](https://archive.org/details/sciencefictionquarterly)
     - [Amazing Stories](https://archive.org/details/amazingstoriesmagazine)
-    - And others
+    - 1984
 ##### Resources
 - [Game-Icons.net](https://game-icons.net/)

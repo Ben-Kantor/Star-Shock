@@ -29,7 +29,7 @@ Each chech will have a
 Then give this result to the GM, and they will compare it to the difficulty they set for the check.
 If you rolled at least the difficulty of the check, you succeed.
 Failing by just one, or rolling the difficulty exactly could cause a partial success, and rolling way above the difficulty or way below will indicate an easier success or more spectacular failure.
-See [[Check Difficulties]] for more information.
+See [Check Difficulties](/For%20GMs/Check%20Difficulties.md) for more information.
 ##### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score.
 ##### Re-Rolling
@@ -58,7 +58,7 @@ A -1 penalty is applied to the check when conditions make success more difficult
 ### Items
 Characters can hold up to 20 items, including multiples of small items. Items like armor, weapons, and special equipment can be added to the item panels on the character sheet, copying over regular details, in addition to the inventory list. 
 ### Gaining XP
-Players should receive XP for every 1-2 hours of gameplay, every time they complete a major challenge or a few minor challenges. This XP can then be spent in the future according to [[Spending XP]].
+Players should receive XP for every 1-2 hours of gameplay, every time they complete a major challenge or a few minor challenges. This XP can then be spent in the future according to [Spending XP](/Reference/Spending%20XP.md).
 ### Luck Points
 At the start of each session, each player rolls 1d6. They get that many luck points this session, unless they had more points left over from the previous session in which case they keep that number. Then players can donate luck points to other who have fewer than them if they want, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
 
@@ -68,7 +68,7 @@ There are two ways to spend Luck Points:
 
 If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations.
 ### Items
-Each character can hold up to 20 items, with multiples of small items counting as one. Some items can be used an unlimited number of times, but others are consumables. All consumables are single-use, characters can only intake at most one consumable per day, resetting every 24 hours or on a rest. Some items such as armor, weapons, or advances items will need to be added to the Items boxes on the character sheet, to indicate they are currently equipped. This includes items which don't use have a range, modifier, resistance, or rate.
+Each character can hold up to 10 items, with multiples of small items counting as one. Some items can be used an unlimited number of times, but others are consumables. All consumables are single-use, characters can only intake at most one consumable per day, resetting every 24 hours or on a rest. Some items such as armor, weapons, or advances items will need to be added to the Items boxes on the character sheet, to indicate they are currently equipped. This includes items which don't use have a range, modifier, resistance, or rate.
 ##### Advanced Items
 Advanced items are a type of armor, weapons, or other utility items that require training to use. A number of XP and shifts must be spent learning to use the item, and then it can be added to the training section on the character sheet. In some cases untrained items can be used with disadvantage, but not for the long term. 
 ##### Weapons
