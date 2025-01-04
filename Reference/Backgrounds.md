@@ -33,7 +33,7 @@ _You are unusually tall and have no eyebrows._
 #### Hacker
 - **{Computator}** Skill.
 - (◆◇◇) Expert Hacker Contact - OR - (◆◇◇) Intelligence Service Contact.
-- "You can gain access to computator systems with an Intellect + {Computators} check, provided you have access to a connected terminal."
+- "You can gain access to computator systems with an In + {Computators} check, provided you have access to a connected terminal."
 #### Engineer
 - **{{Engineering}}** Category Skill.
 - "You can make two cycles of ship repairs and upgrades in one shift."
@@ -67,12 +67,12 @@ _You are unusually tall and have no eyebrows._
 #### Enforcer
 - (◆◇◇) High Enforcer Contact.
 - One **{{Soldier}}** Skill and one Skill from **Any Category.**
-- "You always know when someone is hiding something illicit from you unless they succeed a difficulty 10 Presence + Deceive check."
+- "You always know when someone is hiding something illicit from you unless they succeed a DC 10 Prs + Deceive check."
 - Starting Item: Any [Armor](Armors.md).
 #### Counselor
 - **{{Academic}}** Category Skill.
-- "You can sense any character's emotion unless they succeed a difficulty 10 Presence + Deceive check."
-- "Once per session, add your Presence attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."
+- "You can sense any character's emotion unless they succeed a DC 10 Prs + Deceive check."
+- "Once per session, add your Prs attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."
 #### Criminal
 - (◆◇◇) Criminal Leader Contact - OR - Smuggler Contact.
 - Two **{{Low-Life}}** Skills.
@@ -83,17 +83,16 @@ _You are unusually tall and have no eyebrows._
 - "Once per session, re-roll one die on any check."
 #### Athlete
 - **{{Explorer}}** or **{{Soldier}}** Category Skill.
-- "You can intimidate people using Strength instead of Presence."
-- "Once per session, re-roll one or both dice on a Strength check."
+- "You can intimidate people using Str instead of Prs."
+- "Once per session, re-roll one or both dice on a Str check."
 #### Acrobat
 - **{{Pilot}}** or **{{Soldier}}** Category Skill.
 - "You can jump twice as far as the average person."
-- "Once per session, re-roll one or both dice on a Dexterity check."
-#### Entertainer
+- "Once per session, re-roll one or both dice on a Dex# Entertainer
 - **{{High-Life}}** or **{{Low-Life}}** Category Skill.
 - "Advantage on all Charm checks."
-- "Once per session, re-roll one or both dice on a Presence check."
+- "Once per session, re-roll one or both dice on a Prs check."
 - Starting Item [Holo-Projector](<Basic Items.md#Holo-Projector (₮20)>).
 #### Savant
 - **{{Academic}}** or **{{Engineering}}** Category Skill.
-- "Once per session, add your Intellect attribute to any check after rolling."
+- "Once per session, add your In attribute to any check after rolling."

@@ -4,6 +4,7 @@ Each creature has four attributes:
 - Dexterity
 - Intellect
 - Presence
+
 These can be any value, but are 1 on average for humans. PCs start with 0-3 in each totaling to 7, but NPCs can have higher or lower values (including negatives).
 ### Skills
 Characters have a number of skills from the list below, as determined by their Backgrounds.
@@ -21,14 +22,14 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 ### Checks
 To make a check, follow these steps:
 1. Roll 2d6.
-2. Add your relevant attribute (Strength, Dexterity, Intellect, or Presence).
+2. Add your relevant attribute (Str, Dex, In, or Prs).
 3. Add +1 if you have a relevant skill that applies to the task, check with your GM.
 4. Include any advantages or disadvantages applied to the situation (see below).
 
 Each chech will have a 
 Then give this result to the GM, and they will compare it to the difficulty they set for the check.
-If you rolled at least the difficulty of the check, you succeed.
-Failing by just one, or rolling the difficulty exactly could cause a partial success, and rolling way above the difficulty or way below will indicate an easier success or more spectacular failure.
+If you rolled at least the DC of the check, you succeed.
+Failing by just one, or rolling the DC exactly could cause a partial success, and rolling way above the DC or way below will indicate an easier success or more spectacular failure.
 See [[Check Difficulties]] for more information.
 ##### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score.
@@ -39,7 +40,7 @@ Sometimes two characters will roll against each other, if they get the same resu
 ##### Setbacks
 When a check is made in a situation where success is eventually possible, a failure might indicate some other setback rather than failure in the direct task itself.
 ##### Multi-Turn Checks
-Sometimes when things are happening simultaneously a check will be split up into multiple parts. The check will have a total difficulty that needs to be reached, and each check you make adds up towards reaching the ultimate goal. However if a roll fails to meet a difficulty of 10, it is considered a failure, and does not contribute at all. After some number of failures, usually three, the Multi-Turn check may be completely failed. Multiple characters can work together on these checks.
+Sometimes when things are happening simultaneously a check will be split up into multiple parts. The check will have a total DC that needs to be reached, and each check you make adds up towards reaching the ultimate goal. However if a roll fails to meet a DC of 10, it is considered a failure, and does not contribute at all. After some number of failures, usually three, the Multi-Turn check may be completely failed. Multiple characters can work together on these checks.
 ##### Criticals
 If the dice show a total of 2 "snake-eyes" or 12 "boxcars" the result is a critical, and has either a failure with a setback, or a complete, easy success. This is mostly left up to the GM as to how it works.
 ### Advantages/Disadvantages
@@ -83,6 +84,6 @@ Each weapon will have several different values that determine its unique propert
 	- Total this up when you add a weapon to your character sheet and write down the final number.
 - Resistance
 	- When Resistance score is used to reduce the damage for the defender.
-	- On your character sheet put this down as Strength, Dexterity, Intellect, or Presence
+	- On your character sheet put this down as Str, Dex, In, or Prs
 - Special Ability
 	- Any special mechanics or abilities of the weapon, write this down in the big empty box in the item panel on your character sheet.
