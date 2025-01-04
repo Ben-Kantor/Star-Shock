@@ -29,7 +29,7 @@ Each chech will have a
 Then give this result to the GM, and they will compare it to the difficulty they set for the check.
 If you rolled at least the difficulty of the check, you succeed.
 Failing by just one, or rolling the difficulty exactly could cause a partial success, and rolling way above the difficulty or way below will indicate an easier success or more spectacular failure.
-See [Check Difficulties](/For%20GMs/Check%20Difficulties.md) for more information.
+See [Check Difficulties](Check%20Difficulties.md) for more information.
 ##### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score.
 ##### Re-Rolling
