@@ -63,12 +63,12 @@ _You are unusually tall and have no eyebrows._
 - (◆◇◇) Order-Keeper Contact - OR - Smuggler Contact.
 - One **{{Soldier}}** Skill and one **{{Explorer}}** Skill.
 - "You have a license to carry and purchase otherwise illegal weapons in the inner solar system and belt
-- Starting Item: Any [Weapon](Weapons.md).
+- Starting Item: Any [Weapon](/Items/Weapons.md).
 #### Enforcer
 - (◆◇◇) High Enforcer Contact.
 - One **{{Soldier}}** Skill and one Skill from **Any Category.**
 - "You always know when someone is hiding something illicit from you unless they succeed a DC 10 Prs + Deceive check."
-- Starting Item: Any [Armor](Armors.md).
+- Starting Item: Any [Armor](/Items/Armors.md).
 #### Counselor
 - **{{Academic}}** Category Skill.
 - "You can sense any character's emotion unless they succeed a DC 10 Prs + Deceive check."
@@ -76,7 +76,7 @@ _You are unusually tall and have no eyebrows._
 #### Criminal
 - (◆◇◇) Criminal Leader Contact - OR - Smuggler Contact.
 - Two **{{Low-Life}}** Skills.
-- You may buy up to one [Illicit Item](Illicit Items) instead of a Basic Item when buying starting items.
+- You may buy up to one [Illicit Item](/items/Illicit%20Items.mc) instead of a Basic Item when buying starting items.
 #### Skilled
 - One Skill from **Any Category**.
 - Increase one attribute by +1, to a maximum of 2.
@@ -92,7 +92,7 @@ _You are unusually tall and have no eyebrows._
 - **{{High-Life}}** or **{{Low-Life}}** Category Skill.
 - "Advantage on all Charm checks."
 - "Once per session, re-roll one or both dice on a Prs check."
-- Starting Item [Holo-Projector](<Basic Items.md#Holo-Projector (₮20)>).
+- Starting Item [Holo-Projector](/Items/Basic Items.md#Holo-Projector (₮20)).
 #### Savant
 - **{{Academic}}** or **{{Engineering}}** Category Skill.
 - "Once per session, add your In attribute to any check after rolling."

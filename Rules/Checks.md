@@ -54,4 +54,5 @@ Advantage occurs when the circumstances are favorable for the player attempting 
 A -1 penalty is applied to the check when conditions make success more difficult. For instance:
 - You are trying to perform an action without the proper tools or equipment.
 - The task is being attempted under stressful or hostile conditions (e.g., picking a lock while being shot at, building a shelter while in acid rain).
-- The obstacle or enemy is at an advantage (e.g., a foe has cover, attacking in total da
+- The obstacle or enemy is at an advantage (e.g., a foe has cover, attacking in total darkness).
+- You are hindered by an injury, exhaustion, or other debilitation.
