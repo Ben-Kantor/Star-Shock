@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Combat.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Readme"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
-    "Rules/Downtime.md",
+    "WIP/Spacecraft Combat.md",
     "Rules/Combat.md",
+    "Rules/Downtime.md",
     "Rules/Checks.md",
     "Players/XP.md",
     "Players/Character Creation.md",
@@ -189,7 +190,6 @@
     "WIP/Psionics.md",
     "WIP/Preset Stat-Blocks.md",
     "WIP/Ship Modules.md",
-    "WIP/Spacecraft Combat.md",
     "Rules/Spacecrafts.md",
     "WIP/Expert Items.md",
     "License.txt",

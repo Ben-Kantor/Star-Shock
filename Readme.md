@@ -49,5 +49,7 @@ Ben Kantor - _Main Writer_
     - [Science Fiction Quarterly](https://archive.org/details/sciencefictionquarterly)
     - [Amazing Stories](https://archive.org/details/amazingstoriesmagazine)
     - 1984 Magazine
-##### Resources
+##### Resources & Tools
+- [Obsidian](https://obsidian.md/)
+- [LibreOffice](https://www.libreoffice.org/)
 - [Game-Icons.net](https://game-icons.net/)
