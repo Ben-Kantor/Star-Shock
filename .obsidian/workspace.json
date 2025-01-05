@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "WIP/Secret Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Secret Lore"
             }
           }
         ]
@@ -166,10 +166,15 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "WIP/Psionics.md",
+    "WIP/Preset Stat-Blocks.md",
+    "WIP/Secret Lore.md",
+    "WIP/Ship Modules.md",
+    "WIP/Spacecraft Combat.md",
+    "Readme.md",
     "Rules/Downtime.md",
     "Rules/Mechanics.md",
     "Rules/Combat.md",
-    "Readme.md",
     "Rules/Spacecrafts.md",
     "Rules/Checks.md",
     "Players/Character Creation.md",
@@ -180,18 +185,13 @@
     "GMs/Time Scales.md",
     "Setting/Currencies.md",
     "WIP/Plot Hook Compendium.md",
-    "WIP/Preset Stat-Blocks.md",
-    "WIP/Spacecraft Combat.md",
     "The System/Human Commonwealth/The Human Commonwealth.md",
     "Setting/Introductions.md",
     "Players/Backgrounds.md",
     "The System/Mars.md",
     "The System/Jupiter.md",
-    "WIP/Ship Modules.md",
     "Setting/Technology.md",
     "The System/Human Commonwealth/Human Spacecraft.md",
-    "The System/Human Commonwealth/Paragon City.md",
-    "The System/Mercury & Solar Space.md",
     "License.txt",
     "Local, gitignore",
     "BodyTemplate.png",

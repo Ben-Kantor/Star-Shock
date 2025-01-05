@@ -48,6 +48,6 @@ Ben Kantor - _Main Writer_
     - [Galaxy Magazine](https://archive.org/details/galaxymagazine-1951-02/)
     - [Science Fiction Quarterly](https://archive.org/details/sciencefictionquarterly)
     - [Amazing Stories](https://archive.org/details/amazingstoriesmagazine)
-    - 1984
+    - 1984 Magazine
 ##### Resources
 - [Game-Icons.net](https://game-icons.net/)
