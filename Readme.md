@@ -5,7 +5,8 @@ Exo-2040 is designed to include the minimal number of rules to cover all essenti
 ### To-Do List
 ##### Meta
 - Consider changing the game's name.
-- Get links working on the github view
+- Fix all the links again.
+- Reposition "Long-Term Downtime"
 ##### System Features
 - Psionics
 - Expert Items

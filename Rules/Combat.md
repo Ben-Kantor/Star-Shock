@@ -34,7 +34,7 @@ Each attribute also serves as a damage reduction for a given type of damage, equ
 | Dexterity | Heavy, slow attacks; falling objects. |
 | Intellect | Energy weapons, fire, lightning.      |
 | Presence  | Psychic, mental damage                |
-Resistances can also be increased by wearing [Armor](/Rules/Core%20Rules.md#Armor), or by some enhancements.
+Resistances can also be increased by wearing [Armor](Checks.md#Armor), or by some enhancements.
 ### Taking Damage
 When damage is dealt to a character, it is added to their previous total damage, which starts at 0. This number can be tracked in the big Damage Taken box on the character sheet. Then if they have seven or more total damage they must make a **consciousness check**. To do so, they roll a Strength check, against half the total number of damage they have taken (round up). 
 - If they succeed, nothing happens.

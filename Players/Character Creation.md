@@ -64,13 +64,13 @@ Add your bank account under accounts (p1, ↘).
 - Unit: ₮ [(*TSI*)](/Setting/Currencies.md#TSI)
 - Value: Roll 3d6 x 10 (don't cheat)
 
-You may then buy up to two different Items from [Basic Items](/Items/Basic%20Items.md) page (and multiples if you like), and up to one weapon from the [Weapons](/Items/Weapons.md) page. Add these to the inventory section (p1, ↓), and also add the weapon to the items section (p2, |). For help with filling in the item boxes see the [Core Rules](/Rules/Core%20Rules.md#Weapons) section on weapons.
+You may then buy up to two different Items from [Basic Items](/Items/Basic%20Items.md) page (and multiples if you like), and up to one weapon from the [Weapons](/Items/Weapons.md) page. Add these to the inventory section (p1, ↓), and also add the weapon to the items section (p2, |). For help with filling in the item boxes see the [Checks](Checks.md#Weapons) section on weapons.
 
 Once you are done buying starting items, add an additional ₮25 to your account, as starting money that cannot be spent before the game.
 #### Step 6. Miscellaneous Tasks
 Just a few more things to fill out:
 - Put 0 in both spent and total [XP](XP.md) (p1, →).
-- For each [Resistance]() (p2, →), put 5 plus your value in the associated attribute, plus any [Armor](/Rules/Core%20Rules.md#Armor) bonuses.
-- Put a 0 in [Damage Taken](/Rules/Combat.md#Damage%20Taken) and [Luck Points](/Rules/Core%20Rules#Luck%20Points) (p2, ↘).
+- For each [Resistance]() (p2, →), put 5 plus your value in the associated attribute, plus any [Armor](Checks.md#Armor) bonuses.
+- Put a 0 in [Damage Taken](/Rules/Combat.md#Damage%20Taken) and [Luck Points](Checks.md#Luck%20Points) (p2, ↘).
 #### Step 7. Talk to Your GM
 Give your GM a chance to look over your sheet to make sure everything is filled out correctly. They might ask you questions about your character to help understand them, or suggest changes to make sure they fit the setting and are fun to play. Between sessions you should leave your sheet with your GM so they can use it to plan the story, but they won't change anything.

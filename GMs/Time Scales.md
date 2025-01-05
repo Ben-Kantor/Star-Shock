@@ -8,9 +8,9 @@ The game will switch between different time scales, depending on the current pos
 	- This is the time scale used during exploration and social encounters, it is approximately real-time but will include frequent small time-skips and slowdowns.
 - **Shifts**
 	- This is used for time skips longer than a few hours, including during rests.
-	- See [Shifts](/Rules/Additional%20Rules.md#Shifts)
+	- See [Shifts](Downtime.md#Shifts)
 - **Days**
 	- When players will be taking many shifts in a row.
-	- See [Spending Days](/Rules/Additional%20Rules.md#Spending%20Days)
+	- See [Spending Days](Downtime.md#Spending%20Days)
 - **Downtime**
 	- When players are spending weeks or months outside of an adventure, allow them to describe what their characters are working on, and allowing them to complete very large projects. XP isn't earned during this time, but money can be and large projects such as building a ship, making contacts, and building businesses can be done. Model this as you see fit.
