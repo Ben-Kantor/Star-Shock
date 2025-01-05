@@ -28,12 +28,12 @@ Alternatively, two players may switch seats to change the initiative position of
 ### Resistances
 Each attribute also serves as a damage reduction for a given type of damage, equal to the attribute plus 5. All damage of that type is reduced by that much, negative abilities count as 0, and damage can be reduced to nothing.
 
-| Ability      | Damage                                |
-| ------------ | ------------------------------------- |
-| Strength     | Light, quick attacks; ranged attacks. |
-| Dexterity    | Heavy, slow attacks; falling objects. |
+| Ability   | Damage                                |
+| --------- | ------------------------------------- |
+| Strength  | Light, quick attacks; ranged attacks. |
+| Dexterity | Heavy, slow attacks; falling objects. |
 | Intellect | Energy weapons, fire, lightning.      |
-| Presence     | Psychic, mental damage                |
+| Presence  | Psychic, mental damage                |
 ### Armor
 Armor has three values: Impact, Pierce, and Energy. Armor you wear will increase these values, and thus reduce damage of the associated type by that much.
 ### Taking Damage

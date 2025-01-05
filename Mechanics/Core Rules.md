@@ -66,7 +66,7 @@ There are two ways to spend Luck Points:
 - After a player makes a roll, they can spend a number of luck points to re-roll a d6 with that number showing. For instance they could spend one point to re-roll a d6 that rolled a 1.
 - Before making an action, a player may spend a luck point to ignore one point of action penalty, this is most useful when a character needs to take more actions then planned.
 
-If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations.
+If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent advantage for being the protagonists of the story, no NPCs have luck points.
 ### Items
 Each character can hold up to 10 items, with multiples of small items counting as one. Some items can be used an unlimited number of times, but others are consumables. All consumables are single-use, characters can only intake at most one consumable per day, resetting every 24 hours or on a rest. Some items such as armor, weapons, or advances items will need to be added to the Items boxes on the character sheet, to indicate they are currently equipped. This includes items which don't use have a range, modifier, resistance, or rate.
 ##### Advanced Items

@@ -23,3 +23,5 @@ Each ship will have a damage table that describes what happens as it suffers dam
 | 14   | Movement completely disabled                                                  |
 | 15   | All weapons completely disabled                                               |
 For this ship, fixing any of these issues will require a multi-turn check with a total DC equal to twenty plus twice the total roll.
+### Other Rules
+If a spacecraft doesn't have artificial gravity, physical checks including ship repair will be at disadvantage, but not pilot checks, for everyone who isn't void-born.
