@@ -11,7 +11,7 @@ Actions that do not require a roll can ignore this, however.
 - **Interact with Object** - You can usually only interact with the same object once per turn, and if the interaction requires a check it will be effected by the Action Penalty
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 10m of ground, though in more difficult terrain it might be 5m or less. If the movement requires difficult climbing or other skills, a check may be required.
 - **Assist** - Offer help to a check someone else is about to make, if you succeed on a difficulty 10 check of that type they gain an advantage.
-- **Multi-Turn Checks** - Working on a [Multi-Turn Check](/Mechanics/"Core Rules"#Multi-Turn%20Checks.md), can only be done once per turn.
+- **Multi-Turn Checks** - Working on a [Multi-Turn Check](/Rules/"Core Rules"#Multi-Turn%20Checks.md), can only be done once per turn.
 - **Block, Dodge, Concentrate, Meditate** - Increase one of your resistances by one until next turn.
 - **Stand up from Prone**
 - **Use a Consumable**
@@ -34,11 +34,9 @@ Each attribute also serves as a damage reduction for a given type of damage, equ
 | Dexterity | Heavy, slow attacks; falling objects. |
 | Intellect | Energy weapons, fire, lightning.      |
 | Presence  | Psychic, mental damage                |
-### Armor
-Armor has three values: Impact, Pierce, and Energy. Armor you wear will increase these values, and thus reduce damage of the associated type by that much.
+Resistances can also be increased by wearing [Armor](/Rules/Core%20Rules.md#Armor), or by some enhancements.
 ### Taking Damage
-When damage is dealt to a character, it is added to their previous total damage, which starts at 0. Then if they have seven or more total damage they must make a **consciousness check**.
-To do so, they roll a Strength check, against half the total number of damage they have taken (round up). 
+When damage is dealt to a character, it is added to their previous total damage, which starts at 0. This number can be tracked in the big Damage Taken box on the character sheet. Then if they have seven or more total damage they must make a **consciousness check**. To do so, they roll a Strength check, against half the total number of damage they have taken (round up). 
 - If they succeed, nothing happens.
 - If they fail, they fall unconscious.
 - If they fail by 7 or more, they fall into a coma.
