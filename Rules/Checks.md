@@ -17,7 +17,7 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 | Comms          | History     | Insight     | Stealth    | Firearms       | Survival |
 | Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate |
 | Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track    |
-| Spacecrafts    | Xenology    |             | Barter     | Recon          | Nature   |
+| Spacecrafts    | Xenology    | Negotiate   | Recon      | Heavy Weapons  | Nature   |
 ### Checks
 To make a check, follow these steps:
 1. Roll 2d6.

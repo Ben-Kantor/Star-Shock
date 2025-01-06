@@ -7,15 +7,18 @@ Rather than being formatted into a book-like series of pages, EXO is written in 
 ### To-Do List
 ##### Meta
 - Consider changing the game's name.
+- Solution to prevent creative solutions from becoming a permanent buff
 - "Long-Term Downtime"
-- Creativity → Repetition Problem
-- Rename "Multi-Turn Check", standardize DC?
+- Rename "Multi-Turn Check", standardize difficulty?
 - Increase Header Sizes
+- Strengthen Absurdist Theme
+- Standardize Bolding of Skills
+- Improve Readme
 ##### System Features
 - Attribute Descriptions
 - Psionics
 - Expert Items
-- Rules for Illicit Items
+- Rules for Buying Illicit Items
 - More Consumable Items
 - Improve GM Tips
 ##### Game Resources

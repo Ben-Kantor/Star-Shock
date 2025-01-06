@@ -20,7 +20,7 @@ Each weapon will have several different values that determine its unique propert
 ##### Armor
 Some items, called armor, increase some of these resistances. One character cannot wear more than one piece of armor at a time.
 ### Luck Points
-At the start of each session, each player rolls 1d6. They get that many luck points this session, unless they had more points left over from the previous session in which case they keep that number. Then players can donate luck points to other who have fewer than them if they want, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
+At the start of each session, each player rolls 1d6, and gains that many luck points up to a maximum of seven. Then players can donate luck points to other who have fewer than them if they want, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
 
 There are two ways to spend Luck Points:
 - After a player makes a roll, they can spend a number of luck points to re-roll a d6 with that number showing. For instance they could spend one point to re-roll a d6 that rolled a 1.
