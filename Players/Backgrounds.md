@@ -23,11 +23,11 @@ _You have a cybernetic enhancement or replacement body part._
 #### Void-Born
 _You are unusually tall and have no eyebrows._
 - (◆◇◇) Launch Operator Contact - OR - Ship Captain Contact.
-- **{{Engineering}}** or **{{Pilot}}** Category Skill.
+- **{Spacecrafts}** Skill.
 - "Advantage on **Move** and **Navigate** checks within spacecraft, and some low-gravity environments."
 - Starting Item: [Magnetic Boots](<Basic Items.md#Magnetic Boots (₮25)>).
 #### Pilot
-- **{{Pilot}}** Category Skill.
+- **{Spacecrafts}** Skill.
 - "You can identify spacecrafts from the exterior and can always locate the command and engine rooms."
 - **Bonus Starting Item:** A shuttlecraft, racing pod, or pressurized rover.
 #### Hacker
@@ -67,11 +67,11 @@ _You are unusually tall and have no eyebrows._
 #### Enforcer
 - (◆◇◇) High Enforcer Contact.
 - One **{{Soldier}}** Skill and one Skill from **Any Category.**
-- "You always know when someone is hiding something illicit from you unless they succeed a DC 10 Prs + Deceive check."
+- "You always know when someone is hiding something illicit from you unless they succeed a difficulty 10 Prs + Deceive check."
 - Starting Item: Any [Armor](/Items/Armors.md).
 #### Counselor
 - **{{Academic}}** Category Skill.
-- "You can sense any character's emotion unless they succeed a DC 10 Prs + Deceive check."
+- "You can sense any character's emotion unless they succeed a difficulty 10 Prs + Deceive check."
 - "Once per session, add your Prs attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."
 #### Criminal
 - (◆◇◇) Criminal Leader Contact - OR - Smuggler Contact.
@@ -88,7 +88,8 @@ _You are unusually tall and have no eyebrows._
 #### Acrobat
 - **{{Pilot}}** or **{{Soldier}}** Category Skill.
 - "You can jump twice as far as the average person."
-- "Once per session, re-roll one or both dice on a Dex# Entertainer
+- "Once per session, re-roll one or both dice on a Dex
+#### Entertainer
 - **{{High-Life}}** or **{{Low-Life}}** Category Skill.
 - "Advantage on all Charm checks."
 - "Once per session, re-roll one or both dice on a Prs check."

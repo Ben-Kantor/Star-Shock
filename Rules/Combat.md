@@ -10,7 +10,7 @@ Actions that do not require a roll can ignore this, however.
 - **Other Weapon Attack** - Other [Weapons](/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
 - **Interact with Object** - You can usually only interact with the same object once per turn, and if the interaction requires a check it will be effected by the Action Penalty
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 10m of ground, though in more difficult terrain it might be 5m or less. If the movement requires difficult climbing or other skills, a check may be required.
-- **Assist** - Offer help to a check someone else is about to make, if you succeed on a difficulty 10 check of that type they gain an advantage.
+- **Assist** - Offer help to a check someone else is about to make, granting them advantage if you have an attribute of three or higher or a skill relevant to the check.
 - **Multi-Turn Checks** - Working on a [Multi-Turn Check](/Rules/Checks.md#Multi-Turn%20Checks.md), can only be done once per turn.
 - **Block, Dodge, Concentrate, Meditate** - Increase one of your resistances by one until next turn.
 - **Stand up from Prone**
@@ -26,7 +26,7 @@ If a character wants to take an action outside of their turn, they can choose to
 
 Alternatively, two players may switch seats to change the initiative position of their characters.
 ### Resistances
-Each attribute also serves as a damage reduction for a given type of damage, equal to the attribute plus 5. All damage of that type is reduced by that much, negative abilities count as 0, and damage can be reduced to nothing.
+Each attribute also serves as a damage reduction for a given type of damage, in the range of 5-10. This is usually equal to the attribute plus 5. All damage of that type is reduced by that much, negative abilities count as 0, and damage can be reduced to nothing.
 
 | Ability   | Damage                                |
 | --------- | ------------------------------------- |

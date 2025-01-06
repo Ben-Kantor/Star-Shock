@@ -10,14 +10,14 @@ Characters have a number of skills from the list below, as determined by their B
 These are listed on their sheet under their abilities. 
 Whenever they make a check that relates to one of their skills, they can add +1 to their roll.
 
-| Pilot       | Engineering    | Academic    | High-Life   | Low-Life   | Soldier        | Explorer   |
-| ----------- | -------------- | ----------- | ----------- | ---------- | -------------- | ---------- |
-| Landcrafts  | Computators    | Physics     | Investigate | Subtlety   | Archery        | Medicate   |
-| Aircrafts   | Robotics       | Chemistry   | Persuade    | Deceive    | Blades         | Move       |
-| Spacecrafts | Comms          | History     | Insight     | Stealth    | Firearms       | *Survival* |
-| Shipcraft   | Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate   |
-|             | Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track      |
-|             |                | Xenology    |             | Barter     | Recon          | Nature     |
+| Engineering    | Academic    | High-Life   | Low-Life   | Soldier        | Explorer |
+| -------------- | ----------- | ----------- | ---------- | -------------- | -------- |
+| Computators    | Physics     | Investigate | Subtlety   | Archery        | Medicate |
+| Robotics       | Chemistry   | Persuade    | Deceive    | Blades         | Move     |
+| Comms          | History     | Insight     | Stealth    | Firearms       | Survival |
+| Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate |
+| Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track    |
+| Spacecrafts    | Xenology    |             | Barter     | Recon          | Nature   |
 ### Checks
 To make a check, follow these steps:
 1. Roll 2d6.
@@ -25,11 +25,8 @@ To make a check, follow these steps:
 3. Add +1 if you have a relevant skill that applies to the task, check with your GM.
 4. Include any advantages or disadvantages applied to the situation (see below).
 
-Each chech will have a 
-Then give this result to the GM, and they will compare it to the difficulty they set for the check.
-If you rolled at least the difficulty of the check, you succeed.
-Failing by just one, or rolling the difficulty exactly could cause a partial success, and rolling way above the difficulty or way below will indicate an easier success or more spectacular failure.
-See [Check Difficulties](Check%20Difficulties.md) for more information.##### Contested Checks
+Then give this result to the GM, and they will compare it to the difficulty they set for the check. If you rolled at least the difficulty of the check, you succeed. Failing by just one, or rolling the difficulty exactly could cause a partial success, and rolling way above the difficulty or way below will indicate an easier success or more spectacular failure. See [Check Difficulties](/GMs/Check%20Difficulties.md) for more information.
+##### Contested Checks
 Sometimes two characters will roll against each other, if they get the same result they both must re-roll.
 ##### Setbacks
 When a check is made in a situation where success is eventually possible, a failure might indicate some other setback rather than failure in the direct task itself.
@@ -40,7 +37,7 @@ If a character re-rolls one or both dice using an ability, they must take the ne
 ##### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score.
 ##### Multi-Turn Checks
-Sometimes when things are happening simultaneously a check will be split up into multiple parts. The check will have a total difficulty that needs to be reached, and each check you make adds up towards reaching the ultimate goal. However if a roll fails to meet a difficulty of 10, it is considered a failure, and does not contribute at all. After some number of failures, usually three, the Multi-Turn check may be completely failed. Multiple characters can work together on these checks.
+Sometimes when things are happening simultaneously a check will be split up into multiple parts. The check will have a total difficulty that needs to be reached, and each check you make adds up towards reaching the ultimate goal. However if a roll fails to meet a difficulty of 10, it is considered a failure, and does not contribute at all. A Multi-Turn check will become impossible after three failures, usually. Multiple characters can work together on these checks.
 ##### Secret Checks
 Sometimes a character might make a check in such a way that they won't know whether or not it succeeded. In this case the player must act as their character would, without considering the result of the dice. The GM may choose to make such checks secretly, but if so should ask the player before rolling whether they would be willing to spend a luck point to re-roll a 1 on the check, if it is spent, they immediately tell the player so they can mark it down. 
 ### Advantages/Disadvantages

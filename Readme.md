@@ -2,30 +2,36 @@
 Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, where human lives are radically transformed by advanced technology. Every planet in the solar system hosts alien species, and much of the galaxy remains unexplored or poorly documented. The game world is deliberately mysterious and wacky, designed to evoke a sense of discovery for players, and give GMs a chance to be creative.
 
 Exo-2040 is designed to include the minimal number of rules to cover all essential mechanics without burdening GMs with gaps to fill. The combat system is meant to be accessible while maintaining depth, but the game is not intended to contain frequent combat. Everything uses a 2d6 system for checks, offering a steeper difficulty curve, and skills are not tied to specific attributes.
+### Organization
+Rather than being formatted into a book-like series of pages, EXO is written in an intralinked markdown wiki. It is written and edited in Obsidian and published on Github. This means it is permanently free to access, all past versions are visible, and anyone can contribute. If you want to suggest changes, fork the repository, make your changes online or using Obsidian, then submit a pull request to have your changed merged into the game source.
 ### To-Do List
 ##### Meta
 - Consider changing the game's name.
-- Fix all the links again.
-- Reposition "Long-Term Downtime"
+- "Long-Term Downtime"
+- Creativity → Repetition Problem
+- Rename "Multi-Turn Check", standardize DC?
+- Increase Header Sizes
 ##### System Features
+- Attribute Descriptions
 - Psionics
 - Expert Items
 - Rules for Illicit Items
-- Ship Combat, Ability to Target Modules
 - More Consumable Items
+- Improve GM Tips
 ##### Game Resources
 - HTML Live Solar System Map
 - Spacecraft Sheets
 - Ship Module Compendium
 - Preset NPC Stat Blocks
-- Preset Rare Items
+- Preset Expert Items
 - Preset Ability Enhancements
 - List of Cybernetic Enhancements
 ##### Lore & World-Building
 - Locations in Paragon City
-- Large Meteor Belt Settlements
+- Meteor Belt Settlements
 - Meteor Belt Houses
 - Illicit Substances
+- Void-Suits
 - Fashion
 - Foods
 - Languages

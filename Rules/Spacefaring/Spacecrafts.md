@@ -1,3 +1,9 @@
+### Understanding Spacecraft
+- For spacecraft, the longest axis is usually top / bottom, with the helm at the top an the engine at the bottom.
+- If a spacecraft doesn't have artificial gravity, most physical checks will be at disadvantage for everyone who isn't void-born.
+- All modern spacecrafts have a core computator terminal, used to plot routes. 
+	- Can solve basic math / physics problems at a cost of 🜁 each.
+	- Also used to send communications, setup beacons, control life support, etc...
 ### Transit
 When moving around in the solar system consult this table, for "bands" of the solar system.
 
@@ -15,6 +21,8 @@ Each ship has a ship stat block, which includes:
 - Number of module bays
 - A speed boost value of 0-4, used in chases
 
-Small ships will have 1-2 upgrade bays, large ones can have 30-40, each bay can include weapons, trubo engines, upgraded communication and sensors, or many other things, but usually are just storage space. Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮10-40, storage modules just use ₮5 of materials. Cargo bays lose pressurization when disabled.
+Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.
+
+If a slot is not used for a module, it is storage space, and can hold the same amount as a player's inventory (10 normal items or multiples of small items).
 ### Takeoff and Landing
 Taking off and landing from a small body like The Moon takes 2 units, a larger body like Mars takes 3, and a body like Earth or Venus takes 4. Landing on a body with an atmosphere always takes 1, but bodies without atmosphere have the same landing cost as takeoff. Not all ships are capable of atmospheric takeoff and landing, or even non-atmospheric. 
