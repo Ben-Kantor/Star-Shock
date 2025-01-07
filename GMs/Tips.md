@@ -1,11 +1,11 @@
 Don't hide stuff from your players, avoid slow-burns and foreshadowing more than a few sessions ahead. Stuff goes fast in this setting, and if players dedicate themselves they should be able to quickly become renowned and make progress in the world. Even after one adventure, NPCs should mention that they have heard of the players. Encourage the players to come up with a group name for themselves. NPCs should tend to be nice and speak their mind rather than keep their secrets, or at least to talk a lot about something.  
 
 The game is preferably played without computers, using paper sheets and notes where possible. This is not a strict rule, and the GM may use a computer for notes or to consult the rules.
-### Rule of Cool
+## Rule of Cool
 Like some other systems, EXO-2040 is designed to encourage players to be creative, give cool descriptions of their characters actions, and come up with creative solutions to problems rather than following a strictly planned path. Unlike some other games, though, there is no explicit system for this, as such a system can let less creative players and those without a good understanding of the fantasy of the world feel left out. Instead the responsibility falls on the GM to make the game feel fun to play and to reward players for good ideas. Rather than granting and advantage for describing and action, the GM can instead play along and describe the reaction in a similar fashion, as this form of role-playing is its own reward for some players. When players come up with a creative or unintended solution, you should allow it to work unless it is completely nonsensical, even changing stuff in the background in order to make it work if necessary, within reason.
 
-### Pushing the Rules
+## Pushing the Rules
 If a player wants to do something that pushes or breaks the games rules, allow the players to spend some luck points to accomplish it, setting a cost based on how much of an advantage can be gained from it. This should not allow players to exploit the rules for serious advantage, and shoudn't be used regularly, so consider increasing the luck point cost by one each time they try to do the same thing.
-### Breaking the Rules
-### Missing Players
+## Breaking the Rules
+## Missing Players
 When a player is missing, their character remains in the story, but ceases to be a protagonist. They may accompany the other players if needed, or if they should be available in case the player returns, but will otherwise stay out of adventures or trouble. During a combat encounter, this player will be off in the background, fighting other combatants, not being modeled by the combat system, but may end up with a few d6s of damage. During ship combat, they can maintain basic ship functions, but leave important / risk tasks to the player characters. If the player characters enter into a conversation with them, the you can summarize their response, keeping in mind the personality of the character.

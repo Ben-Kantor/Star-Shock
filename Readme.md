@@ -2,10 +2,10 @@
 Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, where human lives are radically transformed by advanced technology. Every planet in the solar system hosts alien species, and much of the galaxy remains unexplored or poorly documented. The game world is deliberately mysterious and wacky, designed to evoke a sense of discovery for players, and give GMs a chance to be creative.
 
 Exo-2040 is designed to include the minimal number of rules to cover all essential mechanics without burdening GMs with gaps to fill. The combat system is meant to be accessible while maintaining depth, but the game is not intended to contain frequent combat. Everything uses a 2d6 system for checks, offering a steeper difficulty curve, and skills are not tied to specific attributes.
-### Organization
+## Organization
 Rather than being formatted into a book-like series of pages, EXO is written in an intralinked markdown wiki. It is written and edited in Obsidian and published on Github. This means it is permanently free to access, all past versions are visible, and anyone can contribute. If you want to suggest changes, fork the repository, make your changes online or using Obsidian, then submit a pull request to have your changed merged into the game source.
-### To-Do List
-##### Meta
+## To-Do List
+#### Meta
 - Consider changing the game's name.
 - Solution to prevent creative solutions from becoming a permanent buff
 - "Long-Term Downtime"
@@ -14,13 +14,13 @@ Rather than being formatted into a book-like series of pages, EXO is written in 
 - Strengthen Absurdist Theme
 - Standardize Bolding of Skills
 - Improve Readme
-##### System Features
+#### System Features
 - Attribute Descriptions
 - Psionics
 - Expert Items
 - Rules for Buying Illicit Items
 - Improve GM Tips
-##### Game Resources
+#### Game Resources
 - HTML Live Solar System Map
 - Spacecraft Sheets
 - Ship Module Compendium
@@ -28,7 +28,7 @@ Rather than being formatted into a book-like series of pages, EXO is written in 
 - Preset Expert Items
 - Preset Ability Enhancements
 - List of Cybernetic Enhancements
-##### Lore & World-Building
+#### Lore & World-Building
 - Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
@@ -41,10 +41,10 @@ Rather than being formatted into a book-like series of pages, EXO is written in 
 - Types of Spacecrafts
 - List of In-Game Building Materials
 - Expand the explanation of technology
-### Credits
-##### Writers & Editors
+## Credits
+#### Writers & Editors
 Ben Kantor - _Main Writer_
-##### Inspirations
+#### Inspirations
 - Traveller TTRPG
 - Have Space Suit—Will Travel
 - The Storyteller System
@@ -57,7 +57,7 @@ Ben Kantor - _Main Writer_
     - [Science Fiction Quarterly](https://archive.org/details/sciencefictionquarterly)
     - [Amazing Stories](https://archive.org/details/amazingstoriesmagazine)
     - 1984 Magazine
-##### Resources & Tools
+#### Resources & Tools
 - [Obsidian](https://obsidian.md/)
 - [LibreOffice](https://www.libreoffice.org/)
 - [Game-Icons.net](https://game-icons.net/)
