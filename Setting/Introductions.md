@@ -1,2 +1,0 @@
-## Measurements
-All units should be in metric/SI, except force which is measured in gravity on earth. Time and date are the same, except instead of calendar months lunar months, 30 days long, are used.

@@ -13,6 +13,6 @@ A small vial of highly corrosive acid that can melt through most locks or thin m
 ### Flashpowder Packet (₮15)
 A small, throwable packet that explodes in a burst of light and smoke, temporarily blinding anyone within 3m unless they succeed a difficulty 10 Prs check.
 ### Cable Splicer (₮25)
-A handheld device designed to safely tap into photonic cables without disrupting the data flow. Allows access to transmitted information with an In + {Computators} check.
+A handheld device designed to safely tap into photonic cables without disrupting the data flow. Allows access to transmitted information with anInt+ **{Computators}** check.
 ### Plasma Torch (₮30)
 A handheld tool that produces a focused plasma jet capable of cutting through metal or welding objects. Requires a Universal Toolkit for optimal use.

@@ -14,7 +14,7 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 | -------------- | ----------- | ----------- | ---------- | -------------- | -------- |
 | Computators    | Physics     | Investigate | Subtlety   | Archery        | Medicate |
 | Robotics       | Chemistry   | Persuade    | Deceive    | Blades         | Move     |
-| Comms          | History     | Insight     | Stealth    | Firearms       | Survival |
+| Mechanics      | History     | Insight     | Stealth    | Firearms       | Survival |
 | Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate |
 | Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track    |
 | Spacecrafts    | Xenology    | Negotiate   | Recon      | Heavy Weapons  | Nature   |
@@ -35,9 +35,11 @@ If the dice show a total of 2 "snake-eyes" or 12 "boxcars" the result is a criti
 #### Re-Rolling
 If a character re-rolls one or both dice using an ability, they must take the new result unless they have another ability that lets them re-roll again.
 #### Group Checks
-If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score.
-#### Multi-Turn Checks
-Sometimes when things are happening simultaneously a check will be split up into multiple parts. The check will have a total difficulty that needs to be reached, and each check you make adds up towards reaching the ultimate goal. However if a roll fails to meet a difficulty of 10, it is considered a failure, and does not contribute at all. A Multi-Turn check will become impossible after three failures, usually. Multiple characters can work together on these checks.
+If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score. The GM can narrate how the character who rolled the best helped out the others, or how the character who rolled the worst failed.
+#### Skill Challenges
+Sometimes check will be split up into a Skill Challenge, usually when the check is either very important, or taking place during combat and will take more than one turn. To start, an attribute, skill, and difficulty are chosen as normal, with the difficulty usually being 10-12. Then rather then making one check, the character must repeat the check until they have three successes or failures. With three successes the skill challenge is successful, with three failures, the check is entirely failed and impossible to retry.
+
+GMs should narrate the checks to explain each step that is needed. During combat only one attempt at any skill challenge can be made per turn. Some skill challenges may require more or less than three successes.
 #### Secret Checks
 Sometimes a character might make a check in such a way that they won't know whether or not it succeeded. In this case the player must act as their character would, without considering the result of the dice. The GM may choose to make such checks secretly, but if so should ask the player before rolling whether they would be willing to spend a luck point to re-roll a 1 on the check, if it is spent, they immediately tell the player so they can mark it down. 
 ## Advantages/Disadvantages

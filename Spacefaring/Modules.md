@@ -9,5 +9,6 @@ Shuttle Bay
 Auto-Pilot
 Anti-Matter Artillery
 Combat Computer
+Backup Gravity Generator
 ### Escape Pod
 A small pod that can hold up to 4 characters, travel up to two distance units take two days each, and contains 20 units of rations.

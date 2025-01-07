@@ -33,11 +33,11 @@ _You are unusually tall and have no eyebrows._
 ### Hacker
 - **{Computator}** Skill.
 - (◆◇◇) Expert Hacker Contact - OR - (◆◇◇) Intelligence Service Contact.
-- "You can gain access to computator systems with an In + {Computators} check, provided you have access to a connected terminal."
+- "You can gain access to computator systems with an In + **{{Computators}** check, provided you have access to a connected terminal."
 ### Engineer
 - **{{Engineering}}** Category Skill.
 - "You can make two cycles of ship repairs and upgrades in one shift."
-- "You can rig most devices to explode with an Int + {Explosives} check."
+- "You can rig most devices to explode with an Int + **{Explosives}** check."
 - Starting Item: [Universal Toolkit](<Basic Items.md#Universal Toolkit (₮25)>).
 ### Doctor
 - **{Chemistry}** and **{Medicate}** Skills.

@@ -6,5 +6,5 @@ A fabric woven with threads of titanium, prevents piercing.
 - "+1 Str Resistance"
 ### Grounding Harness (₮90)
 A network of thin wires that diffuse electrical and energetic shocks.
-- "+1 In Resistance"
+- "+1IntResistance"
 ### Personal Shield Generator (Illicit)
