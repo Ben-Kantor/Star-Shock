@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Mechanics.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "Readme"
             }
           }
         ]
@@ -166,33 +166,34 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
-    "lu2392326uca.tmp",
+    "WIP/Secret Lore.md",
+    "Readme.md",
+    "Rules/Spacefaring/Logistics.md",
+    "Rules/Spacefaring/Spaceflight.md",
+    "Rules/Spacefaring/Modules.md",
+    "Rules/Spacefaring/Ship Combat.md",
+    "The System/Jupiter.md",
+    "GMs/Ideas.md",
     "GMs/Tips.md",
+    "GMs/Campaign Ideas.md",
+    "Rules/Checks.md",
+    "Rules/Combat.md",
+    "Rules/Downtime.md",
+    "Rules/Mechanics.md",
+    "Setting/Currencies.md",
+    "Setting/Introductions.md",
+    "Setting/Technology.md",
+    "The System/Human Commonwealth/Human Spacecraft.md",
+    "The System/Human Commonwealth/Paragon City.md",
+    "The System/Human Commonwealth/The Human Commonwealth.md",
+    "lu2392326uca.tmp",
     "GMs/GMs Eyes Only.md",
     "GMs/Check Difficulties.md",
     "GMs/Time Scales.md",
     "GMs/Non-Player Characters.md",
-    "Readme.md",
-    "WIP/Secret Lore.md",
-    "Rules/Spacefaring/Ship Combat.md",
     "WIP/Abilities.md",
     "WIP/Expert Items.md",
-    "WIP/Languages.md",
-    "WIP/Plot Hook Compendium.md",
-    "WIP/Preset Stat-Blocks.md",
-    "WIP/Psionics.md",
-    "Rules/Downtime.md",
-    "Rules/Checks.md",
     "Rules/Spacefaring",
-    "Setting/Technology.md",
-    "Items/Weapons.md",
-    "Items/Illicit Items.md",
-    "Items/Consumables.md",
-    "Items/Armors.md",
-    "Items/Basic Items.md",
-    "Rules/Combat.md",
-    "Setting/Currencies.md",
-    "Rules/Spacefaring/Modules.md",
     "License.txt",
     "Local, gitignore",
     "BodyTemplate.png",
@@ -201,7 +202,6 @@
     "lu6878e6v0.tmp",
     "lu119803e2tbh.tmp",
     "Exo-Base",
-    "lu4376681jptf1.tmp",
-    "GMs"
+    "lu4376681jptf1.tmp"
   ]
 }

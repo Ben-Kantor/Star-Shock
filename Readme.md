@@ -19,7 +19,6 @@ Rather than being formatted into a book-like series of pages, EXO is written in 
 - Psionics
 - Expert Items
 - Rules for Buying Illicit Items
-- More Consumable Items
 - Improve GM Tips
 ##### Game Resources
 - HTML Live Solar System Map

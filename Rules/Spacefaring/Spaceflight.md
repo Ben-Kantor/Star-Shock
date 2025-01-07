@@ -1,9 +1,11 @@
 ### Understanding Spacecraft
 - For spacecraft, the longest axis is usually top / bottom, with the helm at the top an the engine at the bottom.
 - If a spacecraft doesn't have artificial gravity, most physical checks will be at disadvantage for everyone who isn't void-born.
-- All modern spacecrafts have a core computator terminal, used to plot routes. 
-	- Can solve basic math / physics problems at a cost of 🜁 each.
-	- Also used to send communications, setup beacons, control life support, etc...
+##### Computators
+All modern spacecrafts have a core computator terminal, used to plot routes. 
+- Can solve basic math / physics problems at a cost of 🜁 each.
+- Can send communications, setup beacons, control life support, etc...
+- Can eject any module.
 ### Transit
 When moving around in the solar system consult this table, for "bands" of the solar system.
 
@@ -18,7 +20,7 @@ Slowing to rendezvous or dock with another ship that is not travelling in the sa
 Each ship has a ship stat block, which includes:
 - Max Damage - amount of damage before disabled
 - Fuel usage (how many units of )
-- Number of module bays
+- Ship Size (number of module slots)
 - A speed boost value of 0-4, used in chases
 
 Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.

@@ -6,3 +6,6 @@ Like some other systems, EXO-2040 is designed to encourage players to be creativ
 
 ### Pushing the Rules
 If a player wants to do something that pushes or breaks the games rules, allow the players to spend some luck points to accomplish it, setting a cost based on how much of an advantage can be gained from it. This should not allow players to exploit the rules for serious advantage, and shoudn't be used regularly, so consider increasing the luck point cost by one each time they try to do the same thing.
+### Breaking the Rules
+### Missing Players
+When a player is missing, their character remains in the story, but ceases to be a protagonist. They may accompany the other players if needed, or if they should be available in case the player returns, but will otherwise stay out of adventures or trouble. During a combat encounter, this player will be off in the background, fighting other combatants, not being modeled by the combat system, but may end up with a few d6s of damage. During ship combat, they can maintain basic ship functions, but leave important / risk tasks to the player characters. If the player characters enter into a conversation with them, the you can summarize their response, keeping in mind the personality of the character.
