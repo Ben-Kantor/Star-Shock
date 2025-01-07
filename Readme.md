@@ -30,19 +30,20 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 - Preset NPC Stat Blocks
 - Preset Expert Items
 - Preset Ability Enhancements
-- List of Cybernetic Enhancements
+- Preset Cybernetic Enhancements
+- Drop-In NPCs
 #### Lore & World-Building
 - Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
-- Illicit Substances
+- Criminal Activities
 - Fashion
 - Foods
 - Languages
 - In-Game Holidays
 - Types of Spacecrafts
 - List of In-Game Building Materials
-- Expand the explanation of technology
+- Corporations
 ## Contributing
 EXO-2040 is an intralinked markdown wiki, written and edited using Obsidian and published on Github. If you want to suggest changes, fork the repository, make your changes using the online or a local editor, then submit a pull request to have your changed merged into the game.
 ## Credits

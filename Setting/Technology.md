@@ -12,3 +12,5 @@ Large bundled cables that transfer date, data moves at about 10m/s so large comp
 Artificial gravity is created by electrifying a layered material containing tungsten, to generate an attraction force like gravity only in one direction. This is the main reason for the high price of Tungsten. On some larger ships the gravity generator may be targeted by attacks.
 ## Void-Suits
 Metallic suits worn to protect from the radiation and vaccum of space. Some are closer to skin-tight while others are more bulk. Some are painted and have logos or insignia, and some have built-in armor. They have a convenient toggle control that slides up or retracts a bubble over the wearer's head, attachable to an oxygen tank at the hip or on the back.  Many have magnetic mounts on the sides for tools or weapons.
+## Universal Implant
+Given to all citizens by the Human Federation, willingly taken by most spacefaring Martians and Venusians. Implanted into the wrist, sometimes removed by outlaws. Allows the user to prove their identity, and can translate all incoming speech from standard languages.

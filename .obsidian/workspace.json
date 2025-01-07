@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Setting/Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Technology"
             }
           }
         ]
@@ -166,6 +166,12 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "Readme.md",
+    "The System/Human Commonwealth/The Human Commonwealth.md",
+    "The System/Human Commonwealth/Human Spacecraft.md",
+    "The System/Human Commonwealth/Paragon City.md",
+    "The System/The Meteor Belt.md",
+    "The System/Venus.md",
     "Setting/Technology.md",
     "Spacefaring/Spaceflight.md",
     "Spacefaring/Ship Combat.md",
@@ -173,7 +179,6 @@
     "Spacefaring/Modules.md",
     "Rules/Combat.md",
     "Rules/Checks.md",
-    "Readme.md",
     "Players/Spending XP.md",
     "Players/Backgrounds.md",
     "Items/Armors.md",
@@ -185,13 +190,8 @@
     "Items/Basic Items.md",
     "Rules/Downtime.md",
     "Rules/Mechanics.md",
-    "The System/Venus.md",
     "Players/XP.md",
     "The System/Jupiter.md",
-    "WIP/Psionics.md",
-    "Players/Character Creation.md",
-    "GMs/GMs Eyes Only.md",
-    "GMs/Non-Player Characters.md",
     "lu2392326uca.tmp",
     "Spacefaring",
     "License.txt",
