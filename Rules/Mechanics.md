@@ -17,6 +17,7 @@ Each weapon will have several different values that determine its unique propert
 	- On your character sheet put this down as Strength, Dexterity, Intellect, or Presence
 - Special Ability
 	- Any special mechanics or abilities of the weapon, write this down in the big empty box in the item panel on your character sheet.
+	- If special abilities can be activated after an amount of damage, only one can be chosen at a time.
 #### Armor
 Some items, called armor, increase some of these resistances. One character cannot wear more than one piece of armor at a time.
 ## Luck Points

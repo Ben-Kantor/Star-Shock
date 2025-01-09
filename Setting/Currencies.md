@@ -1,6 +1,6 @@
 ## Currencies
 #### TSI
-The main human currency is TSI (_Terran Square-Index_), pronounced "Tsai." Each unit represents one square meter of territory on Earth and is valued at about $10 or £8. TSI are sometime traded in parts, usually decimal tenths. It is represented by ₮, for example, 3.2 TSI would be written as ₮3.2.
+The main human currency is TSI (_Terran Square Inch_), pronounced "Tsai." Each unit represents one square inch of territory on Earth and is valued at about $5 or £4. TSI are sometime traded in parts, usually decimal tenths. It is represented by ₮, for example, 3.2 TSI would be written as ₮3.2.
 
 TSI are tracked and stored by the Human Commonwealth's Planetary Reserve. Many humans carry a tsi-card, an aluminum card used to make payments by touching it to another card or station. Tsi-cards are permanently linked to a specific account and display the value of the account on a small analog screen. They cannot be used unless they are near the implanted wrist chip of their owner.
 #### Trilium

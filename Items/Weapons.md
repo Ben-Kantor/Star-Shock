@@ -18,6 +18,7 @@
 - Range: 5m, Attacks: 1, Value: ₮60
 - Roll: Dex + **{Energy Weapons}** - Int Resistance
 	- "3 ≥ dmg → disintegrate an item the target is holding/wearing."
+	- "6 ≥ dmg → disintegrate a limb of the target."
 ### Laser Rifle
 - Range: 10m, Attacks: 2, Value: ₮100
 - Roll: Dex + **{Energy Weapons}** - Int Resistance

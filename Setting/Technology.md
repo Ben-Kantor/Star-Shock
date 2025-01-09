@@ -5,11 +5,13 @@ Though uncommon due to their high price, robots are not uncommon. Most are built
 ## Computators
 Computators are devices used to control large ships, stations, or for other purposes. They are controlled through a typewriter terminal, typed out onto a paper roll, and then typewriter automatically prints the output. Without special skill, they are extremely difficult to use. Small computators are just the size of briefcase, larger ones are the size of rooms. They can be given a prompt in plain text and answer using strict logic, and only information available to them. More advanced questions may require an Int + **{Computators}** Check
 ## Communicator
-Small communicators are flip-phone like devices which communicate like walkie-talkies that have a maximum range of 1km, but can be configured to go through various relays to communicate over long distances with an Int + **{Comms}** check. Ships and stations often have larger antennas, the range of an antenna scales linearly with its volume and power consumption.
+Small communicators are flip-phone like devices which communicate like walkie-talkies that have a maximum range of 1km, but can be configured to go through various relays to communicate over long distances with an Int + **{Comms}** check. Ships and stations often have larger antennas, the range of an antenna scales linearly with its volume and power consumption. When a communicator is opened, it must be initialized with a command phrase:
+	\[Identification of User\] to \[Identification of Recipient] 
+The message will be automatically routed and future communications both ways will use the same line.
 ## Photonic Cables
 Large bundled cables that transfer date, data moves at about 10m/s so large computator systems try to be as compact as possible. The bundle of data can be seen as a glowing spot moving along the cable. Cables transferring lots of data might be glowing permanently.
 ## Artificial Gravity
-Artificial gravity is created by electrifying a layered material containing tungsten, to generate an attraction force like gravity only in one direction. This is the main reason for the high price of Tungsten. On some larger ships the gravity generator may be targeted by attacks.
+Artificial gravity is created by electrifying a layered material containing tungsten, to generate an attraction force like gravity only in one direction. This is the main reason for the high price of Tungsten. On some larger ships the gravity generator may be targeted by attacks. It is sometimes referred to as "arti-grav."
 ## Void-Suits
 Metallic suits worn to protect from the radiation and vaccum of space. Some are closer to skin-tight while others are more bulk. Some are painted and have logos or insignia, and some have built-in armor. They have a convenient toggle control that slides up or retracts a bubble over the wearer's head, attachable to an oxygen tank at the hip or on the back.  Many have magnetic mounts on the sides for tools or weapons.
 ## Universal Implant

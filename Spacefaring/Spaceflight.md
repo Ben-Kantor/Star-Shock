@@ -26,5 +26,5 @@ Each ship has a ship stat block, which includes:
 Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.
 
 If a slot is not used for a module, it is storage space, and can hold the same amount as a player's inventory (10 normal items or multiples of small items).
-#\1Takeoff and Landing
+### Takeoff and Landing
 Taking off and landing from a small body like The Moon takes 2 units, a larger body like Mars takes 3, and a body like Earth or Venus takes 4. Landing on a body with an atmosphere always takes 1, but bodies without atmosphere have the same landing cost as takeoff. Not all ships are capable of atmospheric takeoff and landing, or even non-atmospheric. 

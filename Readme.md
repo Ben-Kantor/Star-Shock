@@ -14,8 +14,9 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 - Consider changing the game's name.
 - Solution to prevent creative solutions from becoming a permanent buff
 - Strengthen Absurdist Theme
+- Simplify Fuel Units
 #### System Features
-- Attribute Descriptions
+- Skill Descriptions (move to char creation)
 - Psionics
 - Rules for Buying Illicit Items
 - Improve GM Tips
