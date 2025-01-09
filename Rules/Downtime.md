@@ -38,5 +38,5 @@ For common items, finding a merchant is relatively easy in most locations. Howev
 When a merchant offers an item, they start with an initial price (typically the item’s base value). Players may counteroffer, then make a Presence + **{Negotiate}** check to negotiate the price, with a difficulty depending on how steep the offer is. On a success that price is met, on a failure a compromise is offered or the offer is rejected.
 #### Selling an Item
 When selling an item, the default price is half the item’s base value, but this can be increased through successful bartering.
-#### Illicit Items
-If trying to buy or sell an illicit item, 
+#### Restricted Items
+If trying to buy or sell an illicit item, a Presence + **{Streetwise}** check is needed to find someone to trade with, or another challenge set by the GM. Then starting prices are doubled and buy values are halved. If you have permission to trade in the goods, finding a legal buyer may still require some effort.

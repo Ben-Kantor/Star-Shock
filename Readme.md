@@ -15,14 +15,13 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 - Solution to prevent creative solutions from becoming a permanent buff
 - Strengthen Absurdist Theme
 - Simplify Fuel Units
+- How to start reading
 #### System Features
 - Skill Descriptions (move to char creation)
 - Psionics
-- Rules for Buying Illicit Items
-- Improve GM Tips
 - Torpedos
-- Repairing Ships
-- "Long-Term Downtime"
+- Better link between ship piloting and combat
+- Safety Tools
 #### Game Resources
 - HTML Live Solar System Map
 - Spacecraft Sheets
@@ -32,6 +31,8 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 - Preset Ability Enhancements
 - Preset Cybernetic Enhancements
 - Drop-In NPCs
+- GMs: How to setup a game
+- GMs: Plot hooks
 #### Lore & World-Building
 - Locations in Paragon City
 - Meteor Belt Settlements
@@ -39,11 +40,9 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 - Criminal Activities
 - Fashion
 - Foods
-- Languages
 - In-Game Holidays
 - Types of Spacecrafts
 - List of In-Game Building Materials
-- Corporations
 ## Contributing
 EXO-2040 is an intralinked markdown wiki, written and edited using Obsidian and published on Github. If you want to suggest changes, fork the repository, make your changes using the online or a local editor, then submit a pull request to have your changed merged into the game.
 ## Credits
