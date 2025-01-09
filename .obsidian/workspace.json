@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Misc. Lore.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Misc. Lore"
+              "title": "Readme"
             }
           }
         ]
@@ -166,11 +166,11 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "WIP/Psionics.md",
     "Readme.md",
     "Setting/Misc. Lore.md",
     "Setting/Technology.md",
     "Setting/Corporations.md",
-    "WIP/Psionics.md",
     "WIP/Plot Hook Compendium.md",
     "WIP/Planning your Campaign.md",
     "WIP/Modules.md",
