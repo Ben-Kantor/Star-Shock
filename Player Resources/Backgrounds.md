@@ -25,7 +25,7 @@ _You are unusually tall and have no eyebrows._
 - (◆◇◇) Launch Operator Contact - OR - Ship Captain Contact.
 - **{Spacecrafts}** Skill.
 - "Advantage on **Move** and **Navigate** checks within spacecraft, and some low-gravity environments."
-- Starting Item: [Magnetic Boots](<Basic Items.md#Magnetic Boots (₮25)>).
+- Starting Item: [Magnetic Boots](../Items/Basic%20Items.md).
 ### Pilot
 - **{Spacecrafts}** Skill.
 - "You can identify spacecrafts from the exterior and can always locate the command and engine rooms."
@@ -38,12 +38,12 @@ _You are unusually tall and have no eyebrows._
 - **{{Engineering}}** Category Skill.
 - "You can make two cycles of ship repairs and upgrades in one shift."
 - "You can rig most devices to explode with an Int + **{Explosives}** check."
-- Starting Item: [Universal Toolkit](<Basic Items.md#Universal Toolkit (₮25)>).
+- Starting Item: [Universal Toolkit](../Items/Basic%20Items.md).
 ### Doctor
 - **{Chemistry}** and **{Medicate}** Skills.
 - "Your medicate check on a character also serves as a minimum on their next heal check."
 - "You know how to create poisons, medicines, and even explosives given the correct materials."
-- Starting Item: [Medical Kit](<Basic Items.md#Medical Kit (₮25)>).
+- Starting Item: [Medical Kit](../Items/Basic%20Items.md).
 ### Explorer
 - **{{Explorer}}** Category Skill.
 - "You can always find basic resources (food, water) in natural environments without rolling."
@@ -63,12 +63,12 @@ _You are unusually tall and have no eyebrows._
 - (◆◇◇) Order-Keeper Contact - OR - Smuggler Contact.
 - One **{{Soldier}}** Skill and one **{{Explorer}}** Skill.
 - "You have a license to carry and purchase otherwise illegal weapons in the inner solar system and belt
-- Starting Item: Any [Weapon](/Items/Weapons.md).
+- Starting Item: Any [Weapon](../Items/Weapons.md).
 ### Enforcer
 - (◆◇◇) High Enforcer Contact.
 - One **{{Soldier}}** Skill and one Skill from **Any Category.**
 - "You always know when someone is hiding something illicit from you unless they succeed a difficulty 10 Prs + Deceive check."
-- Starting Item: Any [Armor](/Items/Armors.md).
+- Starting Item: Any [Armor](../Items/Armors.md).
 ### Counselor
 - **{{Academic}}** Category Skill.
 - "You can sense any character's emotion unless they succeed a difficulty 10 Prs + Deceive check."

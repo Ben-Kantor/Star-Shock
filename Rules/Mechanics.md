@@ -7,6 +7,7 @@ Each weapon will have several different values that determine its unique propert
 - Range
 	- How many meters away the weapon can reach.
 	- If the weapon is ranged, it may be used at twice the range with single disadvantage, three times range with double disadvantage, etc...
+	- Some weapons can be thrown with disadvantage at a range of 5m.
 - Rate
 	- How many times the weapon can be used per turn, each time it is used takes an action. 
 - Modifier
