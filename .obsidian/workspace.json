@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Spacefaring/Spaceflight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Spaceflight"
             }
           }
         ]
@@ -166,19 +166,22 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "Solar System Map.html",
+    "Solar System.html",
+    "Spacefaring/Ship Combat.md",
+    "Readme.md",
+    "Spacefaring/Spaceflight.md",
+    "Spacefaring/Logistics.md",
+    "Setting/Technology.md",
+    "Setting/Currencies.md",
     "WIP/Psionics.md",
     "WIP/Preset Stat-Blocks.md",
     "WIP/Starting a Campaign.md",
     "Items/Armors.md",
-    "Readme.md",
     "WIP/Plot Hook Compendium.md",
     "WIP/Expert Items.md",
     "Items/Weapons.md",
     "WIP/Ideas.md",
-    "Setting/Technology.md",
-    "Spacefaring/Ship Combat.md",
-    "Spacefaring/Spaceflight.md",
-    "Spacefaring/Logistics.md",
     "Rules/Mechanics.md",
     "Items/Basic Items.md",
     "The System/Venus.md",
@@ -190,8 +193,6 @@
     "The System/Human Commonwealth/Paragon City.md",
     "The System/Human Commonwealth/Human Spacecraft.md",
     "Setting/Misc. Lore.md",
-    "Setting/Currencies.md",
-    "Rules/Downtime.md",
     "lu2392326uca.tmp",
     "Spacefaring",
     "License.txt",
@@ -201,7 +202,6 @@
     "Basic",
     "lu6878e6v0.tmp",
     "lu119803e2tbh.tmp",
-    "Exo-Base",
-    "lu4376681jptf1.tmp"
+    "Exo-Base"
   ]
 }

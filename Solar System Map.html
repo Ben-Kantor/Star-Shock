@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2D Solar System</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: #070722;
+      color: #e0e0e0;
+      font-family: 'Arial', sans-serif;
+    }
+
+    #solar-system {
+      width: 100vw;
+      height: 100vh;
+    }
+
+    #date-menu {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      background: rgba(40, 40, 60, 0.9);
+      border: 1px solid #444;
+      border-radius: 8px;
+      padding: 10px;
+      z-index: 1000;
+      text-align: left;
+      color: #e0e0e0;
+      min-width: 250px;
+    }
+
+    #layer-menu {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: rgba(40, 40, 60, 0.9);
+      border: 1px solid #444;
+      border-radius: 8px;
+      padding: 10px;
+      z-index: 1000;
+      color: #e0e0e0;
+    }
+
+    #date-display {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    #date-display span {
+      cursor: pointer;
+      padding: 5px;
+      border-radius: 4px;
+    }
+
+    #date-display input {
+      width: 60px;
+      padding: 3px;
+      border: none;
+      border-radius: 4px;
+      background: #222;
+      color: #e0e0e0;
+    }
+
+    #date-buttons {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    #date-buttons button {
+      margin: 2px;
+      padding: 5px 10px;
+      background: #444;
+      border: none;
+      border-radius: 4px;
+      color: #e0e0e0;
+      cursor: pointer;
+    }
+
+    .label {
+      font-family: 'Arial', sans-serif;
+      font-size: 12px;
+      text-anchor: middle;
+      fill: white;
+    }
+
+    .star {
+      fill: #ffffff;
+    }
+
+    .meteor {
+      fill: #888888;
+    }
+  </style>
+</head>
+<body>
+  <!-- Floating Date Menu -->
+  <div id="date-menu">
+    <div id="date-display">
+      <span id="year-display">2040</span>
+      <span>/</span>
+      <span id="month-display">01</span>
+      <span>/</span>
+      <span id="day-display">01</span>
+    </div>
+    <div id="date-buttons">
+      <button onclick="adjustDate(-1, 'month')">-1M</button>
+      <button onclick="adjustDate(-1, 'day')">-1D</button>
+      <button onclick="adjustDate(1, 'day')">+1D</button>
+      <button onclick="adjustDate(10, 'day')">+10D</button>
+      <button onclick="adjustDate(1, 'month')">+1M</button>
+      <button onclick="adjustDate(1, 'year')">+1Y</button>
+    </div>
+  </div>
+
+  <!-- Layer Selector Menu -->
+  <div id="layer-menu">
+    <label><input type="checkbox" checked id="toggle-bands"> Bands</label><br>
+    <label><input type="checkbox" checked id="toggle-sectors"> Sectors</label><br>
+    <label><input type="checkbox" checked id="toggle-planets"> Planets</label><br>
+    <label><input type="checkbox" checked id="toggle-labels"> Labels</label>
+  </div>
+
+  <!-- SVG Container -->
+  <svg id="solar-system"></svg>
+
+  <script>
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+
+    // Initialize SVG canvas
+    const svg = d3.select("#solar-system")
+      .attr("width", width)
+      .attr("height", height)
+      .call(d3.zoom().scaleExtent([0.2, 10]).on("zoom", zoomed));
+
+    const defs = svg.append("defs"); // For gradients
+    const background = svg.append("g"); // For stars
+    const g = svg.append("g"); // For solar system
+
+    const centerX = width / 2;
+    const centerY = height / 2;
+
+    // Define bands with names, orbital periods, and starting offsets in proportions
+    const bands = [
+      { name: "Sun", width: 100, sectors: 1, orbitalPeriod: 0, offset: -0 },
+      { name: "Mercury", width: 50, sectors: 3, orbitalPeriod: 88, offset: -0.837 },
+      { name: "Venus", width: 75, sectors: 4, orbitalPeriod: 225, offset: -0.575 },
+      { name: "Earth", width: 100, sectors: 5, orbitalPeriod: 365, offset: -0.1 },
+      { name: "Mars", width: 125, sectors: 6, orbitalPeriod: 687, offset: -0.373 },
+      { name: "Asteroid Belt", width: 200, sectors: 7, orbitalPeriod: 1680, offset: -0 },
+      { name: "Jupiter", width: 300, sectors: 9, orbitalPeriod: 4333, offset: -0.426 },
+      { name: "Jupiter - Saturn Divider", width: 200, sectors: 9, orbitalPeriod: 7544.5, offset: -0.416 },
+      { name: "Saturn", width: 300, sectors: 10, orbitalPeriod: 10756, offset: -0.41 },
+      { name: "Saturn - Uranus Divider", width: 200, sectors: 11, orbitalPeriod: 20721.5, offset: -0.466 },
+      { name: "Uranus", width: 300, sectors: 12, orbitalPeriod: 30687, offset: -0.522 },
+      { name: "Uranus - Neptune Divider", width: 200, sectors: 13, orbitalPeriod: 45438.5, offset: -0.399 },
+      { name: "Neptune", width: 300, sectors: 14, orbitalPeriod: 60190, offset: -0.276 },
+    ];
+
+    // Define celestial bodies with band references by name
+    const bodies = [
+      { bandName: "Sun", name: "Sun", r: 50, innerColor: "#FFD700", outerColor: "#FF8C00", radialOffset: -50, angularOffset: 0 },
+      { bandName: "Mercury", name: "Mercury", r: 10, innerColor: "#AAAAAA", outerColor: "#555555", radialOffset: 0, angularOffset: 100 },
+      { bandName: "Venus", name: "Venus", r: 16, innerColor: "#FFA07A", outerColor: "#FCD464", radialOffset: 0, angularOffset: 0 },
+      { bandName: "Earth", name: "Earth", r: 20, innerColor: "#23ED4F", outerColor: "#4682B4", radialOffset: 0, angularOffset: 0 },
+      { bandName: "Mars", name: "Mars", r: 14, innerColor: "#FF6347", outerColor: "#8B0000", radialOffset: 0, angularOffset: 0 },
+      { bandName: "Asteroid Belt", name: "Ceres", r: 10, innerColor: "#C0C0C0", outerColor: "#A9A9A9", radialOffset: 0, angularOffset: 1/7 },
+      { bandName: "Asteroid Belt", name: "Pallas", r: 8, innerColor: "#D3D3D3", outerColor: "#B0B0B0", radialOffset: 40, angularOffset: 3/7 },
+      { bandName: "Asteroid Belt", name: "Vesta", r: 8, innerColor: "#D3D3D3", outerColor: "#B0B0B0", radialOffset: -40, angularOffset: 5/7 },
+      { bandName: "Jupiter", name: "Jupiter", r: 60, innerColor: "#FF8C00", outerColor: "#FFD700", radialOffset: 0, angularOffset: 0 },
+      { bandName: "Saturn", name: "Saturn", r: 54, innerColor: "#DAA520", outerColor: "#F0E68C", radialOffset: 0, angularOffset: 0 },
+      { bandName: "Uranus", name: "Uranus", r: 48, innerColor: "#87CEEB", outerColor: "#4682B4", radialOffset: 0, angularOffset: 0 },
+      { bandName: "Neptune", name: "Neptune", r: 45, innerColor: "#4169E1", outerColor: "#0000FF", radialOffset: 0, angularOffset: 0 },
+      { bandName: "Neptune", name: "Pluto", r: 16, innerColor: "#B0C4DE", outerColor: "#708090", radialOffset: 100  , angularOffset: -0.214 }
+    ];
+
+    let previousOuter = 0;
+    const sectorLines = [];
+    const stars = [];
+    const meteors = [];
+
+    // Draw stars in the background
+    for (let i = 0; i < 100; i++) {
+      const starX = Math.random() * width;
+      const starY = Math.random() * height;
+      stars.push(background.append("circle")
+        .attr("cx", starX)
+        .attr("cy", starY)
+        .attr("r", Math.random() * 2)
+        .attr("class", "star"));
+    }
+
+    // Draw bands and sector lines
+    bands.forEach((band, i) => {
+      const innerRadius = previousOuter;
+      const outerRadius = innerRadius + band.width;
+      previousOuter = outerRadius;
+
+      // Create a group for each band
+      const bandGroup = g.append("g").attr("class", "band");
+
+      // Draw the outer circle for the band
+      bandGroup.append("circle")
+        .attr("cx", centerX)
+        .attr("cy", centerY)
+        .attr("r", outerRadius)
+        .attr("fill", "none")
+        .attr("stroke", "#888");
+
+      // Draw sector lines
+      if (band.sectors > 1) {
+        const angleIncrement = 360 / band.sectors;
+        for (let j = 0; j < band.sectors; j++) {
+          const angle = (j * angleIncrement + band.offset * 360) * (Math.PI / 180 / 2);
+          const startX = innerRadius * Math.cos(angle);
+          const startY = innerRadius * Math.sin(angle);
+          const endX = outerRadius * Math.cos(angle);
+          const endY = outerRadius * Math.sin(angle);
+
+          const sectorLine = bandGroup.append("line")
+            .attr("x1", startX)
+            .attr("y1", startY)
+            .attr("x2", endX)
+            .attr("y2", endY)
+            .attr("stroke", "#888");
+
+          sectorLines.push({ bandIndex: i, line: sectorLine, initialAngle: angle });
+        }
+      }
+
+      // Add meteors in the asteroid belt
+      if (i === 5) {
+        for (let m = 0; m < 500; m++) {
+          const angle = Math.random() * 2 * Math.PI;
+          const radius = innerRadius + (Math.random() + Math.random()) * band.width / 2;
+          const meteorX = centerX + radius * Math.cos(angle);
+          const meteorY = centerY + radius * Math.sin(angle);
+          meteors.push(bandGroup.append("circle")
+            .attr("cx", meteorX)
+            .attr("cy", meteorY)
+            .attr("r", Math.random() * 4)
+            .attr("class", "meteor"));
+        }
+      }
+    });
+
+    // Add gradients for each body
+    bodies.forEach((body, i) => {
+      const gradientId = `gradient-${i}`;
+      const gradient = defs.append("radialGradient")
+        .attr("id", gradientId)
+        .attr("cx", "50%")
+        .attr("cy", "50%")
+        .attr("r", "50%");
+
+      gradient.append("stop")
+        .attr("offset", "0%")
+        .attr("stop-color", body.innerColor);
+
+      gradient.append("stop")
+        .attr("offset", "100%")
+        .attr("stop-color", body.outerColor);
+
+      body.gradientId = gradientId; // Save the gradient ID for later use
+    });
+
+    // Draw bodies
+    bodies.forEach((body) => {
+      const band = bands.find(b => b.name === body.bandName);
+      const inner = bands.slice(0, bands.indexOf(band)).reduce((sum, b) => sum + b.width, 0);
+      const outer = inner + band.width;
+      const radius = (inner + outer) / 2 + body.radialOffset;
+
+      // Calculate body position
+      const sectorAngle = 360 / band.sectors;
+      const bodyAngle = band.offset * 360 + (sectorAngle / 2) + body.angularOffset * 360; // Center of the sector
+      const bodyX = centerX + radius * Math.cos(bodyAngle * Math.PI / 180);
+      const bodyY = centerY + radius * Math.sin(bodyAngle * Math.PI / 180);
+
+      body.element = g.append("circle") // Celestial Body
+        .attr("cx", bodyX)
+        .attr("cy", bodyY)
+        .attr("r", body.r)
+        .attr("fill", `url(#${body.gradientId})`)
+        .attr("class", "planet");
+
+      if (!["Ceres", "Pallas", "Vesta", "Pluto", "Mercury"].includes(body.name)) {
+        // Add a low orbit sector
+        g.append("circle")
+          .attr("cx", bodyX)
+          .attr("cy", bodyY)
+          .attr("r", Math.max(body.r*1.33,body.r+15))
+          .attr("fill", "none")
+          .attr("stroke", "#888")
+          .attr("stroke-width", 1);
+      }
+
+      if (body.name === "Saturn") {
+        // Draw Saturn's rings
+        body.rings = g.append("ellipse")
+          .attr("cx", bodyX)
+          .attr("cy", bodyY)
+          .attr("rx", body.r + 20)
+          .attr("ry", body.r + 5)
+          .attr("fill", "none")
+          .attr("stroke", "#DAA520")
+          .attr("stroke-width", 2);
+      }
+
+      if (body.name === "Jupiter") {
+        // Draw Jupiter's Mid Orbit
+        g.append("circle")
+          .attr("cx", bodyX)
+          .attr("cy", bodyY)
+          .attr("r", body.r + 75)
+          .attr("fill", "none")
+          .attr("stroke", "#888")
+          .attr("stroke-width", 1);
+      }
+
+
+
+      body.label = g.append("text") // Label
+        .attr("x", bodyX)
+        .attr("y", bodyY + body.r + 15)
+        .attr("class", "label")
+        .text(body.name);
+    });
+
+    // Zoom behavior
+    function zoomed(event) {
+      g.attr("transform", event.transform);
+    }
+
+    // Date Management
+    const yearDisplay = document.getElementById("year-display");
+    const monthDisplay = document.getElementById("month-display");
+    const dayDisplay = document.getElementById("day-display");
+
+    let currentDate = new Date("2040-01-01");
+
+    function updateDateDisplay() {
+      yearDisplay.textContent = currentDate.getFullYear();
+      monthDisplay.textContent = String(currentDate.getMonth() + 1).padStart(2, '0');
+      dayDisplay.textContent = String(currentDate.getDate()).padStart(2, '0');
+    }
+
+    function adjustDate(amount, unit) {
+      if (unit === 'year') {
+        currentDate.setFullYear(currentDate.getFullYear() + amount);
+      } else if (unit === 'month') {
+        currentDate.setMonth(currentDate.getMonth() + amount);
+      } else if (unit === 'day') {
+        currentDate.setDate(currentDate.getDate() + amount);
+      }
+      updateDateDisplay();
+      updatePlanetPositions();
+    }
+
+    function updatePlanetPositions() {
+      const referenceDate = new Date("2040-01-01");
+      const elapsedDays = Math.floor((currentDate - referenceDate) / (1000 * 60 * 60 * 24));
+
+      bodies.forEach((body) => {
+        const band = bands.find(b => b.name === body.bandName);
+        if (band.orbitalPeriod > 0) {
+          const angularOffset = -(elapsedDays / band.orbitalPeriod + body.angularOffset) * 360;
+          const inner = bands.slice(0, bands.indexOf(band)).reduce((sum, b) => sum + b.width, 0);
+          const outer = inner + band.width;
+          const radius = (inner + outer) / 2 + body.radialOffset;
+
+          const sectorAngle = 360 / band.sectors;
+          const bodyAngle = band.offset * 360 + (sectorAngle / 2) + angularOffset;
+          const bodyX = centerX + radius * Math.cos(bodyAngle * Math.PI / 180);
+          const bodyY = centerY + radius * Math.sin(bodyAngle * Math.PI / 180);
+
+          body.element.attr("cx", bodyX).attr("cy", bodyY);
+          body.label.attr("x", bodyX).attr("y", bodyY + body.r + 15);
+
+          if (body.name === "Saturn" && body.rings) {
+            body.rings.attr("cx", bodyX).attr("cy", bodyY);
+          }
+        }
+      });
+
+      // Rotate sector lines
+      sectorLines.forEach(({ bandIndex, line, initialAngle }) => {
+        const band = bands[bandIndex];
+        if (band.orbitalPeriod > 0) {
+          const angularOffset = -(elapsedDays / band.orbitalPeriod) * 360;
+          line.attr("transform", `translate(${centerX},${centerY}) rotate(${angularOffset + initialAngle * (180 / Math.PI)})`);
+        }
+      });
+    }
+
+    // Initial setup
+    updateDateDisplay();
+    updatePlanetPositions();
+
+    // Layer toggles
+    document.getElementById("toggle-bands").addEventListener("change", function() {
+      g.selectAll(".band").style("display", this.checked ? "block" : "none");
+    });
+
+    document.getElementById("toggle-sectors").addEventListener("change", function() {
+      g.selectAll(".band line").style("display", this.checked ? "block" : "none");
+    });
+
+    document.getElementById("toggle-planets").addEventListener("change", function() {
+      g.selectAll(".planet").style("display", this.checked ? "block" : "none");
+    });
+
+    document.getElementById("toggle-labels").addEventListener("change", function() {
+      g.selectAll(".label").style("display", this.checked ? "block" : "none");
+    });
+  </script>
+</body>
+</html>

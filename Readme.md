@@ -29,7 +29,7 @@ If you are interested in this game, this is the recommended order to read the ca
 - Torpedos
 - Better link between ship piloting and combat
 #### Game Resources
-- HTML Live Solar System Map
+- Add moons to solar system map
 - Spacecraft Sheets
 - Ship Module Compendium
 - Preset NPC Stat Blocks

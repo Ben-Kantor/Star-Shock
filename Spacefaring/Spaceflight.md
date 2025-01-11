@@ -7,13 +7,23 @@ All modern spacecrafts have a core computator terminal, used to plot routes.
 - Can send communications, setup beacons, control life support, etc...
 - Can eject any module.
 #### Transit
-When moving around in the solar system consult this table, for "bands" of the solar system.
+For any given ship, using one "unit" of fuel means consuming a number of 🜁 (grams of trilium) equal to the ship's size (number of module slots).
 
-| Solar Space | Mercury | Venus | Earth | Mars | Belt | Jupiter | Saturn | Uranus | Neptune | Kuiper Belt | Deep Space |
-| ----------- | ------- | ----- | ----- | ---- | ---- | ------- | ------ | ------ | ------- | ----------- | ---------- |
-| 1           | 2       | 3     | 4     | 5    | 6    | 7       | 8      | 9      | 10      | 11          | 12         |
+One day means approximately 24 hours of travel time
 
-Moving up and down between bands costs 1 unit of fuel and takes as many days as the band number you are moving too, divided by two rounded up. Each belt is divided up radially into a number of sections equal to its number, it takes 1 day and 1 unit of fuel to move to the next section.
+When moving around in the solar system consult the "Solar System Map.html" file, located in the root of the game source. Input the in-game date. Each sector is an area outlined in white, and two sectors are considered to be adjacent if their edges touch at all.
+- Moving from one sector to an adjacent sector costs one unit of fuel and takes one day.
+- A ship can move more than one sector per day, by spending a number of fuel units equal to the square of the number of sectors moved.
+- Moving between two place in the same sector costs no fuel and takes one day, or can be done in one shift by spending a unit of fuel.
+- Pausing to rendezvous with another ship while moving between sectors costs as many fuel units as the ship is moving that day (usually 1, unless moving at an accelerated rate).
+- Some bodies have a "low orbit" sector that must first be entered before landing.
+	- All moons are outside of the "low orbit" sector.
+	- Jupiter has a "mid orbit" sector where the Galilean moons are.
+- Landing and taking over never takes more than a shift, but requires lots of fuel.
+	- Mercury, Pluto, Asteroids, and Moons take one unit of fuel to land or take off from.
+	- Mars takes one unit of fuel to land, and two to take off from.
+	- Earth and Venus take one unit to land, and three to take off from.
+	- Entering the atmosphere of an outer solar system body takes two units of fuel, and leaving takes five.
 
 Slowing to rendezvous or dock with another ship that is not travelling in the same direction costs and additional unit of fuel, but takes no extra time.
 #### Ship Stats & Modules
