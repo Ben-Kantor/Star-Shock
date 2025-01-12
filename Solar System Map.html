@@ -84,8 +84,12 @@
     .label {
       font-family: 'Arial', sans-serif;
       font-size: 12px;
+      font-weight: bold;
       text-anchor: middle;
       fill: white;
+      stroke: black;
+      stroke-width: 0.4px;
+      paint-order: stroke;
     }
 
     .star {
@@ -102,7 +106,7 @@
   <div id="date-menu">
     <div id="date-display">
       <span id="year-display">2040</span>
-      <span>/</span>
+        <span>/</span>
       <span id="month-display">01</span>
       <span>/</span>
       <span id="day-display">01</span>
@@ -115,14 +119,6 @@
       <button onclick="adjustDate(1, 'month')">+1M</button>
       <button onclick="adjustDate(1, 'year')">+1Y</button>
     </div>
-  </div>
-
-  <!-- Layer Selector Menu -->
-  <div id="layer-menu">
-    <label><input type="checkbox" checked id="toggle-bands"> Bands</label><br>
-    <label><input type="checkbox" checked id="toggle-sectors"> Sectors</label><br>
-    <label><input type="checkbox" checked id="toggle-planets"> Planets</label><br>
-    <label><input type="checkbox" checked id="toggle-labels"> Labels</label>
   </div>
 
   <!-- SVG Container -->
@@ -179,6 +175,17 @@
       { bandName: "Neptune", name: "Pluto", r: 16, innerColor: "#B0C4DE", outerColor: "#708090", radialOffset: 100  , angularOffset: -0.214 }
     ];
 
+    const moons = [
+      { parentName: "Earth", name: "The Moon", r: 5, color: "#C0C0C0", radialOffset: 42.5, orbitalPeriod: 27.3, angularOffset: 0 },
+      { parentName: "Jupiter", name: "Io", r: 4, color: "#FFD700", radialOffset: 80, orbitalPeriod: 2, angularOffset: 0 },
+      { parentName: "Jupiter", name: "Europa", r: 4, color: "#B0C4DE", radialOffset: 80 + 55/3, orbitalPeriod: 4, angularOffset: 0.5 },
+      { parentName: "Jupiter", name: "Ganymede", r: 5, color: "#A9A9A9", radialOffset: 80 + 55/3 + 55/3, orbitalPeriod: 8, angularOffset: 1 },
+      { parentName: "Jupiter", name: "Callisto", r: 5, color: "#8B4513", radialOffset: 135, orbitalPeriod: 16, angularOffset: 1.5 },
+      { parentName: "Saturn", name: "Titan", r: 5, color: "#DAA520", radialOffset: 100, orbitalPeriod: 15.9, angularOffset: 0 },
+      { parentName: "Saturn", name: "Rhea", r: 4, color: "#D3D3D3", radialOffset: 72, orbitalPeriod: 4.5, angularOffset: 0.5 },
+      { parentName: "Neptune", name: "Triton", r: 4, color: "#4169E1", radialOffset: 60, orbitalPeriod: 5.9, angularOffset: 0 }
+    ];
+
     let previousOuter = 0;
     const sectorLines = [];
     const stars = [];
@@ -233,7 +240,7 @@
         }
       }
 
-      // Add meteors in the asteroid belt
+      // Add meteors in the meteor belt
       if (i === 5) {
         for (let m = 0; m < 500; m++) {
           const angle = Math.random() * 2 * Math.PI;
@@ -291,7 +298,7 @@
 
       if (!["Ceres", "Pallas", "Vesta", "Pluto", "Mercury"].includes(body.name)) {
         // Add a low orbit sector
-        g.append("circle")
+        body.lowOrbit = g.append("circle")
           .attr("cx", bodyX)
           .attr("cy", bodyY)
           .attr("r", Math.max(body.r*1.33,body.r+15))
@@ -309,12 +316,13 @@
           .attr("ry", body.r + 5)
           .attr("fill", "none")
           .attr("stroke", "#DAA520")
-          .attr("stroke-width", 2);
+          .attr("stroke-width", 8)
+          .attr("opacity", 0.5);
       }
 
       if (body.name === "Jupiter") {
         // Draw Jupiter's Mid Orbit
-        g.append("circle")
+        body.midOrbit = g.append("circle")
           .attr("cx", bodyX)
           .attr("cy", bodyY)
           .attr("r", body.r + 75)
@@ -323,13 +331,37 @@
           .attr("stroke-width", 1);
       }
 
-
-
       body.label = g.append("text") // Label
         .attr("x", bodyX)
         .attr("y", bodyY + body.r + 15)
         .attr("class", "label")
         .text(body.name);
+    });
+
+    moons.forEach((moon, i) => {
+      const parentBody = bodies.find(b => b.name === moon.parentName);
+      if (parentBody && parentBody.element) {
+        // Calculate initial position of the moon
+        const angularOffset = moon.angularOffset * 360;
+        const parentX = parseFloat(parentBody.element.attr("cx"));
+        const parentY = parseFloat(parentBody.element.attr("cy"));
+        const moonX = parentX + moon.radialOffset * Math.cos(angularOffset * Math.PI / 180);
+        const moonY = parentY + moon.radialOffset * Math.sin(angularOffset * Math.PI / 180);
+
+        // Draw the moon
+        moon.element = g.append("circle")
+          .attr("cx", moonX)
+          .attr("cy", moonY)
+          .attr("r", moon.r)
+          .attr("fill", moon.color)
+          .attr("class", "planet");
+        
+        moon.label = g.append("text") // Label
+          .attr("x", moonX)
+          .attr("y", moonY + moon.r + 15)
+          .attr("class", "label")
+          .text(moon.name);
+      }
     });
 
     // Zoom behavior
@@ -385,6 +417,31 @@
           if (body.name === "Saturn" && body.rings) {
             body.rings.attr("cx", bodyX).attr("cy", bodyY);
           }
+
+          // Update low orbit sector
+          if (body.lowOrbit) {
+            body.lowOrbit.attr("cx", bodyX).attr("cy", bodyY);
+          }
+
+          // Update mid orbit sector for Jupiter
+          if (body.name === "Jupiter" && body.midOrbit) {
+            body.midOrbit.attr("cx", bodyX).attr("cy", bodyY);
+          }
+        }
+      });
+
+      // Update moon positions
+      moons.forEach((moon) => {
+        const parentBody = bodies.find(b => b.name === moon.parentName);
+        if (parentBody && parentBody.element) {
+          const angularOffset = -(elapsedDays / moon.orbitalPeriod + moon.angularOffset) * 360;
+          const parentX = parseFloat(parentBody.element.attr("cx"));
+          const parentY = parseFloat(parentBody.element.attr("cy"));
+          const moonX = parentX + moon.radialOffset * Math.cos(angularOffset * Math.PI / 180);
+          const moonY = parentY + moon.radialOffset * Math.sin(angularOffset * Math.PI / 180);
+
+          moon.element.attr("cx", moonX).attr("cy", moonY);
+          moon.label.attr("x", moonX).attr("y", moonY + moon.r + 15);
         }
       });
 
@@ -401,23 +458,6 @@
     // Initial setup
     updateDateDisplay();
     updatePlanetPositions();
-
-    // Layer toggles
-    document.getElementById("toggle-bands").addEventListener("change", function() {
-      g.selectAll(".band").style("display", this.checked ? "block" : "none");
-    });
-
-    document.getElementById("toggle-sectors").addEventListener("change", function() {
-      g.selectAll(".band line").style("display", this.checked ? "block" : "none");
-    });
-
-    document.getElementById("toggle-planets").addEventListener("change", function() {
-      g.selectAll(".planet").style("display", this.checked ? "block" : "none");
-    });
-
-    document.getElementById("toggle-labels").addEventListener("change", function() {
-      g.selectAll(".label").style("display", this.checked ? "block" : "none");
-    });
   </script>
 </body>
 </html>

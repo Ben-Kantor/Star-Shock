@@ -13,3 +13,7 @@ A plant made of gnarled green tubes, which suck in or push out air. Are able to 
 A green fibourous plant that looks like it's bundled together. Twists and moves of its own accord when perturbed and is strong enough to break bones. 
 #### Wormoss
 A dense, fuzzy green moss which grows baloon-like flowers filled with hallucinogenic spores. Sometimes cultivated for this purpose. "Worm" is a popular illegal drug in the Human Commonwealth, taken in various forms.
+#### Glowfruit
+Round, bulbous blue fruit that emit a faint glow.
+#### Spice Pods
+Orange pea-pod shaped fruits that contain a powerful mix of flavors.

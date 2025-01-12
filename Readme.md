@@ -1,7 +1,8 @@
 # EXO-2040
 Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting.
 ## Features
-- A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md), fit to the setting.
+- A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md).
+- Unlinked skills, fit to the setting.
 - A [Two-Background](Backgrounds.md) system, that offers character customization without overwhelming new players.
 - A comprehensive system for [Spacecrafts](/Spacefaring/Spaceflight.md), with [Combat](/Spacefaring/Ship%20Combat.md) that doesn't leave players left out and [Upgrades](Modules.md) that allow the ship to improve with the characters.
 - A highly extensible [XP System](XP.md) that allows GMs to incorporate their own ideas.
@@ -23,13 +24,11 @@ If you are interested in this game, this is the recommended order to read the ca
 - Consider changing the game's name.
 - Solution to prevent creative solutions from becoming a permanent buff
 - Strengthen Absurdist Theme
-- Simplify Fuel Units
 #### System Features
 - Psionics
 - Torpedos
 - Better link between ship piloting and combat
 #### Game Resources
-- Add moons to solar system map
 - Spacecraft Sheets
 - Ship Module Compendium
 - Preset NPC Stat Blocks
@@ -45,7 +44,6 @@ If you are interested in this game, this is the recommended order to read the ca
 - Meteor Belt Houses
 - Criminal Activities
 - Fashion
-- Foods
 - In-Game Holidays
 - Types of Spacecrafts
 - List of In-Game Building Materials

@@ -17,8 +17,8 @@ When moving around in the solar system consult the "Solar System Map.html" file,
 - Moving between two place in the same sector costs no fuel and takes one day, or can be done in one shift by spending a unit of fuel.
 - Pausing to rendezvous with another ship while moving between sectors costs as many fuel units as the ship is moving that day (usually 1, unless moving at an accelerated rate).
 - Some bodies have a "low orbit" sector that must first be entered before landing.
-	- All moons are outside of the "low orbit" sector.
 	- Jupiter has a "mid orbit" sector where the Galilean moons are.
+	- As shown on the map, some moons are in these inner orbits, and others are on the border, accessible form both sectors.
 - Landing and taking over never takes more than a shift, but requires lots of fuel.
 	- Mercury, Pluto, Asteroids, and Moons take one unit of fuel to land or take off from.
 	- Mars takes one unit of fuel to land, and two to take off from.
