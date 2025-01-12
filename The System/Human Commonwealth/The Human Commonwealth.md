@@ -4,3 +4,4 @@ All citizens of the commonwealth have an identification chip implanted in their 
 
 Enforcement is usually carried out by order-keepers, colloquially called the "blues" for their uniforms. They mostly bring a sense of justice and hand out traffic and other municipal violations, but most serious anti-criminal activity is done using hired mercenaries. The Human Commonwealth operates a space-fleet called the Human Interplanetary Fleet or HIF.
 
+The formation of the commonwealth, after the martian wars, is celebrated in May as Unification Day.

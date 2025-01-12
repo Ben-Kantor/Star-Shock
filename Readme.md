@@ -41,8 +41,6 @@ If you are interested in this game, this is the recommended order to read the ca
 - Meteor Belt Houses
 - Criminal Groups
 - Fashion
-- In-Game Holidays
-- Types of Spacecrafts
 - List of In-Game Building Materials
 ## Credits
 #### Writers & Editors
