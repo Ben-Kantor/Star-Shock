@@ -15,8 +15,9 @@ The first letter indicates what domain of the system the craft operates from.
 - V - Venusian
 #### Second Letter
 The second letter indicates the primary purpose of the craft. This is the least standardized category, and nearly any letter can be used. Here are some common examples:
+- B - Battle-
 - C - Cargo
-- D - Diplomatic
+- D - Diplomatic 
 - E - Exploratory
 - L - Luxury
 - M - Mining
@@ -24,7 +25,7 @@ The second letter indicates the primary purpose of the craft. This is the least 
 - R - Rescue
 - S - Scientific
 - T - Transport
-- W - War
+- W - War-
 - X - Experimental
 - Z - Customs (Basic trade enforcement)
 #### Third Letter

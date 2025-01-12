@@ -30,19 +30,16 @@ If you are interested in this game, this is the recommended order to read the ca
 - Better link between ship piloting and combat
 #### Game Resources
 - Spacecraft Sheets
-- Ship Module Compendium
 - Preset NPC Stat Blocks
 - Preset Expert Items
 - Preset Ability Enhancements
 - Preset Cybernetic Enhancements
-- Drop-In NPCs
-- GMs: How to setup a game
 - GMs: Plot hooks
 #### Lore & World-Building
 - Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
-- Criminal Activities
+- Criminal Groups
 - Fashion
 - In-Game Holidays
 - Types of Spacecrafts
