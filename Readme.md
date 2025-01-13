@@ -23,21 +23,20 @@ If you are interested in this game, this is the recommended order to read the ca
 #### Meta
 - Consider changing the game's name.
 - Strengthen Absurdist Theme
-#### Features & Resources
+#### Immediate
 - Psionics
-- Spacecraft Sheets
-- Preset NPC Stat Blocks
-- Preset Expert Items
-- Preset Ability Enhancements
-- Preset Cybernetic Enhancements
-- GMs: Plot hooks
-#### Lore & World-Building
 - Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
 - Criminal Groups
 - Fashion
 - List of In-Game Building Materials
+#### Features & Resources
+- Spacecraft Sheets
+- Preset NPC Stat Blocks
+- Preset Expert Items
+- Preset Ability Enhancements
+- Preset Cybernetic Enhancements
 ## Credits
 #### Writers & Editors
 Ben Kantor - _Main Writer_
