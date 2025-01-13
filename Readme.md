@@ -22,13 +22,9 @@ If you are interested in this game, this is the recommended order to read the ca
 ## To-Do List
 #### Meta
 - Consider changing the game's name.
-- Solution to prevent creative solutions from becoming a permanent buff
 - Strengthen Absurdist Theme
-#### System Features
+#### Features & Resources
 - Psionics
-- Torpedos
-- Better link between ship piloting and combat
-#### Game Resources
 - Spacecraft Sheets
 - Preset NPC Stat Blocks
 - Preset Expert Items

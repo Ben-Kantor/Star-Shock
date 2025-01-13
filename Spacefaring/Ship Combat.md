@@ -1,6 +1,12 @@
 When spacecrafts or spacecraft-sized combatants fight, a system called **Ship Combat** is used. At the start, each player chooses where in the ship their character starts, and all characters are assumed to be wearing [void-suits](../Setting/Technology.md#Void-Suits). They will take actions as usual with action penalties, up to three per turn. Anything that can be done during normal combat can also be done during Spacecraft Combat, but below are the rule detailing the three main actions. All of these checks can be assisted by anyone with at least three in a relevant attribute, or a relevant skill.
 #### Piloting
-When maintaining a course, a difficulty 10 Dex + **{Spacecrafts}** is needed to maintain control of the ship, or a higher difficulty for maneuvers, based on the complexity. One failure indicates only a minor deviation from planned course, but each successive failure multiplies the error. This can only be done from the helm. 
+While a pilot is controlling a ship from the helm, each turn they make a difficulty 10 Dex + **{Spacecrafts}** to control the ship. If they fail they lose control, and weapons fire against them gains advantage. For each two points of margin rolled, the pilot may execute one maneuver, including the same one more than once:
+- **Evasive Maneuver**
+    - Provide disadvantage on all incoming weapons fire checks.
+- **Acceleration Maneuver**
+    - Add 3 to the ship's Speed Boost this turn.
+- **Aggressive Maneuver**
+    - Provide advantage on all outgoing weapons fire checks.
 #### Fixing damage
 Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 30. Checks will be made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage tier on components with multiple damage tiers. This must be done from the location where the damage occurred. 
 #### Firing Weapons
@@ -18,6 +24,6 @@ When an attack is made that is not targeted, the ship sheet will have a rolling 
 #### Cross-Damage
 When a ship is damaged by a standard, handheld weapon, the attacker suffers a -5 penalty (such small weapons don't do much against spacecrafts). There is no modifier for ship weapons against individual targets though, as such large weapons are not designed to aim at such small, dexterous targets. In both cases the GM will need to determine which resistance is used.
 ## Chases
-While two ships are in an encounter where relative speed matters, compare each ship's pilot check plus its speed boost value each turn to see which is moving faster. In order to win the chase (escape or catch up), either side must win three more checks than the other side.
+While two ships are in an encounter where relative speed matters, compare each ship's pilot check plus its speed boost value each turn to see which is moving faster In order to win the chase (escape or catch up), either side must win three more checks than the other side.
 ## Ship Repair
 As fixing a part leaves it vulnerable to stop working at even one point of future damage, ship repair will be needed between encounters. During a shift anyone working on repairs makes a Dexterity + **{Mechanics}** check, and can repair up to that many units of damage. Without a proper engineering bay, each section can only go down to a minimum of five damage on each section. Ships can also be repaired by professional mechanic, at a base cost of ₮5, subject to [negotiation](/Rules/Downtime.md#Bargaining).
