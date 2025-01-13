@@ -46,12 +46,10 @@ Sometimes a character might make a check in such a way that they won't know whet
 ## Advantages/Disadvantages
 Advantages and Disadvantages are situational bonuses and penalties given by the GM, based on the conditions of a check. When a check is made, all advantages and disadvantages are totaled and added to the check.
 #### Advantage (+1 to roll)
-Advantage occurs when the circumstances are favorable for the player attempting the check. For instance:
 - A tool, device, or another player is actively aiding you in completing the task.
 - The enemy or target you are engaging is hindered in some way (e.g., blinded, stunned, surprised, or grappled).
 - You have prepared thoroughly or the environment naturally assists your task (e.g., navigating after studying a map, shooting from high-ground)
 #### Disadvantage (-1 to roll)
-A -1 penalty is applied to the check when conditions make success more difficult. For instance:
 - You are trying to perform an action without the proper tools or equipment.
 - The task is being attempted under stressful or hostile conditions (e.g., picking a lock while being shot at, building a shelter while in acid rain).
 - The obstacle or enemy is at an advantage (e.g., a foe has cover, attacking in total darkness).

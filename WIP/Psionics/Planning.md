@@ -1,0 +1,21 @@
+### Parameters
+- Available to all characters, dosen't require luck
+- Some characters are resistant
+- Void-born and martians start with a bit
+- Balanced with the rest of the game
+- Relies on Presence
+- Combat applicable, but versatile
+- Major but not complete xp sink
+- Scalable with spent xp
+- negative synergy with Cybernetics
+- No tree system
+- Frequent effects on marginal successes
+- Element of randomness
+- Abilities:
+	- Starship Troopers Style ESP
+	- Mind reading
+- Fits with rest of system thematically and mechanicly
+- Grants features which are about 1 sentance each, and not many of them
+- Require choice when spending xp, possibly with an element of luck
+- Does not include "begginer traps"
+- Each ability has "tiers", which replace previous features and 

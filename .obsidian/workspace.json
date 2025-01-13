@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "WIP/Psionics/Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Planning"
             }
           }
         ]
@@ -164,18 +164,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0733c9bb7e05cb8",
+  "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
-    "Text File.txt",
-    "Readme.md",
+    "Rules/Checks.md",
+    "WIP/Psionics/Planning.md",
+    "GM Resources/Untitled.canvas",
     "Untitled.md",
+    "WIP/Psionics/Armor.md",
+    "Readme.md",
+    "WIP/Psionics",
+    "Text File.txt",
     "GM Resources/Tips.md",
     "Spacefaring/Ship Combat.md",
     "WIP/Feature Enhancements.md",
     "Items/Weapons.md",
     "WIP/Modules.md",
     "The System/Venus.md",
-    "WIP/Psionics.md",
     "Setting/Currencies.md",
     "Spacefaring/Spaceflight.md",
     "Spacefaring/Logistics.md",
@@ -191,7 +195,6 @@
     "GM Resources/Running a Campaign.md",
     "GM Resources/Non-Player Characters.md",
     "GM Resources/GMs Eyes Only.md",
-    "GM Resources/Time Scales.md",
     "Solar System v2.html",
     "Solar System Map.html",
     "Solar System.html",
@@ -200,8 +203,6 @@
     "License.txt",
     "Local, gitignore",
     "BodyTemplate.png",
-    "Items",
-    "Basic",
-    "lu6878e6v0.tmp"
+    "Items"
   ]
 }
