@@ -33,6 +33,7 @@ If you are interested in this game, this is the recommended order to read the ca
 - List of In-Game Building Materials
 #### Features & Resources
 - Spacecraft Sheets
+- Spacecraft Module Compendium
 - Preset NPC Stat Blocks
 - Preset Expert Items
 - Preset Ability Enhancements

@@ -1,5 +1,6 @@
 ### Parameters
-- Available to all characters, dosen't require luck
+- Available to all characters
+- Dosen't require luck
 - Some characters are resistant
 - Void-born and martians start with a bit
 - Balanced with the rest of the game
@@ -18,4 +19,9 @@
 - Grants features which are about 1 sentance each, and not many of them
 - Require choice when spending xp, possibly with an element of luck
 - Does not include "begginer traps"
-- Each ability has "tiers", which replace previous features and 
+- Each ability has "tiers", which expand on each other
+	- No more than length 3-4 chains
+	- Requirements on each level
+	- Combat relevent abilities in most chains
+- Doesn't use skills
+- 

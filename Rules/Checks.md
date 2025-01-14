@@ -26,7 +26,9 @@ To make a check, follow these steps:
 3. Add +1 if you have a relevant skill that applies to the task, check with your GM.
 4. Include any advantages or disadvantages applied to the situation (see below).
 
-Then give this result to the GM, and they will compare it to the difficulty they set for the check. If you rolled at least the difficulty of the check, you succeed. Failing by just one, or rolling the difficulty exactly could cause a partial success, and rolling way above the difficulty or way below will indicate an easier success or more spectacular failure. See [Check Difficulties](Check%20Difficulties.md) for more information.
+Then give this result to the GM, if the check was made to complete a task it is compared to a difficulty value, see [Check Difficulties](Check%20Difficulties.md) for more information about these. If the check was an attack, instead a resistances value is subtracted from it to calculate damage.
+#### Marginal Successes
+If the roll is exactly equal to the difficulty it might be a **Marginal Success**, meaning the success is only partial or comes at some other cost.
 #### Contested Checks
 Sometimes two characters will roll against each other, if they get the same result they both must re-roll.
 #### Setbacks
