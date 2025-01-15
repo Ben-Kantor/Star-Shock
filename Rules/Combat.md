@@ -5,8 +5,8 @@ At the start of their turn, players declare how many actions they are taking, up
 Each action that involves a dice roll gets -1 for each action more than one that they are taking this turn.
 This is called the **Action Penalty**, and means if you take three actions in a turn, each one gets -2 on the roll.
 Actions that do not require a roll can ignore this, however.
-- **Light Punch** - Make a Dexterity check, deal that much damage to an enemy within 1m, minus their Strength resistance.
-- **Heavy Punch** - Make a Strength check, deal that much damage to an enemy within 1m, minus their Dexterity resistance.
+- **Light Punch** - Make a Dexterity + {Martial Arts} check, deal that much damage to an enemy within 1m, minus their Strength resistance.
+- **Heavy Punch** - Make a Strength + {Martial Arts} check, deal that much damage to an enemy within 1m, minus their Dexterity resistance.
 - **Other Weapon Attack** - Other [Weapons](/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
 - **Interact with Object** - You can usually only interact with the same object once per turn, and if the interaction requires a check it will be effected by the Action Penalty
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 10m of ground, though in more difficult terrain it might be 5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
@@ -26,7 +26,7 @@ If a character wants to take an action outside of their turn, they can choose to
 
 Alternatively, two players may switch seats to change the initiative position of their characters.
 ## Resistances
-Each attribute also serves as a damage reduction for a given type of damage, in the range of 5-10. This is usually equal to the attribute plus 5. All damage of that type is reduced by that much, negative abilities count as 0, and damage can be reduced to nothing.
+Each attribute also serves as a damage reduction for a given type of damage, in the range of 5-10. This is usually equal to the attribute plus 7. All damage of that type is reduced by that much, negative abilities count as 0, and damage can be reduced to nothing.
 
 | Ability   | Damage                                |
 | --------- | ------------------------------------- |
@@ -57,6 +57,4 @@ Characters who are blinded get disadvantage on attacks and other checks that req
 #### Others
 Some other abilities will inflict other status conditions, they will always be described and have an end condition specified.
 ## Map Combat
-For some complex encounters, the GM may decide to setup a map. The recommended way to do this is having a printed out or drawn map, and to use small markers. A virtual table-top can also be used, we recommend [Owlbear Rodeo](https://www.owlbear.rodeo/).
-
-While doing combat on a map, squares/hexes may be used, each of which represents 1m. One move action lets a character move by 10m. Moving diagonally on grids counts as 1m. Abilities that let you to move twice as far with a move action, such as the one gained by half-venusians, instead let you move 15m with one move action.
+For some complex encounters, the GM may decide to setup a map. The recommended way to do this is having a printed out or drawn map, and to use small markers. A virtual table-top can also be used, we recommend [Owlbear Rodeo](https://www.owlbear.rodeo/). While doing combat on a map, squares or hexes may be used, each of which represents 1m. One move action lets a character move by 10m. Moving diagonally on grids counts as only 1m. 

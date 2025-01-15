@@ -31,4 +31,4 @@ Items:
 #### Criminal
 
 
-Categories with three tiers, not too specifice
+Categories with three levels, not too specifice

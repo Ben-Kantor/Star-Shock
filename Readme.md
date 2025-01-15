@@ -23,8 +23,9 @@ If you are interested in this game, this is the recommended order to read the ca
 #### Meta
 - Consider changing the game's name.
 - Strengthen Absurdist Theme
-#### Immediate
-- Psionics
+#### Lore
+- Cybernetics
+- Disciplines
 - Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
@@ -36,8 +37,8 @@ If you are interested in this game, this is the recommended order to read the ca
 - Spacecraft Module Compendium
 - Preset NPC Stat Blocks
 - Preset Expert Items
-- Preset Ability Enhancements
-- Preset Cybernetic Enhancements
+#### Future
+- Fine-Tune XP Abilities
 ## Credits
 #### Writers & Editors
 Ben Kantor - _Main Writer_
@@ -59,7 +60,7 @@ Ben Kantor - _Main Writer_
 - [LibreOffice](https://www.libreoffice.org/)
 - [Game-Icons.net](https://game-icons.net/)
 ## Contributing
-EXO-2040 is an intralinked markdown wiki, written and edited using Obsidian and published on Github. If you want to suggest changes, fork the repository, make your changes using the online or a local editor, then submit a pull request to have your changed merged into the game. Below are the basic principles of the game source.
+EXO-2040 is an intralinked markdown wiki, written and edited using Obsidian and published on Github. If you want to suggest changes, fork the repository, make your changes using the online or a local editor, then submit a pull request to have your changed merged into the game. Contributers can fix errors in the source, add clarifications, or suggest new content to be added. Below are the basic principles of the game source, that should be followed in all pull requests.
 #### Expansible Mechanics
 - Gameplay systems should all expand on the core of the system (attributes, skills, 2d6 checks, etc...), as well as on other mechanics, and should leave room to be expanded upon.
 - Mechanics should also use common themes, for instance the values of the values 3, 5, 7, and 10 are far preferred to other numbers.

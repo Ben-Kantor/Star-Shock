@@ -64,7 +64,7 @@ Two skills or more are granted by your backgrounds, plus one skill from the **{{
 - **Persuade** - Convince others to act or believe in a specific way through argument.
 - **Insight** - Understand the motives, feelings, or truthfulness of others in interactions.
 - **Authority** - Assert your authority in social situations, and inspire others.
-- **Charm** - Use wit, charisma, and personal appeal to win others over.
+- **Charm** - Use wit, charisma, and personal appeal to manipulate others.
 - **Negotiate** - Mediate agreements between parties, negotiate deals.
 #### Low-Life
 - **Subtlety** - Perform tasks requiring discretion or deception without drawing attention, use sleight of hand.

@@ -8,7 +8,7 @@ While a pilot is controlling a ship from the helm, each turn they make a difficu
 - **Aggressive Maneuver**
     - Provide advantage on all outgoing weapons fire checks.
 #### Fixing damage
-Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 30. Checks will be made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage tier on components with multiple damage tiers. This must be done from the location where the damage occurred. 
+Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 30. Checks will be made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred. 
 #### Firing Weapons
 Some weapons fire automatically but most require an operator or a [Combat Computer](Modules.md#Combat%20Computer). To fire a weapon, a character makes a check based on the weapon's attribute, plus their **{Heavy Weapons}** skill. All ship weapons can only be fired once per turn. One character can operate two weapons, taking a move action between them and accounting for action penalty.
 #### Boarding
@@ -18,7 +18,7 @@ In most ships, the helm is at the top and the engines are at the bottom. Navigat
 ## Damage
 Each ship or structure has two resistances instead of the normal four: **Armor** and **Shield**, each in the range of 5-10. Heavy metal panels that increases Armor Resistance tend to make vessels more conductive, and tend to reduce Shield, so less powerful ships tend to have one or the other, but nicer ships might have better protection against both.
 #### Targeting
-When an attack is made, the attacker can choose to take disadvantage to aim for a particular part of the enemy ship. This can be a module, the helm, the engines, or other sections listed on the ship's stat page.  After 10 damage modules become disabled and empty module slots depressurize and lose any stored items into space. After 10 damage core components such as the helm and engines take one tier of damage, which will be explained on the ship sheet.
+When an attack is made, the attacker can choose to take disadvantage to aim for a particular part of the enemy ship. This can be a module, the helm, the engines, or other sections listed on the ship's stat page.  After 10 damage modules become disabled and empty module slots depressurize and lose any stored items into space. After 10 damage core components such as the helm and engines take one level of damage, which will be explained on the ship sheet.
 #### Un-Targeted Attacks
 When an attack is made that is not targeted, the ship sheet will have a rolling table to see what is hit. Then on future attacks with the same weapon whoever is controlling the weapon can remain locked on and hit the same spot again without the targeting penalty, or re-roll and hit a new place.
 #### Cross-Damage

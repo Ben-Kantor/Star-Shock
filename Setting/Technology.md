@@ -15,7 +15,7 @@ All communicators can get a week connection at up to twice the range, often with
 ## Photonic Cables
 Large bundled cables that transfer date, data moves at about 10m/s so large computator systems try to be as compact as possible. The bundle of data can be seen as a glowing spot moving along the cable. Cables transferring lots of data might be glowing permanently.
 ## Artificial Gravity
-Artificial gravity is created by electrifying a layered material containing tungsten, to generate an attraction force like gravity only in one direction. This is the main reason for the high price of Tungsten. On some larger ships the gravity generator may be targeted by attacks. It is sometimes referred to as "arti-grav."
+Artificial gravity is created by electrifying a material made of layered sheets of metal, to generate an attraction force like gravity only in one direction. It is sometimes referred to as "arti-grav."
 ## Void-Suits
 Metallic suits worn to protect from the radiation and vaccum of space. Some are closer to skin-tight while others are more bulk. Some are painted and have logos or insignia, and some have built-in armor. They have a convenient toggle control that slides up or retracts a bubble over the wearer's head, attachable to an oxygen tank at the hip or on the back.  Many have magnetic mounts on the sides for tools or weapons.
 ## Universal Implant

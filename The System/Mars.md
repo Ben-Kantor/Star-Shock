@@ -1,3 +1,5 @@
+## Martians
+Martians look mostly like humans, but have silverish skin, are slightly shorter at 1-1.5 m. They tend to speak using larger words and consider pure rationality to be important, the many modern Martians don't follow this strictly.
 ## The Martian Wars
 In the 1960s, multiple soviet Mariner space probes suddenly went dark when approaching Mars. Sensors on Earth showed an energy pulse from the moment it was destroyed, originating from the Martian surface. Martian deep-space citadels in the Lagrange points were discovered, and an envoy ship sent to greet one was vaporized. The existential threat of Martian invasion was a key driving force in the major investment in space science and infrastructure, as well as the martial alliance of all major earth powers.
 

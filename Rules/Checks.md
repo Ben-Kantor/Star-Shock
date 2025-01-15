@@ -14,7 +14,7 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 | Engineering    | Academic    | High-Life   | Low-Life   | Soldier        | Explorer |
 | -------------- | ----------- | ----------- | ---------- | -------------- | -------- |
 | Computators    | Physics     | Investigate | Subtlety   | Archery        | Medicate |
-| Robotics       | Chemistry   | Persuade    | Deceive    | Blades         | Move     |
+| Robotics       | Chemistry   | Persuade    | Deceive    | Melee          | Move     |
 | Mechanics      | History     | Insight     | Stealth    | Firearms       | Survival |
 | Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate |
 | Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track    |

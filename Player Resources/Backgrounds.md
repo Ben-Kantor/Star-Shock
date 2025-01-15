@@ -1,18 +1,14 @@
 ### Half-Martian
-_You have slightly reddish skin and are slightly shorter than the average human._
+_You have slightly silver skin and are slightly shorter than the average human._
 - (◆◇◇) Martian Contact on Mars or in a Martian embassy.
 - **{{Academic}}** Category Skill.
-- Choose a Feature:
-    - "See through up to 20cm of ground, 5cm of aluminum, or 2cm of steel."
-    - "Telepathically communicate both ways with characters you can sense within 10m."
+- Start with the first level feature from either the [ESP](./Psionics.md#ESP) or [Telepathy](./Psionics.md#Telepathy) psionics abilities.
 ### Half-Venetian
 _You have slightly greenish skin and are slightly taller than the average human._
 - (◆◇◇) Venusian Contact on Venus or in a Venusian embassy.
 - **{{Explorer}}** Category Skill.
 - "You can intake two consumables per day instead of one without suffering penalties."
-- Choose a Feature:
-    - "Four hours spent in inner solar system sunlight or high radiation heals one minor injury and sustains you as a meal."
-    - "You don't suffer action penalties for **Move** actions."
+- "You don't suffer action penalties for move actions."
 ### Cybernetic
 _You have a cybernetic enhancement or replacement body part._
 - (◆◇◇) Cyberneticist Contact.
@@ -22,9 +18,9 @@ _You have a cybernetic enhancement or replacement body part._
     - "Advantage on all Grapple checks." (_Cybernetic Arm_)
 ### Void-Born
 _You are unusually tall and have no eyebrows._
-- (◆◇◇) Launch Operator Contact - OR - Ship Captain Contact.
+- (◆◇◇) Contact aboard a spacecraft.
 - **{Spacecrafts}** Skill.
-- "Advantage on **Move** and **Navigate** checks within spacecraft, and some low-gravity environments."
+- Start with the first level feature from either the [Telekinesis](./Psionics.md#Precognition) or [Precogntion](./Psionics.md#Precognition) psionic abilities.
 - Starting Item: [Magnetic Boots](../Items/Basic%20Items.md).
 ### Pilot
 - **{Spacecrafts}** Skill.
@@ -76,7 +72,7 @@ _You are unusually tall and have no eyebrows._
 ### Criminal
 - (◆◇◇) Criminal Leader Contact - OR - Smuggler Contact.
 - Two **{{Low-Life}}** Skills.
-- You may buy up to one [Illicit Item](/items/Illicit%20Items.mc) instead of a Basic Item when buying starting items.
+- "You may buy up to one [Illicit Item](/Items/Illicit%20Items.md) instead of a Basic Item when buying starting items."
 ### Skilled
 - One Skill from **Any Category**.
 - Increase one attribute by +1, to a maximum of 2.
