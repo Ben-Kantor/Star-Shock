@@ -1,11 +1,11 @@
 ### Half-Martian
 _You have slightly silver skin and are slightly shorter than the average human._
-- (◆◇◇) Martian Contact on Mars or in a Martian embassy.
+- (◆◇◇) Martian Contact.
 - **{{Academic}}** Category Skill.
 - Start with the first level feature from either the [ESP](./Psionics.md#ESP) or [Telepathy](./Psionics.md#Telepathy) psionics abilities.
 ### Half-Venetian
 _You have slightly greenish skin and are slightly taller than the average human._
-- (◆◇◇) Venusian Contact on Venus or in a Venusian embassy.
+- (◆◇◇) Venusian Contact.
 - **{{Explorer}}** Category Skill.
 - "You can intake two consumables per day instead of one without suffering penalties."
 - "You don't suffer action penalties for move actions."
@@ -24,8 +24,8 @@ _You are unusually tall and have no eyebrows._
 - Starting Item: [Magnetic Boots](../Items/Basic%20Items.md).
 ### Pilot
 - **{Spacecrafts}** Skill.
-- "You can identify spacecrafts from the exterior and can always locate the command and engine rooms."
-- **Bonus Starting Item:** A shuttlecraft, racing pod, or pressurized rover.
+- "You have advantage on all checks to pilot spacecraft"
+- Starting Possesion: A shuttlecraft, racing pod, or pressurized rover.
 ### Hacker
 - **{Computator}** Skill.
 - (◆◇◇) Expert Hacker Contact - OR - (◆◇◇) Intelligence Service Contact.
@@ -70,9 +70,9 @@ _You are unusually tall and have no eyebrows._
 - "You can sense any character's emotion unless they succeed a difficulty 10 Prs + Deceive check."
 - "Once per session, add your Prs attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."
 ### Criminal
-- (◆◇◇) Criminal Leader Contact - OR - Smuggler Contact.
+- (◆◇◇) Criminal Contact.
 - Two **{{Low-Life}}** Skills.
-- "You may buy up to one [Illicit Item](/Items/Illicit%20Items.md) instead of a Basic Item when buying starting items."
+- You may buy up to one [Illicit Item](/Items/Illicit%20Items.md) instead of a Basic Item when buying starting items.
 ### Skilled
 - One Skill from **Any Category**.
 - Increase one attribute by +1, to a maximum of 2.
@@ -91,5 +91,5 @@ _You are unusually tall and have no eyebrows._
 - "Once per session, re-roll one or both dice on a Prs check."
 - Starting Item [Holo-Projector](/Items/Basic Items.md#Holo-Projector (₮20)).
 ### Savant
-- **{{Academic}}** or **{{Engineering}}** Category Skill.
-- "Once per session, add your In attribute to any check after rolling."
+- One **{{Academic}}** and one **{{Engineering}}** Category Skill.
+- "Once per session, add your Int attribute to any check after rolling."

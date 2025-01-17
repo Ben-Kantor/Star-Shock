@@ -29,8 +29,7 @@ If you are interested in this game, this is the recommended order to read the ca
 - Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
-- Criminal Groups
-- Fashion
+- Criminal Syndicates
 - List of In-Game Building Materials
 #### Features & Resources
 - Spacecraft Sheets

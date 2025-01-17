@@ -4,9 +4,9 @@ Before building a character, it's important you get a basic understanding of the
 ### Step 1. Backgrounds
 Take a look through [Backgrounds](Backgrounds.md) and pick two that appeal to you. This is the most important choice in character creating, and will inform all future decisions so think carefully. If you want, you can consult your GM about building a custom background or modifying an existing one, but you should use at least one vanilla one. Also talk to other players and hear what characters they are making, to make sure yours fits into the party. Once you have chosen two different backgrounds, write them down on your sheet (p1. ↑), then copy over any benefits they give you in skills (p2, ↖), features (p2, ←), and starting items in your inventory (p1, ↓).
 
-Also copy any contacts (p1, ←) you got, with the number of stars in the top right, and their occupation in the bottom box. You may then choose to give them a name (top row), or leave it blank for now. In the second row, for location, you can choose to either put your starting location or leave it blank for the contact to be introduced at another location later in the story.
+Copy any contacts (p1, ←) you got, with the number of stars in the top right, and their occupation in the bottom box. You may then choose to give them a name (top row), or leave it blank for now. In the second row, for location, you can choose to either put your starting location or leave it blank for the contact to be introduced at another location later in the story. When they are filled in they will need a lot of specification, for instance if you are granted a criminal contact, you will need to choose whether they are a smuggler, thief, fence, or anything else.
 
-Property you start with that you don't carry with you can be tracked in notes (e.g. a spaceship). Make sure to note where it is kept.
+Property you start with that you don't carry with you can be tracked in notes (e.g. a spaceship).
 ### Step 2. Attributes and Skills
 Here you will determine the main mechanical strengths and weaknesses of your character. For this part its best to co-ordinate with other players to make sure you have a well-balanced party.
 

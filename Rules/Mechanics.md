@@ -1,24 +1,3 @@
-## Items
-Each character can hold up to 10 items, with multiples of small items counting as one. Some items can be used an unlimited number of times, but others are consumables. All consumables are single-use, characters can only intake at most one consumable per day, resetting every 24 hours or on a rest. Some items such as armor, weapons, or advances items will need to be added to the Items boxes on the character sheet, to indicate they are currently equipped. This includes items which don't use have a range, modifier, resistance, or rate.
-#### Advanced Items
-Advanced items are a type of armor, weapons, or other utility items that require training to use. A number of XP and shifts must be spent learning to use the item, and then it can be added to the training section on the character sheet. In some cases untrained items can be used with disadvantage, but not for the long term. 
-#### Weapons
-Each weapon will have several different values that determine its unique properties. These can be copied down when you add the weapon to your character sheet.
-- Range
-	- How many meters away the weapon can reach.
-	- If the weapon is ranged, it may be used at twice the range with single disadvantage, three times range with double disadvantage, etc...
-	- Some weapons can be thrown with disadvantage at a range of 5m.
-- Rate
-	- How many times the weapon can be used per turn, each time it is used takes an action. 
-- Modifier
-	- What attribute and skill are used to make the attack, and possible a constant bonus or penalty.
-	- Total this up when you add a weapon to your character sheet and write down the final number.
-- Resistance
-	- When Resistance score is used to reduce the damage for the defender.
-	- On your character sheet put this down as Strength, Dexterity, Intellect, or Presence
-- Special Ability
-	- Any special mechanics or abilities of the weapon, write this down in the big empty box in the item panel on your character sheet.
-	- If special abilities can be activated after an amount of damage, only one can be chosen at a time.
 #### Armor
 Some items, called armor, increase some of these resistances. One character cannot wear more than one piece of armor at a time.
 ## Luck Points

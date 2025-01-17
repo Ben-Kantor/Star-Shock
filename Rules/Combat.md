@@ -40,6 +40,11 @@ When damage is dealt to a character, it is added to their previous total damage,
 - If they succeed, nothing happens.
 - If they fail, they fall unconscious.
 - If they fail by 7 or more, they fall into a coma.
+#### Fall damage
+Consult below to see how much damage is taken from falling a certain distance. Those amounts also specify the largest downwards drop that can be made intentionally with no damage.
+- Earth, Venus - 1d6 damage per 2m fallen
+- Mars, anywhere with Arti-Grav - 1d6 per 5m fallen
+- Large asteroids and moons - 1d6 per 10m fallen
 ## Status Conditions
 #### Unconscious
  While a character is unconscious, If the amount of damage they have decreases while they are unconscious, they may re-roll and wake up on a success. If the amount of damage increases, they must re-roll to see if they fall into a coma, but they don't wake up on a success. Without interference, unconscious characters will wake up after 1 hour.

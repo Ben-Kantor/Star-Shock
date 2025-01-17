@@ -1,1 +1,0 @@
-Card games are played using tungsten coated playing cards, to prevent psionic interference.

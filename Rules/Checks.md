@@ -17,7 +17,7 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 | Robotics       | Chemistry   | Persuade    | Deceive    | Melee          | Move     |
 | Mechanics      | History     | Insight     | Stealth    | Firearms       | Survival |
 | Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate |
-| Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track    |
+| Comms          | Planetology | Charm       | Intimidate | Martial Arts   | Track    |
 | Spacecrafts    | Xenology    | Negotiate   | Recon      | Heavy Weapons  | Nature   |
 ## Checks
 To make a check, follow these steps:
