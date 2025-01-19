@@ -8,7 +8,7 @@ Resistances
 Items:
 - Electric Baton
 	- Range: 1m, Attacks: 1, Roll: + 2 - Str Resistance
-	- "3 ≥ dmg → 1d6 additional energy damage."
+	- "3+ dmg → 1d6 additional energy damage."
 - Disposable Plasma Pistol
 	- Range: 5m, Attacks: 1, Value: ₮20, Roll: + 2 - Int Resistance
 	- "Can only fire three shots, after which it is inoperable"
@@ -24,7 +24,7 @@ Resistances
 Items:
 - Electric Baton
 	- Range: 1m, Attacks: 1, Roll: + 2 - Str Resistance
-	- "3 ≥ dmg → 1d6 additional energy damage."
+	- "3+ dmg → 1d6 additional energy damage."
 - Disposable Plasma Pistol
 	- Range: 5m, Attacks: 1, Value: ₮20, Roll: + 2 - Int Resistance
 	- "Can only fire three shots, after which it is inoperable"

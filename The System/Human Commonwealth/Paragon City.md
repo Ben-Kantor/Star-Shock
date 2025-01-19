@@ -10,3 +10,5 @@ The middle floors, taking up half of the space, contain shops, restaurants, and 
 
 The upper floors are owned by wealthy businesses, including some extra-terrestrial businesses and embassies. There are leisure areas here, many of which are available to the to the lower floor residents for a small fee, but some of which are private. Some include levitating plant baskets, and even exotic zoos. There are many luxury hotels and condos and private offices, with the most fancy ones located at the edge of the spire with a view.
 
+## Locations
+- **Star-Burger**, a fast food chain with multiple locations, serving hamburgers made out of algea and similar foods.

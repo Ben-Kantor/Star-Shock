@@ -40,9 +40,8 @@ Now you can fill out the four small boxes about your character's identity (p1, â
 	- You can also choose to be half-alien just for flavor, but with no mechanical benefits. (Half-alien biology is inconsistent between individuals)
 - **From**: Where the character is from.
 	- Options include: Paragon City, any location on Earth, another Lunar Colony, a spaceship or station, or the Meteor Belt.
-- **Age**: How old your character is at the start of the story.
-	- Player Characters are usually in their 20s or early 30s, but can be older.
-	- Humans live for up to 100 years, and aliens can live for longer.
+- **Title**: Position in the Human Interplanetary Fleet or any organized structure.
+	- Leave blank for now.
 
 You may also choose to make a basic drawing of your character, on the body template (p1, â†™). This will primarily be used later for tracking wounds and bodily enhancements.
 ### Step 4. Name

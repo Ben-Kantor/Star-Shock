@@ -1,4 +1,4 @@
-All psionic powers cost 5 XP to unlock, with some requiring a minimum total XP before training. To train an ability, a character must spend a shift and make a Prs check against a difficulty listed in the table below. On a success, they gain the ability. On a failure, they gain an advantage toward their next attempt, which can stack.
+All psionic abilities cost 5 XP to unlock, to unlcok the second ability in any set you must have at least 15 total XP, and to  unlock the third one you must have at least 30 total XP. To train an ability, a character must spend a shift and make a Prs check against a difficulty listed in the table below. On a success, they gain the ability. On a failure, they gain an advantage toward their next attempt, which can stack.
 When making a psionics check against a character, roll a Prs check against a difficulty equal to their Prs resistance. If you fail any psionics check, you take 1 damage point.
 - Targets are vaguely aware that psionics were used unless your roll exceeded the check difficulty by at least 1, or you spend a luck point to counter this awareness.
 - If you attempt a psionics check against a target (with or without a roll), you cannot do so again with the same target and ability until you rest.
@@ -13,7 +13,7 @@ When making a psionics check against a character, roll a Prs check against a dif
 ### Telepathy
 1. "You can telepathically communicate with allies within 100m."
 2. "You can feel the emotions of any character you can sense."
-3. "By touching a character's skin, you can read their surface thoughts for 1 minute if you succeed on a psionics check against them."
+3. "By touching a character's skin, you can read their thoughts for 1 minute if you succeed on a psionics check against them, learning their secrets may require additional checks."
 ### Telekinesis
 1. "You can slowly manipulate objects weighing up to 5kg."
 2. "You can manipulate up to 20kg with a difficulty 10 psionics check or disarm a target by succeeding a contested check using your Prs against their Str."

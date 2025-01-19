@@ -24,7 +24,6 @@ If you are interested in this game, this is the recommended order to read the ca
 - Consider changing the game's name.
 - Strengthen Absurdist Theme
 #### Lore
-- Cybernetics
 - Disciplines
 - Locations in Paragon City
 - Meteor Belt Settlements

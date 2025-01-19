@@ -1,6 +1,5 @@
-
 ## Ship Identifiers
-Any ship with seats for more than five passangers, more than five module slots, or that is being used for trade must be registered, with a prefix and a name. Prefixes are three-letter initialisms placed before a ship name to indicate its affiliation and purpose. While the rules for prefixes are not strict and there is no central authority enforcing them, many planetary governments prohibit misuse of prefixes.
+Any large spacecraft (five or more module slots) must be registered, with a prefix and a name. Prefixes are three-letter initialisms placed before a ship name to indicate its affiliation and purpose. While the rules for prefixes are not strict and there is no central authority enforcing them, many planetary governments prohibit misuse of prefixes.
 #### First Letter
 The first letter indicates what domain of the system the craft operates from.
 - B - Belt

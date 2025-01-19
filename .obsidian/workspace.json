@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Resources/Cybernetics.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybernetics"
+              "title": "Readme"
             }
           }
         ]
@@ -166,32 +166,33 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
-    "Readme.md",
-    "Setting/Psionics.md",
-    "WIP/Modules.md",
-    "WIP/Preset Stat-Blocks.md",
-    "Rules/Checks.md",
-    "Setting/Food.md",
     "Player Resources/Cybernetics.md",
-    "WIP/Expert Items.md",
-    "WIP/Ideas.md",
-    "WIP/Disused Content.md",
-    "WIP/Disciplines.md",
-    "WIP/Games.md",
-    "WIP/Tiered Abilities/Planning.md",
-    "Rules/Mechanics.md",
-    "WIP/Untitled.md",
-    "Items/Basic Items.md",
-    "Rules/Downtime.md",
-    "Items/Armors.md",
-    "Items/Consumables.md",
-    "Player Resources/Backgrounds.md",
-    "Player Resources/Character Creation.md",
-    "Player Resources/Psionics.md",
-    "Player Resources/Skills & Attributes.md",
-    "Player Resources/XP.md",
-    "Items/Illicit Items.md",
     "Items/Weapons.md",
+    "WIP/Preset Stat-Blocks.md",
+    "Player Resources/Psionics.md",
+    "Setting/Currencies.md",
+    "Player Resources/Character Creation.md",
+    "lu299033jqxt.tmp",
+    "Player Resources/Skills & Attributes.md",
+    "Setting/Technology.md",
+    "Spacefaring/Ship Combat.md",
+    "Spacefaring/Spaceflight.md",
+    "The System/Human Commonwealth/Human Spacecraft.md",
+    "The System/Human Commonwealth/Paragon City.md",
+    "The System/Human Commonwealth/The Human Commonwealth.md",
+    "The System/Jupiter.md",
+    "The System/Mars.md",
+    "GM Resources/Time Scales.md",
+    "Spacefaring/Logistics.md",
+    "The System/Human Commonwealth/Earth.md",
+    "The System/Mercury & Solar Space.md",
+    "The System/The Meteor Belt.md",
+    "The System/Venus.md",
+    "Readme.md",
+    "WIP/Disciplines.md",
+    "WIP/Modules.md",
+    "WIP/Expert Items.md",
+    "WIP/Disused Content.md",
     "GM Resources/Untitled.canvas",
     "WIP/Tiered Abilities",
     "Text File.txt",
@@ -202,7 +203,6 @@
     "Spacefaring",
     "License.txt",
     "Local, gitignore",
-    "BodyTemplate.png",
-    "Items"
+    "BodyTemplate.png"
   ]
 }

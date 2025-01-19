@@ -13,4 +13,4 @@ The game will switch between different time scales, depending on the current pos
 	- When players will be taking many shifts in a row.
 	- See [Spending Days](../Rules/Downtime.md#Spending%20Days)
 - **Extended Downtime**
-	- When players are spending weeks or months outside of an adventure, allow them to describe what their characters are working on, and allowing them to complete very large projects. XP isn't earned during this time, but money can be and large projects such as building a ship, making contacts, and building businesses can be done. Model this as you see fit.
+	- When players are spending weeks or months outside of an adventure, allow them to describe what their characters are working on, and allowing them to complete very large projects. XP isn't earned during this time, but money can be and large projects such as building a ship, making contacts, and building businesses can be done. Model this as you see fit. This can be used to allow them to rise in the ranks of an organization at a more realistic pace.
