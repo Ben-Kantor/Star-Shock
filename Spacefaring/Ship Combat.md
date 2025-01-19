@@ -1,12 +1,12 @@
 When spacecrafts or spacecraft-sized combatants fight, a system called **Ship Combat** is used. At the start, each player chooses where in the ship their character starts, and all characters are assumed to be wearing [void-suits](../Setting/Technology.md#Void-Suits). They will take actions as usual with action penalties, up to three per turn. Anything that can be done during normal combat can also be done during Spacecraft Combat, but below are the rule detailing the three main actions. All of these checks can be assisted by anyone with at least three in a relevant attribute, or a relevant skill.
 #### Piloting
-While a pilot is controlling a ship from the helm, each turn they make a difficulty 10 Dex + **{Spacecrafts}** to control the ship. If they fail they lose control, and weapons fire against them gains advantage. For each two points of margin rolled, the pilot may execute one maneuver, including the same one more than once:
+While a pilot is controlling a ship from the helm, each turn they make a difficulty 10 Dex + **{Spacecrafts}** to control the ship. If they fail they lose control, and weapons fire against them gains a +1 bonus. For each two points of margin rolled, the pilot may execute one maneuver, including the same one more than once:
 - **Evasive Maneuver**
-    - Provide disadvantage on all incoming weapons fire checks.
+    - Provide a -1 penalty on all incoming weapons fire checks.
 - **Acceleration Maneuver**
     - Add 3 to the ship's Speed Boost this turn.
 - **Aggressive Maneuver**
-    - Provide advantage on all outgoing weapons fire checks.
+    - Provide a +1 bonus on all outgoing weapons fire checks.
 #### Fixing damage
 Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 30. Checks will be made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred. 
 #### Firing Weapons
@@ -18,7 +18,7 @@ In most ships, the helm is at the top and the engines are at the bottom. Navigat
 ## Damage
 Each ship or structure has two resistances instead of the normal four: **Armor** and **Shield**, each in the range of 5-10. Heavy metal panels that increases Armor Resistance tend to make vessels more conductive, and tend to reduce Shield, so less powerful ships tend to have one or the other, but nicer ships might have better protection against both.
 #### Targeting
-When an attack is made, the attacker can choose to take disadvantage to aim for a particular part of the enemy ship. This can be a module, the helm, the engines, or other sections listed on the ship's stat page.  After 10 damage modules become disabled and empty module slots depressurize and lose any stored items into space. After 10 damage core components such as the helm and engines take one level of damage, which will be explained on the ship sheet.
+When an attack is made, the attacker can choose to take a -1 penalty to aim for a particular part of the enemy ship. This can be a module, the helm, the engines, or other sections listed on the ship's stat page.  After 10 damage modules become disabled and empty module slots depressurize and lose any stored items into space. After 10 damage core components such as the helm and engines take one level of damage, which will be explained on the ship sheet.
 #### Un-Targeted Attacks
 When an attack is made that is not targeted, the ship sheet will have a rolling table to see what is hit. Then on future attacks with the same weapon whoever is controlling the weapon can remain locked on and hit the same spot again without the targeting penalty, or re-roll and hit a new place.
 #### Cross-Damage

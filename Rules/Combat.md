@@ -10,7 +10,7 @@ Actions that do not require a roll can ignore this, however.
 - **Other Weapon Attack** - Other [Weapons](/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
 - **Interact with Object** - You can usually only interact with the same object once per turn, and if the interaction requires a check it will be effected by the Action Penalty
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 10m of ground, though in more difficult terrain it might be 5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
-- **Assist** - Offer help to a check someone else is about to make, granting them advantage if you have an attribute of three or higher or a skill relevant to the check.
+- **Assist** - Offer help to a check someone else is about to make, granting them a +1 bonus if you have an attribute of three or higher or a skill relevant to the check.
 - **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md), can only be done once per turn.
 - **Block, Dodge, Concentrate, Meditate** - Increase one of your resistances by one until next turn.
 - **Stand up from Prone**
@@ -56,9 +56,9 @@ Characters in a coma are unable to communicate and do not make consciousness che
 
 While in a coma, the same  item can't be used more than once, and heal checks do nothing. To wake up, they will need advanced healing from a medical center, and then electroshock therapy to wake them up.
 #### Prone
-While prone, characters have a disadvantage on attacks and some physical checks, and attacks against them have an advantage. Moving the same distance that would normally take one move action instead requires two move actions. They can stand up form prone as an action. 
+While prone, characters have a a -1 penalty on attacks and some physical checks, and attacks against them have a +1 bonus. Moving the same distance that would normally take one move action instead requires two move actions. They can stand up form prone as an action. 
 #### Blinded
-Characters who are blinded get disadvantage on attacks and other checks that require sight. This condition will usually be inflicted by an item or ability, and last a specified duration.
+Characters who are blinded get a -1 penalty on attacks and other checks that require sight. This condition will usually be inflicted by an item or ability, and last a specified duration.
 #### Others
 Some other abilities will inflict other status conditions, they will always be described and have an end condition specified.
 ## Map Combat

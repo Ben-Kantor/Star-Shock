@@ -24,7 +24,7 @@ _You are unusually tall and have no eyebrows._
 - Starting Item: [Magnetic Boots](../Items/Basic%20Items.md).
 ### Pilot
 - **{Spacecrafts}** Skill.
-- "You have advantage on all checks to pilot spacecraft"
+- "You have a +1 bonuss on all checks to pilot spacecraft"
 - Starting Possesion: A shuttlecraft, racing pod, or pressurized rover.
 ### Hacker
 - **{Computator}** Skill.

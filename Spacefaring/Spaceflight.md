@@ -1,6 +1,6 @@
 ## Understanding Spacecraft
 - For spacecraft, the longest axis is usually top / bottom, with the helm at the top an the engine at the bottom.
-- If a spacecraft doesn't have artificial gravity, most physical checks will be at disadvantage for everyone who isn't void-born.
+- If a spacecraft doesn't have artificial gravity, most physical checks will be at a -1 penalty for everyone who isn't void-born.
 #### Computators
 All modern spacecrafts have a core computator terminal, used to plot routes. 
 - Can solve basic math / physics problems at a cost of 🜁 each.

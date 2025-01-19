@@ -7,7 +7,7 @@ There are two ways to spend Luck Points:
 - After a player makes a roll, they can spend a number of luck points to re-roll a d6 with that number showing. For instance they could spend one point to re-roll a d6 that rolled a 1.
 - Before making an action, a player may spend a luck point to ignore one point of action penalty, this is most useful when a character needs to take more actions then planned.
 
-If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent advantage for being the protagonists of the story, no NPCs have luck points.
+If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent a +1 bonuss for being the protagonists of the story, no NPCs have luck points.
 ## Contacts
 Contacts are NPCs that a player character has a connection to, providing support or access to specific resources. Players can note any NPC they meet as a contact, provided they ask their name and establish a way to contact them in the future.
 #### Trust Levels

@@ -2,8 +2,8 @@
 Each weapon will have several different values that determine its unique properties. These can be copied down to character sheets. Weapons that shoot energy or a projectile are called **Ranged** and those that don't are **Melee**.
 ##### Range
 - How many meters away the weapon can reach.
-- If the weapon is ranged, it may be used at twice the range with single disadvantage, three times range with double disadvantage, etc...
-- Some weapons can be thrown with disadvantage at a range of 5m.
+- If the weapon is ranged, it may be used at twice the range with single a -1 penalty, three times range with double a -1 penalty, etc...
+- Some weapons can be thrown with a -1 penalty at a range of 5m.
 ##### Rate
 - How many times the weapon can be used per turn, each time it is used takes an action. 
 ##### Modifier
@@ -19,7 +19,7 @@ Each weapon will have several different values that determine its unique propert
 ### Longbow
 - Range: 20m, Rate: 1, Value: ₮40
 - Roll: 2 + Dex + **{Archery}** - Dex Resistance
-	- "Disadvantage if the target took the move action last turn."
+	- "a -1 penalty if the target took the move action last turn."
 ### Crossbow
 - Range: 15m, Rate: 1, Value: ₮30
 - Roll: 3 + Str + **{Archery}** - Dex Resistance
@@ -44,11 +44,11 @@ Each weapon will have several different values that determine its unique propert
 ### Laser Pistol
 - Range: 5m, Rate: 2, Value: ₮100, *Restricted*
 - Roll: 2 + Dex + **{Energy Weapons}** - Int Resistance
-	- "3+ dmg → target is blinded next turn, giving disadvantage on some checks."
+	- "3+ dmg → target is blinded next turn, giving a -1 penalty on some checks."
 ### Laser Rifle
 - Range: 10m, Rate: 2, Value: ₮200, *Restricted*
 - Roll: 3 + Dex + **{Energy Weapons}** - Int Resistance
-	- "3+ dmg → target is blinded next turn, giving disadvantage on some checks."
+	- "3+ dmg → target is blinded next turn, giving a -1 penalty on some checks."
 ### Electric Baton
 - Range: 1m, Rate: 1, Value ₮30
 - Roll: 2 + Str - Str Resistance

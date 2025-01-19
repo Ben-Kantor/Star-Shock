@@ -1,10 +1,10 @@
-All psionic abilities cost 5 XP to unlock, to unlcok the second ability in any set you must have at least 15 total XP, and to  unlock the third one you must have at least 30 total XP. To train an ability, a character must spend a shift and make a Prs check against a difficulty listed in the table below. On a success, they gain the ability. On a failure, they gain an advantage toward their next attempt, which can stack.
+All psionic abilities cost 5 XP to unlock, to unlcok the second ability in any set you must have at least 15 total XP, and to  unlock the third one you must have at least 30 total XP. To train an ability, a character must spend a shift and make a Prs check against a difficulty listed in the table below. On a success, they gain the ability. On a failure, they gain a +1 bonus toward their next attempt, which can stack.
 When making a psionics check against a character, roll a Prs check against a difficulty equal to their Prs resistance. If you fail any psionics check, you take 1 damage point.
 - Targets are vaguely aware that psionics were used unless your roll exceeded the check difficulty by at least 1, or you spend a luck point to counter this awareness.
 - If you attempt a psionics check against a target (with or without a roll), you cannot do so again with the same target and ability until you rest.
 - Unless otherwise stated, all psionic abilities have a range of 10m.
 - Only one continuous psionic ability can be active at a time; it ends if you take 3 or more damage.
-- If attempting to push the limits of an ability (e.g., range, weight), a Prs check may be required, or you may take disadvantage on a psionics check.
+- If attempting to push the limits of an ability (e.g., range, weight), a Prs check may be required, or you may take a -1 penalty on a psionics check.
 ---
 ### ESP
 1. "You can sense the presence of characters within 100m but cannot identify them unless you already know them."
@@ -19,7 +19,7 @@ When making a psionics check against a character, roll a Prs check against a dif
 2. "You can manipulate up to 20kg with a difficulty 10 psionics check or disarm a target by succeeding a contested check using your Prs against their Str."
 3. "You can lift up to 100kg and move it up to 10m per turn with a difficulty 12 psionics check. You can throw an object to make an attack: 2 + Prs - Dex Resistance."
 ### Manipulation
-1. "By touching a character's skin, you can grant advantage on all social checks against them for 1 minute."
+1. "By touching a character's skin, you can grant a +1 bonus on all social checks against them for 1 minute."
 2. "By touching and succeeding a psionics check against a character, you can cause them to forget the last 10 seconds or all memories of your existence."
 3. "By touching and succeeding a psionics check against a character, you can implant a suggestion in their mind that they will act on unless it is obviously harmful to themselves or an ally."
 ### Precognition

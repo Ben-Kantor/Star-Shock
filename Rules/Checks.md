@@ -24,7 +24,7 @@ To make a check, follow these steps:
 1. Roll 2d6.
 2. Add your relevant attribute (Strength, Dexterity, Intellect, or Presence).
 3. Add +1 if you have a relevant skill that applies to the task, check with your GM.
-4. Include any advantages or disadvantages applied to the situation (see below).
+4. Include any a +1 bonuss or a -1 penaltys applied to the situation (see below).
 
 Then give this result to the GM, if the check was made to complete a task it is compared to a difficulty value, see [Check Difficulties](Check%20Difficulties.md) for more information about these. If the check was an attack, instead a resistances value is subtracted from it to calculate damage.
 #### Marginal Successes
@@ -45,13 +45,13 @@ Sometimes check will be split up into a Skill Challenge, usually when the check 
 GMs should narrate the checks to explain each step that is needed. During combat only one attempt at any skill challenge can be made per turn. Some skill challenges may require more or less than three successes.
 #### Secret Checks
 Sometimes a character might make a check in such a way that they won't know whether or not it succeeded. In this case the player must act as their character would, without considering the result of the dice. The GM may choose to make such checks secretly, but if so should ask the player before rolling whether they would be willing to spend a luck point to re-roll a 1 on the check, if it is spent, they immediately tell the player so they can mark it down. 
-## Advantages/Disadvantages
-Advantages and Disadvantages are situational bonuses and penalties given by the GM, based on the conditions of a check. When a check is made, all advantages and disadvantages are totaled and added to the check.
-#### Advantage (+1 to roll)
+## Bonuses and Penalties
+Situational bonuses and penalties may be given given by the GM, based on the conditions of a check. When a check is made, all bonuses and penalties are totaled and added to the check.
+#### Bonuses
 - A tool, device, or another player is actively aiding you in completing the task.
 - The enemy or target you are engaging is hindered in some way (e.g., blinded, stunned, surprised, or grappled).
 - You have prepared thoroughly or the environment naturally assists your task (e.g., navigating after studying a map, shooting from high-ground)
-#### Disadvantage (-1 to roll)
+#### Penalties
 - You are trying to perform an action without the proper tools or equipment.
 - The task is being attempted under stressful or hostile conditions (e.g., picking a lock while being shot at, building a shelter while in acid rain).
 - The obstacle or enemy is at an advantage (e.g., a foe has cover, attacking in total darkness).
