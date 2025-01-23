@@ -21,6 +21,6 @@ All cybernetic enhancements cost 5 XP to unlock, to unlock the second ability in
 3. "Become invisible for up to a minute, once per rest, including only special adaptive garments".
 //note- should this instead be the ability to disugise as someone else?
 #### Neural Interface
-1. "Gain a +1 bonus on {Computators} and {Comms} checks."
+1. "Gain a +1 bonus on (Computators) and (Comms) checks."
 2. "You can communicate with or operate any device with a radio receiver, including ships, unless they have security measures that you have not bypassed."
 3. "Make an int check (usually difficulty 10) to disable a device within 10m for a turn, it sparks dealing 3d6 - int resist to a character within 1m."

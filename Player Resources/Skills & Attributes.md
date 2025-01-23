@@ -44,7 +44,7 @@ Seven points may divided among these attributes, with no attribute containing a 
 #### Values
 These can be any value, but are 1 on average for humans. PCs start with 0-3 in each totaling to 7, but NPCs can have higher or lower values (including negatives).
 ## Skills
-Two skills or more are granted by your backgrounds, plus one skill from the **{{Soldier}}** category and one skill from any category.
+Two skills or more are granted by your backgrounds, plus one skill from the **((Soldier))** category and one skill from any category.
 #### Engineering
 - **Computators** - Operate and repair advanced computing systems, and use them to solve problems.
 - **Robotics** - Design, repair, and operate robotic systems and robots.

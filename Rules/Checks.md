@@ -19,6 +19,7 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 | Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate |
 | Comms          | Planetology | Charm       | Intimidate | Martial Arts   | Track    |
 | Spacecrafts    | Xenology    | Negotiate   | Recon      | Heavy Weapons  | Nature   |
+In the game source, skills will be represented with (single parentheses) and skill categories with (double parentheses).
 ## Checks
 To make a check, follow these steps:
 1. Roll 2d6.

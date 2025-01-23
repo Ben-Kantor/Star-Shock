@@ -22,13 +22,14 @@ If you are interested in this game, this is the recommended order to read the ca
 #### Meta
 - Consider changing the game's name.
 - Strengthen Absurdist Theme
+- Either standardize or remove **bolding**
 #### Lore
 - Disciplines
 - Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
 - Criminal Syndicates
-- List of In-Game Building Materials
+- List of In-Game Materials
 #### Features & Resources
 - Spacecraft Sheets
 - Spacecraft Module Compendium
