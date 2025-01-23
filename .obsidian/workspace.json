@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Resources/Cybernetics.md",
+                "file": "Setting/Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybernetics"
+              "title": "Technology"
             }
           }
         ]
@@ -166,22 +166,26 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "Readme.md",
+    "Spacefaring/Ship Combat.md",
+    "Items/Illicit Items.md",
+    "Items/Consumables.md",
+    "Items/Basic Items.md",
+    "Items/Armors.md",
+    "GM Resources/Tips.md",
+    "GM Resources/GMs Eyes Only.md",
+    "Player Resources/Cybernetics.md",
     "Player Resources/Psionics.md",
     "Rules/Checks.md",
-    "Items/Basic Items.md",
     "Items/Weapons.md",
     "Rules/Combat.md",
     "Rules/Downtime.md",
-    "Spacefaring/Ship Combat.md",
     "Spacefaring/Spaceflight.md",
     "WIP/Disused Content.md",
     "WIP/Expert Items.md",
-    "GM Resources/Tips.md",
     "Player Resources/Backgrounds.md",
-    "Player Resources/Cybernetics.md",
     "Player Resources/XP.md",
     "Rules/Mechanics.md",
-    "Readme.md",
     "WIP/Preset Stat-Blocks.md",
     "Setting/Currencies.md",
     "Player Resources/Character Creation.md",
@@ -189,10 +193,6 @@
     "Player Resources/Skills & Attributes.md",
     "Setting/Technology.md",
     "The System/Human Commonwealth/Human Spacecraft.md",
-    "The System/Human Commonwealth/Paragon City.md",
-    "The System/Human Commonwealth/The Human Commonwealth.md",
-    "The System/Jupiter.md",
-    "The System/Mars.md",
     "GM Resources/Untitled.canvas",
     "WIP/Tiered Abilities",
     "Text File.txt",
