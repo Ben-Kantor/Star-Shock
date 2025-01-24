@@ -11,20 +11,22 @@ Characters have a number of skills from the list below, as determined by their B
 These are listed on their sheet under their abilities. 
 Whenever they make a check that relates to one of their skills, they can add +1 to their roll.
 
-| Engineering    | Academic    | High-Life   | Low-Life   | Soldier        | Explorer |
-| -------------- | ----------- | ----------- | ---------- | -------------- | -------- |
-| Computators    | Physics     | Investigate | Subtlety   | Archery        | Medicate |
-| Robotics       | Chemistry   | Persuade    | Deceive    | Melee          | Move     |
-| Mechanics      | History     | Insight     | Stealth    | Firearms       | Survival |
-| Energy Systems | Biology     | Authority   | Streetwise | Energy Weapons | Navigate |
-| Comms          | Planetology | Charm       | Intimidate | Martial Arts   | Track    |
-| Spacecrafts    | Xenology    | Negotiate   | Recon      | Heavy Weapons  | Nature   |
+// TODO: mismatch with Character Creation skill table
+| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
+| ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
+| {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
+| {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
+| {Mechanics}      | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
+| {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
+| {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
+| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Heavy Weapons}  | {Nature}     |
+
 ## Checks
 To make a check, follow these steps:
 1. Roll 2d6.
 2. Add your relevant attribute (Strength, Dexterity, Intellect, or Presence).
 3. Add +1 if you have a relevant skill that applies to the task, check with your GM.
-4. Include any a +1 bonuss or a -1 penaltys applied to the situation (see below).
+4. Include any bonuses or penalties applied to the situation (see below).
 
 Then give this result to the GM, if the check was made to complete a task it is compared to a difficulty value, see [Check Difficulties](Check%20Difficulties.md) for more information about these. If the check was an attack, instead a resistances value is subtracted from it to calculate damage.
 #### Marginal Successes
@@ -50,7 +52,7 @@ Situational bonuses and penalties may be given given by the GM, based on the con
 #### Bonuses
 - A tool, device, or another player is actively aiding you in completing the task.
 - The enemy or target you are engaging is hindered in some way (e.g., blinded, stunned, surprised, or grappled).
-- You have prepared thoroughly or the environment naturally assists your task (e.g., navigating after studying a map, shooting from high-ground)
+- You have prepared thoroughly or the environment naturally assists your task (e.g., navigating after studying a map, shooting from high ground)
 #### Penalties
 - You are trying to perform an action without the proper tools or equipment.
 - The task is being attempted under stressful or hostile conditions (e.g., picking a lock while being shot at, building a shelter while in acid rain).

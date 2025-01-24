@@ -1,19 +1,19 @@
 
-Each weapon will have several different values that determine its unique properties. These can be copied down to character sheets. Weapons that shoot energy or a projectile are called **Ranged** and those that don't are **Melee**.
+Each weapon has several different values that determine its unique properties. Weapons that shoot energy or a projectile are called **Ranged** and those that don't are **Melee**.
 ##### Range
 - How many meters away the weapon can reach.
-- If the weapon is ranged, it may be used at twice the range with single a -1 penalty, three times range with double a -1 penalty, etc...
+- If the weapon is ranged, it may be used at twice the range with a -1 penalty, triple the range with a -2 penalty, ...
 - Some weapons can be thrown with a -1 penalty at a range of 5m.
 ##### Rate
-- How many times the weapon can be used per turn, each time it is used takes an action. 
+- How many times the weapon can be used per turn. Each use still requires an action.
 ##### Modifier
-- What attribute and skill are used to make the attack, and possible a constant bonus or penalty.
+- What attribute and skill are used to make the attack, and possibly a constant bonus or penalty.
 - Total this up when you add a weapon to your character sheet and write down the final number.
 ##### Resistance
 - When Resistance score is used to reduce the damage for the defender.
 - On your character sheet put this down as Strength, Dexterity, Intellect, or Presence
 ##### Special Ability
-- Any special mechanics or abilities of the weapon, write this down in the big empty box in the item panel on your character sheet.
+- Any special mechanics or abilities of the weapon. Write this down in the big empty box in the item panel on your character sheet.
 - If special abilities can be activated after an amount of damage, only one can be chosen at a time.
 ---
 ### Longbow
@@ -27,11 +27,12 @@ Each weapon will have several different values that determine its unique propert
 ### Dagger
 - Range: 1m, (5m if thrown), Rate: 3, Value: ₮10
 - Roll: 1 + Dex + **{Melee}** - Str Resistance
-	- "Can be hidden on person, can be poisoned."
+	- "Can be hidden on person."
+	- "Can be poisoned."
 ### Venusian Machete
 - Range: 2m, Rate: 2, Value: ₮15
 - Roll: 2 + Str + **{Melee}** - Str Resistance
-	- "3+ dmg → break their armor, -1 armor for a chosen damage type."
+	- "3+ dmg → break their armor, giving -1 armor for a chosen damage type."
 ### Disintegration Pistol
 - Range: 5m, Rate: 1, Value: ₮200, *Restricted*
 - Roll: 3 + Dex + **{Energy Weapons}** - Int Resistance
@@ -54,9 +55,9 @@ Each weapon will have several different values that determine its unique propert
 - Roll: 2 + Str - Str Resistance
 	- "3+ dmg → 1d6 additional energy damage."
 ### Needle Gun
-- Range: 10m, Rate, 2, Value ₮50
+- Range: 10m, Rate: 2, Value ₮50
 - Roll: 3 + Dex + **{Firearms}** - Str Resistance
-### **Revolver**
+### Revolver
 - Range: 10m, Rate: 2, Value: ₮40
 - Roll: 2 + Dex + **{Firearms}** - Str Resistance
 	- "Revolver attacks ignore action penalty"
@@ -73,6 +74,6 @@ Each weapon will have several different values that determine its unique propert
 - Roll: 2 + Str + **{Martial Arts}** - Str Resistance
     - "3+ dmg → target is knocked prone."
 ### Tungsten Staff
-- Range: 2m. Rate: 2, Value: ₮40
+- Range: 2m, Rate: 2, Value: ₮40
 - Roll: 2 + Str/Dex + **{Martial Arts}** - Dex Resistance
 	- "3+ dmg → target can't use psionics on their next turn"

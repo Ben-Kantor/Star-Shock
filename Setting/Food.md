@@ -1,7 +1,7 @@
 #### Martian Red Stew
 A thick, spicy stew made from Mars-grown red tubers, hydroponic tomatoes, and spiced protein cubes. Served with nutrient-rich algae bread, it's a staple for Martian settlers.
 #### Venusian Glowfruit Tart
-A sweet and tangy dessert made from glowfruit—a bioluminescent Venusian fruit. The tart emits a faint green glow, making it a sought-after delicacy for elegant social gatherings.
+A sweet and tangy dessert made from glowfruit — a bioluminescent Venusian fruit. The tart emits a faint green glow, making it a sought-after delicacy for elegant social gatherings.
 #### Lunar Protein Wafers
 Thin, crunchy wafers made from cultured yeast and enriched with vitamins. A favorite among spacecraft crews due to their long shelf life, portability, and balanced nutrition.
 #### Jovian Skyfish Skewers

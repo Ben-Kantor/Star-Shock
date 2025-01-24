@@ -14,22 +14,22 @@ _You have a cybernetic enhancement or replacement body part._
 - (◆◇◇) Cyberneticist Contact.
 - **{Robotics}** Skill.
 - Choose a Feature:
-    - "Thermal vision within 10m, even when blinded." (_Cybernetic Eye_)
-    - "Advantage on all Grapple checks." (_Cybernetic Arm_)
+    - _Cybernetic Eye_: "Thermal vision within 10m, even when blinded."
+    - _Cybernetic Arm_: "You have a +1 bonus on all Grapple checks."
 ### Void-Born
 _You are unusually tall and have no eyebrows._
 - (◆◇◇) Contact aboard a spacecraft.
 - **{Spacecrafts}** Skill.
-- Start with the first level feature from either the [Telekinesis](./Psionics.md#Precognition) or [Precogntion](./Psionics.md#Precognition) psionic abilities.
+- Start with the first level feature from either the [Telekinesis](./Psionics.md#Precognition) or [Precognition](./Psionics.md#Precognition) psionic abilities.
 - Starting Item: [Magnetic Boots](../Items/Basic%20Items.md).
 ### Pilot
 - **{Spacecrafts}** Skill.
-- "You have a +1 bonuss on all checks to pilot spacecraft"
+- "You have a +1 bonus on all checks to pilot spacecraft."
 - Starting Possesion: A shuttlecraft, racing pod, or pressurized rover.
 ### Hacker
 - **{Computator}** Skill.
 - (◆◇◇) Expert Hacker Contact - OR - (◆◇◇) Intelligence Service Contact.
-- "You can gain access to computator systems with an In + **{{Computators}** check, provided you have access to a connected terminal."
+- "You can gain access to computator systems with an Int + **{{Computators}** check, provided you have access to a connected terminal."
 ### Engineer
 - **{{Engineering}}** Category Skill.
 - "You can make two cycles of ship repairs and upgrades in one shift."
@@ -42,7 +42,7 @@ _You are unusually tall and have no eyebrows._
 - Starting Item: [Medical Kit](../Items/Basic%20Items.md).
 ### Explorer
 - **{{Explorer}}** Category Skill.
-- "You can always find basic resources (food, water) in natural environments without rolling."
+- "You can always find basic resources, such as food or water, in natural environments without rolling."
 - "You can always find footprints or other signs of activity in an environment, if they exist."
 - You may buy up to twice as many starting items.
 ### Aristocrat
@@ -58,7 +58,7 @@ _You are unusually tall and have no eyebrows._
 ### Mercenary
 - (◆◇◇) Order-Keeper Contact - OR - Smuggler Contact.
 - One **{{Soldier}}** Skill and one **{{Explorer}}** Skill.
-- "You have a license to carry and purchase otherwise illegal weapons in the inner solar system and belt
+- "You have a license to carry and purchase otherwise illegal weapons in the inner solar system and belt."
 - Starting Item: Any [Weapon](../Items/Weapons.md).
 ### Enforcer
 - (◆◇◇) High Enforcer Contact.
@@ -84,10 +84,10 @@ _You are unusually tall and have no eyebrows._
 ### Acrobat
 - **{{Pilot}}** or **{{Soldier}}** Category Skill.
 - "You can jump twice as far as the average person."
-- "Once per session, re-roll one or both dice on a Dex
+- "Once per session, re-roll one or both dice on a Dex check."
 ### Entertainer
 - **{{High-Life}}** or **{{Low-Life}}** Category Skill.
-- "Advantage on all Charm checks."
+- "You have a +1 bonus on all Charm checks."
 - "Once per session, re-roll one or both dice on a Prs check."
 - Starting Item [Holo-Projector](/Items/Basic Items.md#Holo-Projector (₮20)).
 ### Savant
