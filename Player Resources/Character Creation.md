@@ -18,14 +18,14 @@ Now, divide up 7 points between the four attributes in the game, with no value a
 
 Then choose two skills, one from the **{{Soldier}}** category and one skill from any category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
 
-| {{Pilot}}     | {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
-| ------------- | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
-| {Landcrafts}  | {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
-| {Aircrafts}   | {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Blades}         | {Move}       |
-| {Spacecrafts} | {Comms}          | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
-| {Shipcraft}   | {Energy Systems} | {Biology}     | {Authority}   | {Recon}      | {Energy Weapons} | {Navigate}   |
-|               | {Explosives}     | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
-|               |                  | {Xenology}    |               | {Barter}     |                  | {Nature}     |
+| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
+| ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
+| {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
+| {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
+| {Mechanics}      | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
+| {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
+| {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
+| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Heavy Weapons}  | {Nature}     |
 
 See [Skills & Attributes](/Player%20Resources/Skills%20&%20Attributes.md) for more details on what each skill and attribute represents.
 ### Step 3. Descriptions

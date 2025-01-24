@@ -25,7 +25,7 @@ Each weapon has several different values that determine its unique properties. W
 - Roll: 3 + Str + **{Archery}** - Dex Resistance
 	- "Must take an action to reload between shots."
 ### Dagger
-- Range: 1m, (5m if thrown), Rate: 3, Value: ₮10
+- Range: 1m, {5m if thrown), Rate: 3, Value: ₮10
 - Roll: 1 + Dex + **{Melee}** - Str Resistance
 	- "Can be hidden on person."
 	- "Can be poisoned."

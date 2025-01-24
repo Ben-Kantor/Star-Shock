@@ -12,7 +12,7 @@ _You have slightly greenish skin and are slightly taller than the average human.
 ### Cybernetic
 _You have a cybernetic enhancement or replacement body part._
 - (◆◇◇) Cyberneticist Contact.
-- **{Robotics}** Skill.
+- **(Robotics)** Skill.
 - Choose a Feature:
     - _Cybernetic Eye_: "Thermal vision within 10m, even when blinded."
     - _Cybernetic Arm_: "You have a +1 bonus on all Grapple checks."
@@ -33,7 +33,7 @@ _You are unusually tall and have no eyebrows._
 ### Engineer
 - **{{Engineering}}** Category Skill.
 - "You can make two cycles of ship repairs and upgrades in one shift."
-- "You can rig most devices to explode with an Int + **{Explosives}** check."
+- "You can rig most devices to explode with an Int + **(Explosives)** check."
 - Starting Item: [Universal Toolkit](../Items/Basic%20Items.md).
 ### Doctor
 - **{Chemistry}** and **{Medicate}** Skills.
@@ -89,7 +89,7 @@ _You are unusually tall and have no eyebrows._
 - **{{High-Life}}** or **{{Low-Life}}** Category Skill.
 - "You have a +1 bonus on all Charm checks."
 - "Once per session, re-roll one or both dice on a Prs check."
-- Starting Item [Holo-Projector](/Items/Basic Items.md#Holo-Projector (₮20)).
+- Starting Item [Holo-Projector](/Items/Basic Items.md#Holo-Projector (₮20}}.
 ### Savant
 - One **{{Academic}}** and one **{{Engineering}}** Category Skill.
 - "Once per session, add your Int attribute to any check after rolling."

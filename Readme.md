@@ -1,14 +1,13 @@
 # EXO-2040
 Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting.
 ## Features
-- A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md).
-- Unlinked skills, fit to the setting.
+- An "atompunk" / "raypunk" interplanetary setting.
+- A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md), with unlinked skills.
 - A [Two-Background](Backgrounds.md) system, that offers character customization without overwhelming new players.
-- A comprehensive system for [Spacecrafts](/Spacefaring/Spaceflight.md), with [Combat](/Spacefaring/Ship%20Combat.md) that doesn't leave players left out and [Upgrades](Modules.md) that allow the ship to improve with the characters.
+- A comprehensive system for [Spacecrafts](/Spacefaring/Spaceflight.md), including [Combat](/Spacefaring/Ship%20Combat.md) and [Upgrades](Modules.md),
 - A highly extensible [XP System](XP.md) that allows GMs to incorporate their own ideas.
-- Well-organized, accesible [Lore](/Setting/) to serve as a jumping-off point for GMs.
+- Well-organized, accessible [Lore](/Setting/) to serve as a jumping-off point for GMs.
 - An intralinked, sorted Markdown wiki, that is much quicker to navigate than a traditional manuscript.
-- The ability for anyone to contribute, and a [License](License.txt) that allows anyone to use the game for future projects.
 ## Get Started
 If you are interested in this game, this is the recommended order to read the categories:
 1. Setting
@@ -23,14 +22,14 @@ If you are interested in this game, this is the recommended order to read the ca
 #### Meta
 - Consider changing the game's name.
 - Strengthen Absurdist Theme
+- Either standardize or remove **bolding**
 #### Lore
-- Disciplines
-- Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
 - Criminal Syndicates
-- List of In-Game Building Materials
+- List of In-Game Materials
 #### Features & Resources
+- Disciplines
 - Spacecraft Sheets
 - Spacecraft Module Compendium
 - Preset NPC Stat Blocks
@@ -73,4 +72,4 @@ EXO-2040 is an intralinked markdown wiki, written and edited using Obsidian and 
 - Bullet points should be used for lists, or sets of independent rules/facts.
 	- Lines should not be indented by more then one column from the main list.
 	- Leave an empty line between the last bullet point and paragraph text.
-- Lines can be separated by a dash to indicate an explanation, with the first part bolded.
+	- Lines can be separated by a dash to indicate an explanation, with the first part bolded.

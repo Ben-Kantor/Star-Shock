@@ -8,8 +8,10 @@ Actions that do not require a roll can ignore this, however.
 - **Light Punch** - Make an attack with 1m range, with a roll of Dex + {Martial Arts} - Str Resistance.
 - **Heavy Punch** - Make an attack with 1m range, with a roll of Str + {Martial Arts} - Dex Resistance.
 - **Other Weapon Attack** - Other [Weapons](/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
+
 - **Interact with Object** - You can usually only interact with the same object once per turn
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 10m of ground, though in more difficult terrain it might be 5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
+
 - **Assist** - Offer help to a check someone else is about to make, granting them a +1 bonus if you have an attribute of three or higher or a skill relevant to the check.
 - **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md), can only be done once per turn.
 - **Block, Dodge, Concentrate, Meditate** - Gain a +1 bonus to one of your resistances until your next turn.

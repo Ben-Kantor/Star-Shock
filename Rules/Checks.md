@@ -11,7 +11,7 @@ Characters have a number of skills from the list below, as determined by their B
 These are listed on their sheet under their abilities. 
 Whenever they make a check that relates to one of their skills, they can add +1 to their roll.
 
-// TODO: mismatch with Character Creation skill table
+Skills are represented by {Single Brackets} and categories of skills by {{Double Brackets}}, here and elsewhere in the game source.
 | {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
 | {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
