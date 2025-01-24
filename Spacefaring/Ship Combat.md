@@ -1,6 +1,6 @@
 When spacecrafts or spacecraft-sized combatants fight, a system called **Ship Combat** is used. At the start, each player chooses where in the ship their character starts, and all characters are assumed to be wearing [void-suits](../Setting/Technology.md#Void-Suits). They will take actions as usual with action penalties, up to three per turn. Anything that can be done during normal combat can also be done during Spacecraft Combat, but below are the rule detailing the three main actions. All of these checks can be assisted by anyone with at least three in a relevant attribute, or a relevant skill.
 #### Piloting
-While a pilot is controlling a ship from the helm, each turn they make a difficulty 10 Dex + **{Spacecrafts}** to control the ship. If they fail they lose control, and weapons fire against them gains a +1 bonus. For each two points of margin rolled, the pilot may execute one maneuver, including the same one more than once:
+While a pilot is controlling a ship from the helm, each turn they make a difficulty 10 Dex + **{Spacecrafts}** to control the ship. If they fail they lose control, and weapons fire against them gains a +1 bonus. For every 2 rolled over the difficulty, the pilot may execute one maneuver, including the same one more than once:
 - **Evasive Maneuver**
     - Provide a -1 penalty on all incoming weapons fire checks.
 - **Acceleration Maneuver**
@@ -8,7 +8,7 @@ While a pilot is controlling a ship from the helm, each turn they make a difficu
 - **Aggressive Maneuver**
     - Provide a +1 bonus on all outgoing weapons fire checks.
 #### Fixing damage
-Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 30. Checks will be made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred. 
+Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 30. Checks are made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred.
 #### Firing Weapons
 Some weapons fire automatically but most require an operator or a [Combat Computer](Modules.md#Combat%20Computer}. To fire a weapon, a character makes a check based on the weapon's attribute, plus their **{Heavy Weapons}** skill. All ship weapons can only be fired once per turn. One character can operate two weapons, taking a move action between them and accounting for action penalty.
 #### Boarding
@@ -26,4 +26,4 @@ When a ship is damaged by a standard, handheld weapon, the attacker suffers a -5
 ## Chases
 While two ships are in an encounter where relative speed matters, compare each ship's pilot check plus its speed boost value each turn to see which is moving faster In order to win the chase (escape or catch up), either side must win three more checks than the other side.
 ## Ship Repair
-As fixing a part leaves it vulnerable to stop working at even one point of future damage, ship repair will be needed between encounters. During a shift anyone working on repairs makes a Dexterity + **{Mechanics}** check, and can repair up to that many units of damage. Without a proper engineering bay, each section can only go down to a minimum of five damage on each section. Ships can also be repaired by professional mechanic, at a base cost of ₮5, subject to [negotiation]{/Rules/Downtime.md#Bargaining}.
+As fixing a part leaves it vulnerable to stop working at even one point of future damage, ship repair will be needed between encounters. During a shift anyone working on repairs makes a Dex + **{Mechanics}** check, and can repair up to that many units of damage. Without a proper engineering bay, each section can only go down to a minimum of five damage on each section. Ships can also be repaired by professional mechanic, at a base cost of ₮5 per unit of damage, subject to [negotiation](/Rules/Downtime.md#Bargaining).

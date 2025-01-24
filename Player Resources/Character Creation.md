@@ -1,10 +1,10 @@
-This will be a step by step guide to building a character for the EXO-2040 TTRPG. You should have access to all relevant decouments and a character sheet, ideally printed out.  This guide will use page numbers with arrows pointing to where on the character sheet a field is to make it easy to find. Write with a pencil or erasable pen, and make sure your writing is legible for yourself and others. Start by putting your name or initials on the sheet (p1, ↗). 
+This is a step by step guide to building a character for the EXO-2040 TTRPG. You should have access to all relevant documents and a character sheet, ideally printed out.  This guide will use page numbers with arrows pointing to where on the character sheet a field is to make it easy to find. Write with a pencil or erasable pen, and make sure your writing is legible for yourself and others. Start by putting your name or initials on the sheet (p1, ↗).
 ### Step 0. Learn The Setting
 Before building a character, it's important you get a basic understanding of the setting and tone of the world. First read the game's [Read-me](../Readme.md), plus the overview of the starting location, by default [Paragon City](../The%20System/Human%20Commonwealth/Paragon%20City.md). Then browse through other lore documents until you feel you are ready. 
 ### Step 1. Backgrounds
 Take a look through [Backgrounds](Backgrounds.md) and pick two that appeal to you. This is the most important choice in character creating, and will inform all future decisions so think carefully. If you want, you can consult your GM about building a custom background or modifying an existing one, but you should use at least one vanilla one. Also talk to other players and hear what characters they are making, to make sure yours fits into the party. Once you have chosen two different backgrounds, write them down on your sheet (p1. ↑), then copy over any benefits they give you in skills (p2, ↖), features (p2, ←), and starting items in your inventory (p1, ↓).
 
-Copy any contacts (p1, ←) you got, with the number of stars in the top right, and their occupation in the bottom box. You may then choose to give them a name (top row), or leave it blank for now. In the second row, for location, you can choose to either put your starting location or leave it blank for the contact to be introduced at another location later in the story. When they are filled in they will need a lot of specification, for instance if you are granted a criminal contact, you will need to choose whether they are a smuggler, thief, fence, or anything else.
+Copy any contacts (p1, ←) you gained, with the number of stars in the top right, and their occupation in the bottom box. You may then choose to give them a name (top row), or leave it blank for now. In the second row, for location, you can choose to either put your starting location or leave it blank for the contact to be introduced at another location later in the story. When they are filled in they will need a lot of specification. For instance, if you are granted a criminal contact, you will need to choose whether they are a smuggler, thief, fence, or something else.
 
 Property you start with that you don't carry with you can be tracked in notes (e.g. a spaceship).
 ### Step 2. Attributes and Skills
@@ -18,18 +18,18 @@ Now, divide up 7 points between the four attributes in the game, with no value a
 
 Then choose two skills, one from the **{{Soldier}}** category and one skill from any category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
 
-| Pilot       | Engineering    | Academic    | High-Life   | Low-Life   | Soldier        | Explorer   |
-| ----------- | -------------- | ----------- | ----------- | ---------- | -------------- | ---------- |
-| Landcrafts  | Computators    | Physics     | Investigate | Subtlety   | Archery        | Medicate   |
-| Aircrafts   | Robotics       | Chemistry   | Persuade    | Deceive    | Melee         | Move       |
-| Spacecrafts | Comms          | History     | Insight     | Stealth    | Firearms       | *Survival* |
-| Shipcraft   | Energy Systems | Biology     | Authority   | Recon      | Energy Weapons | Navigate   |
-|             | Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track      |
-|             |                | Xenology    |             | Barter     |                | Nature     |
+| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
+| ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
+| {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
+| {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
+| {Mechanics}      | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
+| {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
+| {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
+| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Heavy Weapons}  | {Nature}     |
 
 See [Skills & Attributes](/Player%20Resources/Skills%20&%20Attributes.md) for more details on what each skill and attribute represents.
 ### Step 3. Descriptions
-There are two boxes on your character sheet for Personality and Appearance (p1, ↑). You can choose to write a more detailed description for either of these, but at a minimum you should have three adjectives/descriptions for each. If you have more stuff to add there's space in the notes box (p1, ↙).
+There are two boxes on your character sheet for Personality and Appearance (p1, ↑). You can choose to write a more detailed description for either of these, but at a minimum you should have three adjectives/descriptions for each. If you have more to add there's space in the notes box (p1, ↙).
 
 Now you can fill out the four small boxes about your character's identity (p1, ↗).
 

@@ -4,7 +4,7 @@
 #### Computators
 All modern spacecrafts have a core computator terminal, used to plot routes. 
 - Can solve basic math / physics problems at a cost of 🜁 each.
-- Can send communications, setup beacons, control life support, etc...
+- Can send communications, setup beacons, control life support, etc
 - Can eject any module.
 #### Transit
 For any given ship, using one "unit" of fuel means consuming a number of 🜁 (grams of trilium) equal to the ship's size (number of module slots).
@@ -30,11 +30,11 @@ Slowing to rendezvous or dock with another ship that is not travelling in the sa
 Each ship has a ship stat block, which includes:
 - Max Damage - amount of damage before disabled
 - Fuel usage (how many units of )
-- Ship Size (number of module bays
+- Ship Size (number of module bays)
 - A speed boost value of 0-4, used in chases
 
 Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.
 
 If a slot is not used for a module, it is storage space, and can hold the same amount as a player's inventory (10 normal items or multiples of small items).
 ### Takeoff and Landing
-Taking off and landing from a small body like The Moon takes 2 units, a larger body like Mars takes 3, and a body like Earth or Venus takes 4. Landing on a body with an atmosphere always takes 1, but bodies without atmosphere have the same landing cost as takeoff. Not all ships are capable of atmospheric takeoff and landing, or even non-atmospheric. 
+Taking off and landing from a small body like The Moon takes 2 units, a larger body like Mars takes 3, and a body like Earth or Venus takes 4. Landing on a body with an atmosphere always takes 1, but bodies without atmosphere have the same landing cost as takeoff. Not all ships are capable of atmospheric takeoff and landing, or even non-atmospheric.

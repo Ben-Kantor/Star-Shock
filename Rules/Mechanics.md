@@ -1,13 +1,11 @@
-#### Armor
-Some items, called armor, increase some of these resistances. One character cannot wear more than one piece of armor at a time.
 ## Luck Points
-At the start of each session, each player rolls 1d6, and gains that many luck points up to a maximum of seven. Then players can donate luck points to other who have fewer than them if they want, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
+At the start of each session, each player gains 1d6 luck points, up to a maximum of 7. Players can then donate luck points to other who have fewer than them, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
 
 There are two ways to spend Luck Points:
 - After a player makes a roll, they can spend a number of luck points to re-roll a d6 with that number showing. For instance they could spend one point to re-roll a d6 that rolled a 1.
 - Before making an action, a player may spend a luck point to ignore one point of action penalty, this is most useful when a character needs to take more actions then planned.
 
-If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent a +1 bonuss for being the protagonists of the story, no NPCs have luck points.
+If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent advantage for being the protagonists of the story, as no NPCs have luck points.
 ## Contacts
 Contacts are NPCs that a player character has a connection to, providing support or access to specific resources. Players can note any NPC they meet as a contact, provided they ask their name and establish a way to contact them in the future.
 #### Trust Levels
