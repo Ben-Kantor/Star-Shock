@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Downtime.md",
+                "file": "Items/Basic Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Downtime"
+              "title": "Basic Items"
             }
           }
         ]
@@ -164,8 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dbaee2d5c586eec",
+  "active": "c0733c9bb7e05cb8",
   "lastOpenFiles": [
+    "BuildLibreOffice.sh",
+    "Rules/Downtime.md",
     "Rules/Combat.md",
     "Readme.md",
     "Character Sheet.pdf",
@@ -175,7 +177,6 @@
     "Items/Weapons.md",
     "Player Resources/Backgrounds.md",
     "Player Resources/Cybernetics.md",
-    "Rules/Downtime.md",
     "Setting/Technology.md",
     "Spacefaring/Ship Combat.md",
     "WIP/Modules.md",

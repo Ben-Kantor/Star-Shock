@@ -1267,7 +1267,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "BuildOpenOffice.sh": {
+    "BuildLibreOffice.sh": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
