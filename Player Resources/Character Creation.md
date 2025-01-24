@@ -16,7 +16,7 @@ Now, divide up 7 points between the four attributes in the game, with no value a
 - **Intellect**: Mental acuity, problem-solving, and technical skills, for problem-solving and knowledge.
 - **Presence**: Charisma, influence, and force of personality, for social interactions and tests of willpower.
 
-Then choose two skills, one from the **((Soldier))** category and one skill from any category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
+Then choose two skills, one from the **{{Soldier}}** category and one skill from any category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
 
 | Pilot       | Engineering    | Academic    | High-Life   | Low-Life   | Soldier        | Explorer   |
 | ----------- | -------------- | ----------- | ----------- | ---------- | -------------- | ---------- |

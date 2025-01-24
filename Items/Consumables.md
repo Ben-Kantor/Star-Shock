@@ -1,6 +1,6 @@
 ### Spray-on Skin (₮15) 
 A can of substance that automatically cleans a wound and fills in artificial damage.
-- **Consume** - "Heals a character by 1d6 + **(Medicate)** damage."
+- **Consume** - "Heals a character by 1d6 + **{Medicate}** damage."
 ### Adrenaline Shot (₮15)
 A single-use hypo-spray that delivers a powerful stimulant to the bloodstream.
 - **Consume** - "For the next minute, you may take an additional action each turn, that doesn't add to your action penalty"

@@ -22,7 +22,7 @@ A mini toothpaste tube of bright green glue made from Venusian Sap. Only enough 
 ### Self-Focusing Spyglass (₮90)
 Offers a clear enough view to make out 10cm detail 10km away, and 1m details 100km away.
 ### Grappling Harpoon (₮45)
-A gun-like device that fires a hooked cable up to 20m. Allows for quick ascents, securing objects, or pulling enemies. Can pull up to 100kg in earths gravity. May require a Dex + **(Firearms)** check to get a good hook.
+A gun-like device that fires a hooked cable up to 20m. Allows for quick ascents, securing objects, or pulling enemies. Can pull up to 100kg in earths gravity. May require a Dex + {Firearms} check to get a good hook.
 ### Medical Kit (₮25)
 A set of bandages, healing paste, and a hypo-spray with basic medicines. Needed to make basic medicine checks without disadvantage.
 ### Holo-Projector (₮20)
