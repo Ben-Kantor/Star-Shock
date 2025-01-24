@@ -9,6 +9,20 @@ The lower floors, in partial shade from the terrain and even below it, are fille
 The middle floors, taking up half of the space, contain shops, restaurants, and luxury apartments, with floors about 15m apart. The streets between buildings are made of a gray marbled material called LunaLite. Buildings are made out of bricks from this same substances as well as painted corrugated steel, and plastic. Water, plasma, and fresh air run through glass pipes visible in many places outside, and sewage runs through a tinted pipe. Neon signs are often connected directly to the plasma line, in multi-floor markets built out of mesh. Buildings on the edge of the spires, outside the road, have bubble balconies.
 
 The upper floors are owned by wealthy businesses, including some extra-terrestrial businesses and embassies. There are leisure areas here, many of which are available to the to the lower floor residents for a small fee, but some of which are private. Some include levitating plant baskets, and even exotic zoos. There are many luxury hotels and condos and private offices, with the most fancy ones located at the edge of the spire with a view.
-
 ## Locations
-- **Star-Burger**, a fast food chain with multiple locations, serving hamburgers made out of algea and similar foods.
+- **Star-Burger** - A fast food chain with multiple locations, serving hamburgers made out of algea and similar foods.
+- **Astral Gardens** (or just the **Gardens**), an entire floor filled with a park, including a zoo and a large amount of hanging garden baskets suspended magnetically. The only place that follows a day/night cycle.
+- **Lunar Exchange** - The central trading hub on the upper floors, where precious gasses, metals, and currencies are exchanged constantly. 
+- **Regolith Foundry** - A sprawling industrial complex around the base of the spire, where lunar regolith is processed into everything from construction materials to consumer goods. 
+- **Polaris Observatory** - A high-end observatory near the upper floors, offering views of the Earth, stars, and passing spacecraft, for a fee.
+- **Satelite Bistro** - A famous zero-gravity lounge in the upper floors, where drinks are served to tourists in magnetized cups, and customers float in an anti-grav chamber.
+- **Tranquility Square** - A large public plaza on a middle floor, featuring an enormous holographic projection of the Earth.
+- **Paragon Academy** - A prestigious school for young pilots and engineers on the upper floors, training the next generation of space-captains and HIF officers.
+- **Moonshine Docks** - A hidden distillery and bar on a low floor, producing "moonshine" liquors that are popular among the lower-class residents.
+- **The Trentera Arcade** - A retro-futuristic entertainment floor filled with holographic games, zero-gravity sports arenas, and vintage arcade cabinets, run by a Martian.
+- **Mechanics Guild** - A workshop complex on a middle floor where residents can bring damaged equipment for repair or trade knowledge about spacecraft and technology.
+- **Nebula Heights** - The most exclusive residential area in the city, located near the top of the spire, offering unparalleled views and luxury accommodations.
+- **Starlight Memorial** - A somber monument on a mid-level floor dedicated to those who lost their lives during the Martian Wars.
+- **The Scarab's Nest** - A communal living spacs built from stacked cargo containers on a lower floor.
+- **Lunar Enterprises** - The factory, and offices of the corporation Lunar Enterprises are built on an entire upper floor, along with the Lunar Mall, a luxury mall which sells their goods as well as others.
+- **Stack-Malls** - Small retail centers built on lower floors, named as such because they are built in small scraps of space between floors. The two largest are The Crater and Trenteloth's.

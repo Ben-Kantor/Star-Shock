@@ -21,7 +21,7 @@ Then choose two skills, one from the **((Soldier))** category and one skill from
 | Pilot       | Engineering    | Academic    | High-Life   | Low-Life   | Soldier        | Explorer   |
 | ----------- | -------------- | ----------- | ----------- | ---------- | -------------- | ---------- |
 | Landcrafts  | Computators    | Physics     | Investigate | Subtlety   | Archery        | Medicate   |
-| Aircrafts   | Robotics       | Chemistry   | Persuade    | Deceive    | Blades         | Move       |
+| Aircrafts   | Robotics       | Chemistry   | Persuade    | Deceive    | Melee         | Move       |
 | Spacecrafts | Comms          | History     | Insight     | Stealth    | Firearms       | *Survival* |
 | Shipcraft   | Energy Systems | Biology     | Authority   | Recon      | Energy Weapons | Navigate   |
 |             | Explosives     | Planetology | Charm       | Intimidate | Martial Arts   | Track      |

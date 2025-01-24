@@ -24,13 +24,12 @@ If you are interested in this game, this is the recommended order to read the ca
 - Strengthen Absurdist Theme
 - Either standardize or remove **bolding**
 #### Lore
-- Disciplines
-- Locations in Paragon City
 - Meteor Belt Settlements
 - Meteor Belt Houses
 - Criminal Syndicates
 - List of In-Game Materials
 #### Features & Resources
+- Disciplines
 - Spacecraft Sheets
 - Spacecraft Module Compendium
 - Preset NPC Stat Blocks
@@ -73,4 +72,4 @@ EXO-2040 is an intralinked markdown wiki, written and edited using Obsidian and 
 - Bullet points should be used for lists, or sets of independent rules/facts.
 	- Lines should not be indented by more then one column from the main list.
 	- Leave an empty line between the last bullet point and paragraph text.
-- Lines can be separated by a dash to indicate an explanation, with the first part bolded.
+	- Lines can be separated by a dash to indicate an explanation, with the first part bolded.

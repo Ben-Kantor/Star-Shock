@@ -75,7 +75,7 @@ Two skills or more are granted by your backgrounds, plus one skill from the **((
 - **Recon** - Scout and gather information, keep watch, get a close view of something.
 #### Soldier
 - **Archery** - Use bows and similar projectile weapons effectively in combat.
-- **Blades** - Wield swords, knives, and other melee weapons in close combat.
+- **Melee** - Wield swords, knives, and other melee weapons in close combat.
 - **Firearms** - Operate conventional ranged weapons like pistols and rifles.
 - **Energy Weapons** - Use advanced weaponry like laser guns or disintegrators.
 - **Martial Arts** - Engage in unarmed combat with precision and training.

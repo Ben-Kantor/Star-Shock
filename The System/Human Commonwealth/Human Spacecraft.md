@@ -3,7 +3,7 @@ The largest deep-space station built by the Commonwealth is Ticonderoga Stations
 ## Spaceships
 Commonwealth spaceships tend to look like large rectangular prisms with flattened edges bolted together. They are compartmentalized to survive even catastrophic failures. Many are repurposed military ships from the Martian Wars.
 ## Ascension II
-A human space elevator built in Brazil. Ascension I was destroyed in a Martian attack. Carries Humans, goods, and small craft into high orbit, saving fuel costs and effort. At the top there is a large civilian station of the same name, including a giant gravity ring around the elevator, from before the discovery of arti-grav.
+A human space elevator built in Brazil, from carbon nanotubes. Ascension I was destroyed in a Martian attack. Carries Humans, goods, and small craft into high orbit, saving fuel costs and effort. At the top there is a large civilian station of the same name, including a giant gravity ring around the elevator, from before the discovery of arti-grav.
 ## Human Interplanetary Force
 The space-navy of the commonwealth is called the Human Interplanetary Force. They maintain several hundred large vessels for their defence, as well as scientific and diplomatic missions. 
 #### Command Structure
