@@ -9,6 +9,6 @@ Some highly powerful items require training to use, this training can be gained 
 #### Emergency Luck
 XP can also be spent in the same way as Luck points, when this is done, note it down under the XP usage table.
 #### Leveled Abilities
-Most XP will be spent on leveled abilities, as they are the primary way of gaining new features. Each set of abilities will have three levels, each of which must be bought for 5 XP. Once the first level is bought, the second level may be bought, and then the third. To buy second level ability, a character must have at least 15 total xp, and to buy a third level ability they must have at least 30 total xp.
+Most XP will be spent on leveled abilities, as they are the primary way of gaining new features. Each set of abilities will have three levels, each of which must be bought for 5 XP. Once the first level is bought, the second level may be bought, and then the third. To buy second level ability, a character must have at least 15 total XP, and to buy a third level ability they must have at least 30 total XP.
 
 Tiered abilities are divided up into three categories, each of which have some of their own special rules.

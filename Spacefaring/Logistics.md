@@ -14,7 +14,7 @@ The first letter indicates what domain of the system the craft operates from.
 - V - Venusian
 #### Second Letter
 The second letter indicates the primary purpose of the craft. This is the least standardized category, and nearly any letter can be used. Here are some common examples:
-- B - Battle-
+- B - Battle
 - C - Cargo
 - D - Diplomatic 
 - E - Exploratory
@@ -24,7 +24,7 @@ The second letter indicates the primary purpose of the craft. This is the least 
 - R - Rescue
 - S - Scientific
 - T - Transport
-- W - War-
+- W - War
 - X - Experimental
 - Z - Customs (Basic trade enforcement)
 #### Third Letter
@@ -40,7 +40,7 @@ Ships can have any name, as long as the combination of the prefix and name are u
 ## Unregistered Crafts
 Small crafts with less than 5 module slots do not need to registered, and usually use a title instead of a prefix (e.g., "shuttle", "runabout", "tugboat", "racer", "corvette").
 ## Transponders
-Every registered ship and most unregistered ones have a transponder, a combination of a short-range transmitter and receiver. It constantly sends out the ships prefix and name, and provides a constant mapof other nearby crafts within about 100km. Disabling or tampering with a transponder is a major offence in some domains of the solar system. Transponders can also transmit and receive text messages, voice transmissions, and data slowly.
+Every registered ship and most unregistered ones have a transponder, a combination of a short-range transmitter and receiver. It constantly sends out the ships prefix and name, and provides a constant map of other nearby crafts within about 100km. Disabling or tampering with a transponder is a major offence in some domains of the solar system. Transponders can also transmit and receive text messages, voice transmissions, and data slowly.
 ## Terminology
 - Spaceports are gravitational docking stations
 - Spacedocks are zero-gravity docking stations
