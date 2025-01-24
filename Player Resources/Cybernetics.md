@@ -7,7 +7,7 @@ All cybernetic enhancements cost 5 XP to unlock. To unlock the second ability in
 1. "Gain a +1 bonus on lifting, climbing, and other relevant non-combat checks."
 2. "Gain a +1 bonus on grappling, unarmed attacks. You can carry up to 100kg."
 3. "Melee attacks made with the arm ignore action penalty."
-#### Ocular Enhancement
+#### Artificial Eye
 1. "Gain thermal vision within 10m, allowing you to see heat sources even in darkness and when blinded."
 2. "You can magnify your view up to 100x, allowing you to see far away and tiny details."
 3. "You can detect all energy field, energy signatures, and radio waves."

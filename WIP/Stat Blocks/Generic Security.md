@@ -1,10 +1,3 @@
-## Stat Blocks
-To build the stat block of an NPC, first set their attributes. An average human as the values 2, 1, 1, 0, divided up between the four. A security guard, skilled merchant, artisan, or other above average person might be 3, 2, 1, 1. Highly trained enemies might use 3, 3, 2, 1. 
-Then they should have 2-3 relevant skills. If they are used to combat they will have a weapon and a matching soldier skill and high attribute. Often more trained combatants will have multiple weapons and armor.
-Then set their resistances as 5 + the relevant attribute. For more powerful enemies, they can have all their resistances increased by 1 and one or more features to reinforce their role in the story. Rather than having NPCs make consciousness checks, they simply fall unconcious after taking 15 damage.
-
-During combat encounters, there should be about the same number of characters on both sides, with exceptions only when there is a major difference in level. Encounters should use variated stat blocks frequently to make them more interesting. Enemies should frequently surrender before being completely defeated. Below are some example stat blocks, these can be used as is or as a starting point for customization, or as is.
-## Security
 #### Armed Guard
 *A hired guard or street cop*
 - **Str** - 2, **Dex** - 1, **Int** - 0, **Prs** - 1
@@ -24,7 +17,7 @@ Items:
 	- Range: 1m, Rate: 1, Roll + 3 - Str Resistance
 	- "3+ dmg → 1d6 additional energy damage."
 - Disposable Plasma Pistol
-	- Range: 5m, Rate: 1, Value: ₮20, Roll: + 2 - Int Resistance
+	- Range: 5m, Rate: 1, Value: ₮20, Roll + 2 - Int Resistance
 	- "Can only fire three shots, after which it is inoperable"
 - Plastic Plate
 	- "+1 Dex Resistance"

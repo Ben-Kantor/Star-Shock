@@ -13,9 +13,7 @@ _You have slightly greenish skin and are slightly taller than the average human.
 _You have a cybernetic enhancement or replacement body part._
 - (◆◇◇) Cyberneticist Contact.
 - **(Robotics)** Skill.
-- Choose a Feature:
-    - _Cybernetic Eye_: "Thermal vision within 10m, even when blinded."
-    - _Cybernetic Arm_: "You have a +1 bonus on all Grapple checks."
+- Start with the first level feature from either the [Bionic Arm](./Cybernetics.md#Bionic Arm) or [Artificial Eye](./Cybernetics.md#Artifical Eye) cybernetic abilities.
 ### Void-Born
 _You are unusually tall and have no eyebrows._
 - (◆◇◇) Contact aboard a spacecraft.

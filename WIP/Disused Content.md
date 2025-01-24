@@ -15,7 +15,6 @@
 "With a successful difficulty 10 psionics check, you can create minor, stationary sensory illusions (e.g., sounds, lights, smells), up to 1m cubed in size. These last for 1 minute."
 #### Level 3
 "You can create any convincing mental illusions directly in a target's mind for one minute by succeeding a psionics check against them, but must rest before using this ability again."
-
 # Items
 ### Personal Shield Generator (Restricted)
 A waist-mounted device that emits a faint bubble-like energy field.
