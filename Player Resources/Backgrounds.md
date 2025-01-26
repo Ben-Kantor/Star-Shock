@@ -70,7 +70,7 @@ _You are unusually tall and have no eyebrows._
 ### Criminal
 - (◆◇◇) Criminal Contact.
 - Two **{{Low-Life}}** Skills.
-- You may buy up to one [Illicit Item](/Items/Illicit%20Items.md) instead of a Basic Item when buying starting items.
+- You may buy up to one [Illicit Item](Restricted%20Items.md) instead of a Basic Item when buying starting items.
 ### Skilled
 - One Skill from **Any Category**.
 - Increase one attribute by +1, to a maximum of 2.

@@ -3,7 +3,7 @@ In non-urgent situations, the game progresses in 4-hour intervals called **Shift
 #### Resting
 Characters can rest once every 20 hours, requiring one ration per character. A successful rest reduces the character’s damage to half (round up).
 #### Performing a Medicate Check
-A character trained in medicine can make an Int + **{Medicate}** check of difficulty 10. On success, one character can heal down to 1/3 damage after their next rest. Characters have a -1 penalty when attempting to heal themselves. The one being healed must spend their shift resting or engaging in a stationary activity. While in a population center, this service can be purchased for ₮5.
+A character trained in medicine can make an Dex + **{Medicate}** check of difficulty 10. On success, one character can heal down to 1/3 damage after their next rest. Characters have a -1 penalty when attempting to heal themselves. The one being healed must spend their shift resting or engaging in a stationary activity. While in a population center, this service can be purchased for ₮5.
 #### Crafting
 Players can craft items, gadgets, or weapons if they have the necessary materials and skills.
 #### Ship Modification

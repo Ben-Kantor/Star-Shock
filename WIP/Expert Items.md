@@ -3,9 +3,8 @@ Expert items are a type of armor, weapons, or other utility items that require t
 ---
 Wind Gun
 Auto-tracking telescope
-Magnetic Boots
 Hoverbike
-Gravmatc Skis
+Gravmatic Skis
 Resonance Crown
 Implosion Bombs
 Plasma Sword
