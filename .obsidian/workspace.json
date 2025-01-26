@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/Stat Blocks/Criminals.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criminals"
+              "title": "Readme"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
-    "Items/Restricted Weapons.md",
     "WIP/Stat Blocks/Criminals.md",
+    "Items/Restricted Weapons.md",
     "Readme.md",
     "WIP/Stat Blocks/Security Officers.md",
     "WIP/Disciplines.md",

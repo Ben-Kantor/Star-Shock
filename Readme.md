@@ -1,5 +1,5 @@
 # EXO-2040
-Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting.
+Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting. This repo hosts the game source; the rules, lore, print-outs, and GM content used to play the game.
 ## Features
 - An "atompunk" / "raypunk" retro-futuristic interplanetary setting.
 - A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md), with four attributes and thirty-six unlinked skills.
@@ -16,6 +16,8 @@ If you are interested in this game, this is the recommended order to read the ca
 3. Spacefaring
 4. Player Resources
 5. Items (optional)
+
+If anything seems unclear to you, you have questions, or you have an idea, please open an [Issue](https://github.com/Ben-Kantor/EXO-2040/issues) so we can improve the game. You can also check out the [Contributing](Readme.md#Contributing) section below on how to make your own changes to the game source.
 ## To-Do List
 #### Meta
 - Consider changing the game's name.
@@ -56,7 +58,7 @@ Made by Ben Kantor, with help from:
 - [LibreOffice](https://www.libreoffice.org/)
 - [Game-Icons.net](https://game-icons.net/)
 ## Contributing
-EXO-2040 is an intralinked markdown wiki, written and edited using Obsidian and published on Github. If you want to suggest changes, fork the repository, make your changes using the online or a local editor, then submit a pull request to have your changed merged into the game. Contributers can fix errors in the source, add clarifications, or suggest new content to be added. Below are the basic principles of the game source, that should be followed in all pull requests.
+The EXO-2040 game source is an intralinked markdown wiki, written and edited using Obsidian and published on Github. If you want to suggest changes, fork the repository, make your changes using the online or a local editor, then submit a pull request to have your changed merged into the game. Contributers can fix errors in the source, add clarifications, or suggest new content to be added. Below are the basic principles of the game source, that should be followed in all pull requests.
 #### Expansible Mechanics
 - Gameplay systems should all expand on the core of the system (attributes, skills, 2d6 checks, etc...), as well as on other mechanics, and should leave room to be expanded upon.
 - Mechanics should also use common themes, for instance the values of the values 3, 5, 7, and 10 are far preferred to other numbers.
