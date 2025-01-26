@@ -1,5 +1,5 @@
 ### Disintegration Pistol
-- Range: 5m, Rate: 1, Value: ₮200, *Restricted*
+- Range: 5m, Rate: 1, **Value**: ₮200, *Restricted*
 - Roll + 3 + Dex + **{Energy Weapons}** - Int Resistance
 	- "3+ dmg → disintegrate an item the target is holding/wearing."
 	- "6+ dmg → disintegrate a limb of the target."

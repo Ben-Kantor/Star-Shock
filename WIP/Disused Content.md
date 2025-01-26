@@ -7,7 +7,6 @@
 "Characters that fail to resist your psionic pulse also take the same amount of damage you took."
 #### Level 3
 "Your pulse doesn't effect allies, and disrupts electronic systems within 5m, forcing them offline for 1 minute unless shielded."
-
 ## Delusion
 #### Level 1
 "As an action, vanish or conjure an object into a personal extra-dimensional 50cm cube"

@@ -1,16 +1,16 @@
 ### Armed Guard
 *A hired guard or street cop*
-- **\[Str\]** - 2, **\[Dex\]** - 1, **\[Int\]** - 0, **Prs** - 1
-- **Skills** - Authority, Melee
-- **Resistances** - **\[Str\]** - 9, **\[Dex\]** - 9, **\[Int\]** - 7, **Prs** - 8
+- Str - 2, Dex - 1, Int - 0, Prs - 1
+- **Skills**: Authority, Melee
+- **Resistances**: Str - 9, Dex - 9, Int - 7, Prs - 8
 - Item: Baton
 	- Range: 1m, Rate: 1, Roll + 3 - Str Resistance
 - Item: Communicator
 ### Skilled Enforcer
 *A career order-keeper or private security officer*
-- **\[Str\]** - 2, **\[Dex\]** - 1, **\[Int\]** - 1, **Prs** - 1
-- **Skills** - Authority, Melee, Firearms
-- **Resistances** - **\[Str\]** - 9, **\[Dex\]** - 9, **\[Int\]** - 8, **Prs** - 8
+- Str - 2, Dex - 1, Int - 1, Prs - 1
+- **Skills**: Authority, Melee, Firearms
+- **Resistances**: Str - 9, Dex - 9, Int - 8, Prs - 8
 - Item: Electric Baton
 	- Range: 1m, Rate: 1, Roll + 3 - Str Resistance
 	- "3+ dmg → 1d6 additional energy damage."
@@ -22,9 +22,9 @@
 - Items: Communicator, ID Card, Self-Sealing Handcuffs
 ### Strike Officer
 *A highly-trained and well-armed officer*
-- **\[Str\]** - 3, **\[Dex\]** - 2, **\[Int\]** - 1, **Prs** - 1
-- **Skills** - Authority, Melee, Firearms, Move
-- **Resistances** - **\[Str\]** - 10, **\[Dex\]** - 10, **\[Int\]** - 9, **Prs** - 8
+- Str - 3, Dex - 2, Int - 1, Prs - 1
+- **Skills**: Authority, Melee, Firearms, Move
+- **Resistances**: Str - 10, Dex - 10, Int - 9, Prs - 8
 - Item: Electric Baton
 	- Range: 1m, Rate: 1, Roll + 3 - Str Resistance
 	- "3+ dmg → 1d6 additional energy damage."
