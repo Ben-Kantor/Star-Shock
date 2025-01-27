@@ -8,7 +8,7 @@ While a pilot is controlling a ship from the helm, each turn they make a difficu
 - **Aggressive Maneuver**
     - Provide a +1 bonus on all outgoing weapons fire checks.
 #### Fixing damage
-Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 30. Checks are made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred.
+Fixing a damaged part of a ship requires a [Skill Challenge](../Rules/Checks.md#Multi-Turn%20Checks), usually of difficulty 10. Checks are made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred.
 #### Firing Weapons
 Some weapons fire automatically but most require an operator or a [Combat Computer](Modules.md#Combat%20Computer}. To fire a weapon, a character makes a check based on the weapon's attribute, plus their **{Heavy Weapons}** skill. All ship weapons can only be fired once per turn. One character can operate two weapons, taking a move action between them and accounting for action penalty.
 #### Boarding
