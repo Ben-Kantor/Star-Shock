@@ -6,7 +6,7 @@ Anyone in a Coma cannot use consumables, as it is assumed that they receive heal
 ### Stimulant Shot (₮15)
 - "For the next minute, target may take an additional action each turn that doesn't add to your action penalty, after that action penalty is increased by 1 until the target rests for a shift."
 ### Regenerative Enzymes  (₮15)
-- "Grants a +2 bonus on consciousness checks for a minute, then afterwords heals 1d6 injuries."
+- "Grants a +2 bonus on consciousness checks for a minute, then afterwards heals 1d6 injuries."
 ### Adrenaline Injection (₮30)
 - "Increases target's **\[Str\]** and **\[Dex\]** (and resistances) by 1 for a minute, after which they are reduced by 1 until the target rests for a shift."
 ### Symbiotic Bandage (₮60)

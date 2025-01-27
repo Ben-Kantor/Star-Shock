@@ -61,11 +61,11 @@ _You are unusually tall and have no eyebrows._
 ### Enforcer
 - (◆◇◇) High Enforcer Contact.
 - One **{{Soldier}}** Skill and one Skill from **Any Category.**
-- "You always know when someone is hiding something illicit from you unless they succeed a difficulty 10 **\[Prs\]\]** rs]** + Deceive check."
+- "You always know when someone is hiding something illicit from you unless they succeed a difficulty 10 **\[Prs]** + Deceive check."
 - Starting Item: Any [Armor](../Items/Armors.md).
 ### Counselor
 - **{{Academic}}** Category Skill.
-- "You can sense any character's emotion unless they succeed a difficulty 10 **\[Prs\]\]\]\]\]\]\]\]\]\]** rs]** rs]** + Deceive check."
+- "You can sense any character's emotion unless they succeed a difficulty 10 **\[Prs]** + Deceive check."
 - "Once per session, add your **[Prs]** attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."
 ### Criminal
 - (◆◇◇) Criminal Contact.
