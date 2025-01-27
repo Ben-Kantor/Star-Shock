@@ -1,6 +1,6 @@
 ### Gang Member
 _Your average inexperienced criminal, looks tougher than they are_
-- **\[Str\]\]** - 1, **\[Dex\]\]** - 1, **\[Int\]\]** - 0, **\[Prs\]\]** - 1
+- **\[Str\]** - 1, **\[Dex\]** - 1, **\[Int\]** - 0, **\[Prs\]** - 1
 - **Skills**: Intimidate, Blades
 - **Resistances**: **\[Str\]** - 8, **\[Dex\]** - 8, **\[Int\]** - 7, **\[Prs\]** - 8
 - Item: Dagger (x2)
