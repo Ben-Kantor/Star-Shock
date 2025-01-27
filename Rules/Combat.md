@@ -54,7 +54,7 @@ Consult below to see how much damage is taken from falling a certain distance. T
 Characters in a coma are unable to communicate and do not make consciousness checks as normal. Instead, every 24 hours, they make a coma check (Strength vs half of total damage):
 - If they succeed, they wake up.
 - If they fail, they take one additional injury.
-- If they fail by seven or more or role snake-eyes, and have more injuries than total xp, they die.
+- If they fail by seven or more or roll snake-eyes, and have more injuries than total XP, they die.
 
 While in a coma, the same item can't be used more than once, and heal checks do nothing. To wake up, they will need advanced healing from a medical center, followed by electroshock therapy.
 #### Prone
