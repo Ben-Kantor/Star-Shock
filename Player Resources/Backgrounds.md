@@ -12,7 +12,7 @@ _You have slightly greenish skin and are slightly taller than the average human.
 ### Cybernetic
 _You have a cybernetic enhancement or replacement body part._
 - (◆◇◇) Cyberneticist Contact.
-- **(Robotics)** Skill.
+- **{Robotics}** Skill.
 - Start with the first level feature from either the [Bionic Arm](./Cybernetics.md#Bionic Arm) or [Optical Visor](./Cybernetics.md#Optical Visor) cybernetic abilities.
 ### Void-Born
 _You are unusually tall and have no eyebrows._
@@ -80,7 +80,7 @@ _You are unusually tall and have no eyebrows._
 - "You can intimidate people using **\[Str\]** instead of Prs."
 - "Once per session, re-roll one or both dice on a **\[Str\]** check."
 ### Acrobat
-- **{{Pilot}}** or **{{Soldier}}** Category Skill.
+- **{{Engineer}}** or **{{Soldier}}** Category Skill.
 - "You can jump twice as far as the average person."
 - "Once per session, re-roll one or both dice on a **\[Dex\]** check."
 ### Entertainer

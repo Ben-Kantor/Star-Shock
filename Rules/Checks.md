@@ -1,5 +1,5 @@
 ## Attributes
-Each creature has four attributes, which are used for certain kinds of checks.
+Each creature has four attributes, which are used for certain kinds of checks. These are represented with three letter abbreviations in **\[Square Brackets\]**.
 - **Strength** - **\[Str\]** - Physical power, endurance, and raw force.
 - **Dexterity** - **\[Dex\]** - Agility, reflexes, and precision.
 - **Intellect** - **\[Int\]** - Knowledge, problem-solving, and technical skill.
@@ -11,7 +11,7 @@ Characters have a number of skills from the list below, as determined by their B
 These are listed on their sheet under their abilities. 
 Whenever they make a check that relates to one of their skills, they can add +1 to their roll.
 
-Skills are represented by {Single Brackets} and categories of skills by {{Double Brackets}}, here and elsewhere in the game source.
+Skills are represented by **{Single Brackets}** and categories of skills by **{{Double Brackets}}**, here and elsewhere in the game source.
 
 | {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}} | {{Explorer}} |
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
@@ -21,7 +21,6 @@ Skills are represented by {Single Brackets} and categories of skills by {{Double
 | {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
 | {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
 | {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Heavy Weapons}  | {Nature}     |
-
 ## Checks
 To make a check, follow these steps:
 1. Roll 2d6.
@@ -43,7 +42,7 @@ If a character re-rolls one or both dice using an ability, they must take the ne
 #### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score. The GM can narrate how the character who rolled the best helped out the others, or how the character who rolled the worst failed.
 #### Skill Challenges
-Sometimes check will be split up into a Skill Challenge, usually when the check is either very important, or taking place during combat and will take more than one turn. To start, an attribute, skill, and difficulty are chosen as normal, with the difficulty usually being 10-12. Then rather then making one check, the character must repeat the check until they have three successes or failures. With three successes the skill challenge is successful, with three failures, the check is entirely failed and impossible to retry.
+Sometimes check will be split up into a Skill Challenge, usually when the check is either very important, or taking place during combat and will take more than one turn. To start, an attribute, skill, and difficulty are chosen as normal, with the difficulty usually being 10. Then rather then making one check, the character must repeat the check until they have three successes or failures. With three successes the skill challenge is successful, with three failures, the check is entirely failed and impossible to retry.
 
 GMs should narrate the checks to explain each step that is needed. During combat only one attempt at any skill challenge can be made per turn. Some skill challenges may require more or less than three successes.
 #### Secret Checks

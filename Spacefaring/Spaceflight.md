@@ -3,7 +3,7 @@
 - If a spacecraft doesn't have artificial gravity, most physical checks will be at a -1 penalty for everyone who isn't void-born.
 #### Computators
 All modern spacecrafts have a core computator terminal, used to plot routes. 
-- Can solve basic math / physics problems at a cost of 🜁 each.
+- Can solve basic math / physics problems at a cost of 🜁1 each, or more for larger problems.
 - Can send communications, setup beacons, control life support, etc
 - Can eject any module.
 #### Transit
@@ -29,11 +29,10 @@ Slowing to rendezvous or dock with another ship that is not travelling in the sa
 #### Ship Stats & Modules
 Each ship has a ship stat block, which includes:
 - Max Damage - amount of damage before disabled
-- Fuel usage (how many units of )
 - Ship Size (number of module bays)
 - A speed boost value of 0-4, used in chases
 
-Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](Ship%20Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.
+Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](./Ship%20Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.
 
 If a slot is not used for a module, it is storage space, and can hold the same amount as a player's inventory (10 normal items or multiples of small items).
 ### Takeoff and Landing
