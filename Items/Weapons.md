@@ -1,4 +1,3 @@
-
 Each weapon has several different values that determine its unique properties. Weapons that shoot energy or a projectile are called **Ranged** and those that don't are **Melee**.
 ##### Range
 - How many meters away the weapon can reach.
@@ -18,62 +17,37 @@ Each weapon has several different values that determine its unique properties. W
 ---
 ### Longbow
 - Range: 20m, Rate: 1, Value: ₮40
-- Roll: 2 + Dex + **{Archery}** - Dex Resistance
+- Roll + 2 + Dex + **{Archery}** - Dex Resistance
 	- "a -1 penalty if the target took the move action last turn."
 ### Crossbow
 - Range: 15m, Rate: 1, Value: ₮30
-- Roll: 3 + Str + **{Archery}** - Dex Resistance
+- Roll + 3 + Str + **{Archery}** - Dex Resistance
 	- "Must take an action to reload between shots."
 ### Dagger
-- Range: 1m, {5m if thrown), Rate: 3, Value: ₮10
-- Roll: 1 + Dex + **{Melee}** - Str Resistance
+- Range: 1m, (5m if thrown), Rate: 3, Value: ₮10
+- Roll + 1 + Dex + **{Melee}** - Str Resistance
 	- "Can be hidden on person."
 	- "Can be poisoned."
 ### Venusian Machete
 - Range: 2m, Rate: 2, Value: ₮15
-- Roll: 2 + Str + **{Melee}** - Str Resistance
+- Roll + 2 + Str + **{Melee}** - Str Resistance
 	- "3+ dmg → break their armor, giving -1 armor for a chosen damage type."
-### Disintegration Pistol
-- Range: 5m, Rate: 1, Value: ₮200, *Restricted*
-- Roll: 3 + Dex + **{Energy Weapons}** - Int Resistance
-	- "3+ dmg → disintegrate an item the target is holding/wearing."
-	- "6+ dmg → disintegrate a limb of the target."
-### Disposable Plasma Pistol
-- Range: 5m, Rate: 1, Value: ₮20, *Restricted*
-- Roll: 3 + Dex + **{Energy Weapons}** - Int Resistance
-	- "Can only fire three shots, after which it is inoperable"
-### Laser Pistol
-- Range: 5m, Rate: 2, Value: ₮100, *Restricted*
-- Roll: 2 + Dex + **{Energy Weapons}** - Int Resistance
-	- "3+ dmg → target is blinded next turn, giving a -1 penalty on some checks."
-### Laser Rifle
-- Range: 10m, Rate: 2, Value: ₮200, *Restricted*
-- Roll: 3 + Dex + **{Energy Weapons}** - Int Resistance
-	- "3+ dmg → target is blinded next turn, giving a -1 penalty on some checks."
 ### Electric Baton
 - Range: 1m, Rate: 1, Value ₮30
-- Roll: 2 + Str - Str Resistance
+- Roll + 2 + Str - Str Resistance
 	- "3+ dmg → 1d6 additional energy damage."
 ### Needle Gun
 - Range: 10m, Rate: 2, Value ₮50
-- Roll: 3 + Dex + **{Firearms}** - Str Resistance
-### Revolver
+- Roll + 3 + Dex + **{Firearms}** - Str Resistance
+### Titanium Revolver
 - Range: 10m, Rate: 2, Value: ₮40
-- Roll: 2 + Dex + **{Firearms}** - Str Resistance
+- Roll + 2 + Dex + **{Firearms}** - Str Resistance
 	- "Revolver attacks ignore action penalty"
-### Tesla Pistol
-- Range: 8m, Rate: 2, Value: ₮60, *Restricted*
-- Roll: 2 + Int + **{Energy Weapons}** - Int Resistance
-    - "3+ dmg → arcs to an adjacent target within 2m, dealing 1d6 damage."
-### Grav Hammer
-- Range: 1m, Rate: 1, Value: ₮100, *Restricted*
-- Roll: 3 + Str + **{Melee}** - Str Resistance
-    - "3+ dmg → target is knocked back 1d6 meters."
-### Brass Knuckles
+### Tungsten Knuckles
 - Range: 1m, Rate: 3, Value: ₮10
-- Roll: 2 + Str + **{Martial Arts}** - Str Resistance
+- Roll + 2 + Str + **{Martial Arts}** - Str Resistance
     - "3+ dmg → target is knocked prone."
 ### Tungsten Staff
 - Range: 2m, Rate: 2, Value: ₮40
-- Roll: 2 + Str/Dex + **{Martial Arts}** - Dex Resistance
+- Roll + 2 + Str/Dex + **{Martial Arts}** - Dex Resistance
 	- "3+ dmg → target can't use psionics on their next turn"

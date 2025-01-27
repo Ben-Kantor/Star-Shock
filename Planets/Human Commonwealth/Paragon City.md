@@ -1,0 +1,30 @@
+The largest extra-terrestrial human city, Paragon City, is located on the northern pole of the moon. It has a population of just under 1 million humans, as well as roughly 1000 extra-terrestrials. The upper city is built in a kilometer-tall spire made out of rough glass still containing specks of regolith, split up into floors about 200 meters across. Because the city is built on the lunar pole, there is always sunlight, but the angle changes in cycles of 30 days (one "lunar month"). The enormous Lunar shipyards and the Human Interplanetary Force Flagship HWS Thunderhead are visible from the ground, hovering about 10 kilometers above, held by enormous electromagnets.
+
+At the bottom, a variety of structures including foundries and manufacturing plants are built around the base of the tower. Most of these are disconnected structures s
+
+A the top of the tower is a thin spire called the Lunar Aerie, which is the command center for the Interplanetary Force of the Human Commonwealth. At the top an enormous Jacobs ladder several kilometers tall sends off messages to human ships as far out as Neptune. Landing pads are located around it in pairs of three alternating by angle, with various small but elaborate ships. The bottom few floors are open to anyone, but security increases the higher you go.
+
+The center of the spire has a set of open front elevators constantly moving up and down, that can be stepped on and off freely. There are also pneumatic tubes with ports that let you send an item to any floor, or directly to some locations. There is a road in a spiralized triple helix near the edge of the tower, on which people drive in open-top rovers. The three towers are connected by cable cars, which cost ₮1 per trip. The top of each spire is a spacepad atop a hangar floor, for luxury vehicles and civilian transports alike. 
+
+The lower floors, in partial shade from the terrain and even below it, are filled with industrial workshops and lower-class residences. Floors are as close together as 5m, and light is brought in with fiber optic cables. Structures are made of regolith panels, rough marbled gray stone, and roads are more like hallways. Closer to the base of the spire a constant vibration can be felt it is constantly mined deeper into the ground, and forges melt the regolith to produce all forms of goods. Luminescent graffitti can be seen in places, sometimes promising revolution of various forms, sometimes just being annoying.
+
+The middle floors, taking up half of the space, contain shops, restaurants, and luxury apartments, with floors about 15m apart. The streets between buildings are made of a gray marbled material called LunaLite. Buildings are made out of bricks from this same substances as well as painted corrugated steel, and plastic. Water, plasma, and fresh air run through glass pipes visible in many places outside, and sewage runs through a tinted pipe. Neon signs are often connected directly to the plasma line, in multi-floor markets built out of mesh. Buildings on the edge of the spires, outside the road, have bubble balconies.
+
+The upper floors are owned by wealthy businesses, including some extra-terrestrial businesses and embassies. There are leisure areas here, many of which are available to the to the lower floor residents for a small fee, but some of which are private. Some include levitating plant baskets, and even exotic zoos. There are many luxury hotels and condos and private offices, with the most fancy ones located at the edge of the spire with a view.
+## Locations
+- **Star-Burger** - A fast food chain with multiple locations, serving hamburgers made out of algea and similar foods.
+- **Astral Gardens** (or just the **Gardens**), an entire floor filled with a park, including a zoo and a large amount of hanging garden baskets suspended magnetically. The only place that follows a day/night cycle.
+- **Lunar Exchange** - The central trading hub on the upper floors, where precious gasses, metals, and currencies are exchanged constantly. 
+- **Regolith Foundry** - A sprawling industrial complex around the base of the spire, where lunar regolith is processed into everything from construction materials to consumer goods. 
+- **Polaris Observatory** - A high-end observatory near the upper floors, offering views of the Earth, stars, and passing spacecraft, for a fee.
+- **Satelite Bistro** - A famous zero-gravity lounge in the upper floors, where drinks are served to tourists in magnetized cups, and customers float in an anti-grav chamber.
+- **Tranquility Square** - A large public plaza on a middle floor, featuring an enormous holographic projection of the Earth.
+- **Paragon Academy** - A prestigious school for young pilots and engineers on the upper floors, training the next generation of space-captains and HIF officers.
+- **Moonshine Docks** - A hidden distillery and bar on a low floor, producing "moonshine" liquors that are popular among the lower-class residents.
+- **The Tycho Arcade** - A retro-futuristic entertainment floor filled with holographic games, zero-gravity sports arenas, and vintage arcade cabinets, run by a Martian.
+- **Mechanics Guild** - A workshop complex on a middle floor where residents can bring damaged equipment for repair or trade knowledge about spacecraft and technology.
+- **Nebula Heights** - The most exclusive residential area in the city, located near the top of the spire, offering unparalleled views and luxury accommodations.
+- **Starlight Memorial** - A somber monument on a mid-level floor dedicated to those who lost their lives during the Martian Wars.
+- **The Scarab's Nest** - A communal living spacs built from stacked cargo containers on a lower floor.
+- **Lunar Enterprises** - The factory, and offices of the corporation Lunar Enterprises are built on an entire upper floor, along with the Lunar Mall, a luxury mall which sells their goods as well as others.
+- **Stack-Malls** - Small retail centers built on lower floors, named as such because they are built in small scraps of space between floors. The two largest are The Crater and Trenteloth's.

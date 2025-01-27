@@ -16,7 +16,7 @@ A flip-phone like device which communicate like walkey-talkeys with a maximum ra
 ### Universal Toolkit (₮30)
 A compact kit containing tools for repairs and tinkering, including screwdrivers, wrenches, and a small laser cutter. Needed to make basic mechanical checks without a -1 penalty.
 ### Titanium Crowbar (₮10)
-An extremely lightweight levering tool, very portable but ineffective for fighting. A +1 bonus on relevant checks.
+An extremely lightweight levering tool, very portable but ineffective for fighting. A +1 bonus on relevant Str checks.
 ### Hyper-Glue (₮15)
 A mini toothpaste tube of bright green glue made from Venusian Sap. Only enough for one application.
 ### Self-Focusing Spyglass (₮90)

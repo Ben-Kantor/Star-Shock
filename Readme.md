@@ -16,8 +16,6 @@ If you are interested in this game, this is the recommended order to read the ca
 3. Spacefaring
 4. Player Resources
 5. Items (optional)
-
-**Do not read the GM Resources folder unless you intend to run a game.**
 ## To-Do List
 #### Meta
 - Consider changing the game's name.
