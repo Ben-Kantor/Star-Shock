@@ -17,37 +17,37 @@ Each weapon has several different values that determine its unique properties. W
 ---
 ### Longbow
 - Range: 20m, Rate: 1, Value: ₮40
-- Roll + 2 + Dex + **{Archery}** - Dex Resistance
+- Roll + 2 + **\[Dex\]** + **{Archery}** - **\[Dex Resist\]**
 	- "a -1 penalty if the target took the move action last turn."
 ### Crossbow
 - Range: 15m, Rate: 1, Value: ₮30
-- Roll + 3 + Str + **{Archery}** - Dex Resistance
+- Roll + 3 + **\[Str\]** + **{Archery}** - **\[Dex Resist\]**
 	- "Must take an action to reload between shots."
 ### Dagger
 - Range: 1m, (5m if thrown), Rate: 3, Value: ₮10
-- Roll + 1 + Dex + **{Melee}** - Str Resistance
+- Roll + 1 + **\[Dex\]** + **{Melee}** - **\[Str Resist\]**
 	- "Can be hidden on person."
 	- "Can be poisoned."
 ### Venusian Machete
 - Range: 2m, Rate: 2, Value: ₮15
-- Roll + 2 + Str + **{Melee}** - Str Resistance
+- Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
 	- "3+ dmg → break their armor, giving -1 armor for a chosen damage type."
 ### Electric Baton
 - Range: 1m, Rate: 1, Value ₮30
-- Roll + 2 + Str - Str Resistance
+- Roll + 2 + **\[Str\]** - **\[Str Resist\]**
 	- "3+ dmg → 1d6 additional energy damage."
 ### Needle Gun
 - Range: 10m, Rate: 2, Value ₮50
-- Roll + 3 + Dex + **{Firearms}** - Str Resistance
+- Roll + 3 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
 ### Titanium Revolver
 - Range: 10m, Rate: 2, Value: ₮40
-- Roll + 2 + Dex + **{Firearms}** - Str Resistance
+- Roll + 2 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
 	- "Revolver attacks ignore action penalty"
 ### Tungsten Knuckles
 - Range: 1m, Rate: 3, Value: ₮10
-- Roll + 2 + Str + **{Martial Arts}** - Str Resistance
+- Roll + 2 + **\[Str\]** + **{Martial Arts}** - **\[Str Resist\]**
     - "3+ dmg → target is knocked prone."
 ### Tungsten Staff
 - Range: 2m, Rate: 2, Value: ₮40
-- Roll + 2 + Str/Dex + **{Martial Arts}** - Dex Resistance
+- Roll + 2 + **\[Str\]** or **\[Dex\]** + **{Martial Arts}** - **\[Dex Resist\]**
 	- "3+ dmg → target can't use psionics on their next turn"

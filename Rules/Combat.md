@@ -5,8 +5,8 @@ At the start of their turn, players declare how many actions they are taking, up
 Each action that involves a dice roll gets -1 for each action more than one that they are taking this turn.
 This is called the **Action Penalty**, and means if you take three actions in a turn, each one gets -2 on the roll.
 Actions that do not require a roll can ignore this, however.
-- **Light Punch** - Make an attack with 1m range, with a roll of Dex + {Martial Arts} - Str Resistance.
-- **Heavy Punch** - Make an attack with 1m range, with a roll of Str + {Martial Arts} - Dex Resistance.
+- **Light Punch** - Make an attack with 1m range, with a roll of **\[Dex\]** + {Martial Arts} - **\[Str Resist\]**.
+- **Heavy Punch** - Make an attack with 1m range, with a roll of **\[Str\]**  + {Martial Arts} - **\[Dex Resist\]**.
 - **Other Weapon Attack** - Other [Weapons](/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
 - **Interact with Object** - You can usually only interact with the same object once per turn
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 5m of ground, though in more difficult terrain it might be 2.5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
@@ -34,6 +34,7 @@ Each attribute has an associated resistance, usually equal to the attribute (min
 | Dexterity | Heavy, slow attacks; falling objects. |
 | Intellect | Energy weapons, fire, lightning.      |
 | Presence  | Psychic, mental damage.               |
+Resistances are represented as **\[Abl Resist]** in the game source, with Abl replaced with the relevant ability.
 
 Resistances can also be increased by wearing [Armor](Checks.md#Armor) [(List)](/Items/Armors.md), or by some enhancements.
 ## Taking Damage
@@ -48,7 +49,7 @@ Consult below to see how much damage is taken from falling a certain distance. T
 - Large asteroids and moons - 1d6 per 10m fallen
 ## Status Conditions
 #### Unconscious
- While a character is unconscious, if the amount of damage they have decreases, they may re-roll their consciousness check and wake up on a success. If the amount of damage increases, they must re-roll their consciousness check to see if they fall into a coma, but they don't wake up on a success. Without interference, unconscious characters will wake up after 1 hour. They can also be woken up with a successful Difficulty 10 Dex + **{Medicate}** check.
+ While a character is unconscious, if the amount of damage they have decreases, they may re-roll their consciousness check and wake up on a success. If the amount of damage increases, they must re-roll their consciousness check to see if they fall into a coma, but they don't wake up on a success. Without interference, unconscious characters will wake up after 1 hour. They can also be woken up with a successful Difficulty 10 **\[Dex\]** + **{Medicate}** check.
 #### Comatose
 Characters in a coma are unable to communicate and do not make consciousness checks as normal. Instead, every 24 hours, they make a coma check (Strength vs half of total damage):
 - If they succeed, they wake up.

@@ -11,11 +11,11 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 ## Get Started
 If you are interested in this game, this is the recommended order to read the categories:
 1. Setting
-3. Rules
-2. The System
-3. Spacefaring
-4. Player Resources
-5. Items (optional)
+2. Rules
+3. Planets
+4. Spacefaring
+5. Player Resources
+6. Items (optional)
 
 If anything seems unclear to you, you have questions, or you have an idea, please open an [Issue](https://github.com/Ben-Kantor/EXO-2040/issues) so we can improve the game. You can also check out the [Contributing](Readme.md#Contributing) section below on how to make your own changes to the game source.
 ## To-Do List

@@ -10,7 +10,7 @@ Seven points may divided among these attributes, with no attribute containing a 
 - Simple engineering or construction that requires physical effort.
 - Heavy melee weapons (e.g. hammers, axes).
 - Simple ranged weapons like crossbows or thrown items (e.g. javelins).
-- Climbing or swimming (either Str or Dex).
+- Climbing or swimming (either **\[Str\]** or Dex).
 #### Dexterity (Dex)
 - Represents agility, reflexes, and precision.
 - A character with high Dexterity is nimble, quick, and precise. They can likely dodge attacks, move stealthily, and excel at tasks requiring fine motor skills.
@@ -20,7 +20,7 @@ Seven points may divided among these attributes, with no attribute containing a 
 - Dodging or avoiding incoming attacks.
 - Light melee weapons (e.g. daggers, short swords).
 - Ranged weapons (e.g. bows, firearms).
-- Climbing or swimming (either Str or Dex).
+- Climbing or swimming (either **\[Str\]** or Dex).
 #### Intellect (Int)
 - Represents knowledge, problem-solving, and technical skill.
 - A character with high Intellect is logical, analytical, and quick to solve complex problems. They might excel in engineering, academic fields, and deciphering puzzles or languages.

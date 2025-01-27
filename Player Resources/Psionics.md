@@ -1,10 +1,10 @@
-All psionic abilities cost 5 XP to unlock. To unlock the second ability in any set you must have at least 15 total XP, and to  unlock the third one you must have at least 30 total XP. To train an ability, a character must spend a shift and make a Prs check against a difficulty listed in the table below. On a success, they gain the ability. On a failure, they gain a +1 bonus toward their next attempt, which can stack.
-When making a psionics check against a character, roll a Prs check against a difficulty equal to their Prs resistance. If you fail any psionics check, you take 1 damage point.
+All psionic abilities cost 5 XP to unlock. To unlock the second ability in any set you must have at least 15 total XP, and to  unlock the third one you must have at least 30 total XP. To train an ability, a character must spend a shift and make a **\[Prs\]** check against a difficulty listed in the table below. On a success, they gain the ability. On a failure, they gain a +1 bonus toward their next attempt, which can stack.
+When making a psionics check against a character, roll a **\[Prs\]** check against a difficulty equal to their **\[Prs Resist\]**. If you fail any psionics check, you take 1 damage point.
 - Targets are vaguely aware that psionics were used unless your roll exceeded the check difficulty by at least 1, or you spend a luck point to counter this awareness.
 - If you attempt a psionics check against a target (with or without a roll), you cannot do so again with the same target and ability until you rest.
 - Unless otherwise stated, all psionic abilities have a range of 10m.
 - Only one continuous psionic ability can be active at a time; it ends if you take 3 or more damage.
-- If attempting to push the limits of an ability (e.g., range, weight), a Prs check may be required, or you may take a -1 penalty on a psionics check.
+- If attempting to push the limits of an ability (e.g., range, weight), a **\[Prs\]** check may be required, or you may take a -1 penalty on a psionics check.
 ---
 ### ESP
 1. "You can sense the presence of characters within 100m, though you cannot identify them unless you already know them."
@@ -16,8 +16,8 @@ When making a psionics check against a character, roll a Prs check against a dif
 3. "By touching a character's skin, you can read their thoughts for 1 minute if you succeed on a psionics check against them, though learning their secrets may require additional checks."
 ### Telekinesis
 1. "You can slowly manipulate objects weighing up to 5kg."
-2. "You can manipulate up to 20kg with a difficulty 10 psionics check or disarm a target by succeeding a contested check using your Prs against their Str."
-3. "You can lift up to 100kg and move it up to 10m per turn with a difficulty 12 psionics check. You can throw an object to make an attack: 2 + Prs - Dex Resistance."
+2. "You can manipulate up to 20kg with a difficulty 10 psionics check or disarm a target by succeeding a contested check using your **\[Prs\]** against their Str."
+3. "You can lift up to 100kg and move it up to 10m per turn with a difficulty 12 psionics check. You can throw an object to make an attack: 2 + **\[Prs\]** - **\[Dex Resist\]**."
 ### Manipulation
 1. "By touching a character's skin, you can grant a +1 bonus on all social checks against them for 1 minute."
 2. "By touching and succeeding a psionics check against a character, you can cause them to forget the last 10 seconds or all memories of your existence."
@@ -27,6 +27,6 @@ When making a psionics check against a character, roll a Prs check against a dif
 2. "When you roll for luck points, roll twice and take the higher result."
 3. "Once per session, with a successful difficulty 10 psionics check, you can predict the most likely outcomes of events within 10 minutes."
 ### Anti-Psionics
-1. "You gain +1 Prs resistance and are always aware of psionics being used around or on you."
+1. "You gain +1 **\[Prs Resist\]** and are always aware of psionics being used around or on you."
 2. "You can spend 1 luck point to heal 1 damage point as an action, or once per turn while unconscious."
-3. "You are immune to all psionics and can attempt to stop or prevent a psionic ability by making a contested Prs check against the psionic, with no action required."
+3. "You are immune to all psionics and can attempt to stop or prevent a psionic ability by making a contested **\[Prs\]** check against the psionic, with no action required."
