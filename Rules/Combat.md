@@ -26,7 +26,9 @@ If a character wants to take an action outside of their turn, they can choose to
 
 Alternatively, two players may switch seats to change the initiative position of their characters.
 ## Resistances
-Each attribute has an associated resistance, usually equal to the attribute (min 0) + 7. All damage of the associated type is reduced by the resistance, with a minimum damage of 0.
+Each attribute has an associated resistance, usually equal to the attribute (min 0) + 7.
+
+Many sources of damage are reduced by a specified resistance (to a minimum of 0). Where a resistance is not specified, none applies.
 
 | Ability   | Damage                                |
 | --------- | ------------------------------------- |
