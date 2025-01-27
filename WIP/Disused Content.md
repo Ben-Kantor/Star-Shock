@@ -2,12 +2,11 @@
 # Psionics
 ## Psionic Pulse
 #### Level 1
-"You can take 1d6 damage to emit a short-range psionic shockwave (5m radius) that forces all creatures to succeed a difficulty 10 Prs check or gain a -1 penalty on all checks next turn."
+"You can take 1d6 damage to emit a short-range psionic shockwave (5m radius) that forces all creatures to succeed a difficulty 10 **\[Prs\]** check or gain a -1 penalty on all checks next turn."
 #### Level 2
 "Characters that fail to resist your psionic pulse also take the same amount of damage you took."
 #### Level 3
 "Your pulse doesn't effect allies, and disrupts electronic systems within 5m, forcing them offline for 1 minute unless shielded."
-
 ## Delusion
 #### Level 1
 "As an action, vanish or conjure an object into a personal extra-dimensional 50cm cube"

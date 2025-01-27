@@ -33,7 +33,7 @@ Each ship has a ship stat block, which includes:
 - Ship Size (number of module bays)
 - A speed boost value of 0-4, used in chases
 
-Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.
+Small ships might have 3-5 upgrade bays, large ones can have 30-40 or more [(list)](Ship%20Modules.md). Some modules use several module bays, such as shuttle bays and heavy artillery. Each module takes a shift to install, and buying modules costs ₮20-100.
 
 If a slot is not used for a module, it is storage space, and can hold the same amount as a player's inventory (10 normal items or multiples of small items).
 ### Takeoff and Landing

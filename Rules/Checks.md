@@ -1,9 +1,9 @@
 ## Attributes
 Each creature has four attributes, which are used for certain kinds of checks.
-- **Strength** (Str)- Physical power, endurance, and raw force.
-- **Dexterity** (Dex) - Agility, reflexes, and precision.
-- **Intellect** (Int) - Represents knowledge, problem-solving, and technical skill.
-- **Presence** (Prs) - Represents charisma, willpower, and emotional strength.
+- **Strength** - **\[Str\]** - Physical power, endurance, and raw force.
+- **Dexterity** - **\[Dex\]** - Agility, reflexes, and precision.
+- **Intellect** - **\[Int\]** - Knowledge, problem-solving, and technical skill.
+- **Presence** - **\[Prs\]** - Charisma, willpower, and emotional strength.
 #### Values
 These can be any value, but are 1 on average for humans. PCs start with 0-3 in each totaling to 7, but NPCs can have higher or lower values (including negatives).
 ## Skills
