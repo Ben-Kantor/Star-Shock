@@ -38,6 +38,7 @@ Each weapon has several different values that determine its unique properties. W
 ### Needle Gun
 - Range: 10m, Rate: 2, Value ₮50
 - Roll + 3 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
+	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply"
 ### Titanium Revolver
 - Range: 10m, Rate: 2, Value: ₮40
 - Roll + 2 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**

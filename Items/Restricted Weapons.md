@@ -21,7 +21,7 @@
     - "3+ dmg → arcs to an adjacent target within 2m, dealing 1d6 damage."
 ### Grav Hammer
 - Range: 1m, Rate: 1, Value: ₮100, *Restricted*
-- Roll + 3 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
+- Roll + 3 + **\[Str\]** + **{Melee}** - **\[Dex Resist\]**
     - "3+ dmg → target is knocked back 1d6 meters."
 ### Collapsible Spear
 - Range: 5m Thrown, Rate: 1, Value: ₮20
