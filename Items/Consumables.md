@@ -4,7 +4,7 @@ Anyone in a Coma cannot use consumables, as it is assumed that they receive heal
 ### Spray-on Skin (₮15) 
 - "Heals the target by 1d6 + **{Medicate}** damage."
 ### Stimulant Shot (₮15)
-- "For the next minute, target may take an additional action each turn that doesn't add to your action penalty, after that action penalty is increased by 1 until the target rests for a shift."
+- "For the next minute, targets action penalty is decreased by 1, after that their action penalty is increased by 1 until the target rests for a shift."
 ### Regenerative Enzymes  (₮15)
 - "Grants a +2 bonus on consciousness checks for a minute, then afterwards heals 1d6 damage points."
 ### Adrenaline Injection (₮30)
