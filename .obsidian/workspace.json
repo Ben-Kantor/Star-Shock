@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Basic Items.md",
+                "file": "Rules/Checks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Items"
+              "title": "Checks"
             }
           }
         ]
@@ -166,6 +166,10 @@
   },
   "active": "9dbaee2d5c586eec",
   "lastOpenFiles": [
+    "Rules/Combat.md",
+    "Rules/Checks.md",
+    "Items/Basic Items.md",
+    "Items/Armors.md",
     "GM Resources/Stat Blocks/Criminals.md",
     "GM Resources/Stat Blocks/Misc..md",
     "GM Resources/Stat Blocks/How to Use.md",
@@ -173,13 +177,10 @@
     "WIP/Expert Items.md",
     "WIP/Disused Content.md",
     "WIP/Materials.md",
-    "Items/Armors.md",
     "Items/Restricted Items.md",
     "Items/Consumables.md",
     "Items/Restricted Weapons.md",
     "Items/Weapons.md",
-    "Items/Basic Items.md",
-    "Rules/Combat.md",
     "Player Resources/Character Creation.md",
     "Player Resources/Cybernetics.md",
     "Player Resources/Skills & Attributes.md",
@@ -191,7 +192,6 @@
     "Readme.md",
     "Spacefaring/Spaceflight.md",
     "Spacefaring/Ship Modules.md",
-    "Rules/Downtime.md",
     "The System/Human Commonwealth",
     "The System",
     "Character Sheet.pdf",

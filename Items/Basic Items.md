@@ -8,7 +8,7 @@ Custom tailored boots with toggleable magnets that allow a user to walk along me
 ### Omni-Linguistic Decoder (₮30)
 A hand-held device that translates any known language into the user’s native tongue. May require an **\[Int\]** + **{Comms}** check to decipher exotic languages or idoms/slang.
 ### Atomic Lantern (₮15)
-Bright lamp with a blue glowing cylinder of enriched radium. Can be focused to blind someone within 10m for a turn unless they make a difficulty 10 **[Prs]** check.
+Bright lamp with a blue glowing cylinder of enriched radium. Can be focused to blind someone within 10m for a turn unless they make a difficulty 10 **\[Prs\]** check.
 ### Spider-Silk Rope (₮5)
 Fifteen meters of rope, can hold up to one ton in earth gravity.
 ### Communicator (₮15)
