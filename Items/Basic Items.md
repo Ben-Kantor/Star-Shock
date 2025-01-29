@@ -18,15 +18,13 @@ A compact kit containing tools for repairs and tinkering, including screwdrivers
 ### Titanium Crowbar (₮10)
 An extremely lightweight levering tool, very portable but ineffective for fighting. Grants a +1 bonus on relevant **\[Str\]** checks.
 ### Hyper-Glue (₮15)
-A mini toothpaste tube of bright green glue made from Venusian Sap. Only enough for one application.
+A mini toothpaste tube of bright green glue made from Venusian Sap. Only enough for one large application or three small ones.
 ### Self-Focusing Spyglass (₮90)
 Offers a clear enough view to make out 10cm detail 10km away, and 1m details 100km away.
 ### Grappling Harpoon (₮45)
 A gun-like device that fires a hooked cable up to 20m. Allows for quick ascents, securing objects, or pulling enemies. Can pull up to 100kg in Earth's gravity. May require a **\[Dex\]** + **{Firearms}** check to get a good hook.
 ### Medical Kit (₮25)
 A set of bandages, healing paste, and a hypo-spray with basic medicines. Needed to make basic medicine checks without disadvantage.
-### Holo-Projector (₮20)
-A palm-sized device capable of projecting detailed holograms in a meter cube area.
 ### Collapsible Shovel (₮10)
 A compact, foldable shovel made of lightweight titanium. Useful for digging or moving debris in survival or engineering situations.
 ### Vacuum-Sealed Rations (₮1)

@@ -517,31 +517,6 @@
         "nonWhitespaceCharacterCount": 4840
       }
     },
-    "Readme.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 664,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.2133333333333334,
-      "characterCount": 4874,
-      "nonWhitespaceCharacterCount": 4123,
-      "readingTimeInMinutes": 2.5056603773584905,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737991830712,
-      "modifiedDate": 1737992743682,
-      "sizeInBytes": 4874,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.2133333333333334,
-        "wordCount": 664,
-        "characterCount": 4874,
-        "nonWhitespaceCharacterCount": 4123
-      }
-    },
     "Player Resources/XP.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -690,6 +665,31 @@
         "wordCount": 661,
         "characterCount": 5142,
         "nonWhitespaceCharacterCount": 4367
+      }
+    },
+    "Readme.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 664,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.2133333333333334,
+      "characterCount": 4874,
+      "nonWhitespaceCharacterCount": 4123,
+      "readingTimeInMinutes": 2.5056603773584905,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737991830712,
+      "modifiedDate": 1737992743682,
+      "sizeInBytes": 4874,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.2133333333333334,
+        "wordCount": 664,
+        "characterCount": 4874,
+        "nonWhitespaceCharacterCount": 4123
       }
     },
     "Planets/Venus.md": {
@@ -961,10 +961,10 @@
       "sizeInBytes": 2695,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.2966666666666666,
-        "wordCount": 389,
-        "characterCount": 2590,
-        "nonWhitespaceCharacterCount": 2098
+        "pageCount": 1.3366666666666667,
+        "wordCount": 401,
+        "characterCount": 2669,
+        "nonWhitespaceCharacterCount": 2162
       }
     },
     "Items/Restricted Weapons.md": {
@@ -1021,44 +1021,44 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 229,
+      "wordCount": 222,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7633333333333333,
-      "characterCount": 1484,
-      "nonWhitespaceCharacterCount": 1236,
-      "readingTimeInMinutes": 0.8641509433962264,
+      "pageCount": 0.74,
+      "characterCount": 1445,
+      "nonWhitespaceCharacterCount": 1203,
+      "readingTimeInMinutes": 0.8377358490566038,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1737991830706,
-      "modifiedDate": 1738088267408,
-      "sizeInBytes": 1498,
+      "createdDate": 1738108359353,
+      "modifiedDate": 1738108359353,
+      "sizeInBytes": 1459,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.5533333333333333,
-        "wordCount": 166,
-        "characterCount": 1040,
-        "nonWhitespaceCharacterCount": 858
+        "pageCount": 0.74,
+        "wordCount": 222,
+        "characterCount": 1445,
+        "nonWhitespaceCharacterCount": 1203
       }
     },
     "Items/Basic Items.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 451,
+      "wordCount": 441,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5033333333333334,
-      "characterCount": 2982,
-      "nonWhitespaceCharacterCount": 2512,
-      "readingTimeInMinutes": 1.7018867924528303,
+      "pageCount": 1.47,
+      "characterCount": 2900,
+      "nonWhitespaceCharacterCount": 2441,
+      "readingTimeInMinutes": 1.6641509433962265,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1737992052158,
-      "modifiedDate": 1737992052166,
-      "sizeInBytes": 3014,
+      "modifiedDate": 1738155389761,
+      "sizeInBytes": 2930,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.5033333333333334,
@@ -1086,10 +1086,10 @@
       "sizeInBytes": 655,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.24,
-        "wordCount": 72,
-        "characterCount": 504,
-        "nonWhitespaceCharacterCount": 425
+        "pageCount": 0.30666666666666664,
+        "wordCount": 92,
+        "characterCount": 647,
+        "nonWhitespaceCharacterCount": 547
       }
     },
     "GM Resources/Tips.md": {
@@ -1140,6 +1140,81 @@
         "wordCount": 244,
         "characterCount": 1575,
         "nonWhitespaceCharacterCount": 1308
+      }
+    },
+    "GM Resources/Stat Blocks/Security Officers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 219,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.73,
+      "characterCount": 1715,
+      "nonWhitespaceCharacterCount": 1414,
+      "readingTimeInMinutes": 0.8264150943396227,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737991830791,
+      "modifiedDate": 1737994959875,
+      "sizeInBytes": 1723,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.73,
+        "wordCount": 219,
+        "characterCount": 1715,
+        "nonWhitespaceCharacterCount": 1414
+      }
+    },
+    "GM Resources/Stat Blocks/How to Use.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 210,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7,
+      "characterCount": 1234,
+      "nonWhitespaceCharacterCount": 1021,
+      "readingTimeInMinutes": 0.7924528301886793,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737991830734,
+      "modifiedDate": 1737991830765,
+      "sizeInBytes": 1234,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7,
+        "wordCount": 210,
+        "characterCount": 1234,
+        "nonWhitespaceCharacterCount": 1021
+      }
+    },
+    "GM Resources/Stat Blocks/Criminals.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 608,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.026666666666667,
+      "characterCount": 4737,
+      "nonWhitespaceCharacterCount": 3898,
+      "readingTimeInMinutes": 2.2943396226415094,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737991830733,
+      "modifiedDate": 1738088583121,
+      "sizeInBytes": 4747,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.026666666666667,
+        "wordCount": 608,
+        "characterCount": 4737,
+        "nonWhitespaceCharacterCount": 3898
       }
     },
     "GM Resources/Running a Campaign.md": {
@@ -1334,81 +1409,6 @@
       "createdDate": 1737991739505,
       "modifiedDate": 1737751361853,
       "sizeInBytes": 124,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "GM Resources/Stat Blocks/Criminals.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 608,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.026666666666667,
-      "characterCount": 4737,
-      "nonWhitespaceCharacterCount": 3898,
-      "readingTimeInMinutes": 2.2943396226415094,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737991830733,
-      "modifiedDate": 1738088583121,
-      "sizeInBytes": 4747,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "GM Resources/Stat Blocks/How to Use.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 210,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7,
-      "characterCount": 1234,
-      "nonWhitespaceCharacterCount": 1021,
-      "readingTimeInMinutes": 0.7924528301886793,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737991830734,
-      "modifiedDate": 1737991830765,
-      "sizeInBytes": 1234,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "GM Resources/Stat Blocks/Security Officers.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 219,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.73,
-      "characterCount": 1715,
-      "nonWhitespaceCharacterCount": 1414,
-      "readingTimeInMinutes": 0.8264150943396227,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737991830791,
-      "modifiedDate": 1737994959875,
-      "sizeInBytes": 1723,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
