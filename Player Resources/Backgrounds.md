@@ -31,11 +31,10 @@ _You are unusually tall and have no eyebrows._
 ### Engineer
 - **{{Engineering}}** Category Skill.
 - "You can make two cycles of ship repairs and upgrades in one shift."
-- "You can rig most devices to explode with an **\[Int\]** + **(Explosives)** check."
+- "You can rig most devices to explode with an **\[Int\]** + **{Explosives}** check."
 - Starting Item: [Universal Toolkit](../Items/Basic%20Items.md).
 ### Doctor
 - **{Chemistry}** and **{Medicate}** Skills.
-- "Your medicate check on a character also serves as a minimum on their next heal check."
 - "You know how to create poisons, medicines, and even explosives given the correct materials."
 - Starting Item: [Medical Kit](../Items/Basic%20Items.md).
 ### Explorer

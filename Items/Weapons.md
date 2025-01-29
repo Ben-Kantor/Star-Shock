@@ -29,8 +29,9 @@ Each weapon has several different values that determine its unique properties. W
 	- "Can be hidden on person."
 	- "Can be poisoned."
 ### Venusian Machete
+- Range: 1m, Rate: 2, Value: ₮30
 - Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
-	- "3+ dmg → break their armor, giving -1 armor for a chosen damage type."
+	- "3+ dmg → make an extra attack immediately, ignoring action penalty, do this only once each turn."
 ### Electric Baton
 - Range: 1m, Rate: 1, Value ₮30
 - Roll + 2 + **\[Str\]** - **\[Str Resist\]**
@@ -38,11 +39,11 @@ Each weapon has several different values that determine its unique properties. W
 ### Needle Gun
 - Range: 10m, Rate: 2, Value ₮50
 - Roll + 3 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
-	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply"
+	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply."
 ### Titanium Revolver
 - Range: 10m, Rate: 2, Value: ₮40
 - Roll + 2 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
-	- "Revolver attacks ignore action penalty"
+	- "Ignores action penalty."
 ### Tungsten Knuckles
 - Range: 1m, Rate: 3, Value: ₮10
 - Roll + 2 + **\[Str\]** + **{Martial Arts}** - **\[Str Resist\]**
@@ -50,4 +51,4 @@ Each weapon has several different values that determine its unique properties. W
 ### Tungsten Staff
 - Range: 2m, Rate: 2, Value: ₮40
 - Roll + 2 + **\[Str\]** or **\[Dex\]** + **{Martial Arts}** - **\[Dex Resist\]**
-	- "3+ dmg → target can't use psionics on their next turn"
+	- "3+ dmg → target can't use psionics on their next turn."

@@ -33,6 +33,7 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 - Disciplines
 - Preset NPC Stat Blocks
 - Preset Expert Items
+- Spacecraft Sized Lifeforms
 #### Future
 - Fine-Tune XP Abilities
 - Spacecraft Sheets

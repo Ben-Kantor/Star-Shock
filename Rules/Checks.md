@@ -13,7 +13,7 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 
 Skills are represented by **{Single Brackets}** and categories of skills by **{{Double Brackets}}**, here and elsewhere in the game source.
 
-| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}} | {{Explorer}} |
+| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
 | {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
 | {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |

@@ -11,10 +11,11 @@ Actions that do not require a roll can ignore this, however.
 - **Interact with Object** - You can usually only interact with the same object once per turn
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 5m of ground, though in more difficult terrain it might be 2.5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
 - **Assist** - Offer help to a check someone else is about to make, granting them a +1 bonus if you have an attribute of three or higher or a skill relevant to the check.
+- **Medicate** - Make a **\[Dex\]** + **{Medicate}** check to heal a target within 1m by your roll minus three (minimum 0), unless they are in a coma. This can't be done to the same target again until they rest, and is at disadvantage unless you have a [Medical Kit](../Items/Basic%20Items.md).
 - **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md), can only be done once per turn.
 - **Block, Dodge, Concentrate, Meditate** - Gain a +1 bonus to one of your resistances until your next turn.
+- **Use a Consumable** - Use up a [Consumable Item](/Items/Consumables), and apply it's effects to yourself or a willing target within 1m.
 - **Stand up from Prone**
-- **Use a Consumable**
 ## Free Actions
 Free actions are things a character can do during initiative without spending an action, and that can happen during other people's turns. You generally can't take the same Free Action multiple times during a turn cycle, unless you spend an action.
 - **Drop Prone** - Drop to the ground in the prone position, or stand up from it.
