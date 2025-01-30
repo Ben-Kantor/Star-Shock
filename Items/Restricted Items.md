@@ -9,7 +9,7 @@ Value: (₮30)
 A specially lined, padded coat that allows the wearer to conceal small weapons and items on their person automatically.
 ### Nerve Agent Capsule
 Value: (₮40)
-A tiny, breakable capsule containing a paralytic nerve agent. When thrown, all creatures within 3m must pass a difficulty 10 **[Prs]** check or be paralyzed for 1 turn.
+A tiny, breakable capsule containing a paralytic nerve agent. When thrown, all creatures within 3m must pass a difficulty 10 **\[Prs\]** check or be paralyzed for 1 turn.
 ### Signal Jammer
 Value: (₮120)
 A pocket-sized device that disrupts communication signals in a 10m radius, but will quickly be located by enforcers.
@@ -18,7 +18,7 @@ Value: (₮40)
 A small vial of highly corrosive acid that can melt through most locks or thin metals.
 ### Flashpowder Packet
 Value: (₮15)
-A small, throwable packet that explodes in a burst of light and smoke, temporarily blinding anyone within 3m unless they succeed a difficulty 10 **[Prs]** check.
+A small, throw-able packet that explodes in a burst of light and smoke, temporarily blinding anyone within 3m unless they succeed a difficulty 10 **\[Prs\]** check.
 ### Cable Splicer
 Value: (₮25)
 A handheld device designed to safely tap into photonic cables without disrupting the data flow. Allows access to transmitted information with an **\[Int\]** + **{Computators}** check.
