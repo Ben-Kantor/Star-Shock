@@ -19,9 +19,19 @@
 		- target is blinded next turn, giving a -1 penalty on some checks.
 		- deals an additional 1d6 - 1 damage.
 		- target must make a difficulty 7 **\[Str\]** check or fall unconscious."
+- Communicator, ID Card, Identifier Beacon, Self-Sealing Handcuffs
+### Specialist Officer
+- **\[Str\]** - 2, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 1
+- {Energy Weapons} + One other skill based on their specialization.
+- **\[Str Resist\]** - 9, **\[Dex Resist\]** - 9, **\[Int Resist\]** - 8, **\[Prs Resist\]** - 8
+- HIF Laser Rifle *(expert)*
+	- Range: 10m, Rate: 2, Roll + 5 - **\[Int Resist\]**
+	- "3+ dmg → choose one
+		- target is blinded next turn, giving a -1 penalty on some checks.
+		- deals an additional 1d6 - 1 damage.
+		- target must make a difficulty 7 **\[Str\]** check or fall unconscious."
 - Communicator, ID Card, Identifier Beacon
-
-
+- Miniature Portable Computator *(Restricted)*
 
 
 

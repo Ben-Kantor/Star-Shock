@@ -1,4 +1,4 @@
-Expert items are a type of armor, weapons, or other utility items that require training to use. A number of XP and shifts must be spent learning to use the item, and then it can be added to the training section on the character sheet. In some cases untrained items can be used with a -1 penalty, but not for the long term. 
+Expert items are a type of armor, weapons, or other utility items that require training to use. Each one requires 5 XP to train, and then it can be added to the training section on the character sheet (see the [XP](/Player%20Resources/XP.md#Expert%20Items) page for more information). Expert items do not have a value, and the process of obtaining them must be linked to the story. If a character particularly wants one, they will have to seek out a seller or steal one. 
 
 ---
 Wind Gun
@@ -11,3 +11,14 @@ Plasma Sword
 Chrono-Gun that sends people into the future
 Quantum Computator
 Radium Gun
+
+
+# Armor
+### Aluminum Polymer Cloak
+- "+1 **\[Dex Resist\]**, +1 **\[Str Resist\]**.
+### Lightweight Exosuit
+- "+1 **\[Dex Resist\]**, +1 **\[Int Resist\]**."
+
+### Personal Shield Generator (Restricted)
+A waist-mounted device that emits a faint bubble-like energy field.
+- "Whenever you are dealt damage by an attack within 1m, deal half that much damage to the attacker (round down). Then roll 1d6, if under the amount of reflected damge, this item is destroyed."

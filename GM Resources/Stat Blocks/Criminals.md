@@ -4,6 +4,8 @@
 - **\[Str Resist\]** - 8, **\[Dex Resist\]** - 8, **\[Int Resist\]** - 7, **\[Prs Resist\]** - 8
 - Dagger (x2)
 	- Range: 1m, (5m if thrown), Rate: 3, Roll + 3 - **\[Str Resist\]**
+- Simple Poison (x2)
+	- Target immediately takes 1d6 damage, minus their **\[Str\]** ability.
 ### Pickpocket
 - **\[Str\]** - 1, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 1
 - **\[Str Resist\]** - 8, **\[Dex Resist\]** - 9, **\[Int Resist\]** - 7, **\[Prs Resist\]** - 8
@@ -49,18 +51,17 @@
 	- Allows user to tap into photonic cables without detection and access to transmitted information with an **\[Int\]** + **{Computators}** check.
 - EMP Charge
 	- "Emits a localized electromagnetic pulse on impact, disabling electronics within 1m for one turn. Destroyed on use."
-- Aluminum Polymer Cloak
+- Aluminum Polymer Cloak *(Expert)*
     - "+1 **\[Dex Resist\]**, +1 **\[Str Resist\]**."
-    - "Disintegrates when forcibly taken off its wearer"
 ### Gang Leader
-- **\[Str\]** - 3, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 2
+- **\[Str\]** - 2, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 2
 - {Authority}, {Intimidate}, {Firearms}, {Charm}
 - **\[Str Resist\]** - 10, **\[Dex Resist\]** - 9, **\[Int Resist\]** - 8, **\[Prs Resist\]** - 9
 - Titanium Revolver
 	- Range: 10m, Rate: 2, Roll + 5 - **\[Str Resist\]**
 	- "Ignores action penalty"
 - Venusian Machete
-	- Range: 1m, Rate: 2, Roll + 6 - **\[Str Resist\]**
+	- Range: 1m, Rate: 2, Roll + 5 - **\[Str Resist\]**
 	- "3+ dmg → user may make an extra attack immediately, ignoring action penalty, only once per turn."
 - Titanium Undershirt
     - "+1 **\[Str Resist\]**."
@@ -68,10 +69,11 @@
 ### Bounty Hunter
 - **\[Str\]** - 2, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 2
 - {Tracking}, {Firearms}, {Move}, {Martial Arts}
-- **\[Str Resist\]** - 10, **\[Dex Resist\]** - 10, **\[Int Resist\]** - 9, **\[Pr Resist\]** - 9 
+- **\[Str Resist\]** - 9, **\[Dex Resist\]** - 10, **\[Int Resist\]** - 9, **\[Pr Resist\]** - 9 
 - Needle Gun
 	- Range: 10m, Rate: 1, Roll + 6 - **\[Str Resist\]**
 	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply"
 - Hypnotoxin (x3)
+	- The target must make an immediate difficulty 10 **\[Str\]** check, on a failure they fall [Unconscious](Rules/Combat.md#Unconscious), on a success they are woozy next turn and get -1 on all checks.
 - Lightweight Exosuit *(Expert)*
     - "+1 **\[Dex Resist\]**, +1 **\[Int Resist\]**."

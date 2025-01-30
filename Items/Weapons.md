@@ -26,8 +26,8 @@ Each weapon has several different values that determine its unique properties. W
 ### Dagger
 - Range: 1m, (5m if thrown), Rate: 3, Value: ₮10
 - Roll + 1 + **\[Dex\]** + **{Melee}** - **\[Str Resist\]**
-	- "Can be hidden on person."
-	- "Can be poisoned."
+	- "Can be hidden on person without a check."
+	- "If a harmful consumable is applied immediately before use."
 ### Venusian Machete
 - Range: 1m, Rate: 2, Value: ₮30
 - Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
