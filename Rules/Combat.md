@@ -1,18 +1,30 @@
 ## Initiative
 When combat or another rushed encounter begins, have each player roll 2d6 + Dex, whoever rolls highest (reroll on tie) goes first. Then play proceeds around the table (alternate directions), with the GM playing any enemies when it gets to them. If one character initiates the encounter themselves, they go first; if the players are taken by surprise by the enemies, the GM goes first. Each round is considered to take ten seconds in-game.
-## Basic Actions
-At the start of their turn, players declare how many actions they are taking, up to three.
-Each action that involves a dice roll gets -1 for each action more than one that they are taking this turn.
-This is called the **Action Penalty**, and means if you take three actions in a turn, each one gets -2 on the roll.
-Actions that do not require a roll can ignore this, however.
-- **Light Punch** - Make an attack with 1m range, with a roll of **\[Dex\]** + {Martial Arts} - **\[Str Resist\]**.
-- **Heavy Punch** - Make an attack with 1m range, with a roll of **\[Str\]**  + {Martial Arts} - **\[Dex Resist\]**.
-- **Other Weapon Attack** - Other [Weapons](/Items/Weapons.md) will describe how an attack works, you can't use more than one weapon per turn.
+## Taking Actions
+At the start of their turn, players declare how many actions they are taking, **up to three**.
+Each action that involves a dice roll gets -1 for each action more than one that they are taking this turn. This is called the **Action Penalty**, and means if you take three actions in a turn, each one gets -2 on the roll. Actions that do not require a roll can ignore this.
+
+Many actions will have a Rate, this is the maximum number of times you can do them per turn. You can take as many actions with a rate of 1 as you want per turn, as long as each is different.
+## Attacks
+To make an attack, first choose a method of attack. There are two methods of attack that are always available:
+- **Light Unarmed** 
+	- Range: 1m, Rate: 3, Roll + 1 + **\[Dex\]** + **{Martial Arts}** - **\[Str Resist\]**.
+- **Heavy Unarmed
+	- Range: 1m, Rate: 3, Roll + 1 + **\[Str\]**  + **{Martial Arts}** - **\[Dex Resist\]**.
+But most attacks will be made using a [weapons](/Items/Weapons.md).
+
+Next choose a target within the range of the attack.
+- It is possible to choose targets farther away, but each multiple of range the target is away, the roll gets a -1 penalty.
+
+Next make the roll, and announce what resistance is subtracted. The the GM will tell you how much damage was dealt. Sometimes weapons will have an ability that triggers if 3 or more damage is dealt, which would activate now.
+
+## Other Actions
+Below is a list of basic actions that can be taken during a turn. This is not a complete list 
 - **Interact with Object** - You can usually only interact with the same object once per turn
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 5m of ground, though in more difficult terrain it might be 2.5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
 - **Assist** - Offer help to a check someone else is about to make, granting them a +1 bonus if you have an attribute of three or higher or a skill relevant to the check.
-- **Medicate** - Make a **\[Dex\]** + **{Medicate}** check to heal a target within 1m by your roll minus three (minimum 0), unless they are in a coma. This can't be done to the same target again until they rest, and is at disadvantage unless you have a [Medical Kit](../Items/Basic%20Items.md).
-- **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md), can only be done once per turn.
+- **Emergency Medicate** - Make a **\[Dex\]** + **{Medicate}** with a difficulty of 10 to heal a willing target within 1m that is not in a coma. This roll is at disadvantage unless you have a [Medical Kit](../Items/Basic%20Items.md). If successful they remove one damage point. This can allow someone who is [Unconcious](./Combat.md#Unconcious) to make a medicate check towards waking up.
+- **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md). This is usually for making repairs to a ship or something similar, and will take several turns to complete.
 - **Block, Dodge, Concentrate, Meditate** - Gain a +1 bonus to one of your resistances until your next turn.
 - **Use a Consumable** - Use up a [Consumable Item](/Items/Consumables), and apply it's effects to yourself or a willing target within 1m.
 - **Stand up from Prone**
@@ -27,9 +39,7 @@ If a character wants to take an action outside of their turn, they can choose to
 
 Alternatively, two players may switch seats to change the initiative position of their characters.
 ## Resistances
-Each attribute has an associated resistance, usually equal to the attribute (min 0) + 7.
-
-Many sources of damage are reduced by a specified resistance (to a minimum of 0). Where a resistance is not specified, none applies.
+Each attribute has an associated resistance, usually equal to the attribute (min 0) + 7. Many sources of damage are reduced by a specified resistance (to a minimum of 0). Where a resistance is not specified, none applies.
 
 | Ability   | Damage                                |
 | --------- | ------------------------------------- |

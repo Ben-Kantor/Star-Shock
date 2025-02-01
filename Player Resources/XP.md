@@ -3,7 +3,7 @@ Characters should receive one point of XP for approximately every hour of gamepl
 ## Spending XP
 Unlike other games, XP that is spent to gain a mechanical a +1 bonus must have an in-world explanation, rather that characters suddenly gaining new abilities. This usually takes the form of a character practicing something, receiving training, or otherwise receiving the improvement. Most which you spend XP will take one shift, spend practicing, training, or otherwise. After doing this, mark down how much was spent where on the **Spent XP** table on the character sheet.
 
-The GM may also give leveled features as rewards after adventures, usually related to the content or a character they encountered on the adventure. This will remain as an option until someone spends the xp to unlock it.
+The GM may also give leveled features as rewards after adventures, usually related to the content or a character they encountered on the adventure. This will remain as an option until someone spends the xp required to unlock it.
 #### Skills
 Gaining a new skill costs half as many XP as the number of skills you had before, rounded up, and takes one shift.
 #### Expert Items

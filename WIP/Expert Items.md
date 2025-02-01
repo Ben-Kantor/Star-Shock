@@ -12,13 +12,10 @@ Chrono-Gun that sends people into the future
 Quantum Computator
 Radium Gun
 
-
 # Armor
 ### Aluminum Polymer Cloak
 - "+1 **\[Dex Resist\]**, +1 **\[Str Resist\]**.
 ### Lightweight Exosuit
 - "+1 **\[Dex Resist\]**, +1 **\[Int Resist\]**."
-
-### Personal Shield Generator (Restricted)
-A waist-mounted device that emits a faint bubble-like energy field.
-- "Whenever you are dealt damage by an attack within 1m, deal half that much damage to the attacker (round down). Then roll 1d6, if under the amount of reflected damge, this item is destroyed."
+### Electromagnetic Shield Generator
+- "Your **\[Int Resist\]** is equal to 7 + 1d6, reroll each time it is used."

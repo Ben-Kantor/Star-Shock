@@ -31,12 +31,12 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 - List of In-Game Materials
 #### Features & Resources
 - Disciplines
-- Preset NPC Stat Blocks
 - Preset Expert Items
 - Spacecraft Sized Lifeforms
 #### Future
 - Fine-Tune XP Abilities
 - Spacecraft Sheets
+- Expand NPC Stat Blocks
 ## Credits
 Made by Ben Kantor, with help from:
 - Ben Soroos - *Copy Editing*
