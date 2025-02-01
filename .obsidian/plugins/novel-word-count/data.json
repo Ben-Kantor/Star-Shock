@@ -67,31 +67,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "WIP/Materials.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738202161056,
-      "modifiedDate": 1738202161056,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "WIP/Expert Items.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -111,10 +86,10 @@
       "sizeInBytes": 1120,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.29,
-        "wordCount": 87,
-        "characterCount": 506,
-        "nonWhitespaceCharacterCount": 417
+        "pageCount": 0.57,
+        "wordCount": 171,
+        "characterCount": 1120,
+        "nonWhitespaceCharacterCount": 937
       }
     },
     "WIP/Disused Content.md": {
@@ -136,35 +111,10 @@
       "sizeInBytes": 1004,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.6933333333333334,
-        "wordCount": 208,
-        "characterCount": 1308,
-        "nonWhitespaceCharacterCount": 1088
-      }
-    },
-    "WIP/Disciplines.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 34,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 214,
-      "nonWhitespaceCharacterCount": 177,
-      "readingTimeInMinutes": 0.12830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738202161051,
-      "modifiedDate": 1738202161052,
-      "sizeInBytes": 214,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.11333333333333333,
-        "wordCount": 34,
-        "characterCount": 214,
-        "nonWhitespaceCharacterCount": 177
+        "pageCount": 0.5333333333333333,
+        "wordCount": 160,
+        "characterCount": 1004,
+        "nonWhitespaceCharacterCount": 833
       }
     },
     "Spacefaring/Spaceflight.md": {
@@ -203,7 +153,7 @@
       "characterCount": 2845,
       "nonWhitespaceCharacterCount": 2378,
       "readingTimeInMinutes": 1.6528301886792454,
-      "linkCount": 0,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161069,
@@ -446,19 +396,19 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 419,
+      "wordCount": 394,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.3966666666666667,
-      "characterCount": 2552,
-      "nonWhitespaceCharacterCount": 2108,
-      "readingTimeInMinutes": 1.5811320754716982,
+      "pageCount": 1.3133333333333332,
+      "characterCount": 2423,
+      "nonWhitespaceCharacterCount": 2003,
+      "readingTimeInMinutes": 1.4867924528301886,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161079,
-      "modifiedDate": 1738202161080,
-      "sizeInBytes": 2598,
+      "modifiedDate": 1738436252253,
+      "sizeInBytes": 2469,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.3966666666666667,
@@ -503,7 +453,7 @@
       "characterCount": 7512,
       "nonWhitespaceCharacterCount": 6155,
       "readingTimeInMinutes": 4.573584905660377,
-      "linkCount": 4,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161074,
@@ -553,7 +503,7 @@
       "characterCount": 4903,
       "nonWhitespaceCharacterCount": 4148,
       "readingTimeInMinutes": 2.516981132075472,
-      "linkCount": 7,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202160858,
@@ -571,25 +521,25 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 318,
+      "wordCount": 383,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.06,
-      "characterCount": 2003,
-      "nonWhitespaceCharacterCount": 1672,
-      "readingTimeInMinutes": 1.2,
+      "pageCount": 1.2766666666666666,
+      "characterCount": 2385,
+      "nonWhitespaceCharacterCount": 1986,
+      "readingTimeInMinutes": 1.4452830188679244,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202160841,
-      "modifiedDate": 1738203418080,
-      "sizeInBytes": 2003,
+      "modifiedDate": 1738437820457,
+      "sizeInBytes": 2391,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.1566666666666667,
-        "wordCount": 347,
-        "characterCount": 2145,
-        "nonWhitespaceCharacterCount": 1786
+        "pageCount": 1.15,
+        "wordCount": 345,
+        "characterCount": 2164,
+        "nonWhitespaceCharacterCount": 1804
       }
     },
     "Player Resources/Skills & Attributes.md": {
@@ -636,10 +586,35 @@
       "sizeInBytes": 3427,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.1066666666666665,
-        "wordCount": 632,
-        "characterCount": 3538,
-        "nonWhitespaceCharacterCount": 2891
+        "pageCount": 2.026666666666667,
+        "wordCount": 608,
+        "characterCount": 3427,
+        "nonWhitespaceCharacterCount": 2804
+      }
+    },
+    "Player Resources/Disciplines.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 34,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 214,
+      "nonWhitespaceCharacterCount": 177,
+      "readingTimeInMinutes": 0.12830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738202161051,
+      "modifiedDate": 1738202161052,
+      "sizeInBytes": 214,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.11333333333333333,
+        "wordCount": 34,
+        "characterCount": 214,
+        "nonWhitespaceCharacterCount": 177
       }
     },
     "Player Resources/Cybernetics.md": {
@@ -661,10 +636,10 @@
       "sizeInBytes": 1841,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.0233333333333334,
-        "wordCount": 307,
-        "characterCount": 1803,
-        "nonWhitespaceCharacterCount": 1483
+        "pageCount": 1.06,
+        "wordCount": 318,
+        "characterCount": 1835,
+        "nonWhitespaceCharacterCount": 1504
       }
     },
     "Player Resources/Character Creation.md": {
@@ -686,10 +661,10 @@
       "sizeInBytes": 8118,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.9233333333333333,
-        "wordCount": 1177,
-        "characterCount": 8081,
-        "nonWhitespaceCharacterCount": 6641
+        "pageCount": 3.9166666666666665,
+        "wordCount": 1175,
+        "characterCount": 8078,
+        "nonWhitespaceCharacterCount": 6640
       }
     },
     "Player Resources/Backgrounds.md": {
@@ -986,10 +961,10 @@
       "sizeInBytes": 2802,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.36,
-        "wordCount": 408,
-        "characterCount": 2716,
-        "nonWhitespaceCharacterCount": 2201
+        "pageCount": 1.39,
+        "wordCount": 417,
+        "characterCount": 2774,
+        "nonWhitespaceCharacterCount": 2250
       }
     },
     "Items/Restricted Weapons.md": {
@@ -1038,8 +1013,8 @@
         "noteCount": 1,
         "pageCount": 0.8933333333333333,
         "wordCount": 268,
-        "characterCount": 1775,
-        "nonWhitespaceCharacterCount": 1495
+        "characterCount": 1780,
+        "nonWhitespaceCharacterCount": 1500
       }
     },
     "Items/Consumables.md": {
@@ -1061,10 +1036,10 @@
       "sizeInBytes": 2136,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.7633333333333333,
-        "wordCount": 229,
-        "characterCount": 1492,
-        "nonWhitespaceCharacterCount": 1245
+        "pageCount": 1.09,
+        "wordCount": 327,
+        "characterCount": 2118,
+        "nonWhitespaceCharacterCount": 1768
       }
     },
     "Items/Basic Items.md": {
@@ -1086,10 +1061,10 @@
       "sizeInBytes": 3044,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.47,
-        "wordCount": 441,
-        "characterCount": 2902,
-        "nonWhitespaceCharacterCount": 2443
+        "pageCount": 1.5166666666666666,
+        "wordCount": 455,
+        "characterCount": 3014,
+        "nonWhitespaceCharacterCount": 2527
       }
     },
     "Items/Armors.md": {
@@ -1161,10 +1136,10 @@
       "sizeInBytes": 1538,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.67,
-        "wordCount": 201,
-        "characterCount": 1607,
-        "nonWhitespaceCharacterCount": 1324
+        "pageCount": 0.65,
+        "wordCount": 195,
+        "characterCount": 1530,
+        "nonWhitespaceCharacterCount": 1253
       }
     },
     "GM Resources/Stat Blocks/How to Use.md": {
@@ -1211,10 +1186,10 @@
       "sizeInBytes": 1924,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.5733333333333334,
-        "wordCount": 172,
-        "characterCount": 1291,
-        "nonWhitespaceCharacterCount": 1048
+        "pageCount": 0.86,
+        "wordCount": 258,
+        "characterCount": 1918,
+        "nonWhitespaceCharacterCount": 1558
       }
     },
     "GM Resources/Stat Blocks/Criminals.md": {
@@ -1236,10 +1211,10 @@
       "sizeInBytes": 4260,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.82,
-        "wordCount": 546,
-        "characterCount": 4373,
-        "nonWhitespaceCharacterCount": 3600
+        "pageCount": 1.7933333333333332,
+        "wordCount": 538,
+        "characterCount": 4248,
+        "nonWhitespaceCharacterCount": 3488
       }
     },
     "GM Resources/Running a Campaign.md": {
