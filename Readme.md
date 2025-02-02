@@ -21,11 +21,9 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 ## To-Do List
 #### Meta
 - Consider changing the game's name.
-- Strengthen Absurdist Theme
 - Either standardize or remove **bolding** for emphasis
 - Possibly replace 3+ damage effects with a check made by the defender
 #### Lore
-- Meteor Belt Settlements
 - Meteor Belt Houses
 - Criminal Syndicates
 - List of In-Game Materials
