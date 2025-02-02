@@ -31,7 +31,7 @@ Each weapon has several different values that determine its unique properties. W
 ### Venusian Machete
 - Range: 1m, Rate: 2, Value: ₮30
 - Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
-	- "3+ dmg → make an extra attack immediately, ignoring action penalty, do this only once each turn."
+	- "3+ dmg → make an extra attack immediately, ignoring action penalty, up to once per turn."
 ### Electric Baton
 - Range: 1m, Rate: 1, Value ₮30
 - Roll + 2 + **\[Str\]** - **\[Str Resist\]**

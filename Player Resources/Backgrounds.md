@@ -14,7 +14,7 @@ _You have slightly silver skin and are slightly shorter than the average human._
 _You have textured greenish patches on your skin and are slightly taller than the average human._
 - (◆◇◇) Venusian Contact.
 - Any **{{Explorer}}** Category Skill.
-- **Venusian** - "Each shift spend exposed to inner solar system sunlight causes you to remove one damage point and sustains you as a meal."
+- **Venusian** - "Each shift spent exposed to warm sunlight causes you to remove one damage point and sustains you as a meal."
 - Choose one:
 	- **[Endurance 1](./Disciplines.md#Endurance)** - "You can intake two consumables per day instead of one without suffering penalties."
 	- //missing second feat option
