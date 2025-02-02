@@ -1,19 +1,29 @@
+// each one should give one contact / valuable starting item and
+// either two skills and one feature or one skill, one feat, and one exclusive sub-feat
+
 ### Half-Martian
 _You have slightly silver skin and are slightly shorter than the average human._
 - (◆◇◇) Martian Contact.
-- **{{Academic}}** Category Skill.
-- Start with the first level feature from either the [ESP](./Psionics.md#ESP) or [Telepathy](./Psionics.md#Telepathy) psionics abilities.
-### Half-Venetian
-_You have slightly greenish skin and are slightly taller than the average human._
+- Any **{{Academic}}** Category Skill.
+- **Martian** - "Every time you train a level 3 psionics feat, you receive 3 XP."
+- Choose one:
+	- **[ESP 1](./Psionics.md#ESP)** - "You can sense the presence of characters within 100m, though you cannot identify them unless you already know them."
+	- **[Telepathy 1](./Psionics.md#Telepathy)** - "You can telepathically communicate with allies within 100m."
+---
+### Half-Venusian
+_You have textured greenish patches on your skin and are slightly taller than the average human._
 - (◆◇◇) Venusian Contact.
-- **{{Explorer}}** Category Skill.
-- "You can intake two consumables per day instead of one without suffering penalties."
-- "You don't suffer action penalties for move actions."
+- Any **{{Explorer}}** Category Skill.
+- **Venusian** - "Each shift spend exposed to inner solar system sunlight causes you to remove one damage point and sustains you as a meal."
+- Choose one:
+	- **[Endurance 1](./Disciplines.md#Endurance)** - "You can intake two consumables per day instead of one without suffering penalties."
+	- //missing second feat option
 ### Cybernetic
 _You have a cybernetic enhancement or replacement body part._
 - (◆◇◇) Cyberneticist Contact.
 - **{Robotics}** Skill.
-- Start with the first level feature from either the [Bionic Arm](./Cybernetics.md#Bionic Arm) or [Optical Visor](./Cybernetics.md#Optical Visor) cybernetic abilities.
+- **Cybernetic** - "Every time you train a level 3 cybernetics feat, you receive 3 XP."
+- Choose a [Cybernetics](./Cybernetics.md) level 1 feature.
 ### Void-Born
 _You are unusually tall and have no eyebrows._
 - (◆◇◇) Contact aboard a spacecraft.
@@ -25,9 +35,9 @@ _You are unusually tall and have no eyebrows._
 - "You have a +1 bonus on all checks to pilot spacecraft."
 - Starting Possesion: A shuttlecraft, racing pod, or pressurized rover.
 ### Hacker
-- **{Computator}** Skill.
-- (◆◇◇) Expert Hacker Contact - OR - (◆◇◇) Intelligence Service Contact.
-- "You can gain access to computator systems with an **\[Int\]** + **{{Computators}** check, provided you have access to a connected terminal."
+- **{Computators}** Skill.
+- (◆◇◇) Cybercriminal Contact - OR - (◆◇◇) Intelligence Service Contact.
+- "You can gain access to computator systems with an **\[Int\]** + **{Computators}** check, provided you have access to a connected terminal."
 ### Engineer
 - **{{Engineering}}** Category Skill.
 - "You can make two cycles of ship repairs and upgrades in one shift."
@@ -43,10 +53,10 @@ _You are unusually tall and have no eyebrows._
 - "You can always find footprints or other signs of activity in an environment, if they exist."
 - You may buy up to twice as many starting items.
 ### Aristocrat
-- 5x Starting Wealth.
-- **{{High-Life}}** Category Skill.
 - (◆◇◇) Wealthy Sponsor Contact, could be a parent or other relation.
     - Special: "Provides you with an allowance each month, starting at ₮20x3d6."
+- 5x Starting Wealth.
+- **{{High-Life}}** Category Skill.
 ### Merchant
 - **{Persuade}** Skill.
 - (◆◇◇) Expert Trader Contact - OR - Illicit Goods Supplier Contact
@@ -55,7 +65,7 @@ _You are unusually tall and have no eyebrows._
 ### Mercenary
 - (◆◇◇) Order-Keeper Contact - OR - Smuggler Contact.
 - One **{{Soldier}}** Skill and one **{{Explorer}}** Skill.
-- "You have a license to carry and purchase otherwise illegal weapons in the inner solar system and belt."
+- "You have a license to carry and purchase restricted weapons in the inner solar system and belt."
 - Starting Item: Any [Weapon](../Items/Weapons.md).
 ### Enforcer
 - (◆◇◇) High Enforcer Contact.
@@ -63,9 +73,10 @@ _You are unusually tall and have no eyebrows._
 - "You always know when someone is hiding something illicit from you unless they succeed a difficulty 10 **\[Prs]** + Deceive check."
 - Starting Item: Any [Armor](../Items/Armors.md).
 ### Counselor
+// needs complete rework
 - **{{Academic}}** Category Skill.
 - "You can sense any character's emotion unless they succeed a difficulty 10 **\[Prs]** + Deceive check."
-- "Once per session, add your **[Prs]** attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."
+- "Once per session, add your **\[Prs\]** attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."
 ### Criminal
 - (◆◇◇) Criminal Contact.
 - Two **{{Low-Life}}** Skills.
@@ -85,7 +96,7 @@ _You are unusually tall and have no eyebrows._
 ### Entertainer
 - **{{High-Life}}** or **{{Low-Life}}** Category Skill.
 - "You have a +1 bonus on all Charm checks."
-- "Once per session, re-roll one or both dice on a **[Prs]** check."
+- "Once per session, re-roll one or both dice on a **\[Prs\]** check."
 - Starting Item [Holo-Projector](/Items/Basic Items.md#Holo-Projector (₮20}}.
 ### Savant
 - One **{{Academic}}** and one **{{Engineering}}** Category Skill.

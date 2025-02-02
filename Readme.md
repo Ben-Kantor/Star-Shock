@@ -33,6 +33,7 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 - Disciplines
 - Preset Expert Items
 - Spacecraft Sized Lifeforms
+- Spacecraft Stat Blocks
 #### Future
 - Fine-Tune XP Abilities
 - Spacecraft Sheets
@@ -48,6 +49,7 @@ Made by Ben Kantor, with help from:
 - The science fiction of Andy Weir
 - Jupiter Ascending
 - Starship Troopers
+- Stellaris
 - Pulp Science Fiction Magazines:
     - [Galaxy Magazine](https://archive.org/details/galaxymagazine-1951-02/)
     - [Science Fiction Quarterly](https://archive.org/details/sciencefictionquarterly)

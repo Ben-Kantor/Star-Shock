@@ -44,9 +44,11 @@ Every registered ship and most unregistered ones have a transponder, a combinati
 ## Terminology
 - Spaceports are gravitational docking stations
 - Spacedocks are zero-gravity docking stations
+- Shuttles are small, slow ships with cargo space or passenger seats
 - Corvettes are tiny, fast, agile, combat ships
 - Frigates are small, agile, heavily-armed ships
 - Cruisers are large ships that carry heavy weapons
+- Carriers are large ships that carry many smaller shuttles
 - Battleships are huge ships that carry heavy weapons and deployable corvettes
 ## Command Structure
 Each registered ship must have a captain and a first officer, and typically also has a chief engineer. Larger ships may have other official positions.

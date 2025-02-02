@@ -27,7 +27,7 @@ Value: ₮300
 Prevents the loss of artificial gravity in the event of a ship malfunction.
 ### Engineering Bay
 Value: ₮600
-Contains specialized tools and stations for ship repairs and upgrades. Allows engineers to make repair-related checks without penalties and to repair 1 additional damage point per rest cycle.  
+Allows emergency repairs to remove all damage, instead of going down to a minimum of five. 
 ### Escape Pod
 Value: ₮250
 A small, self-contained pod that can hold up to 4 characters. Capable of traveling up to two distance units, taking two days per unit, and contains 20 units of rations.  
