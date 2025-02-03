@@ -46,6 +46,7 @@ Every registered ship and most unregistered ones have a transponder, a combinati
 - Spacedocks are zero-gravity docking stations
 - Shuttles are small, slow ships with cargo space or passenger seats
 - Corvettes are tiny, fast, agile, combat ships
+- Tugboats are small but engine-filled ships for pulling large ships, debris, and asteroids
 - Frigates are small, agile, heavily-armed ships
 - Cruisers are large ships that carry heavy weapons
 - Carriers are large ships that carry many smaller shuttles
