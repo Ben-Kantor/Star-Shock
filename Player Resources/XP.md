@@ -9,7 +9,7 @@ Gaining a new skill costs half as many XP as the number of skills you had before
 #### Expert Items
 Some highly powerful items require training to use, this training can be gained by spending 5 XP. Using an expert item without training is only possible in rare cases, and will likely impose a penalty or cost luck points.
 #### Leveled Features
-Each set of leveled features will have three levels, each of which must be bought in order. Each level costs 5 XP and takes one shift to gain. 
+Each set of leveled features will have three levels, each of which must be bought in order. Each level costs 5 XP and takes one shift to gain. It is possible to have higher level features without ones before them, but you must have all previous disciplines already in order to train a new one with XP.
 
 Tiered features are divided up into three categories, each of which represent one way in which a character can grow, and each of which have some of their own special rules which can be found on their respective pages.
 - [Disciplines](/Player%20Resources/Disciplines.md) - Generic abilities that involve skill.

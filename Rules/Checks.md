@@ -15,12 +15,12 @@ Skills are represented by **{Single Brackets}** and categories of skills by **{{
 
 | {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
-| {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
+| {Computators}    | {Physics}     | {Negotiate}   | {Subtlety}   | {Archery}        | {Medicate}   |
 | {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
 | {Mechanics}      | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
 | {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
 | {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
-| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Heavy Weapons}  | {Nature}     |
+| {Spacecrafts}    | {Xenology}    | {Investigate} | {Recon}      | {Heavy Weapons}  | {Nature}     |
 ## Checks
 To make a check, follow these steps:
 1. Roll 2d6.
@@ -38,7 +38,7 @@ When a check is made in a situation where success is eventually possible, a fail
 #### Criticals
 If the dice show a total of 2 "snake-eyes" or 12 "boxcars" the result is a critical, and has either a failure with a setback, or a complete, easy success. This is mostly left up to the GM as to how it works.
 #### Re-Rolling
-If a character re-rolls one or both dice using an ability, they must take the new result unless they have another ability that lets them re-roll again.
+If a character re-rolls one or both dice using an ability, they must take the new result unless they have another ability that allows them re-roll again.
 #### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score. The GM can narrate how the character who rolled the best helped out the others, or how the character who rolled the worst failed.
 #### Skill Challenges
