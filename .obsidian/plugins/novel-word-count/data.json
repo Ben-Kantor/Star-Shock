@@ -92,6 +92,31 @@
         "nonWhitespaceCharacterCount": 777
       }
     },
+    "WIP/Crime.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 457,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5233333333333334,
+      "characterCount": 3029,
+      "nonWhitespaceCharacterCount": 2563,
+      "readingTimeInMinutes": 1.7245283018867925,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738543340677,
+      "modifiedDate": 1738544986846,
+      "sizeInBytes": 3029,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5233333333333334,
+        "wordCount": 457,
+        "characterCount": 3029,
+        "nonWhitespaceCharacterCount": 2563
+      }
+    },
     "Spacefaring/Spaceflight.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -136,10 +161,10 @@
       "sizeInBytes": 2773,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.46,
-        "wordCount": 438,
-        "characterCount": 2845,
-        "nonWhitespaceCharacterCount": 2378
+        "pageCount": 1.42,
+        "wordCount": 426,
+        "characterCount": 2743,
+        "nonWhitespaceCharacterCount": 2289
       }
     },
     "Spacefaring/Ship Combat.md": {
@@ -161,10 +186,10 @@
       "sizeInBytes": 5265,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.9233333333333333,
-        "wordCount": 877,
-        "characterCount": 5255,
-        "nonWhitespaceCharacterCount": 4346
+        "pageCount": 2.933333333333333,
+        "wordCount": 880,
+        "characterCount": 5263,
+        "nonWhitespaceCharacterCount": 4351
       }
     },
     "Spacefaring/Logistics.md": {
@@ -186,10 +211,10 @@
       "sizeInBytes": 3041,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.3933333333333333,
-        "wordCount": 418,
-        "characterCount": 2820,
-        "nonWhitespaceCharacterCount": 2333
+        "pageCount": 1.5033333333333334,
+        "wordCount": 451,
+        "characterCount": 3041,
+        "nonWhitespaceCharacterCount": 2518
       }
     },
     "Solar System Map.html": {
@@ -217,31 +242,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Setting/Psionics.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 143,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4766666666666667,
-      "characterCount": 912,
-      "nonWhitespaceCharacterCount": 769,
-      "readingTimeInMinutes": 0.539622641509434,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738202160847,
-      "modifiedDate": 1738202160848,
-      "sizeInBytes": 912,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4766666666666667,
-        "wordCount": 143,
-        "characterCount": 912,
-        "nonWhitespaceCharacterCount": 769
-      }
-    },
     "Setting/Technology.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -265,6 +265,31 @@
         "wordCount": 844,
         "characterCount": 5175,
         "nonWhitespaceCharacterCount": 4315
+      }
+    },
+    "Setting/Psionics.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 143,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4766666666666667,
+      "characterCount": 912,
+      "nonWhitespaceCharacterCount": 769,
+      "readingTimeInMinutes": 0.539622641509434,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738202160847,
+      "modifiedDate": 1738202160848,
+      "sizeInBytes": 912,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4766666666666667,
+        "wordCount": 143,
+        "characterCount": 912,
+        "nonWhitespaceCharacterCount": 769
       }
     },
     "Setting/Food.md": {
@@ -461,10 +486,10 @@
       "sizeInBytes": 4885,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.223333333333333,
-        "wordCount": 667,
-        "characterCount": 4903,
-        "nonWhitespaceCharacterCount": 4148
+        "pageCount": 2.216666666666667,
+        "wordCount": 665,
+        "characterCount": 4885,
+        "nonWhitespaceCharacterCount": 4132
       }
     },
     "Player Resources/XP.md": {
@@ -561,10 +586,10 @@
       "sizeInBytes": 603,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9333333333333333,
-        "wordCount": 580,
-        "characterCount": 3533,
-        "nonWhitespaceCharacterCount": 2939
+        "pageCount": 0.3433333333333333,
+        "wordCount": 103,
+        "characterCount": 603,
+        "nonWhitespaceCharacterCount": 499
       }
     },
     "Player Resources/Cybernetics.md": {
@@ -636,10 +661,10 @@
       "sizeInBytes": 5694,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.243333333333333,
-        "wordCount": 673,
-        "characterCount": 5249,
-        "nonWhitespaceCharacterCount": 4457
+        "pageCount": 2.44,
+        "wordCount": 732,
+        "characterCount": 5624,
+        "nonWhitespaceCharacterCount": 4757
       }
     },
     "Planets/Venus.md": {
@@ -665,31 +690,6 @@
         "wordCount": 438,
         "characterCount": 2833,
         "nonWhitespaceCharacterCount": 2384
-      }
-    },
-    "Planets/The Meteor Belt.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 195,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.65,
-      "characterCount": 1122,
-      "nonWhitespaceCharacterCount": 924,
-      "readingTimeInMinutes": 0.7358490566037735,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738202161084,
-      "modifiedDate": 1738202161085,
-      "sizeInBytes": 1122,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.65,
-        "wordCount": 195,
-        "characterCount": 1122,
-        "nonWhitespaceCharacterCount": 924
       }
     },
     "Planets/Mercury & Solar Space.md": {
@@ -911,10 +911,10 @@
       "sizeInBytes": 2794,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.39,
-        "wordCount": 417,
-        "characterCount": 2774,
-        "nonWhitespaceCharacterCount": 2250
+        "pageCount": 1.3866666666666667,
+        "wordCount": 416,
+        "characterCount": 2766,
+        "nonWhitespaceCharacterCount": 2243
       }
     },
     "Items/Restricted Weapons.md": {
@@ -1042,6 +1042,56 @@
         "nonWhitespaceCharacterCount": 614
       }
     },
+    "Icon.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738522561017,
+      "modifiedDate": 1738522561324,
+      "sizeInBytes": 229869,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Icon.pdn": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738521384046,
+      "modifiedDate": 1738521384549,
+      "sizeInBytes": 350046,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "GM Resources/Time Scales.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1111,10 +1161,10 @@
       "sizeInBytes": 1243,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.7,
-        "wordCount": 210,
-        "characterCount": 1234,
-        "nonWhitespaceCharacterCount": 1021
+        "pageCount": 0.7066666666666667,
+        "wordCount": 212,
+        "characterCount": 1243,
+        "nonWhitespaceCharacterCount": 1028
       }
     },
     "GM Resources/Stat Blocks/HIF Officers.md": {
@@ -1136,10 +1186,10 @@
       "sizeInBytes": 1789,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.86,
-        "wordCount": 258,
-        "characterCount": 1918,
-        "nonWhitespaceCharacterCount": 1558
+        "pageCount": 0.8133333333333334,
+        "wordCount": 244,
+        "characterCount": 1783,
+        "nonWhitespaceCharacterCount": 1444
       }
     },
     "GM Resources/Stat Blocks/Criminals.md": {
@@ -1165,6 +1215,31 @@
         "wordCount": 538,
         "characterCount": 4248,
         "nonWhitespaceCharacterCount": 3488
+      }
+    },
+    "GM Resources/Stat Blocks/Aliens.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 425,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4166666666666667,
+      "characterCount": 3015,
+      "nonWhitespaceCharacterCount": 2454,
+      "readingTimeInMinutes": 1.6037735849056605,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738534945012,
+      "modifiedDate": 1738537433763,
+      "sizeInBytes": 3063,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.4166666666666667,
+        "wordCount": 425,
+        "characterCount": 3015,
+        "nonWhitespaceCharacterCount": 2454
       }
     },
     "GM Resources/Running a Campaign.md": {
@@ -1367,73 +1442,23 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Icon.pdn": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738521384046,
-      "modifiedDate": 1738521384549,
-      "sizeInBytes": 350046,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Icon.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738522561017,
-      "modifiedDate": 1738522561324,
-      "sizeInBytes": 229869,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "GM Resources/Stat Blocks/Aliens.md": {
+    "Planets/The Belt/House Colebarum.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 425,
+      "wordCount": 437,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4166666666666667,
-      "characterCount": 3015,
-      "nonWhitespaceCharacterCount": 2454,
-      "readingTimeInMinutes": 1.6037735849056605,
+      "pageCount": 1.4566666666666668,
+      "characterCount": 2899,
+      "nonWhitespaceCharacterCount": 2450,
+      "readingTimeInMinutes": 1.649056603773585,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1738534945012,
-      "modifiedDate": 1738537433763,
-      "sizeInBytes": 3063,
+      "createdDate": 1738538265302,
+      "modifiedDate": 1738544144614,
+      "sizeInBytes": 2899,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1442,32 +1467,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "WIP/Crime.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 457,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5233333333333334,
-      "characterCount": 3029,
-      "nonWhitespaceCharacterCount": 2563,
-      "readingTimeInMinutes": 1.7245283018867925,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738543340677,
-      "modifiedDate": 1738544986846,
-      "sizeInBytes": 3029,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "WIP/The Belt/House Scalerium.md": {
+    "Planets/The Belt/House Scalerium.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -1492,23 +1492,48 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "WIP/The Belt/House Colebarum.md": {
+    "Planets/The Belt/House Navarium.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 437,
+      "wordCount": 448,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4566666666666668,
-      "characterCount": 2899,
-      "nonWhitespaceCharacterCount": 2450,
-      "readingTimeInMinutes": 1.649056603773585,
+      "pageCount": 1.4933333333333334,
+      "characterCount": 3102,
+      "nonWhitespaceCharacterCount": 2634,
+      "readingTimeInMinutes": 1.6905660377358491,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1738538265302,
-      "modifiedDate": 1738544144614,
-      "sizeInBytes": 2899,
+      "createdDate": 1738679464008,
+      "modifiedDate": 1738680209275,
+      "sizeInBytes": 3102,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Planets/The Belt/The Meteor Belt.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 195,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.65,
+      "characterCount": 1122,
+      "nonWhitespaceCharacterCount": 924,
+      "readingTimeInMinutes": 0.7358490566037735,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738202161084,
+      "modifiedDate": 1738202161085,
+      "sizeInBytes": 1122,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
