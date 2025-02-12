@@ -20,15 +20,9 @@
               "icon": "lucide-file",
               "title": "Backgrounds"
             }
-          }
-        ]
-      },
-      {
-        "id": "8663d0aa13898735",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e7d003fdc84fd274",
+            "id": "3d721897c34fb1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "**\\Dex\\]**",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 200
   },
   "right": {
     "id": "3fd034ec51cd0452",
@@ -165,19 +159,9 @@
               "icon": "lucide-list",
               "title": "Outline of Fusion"
             }
-          },
-          {
-            "id": "c595cc885211f31c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,43 +181,47 @@
   },
   "active": "d879db87c32703d0",
   "lastOpenFiles": [
-    "Player Resources/Disciplines.md",
-    "Player Resources/XP.md",
-    "Player Resources/Backgrounds.md",
-    "Spacefaring/Ship Combat.md",
-    "Spacefaring/Logistics.md",
-    "Modules.md",
-    "GM Resources/Stat Blocks/Security Officers.md",
-    "Rules/Checks.md",
-    "Spacefaring/Spaceflight.md",
-    "Player Resources/Cybernetics.md",
     "Player Resources/Character Creation.md",
-    "Player Resources/Skills & Attributes.md",
-    "Rules/Combat.md",
-    "Rules/Downtime.md",
-    "WIP/Expert Items.md",
-    "Setting/Crime.md",
+    "Player Resources/Cybernetics.md",
+    "Player Resources/Disciplines.md",
+    "Player Resources/Psionics.md",
+    "Player Resources/Backgrounds.md",
+    "Player Resources/Disciplines.md~",
+    "Rules/Checks.md",
+    "Spacefaring/Ship Combat.md",
+    "Planets/Venus.md",
+    "Planets/Human Commonwealth/The Human Commonwealth.md",
+    "Readme.md",
+    "WIP/Combat Advancements.md",
     "Items/Armors.md",
     "Items/Basic Items.md",
-    "Items/Restricted Items.md",
-    "Planets/Venus.md",
-    "GM Resources/Non-Player Characters.md",
-    "GM Resources/Running a Campaign.md",
-    "Items/Restricted Weapons.md",
-    "Items/Consumables.md",
-    "Readme.md",
-    "Planets/The Belt/House Navarium.md",
+    "Exo-Local/Names.md",
+    "Exo-Local/Secret Lore.md",
+    "WIP/Naming.md",
+    "Exo-Local/Drop-In NPCs.md",
+    "Icon.png",
+    "Character Sheet.pdf",
+    "WIP/Expert Items.md",
+    "Exo-Local/Untitled.md",
+    "Exo-Local/Reference Images/Spacecraft/BartolRendulic3.jpg",
+    "Exo-Local/Reference Images/Spacecraft",
+    "Exo-Local/Reference Images/BartolRendulic3-MartianCity.jpg",
+    "Exo-Local/Reference Images/BartolRendulic2.jpg",
+    "Exo-Local/Reference Images/BartolRendulic1.jpg",
+    "Exo-Local/Ship Classifications.md",
+    "Exo-Local/Reference Images",
+    "Exo-Local/Ideas.md",
+    "Exo-Local/Disciplines.md",
+    "Exo-Local/BodyTemplate.png",
+    "Exo-Local",
+    "WIP/TTRPG NAMES",
+    "Rules/Downtime.md",
+    "Rules/Mechanics.md",
+    "Player Resources/XP.md",
     "lu119436idxf7.tmp",
     "lu119436idxed.tmp",
     "Icon.png~RF2a29c3.TMP",
     "Icon.png.0.pdnSave",
-    "Icon.png",
-    "Icon.pdn~RF1c1c69.TMP",
-    "Icon.pdn.0.pdnSave",
-    "Icon.pdn~RF16ed24.TMP",
-    "Icon.pdn",
-    "Planets/The Belt",
-    "Character Sheet.pdf",
     "Untitled.canvas",
     "GM Resources/Untitled.canvas",
     "BodyTemplate.png"

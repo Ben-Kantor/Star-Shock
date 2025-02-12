@@ -1,17 +1,17 @@
 When spacecrafts or spacecraft-sized combatants fight, a system called **Ship Combat** is used. At the start, each player chooses where in the ship their character starts, and all characters are assumed to be wearing [void-suits](../Setting/Technology.md#Void-Suits). They will take actions as usual with action penalties, up to three per turn. Anything that can be done during normal combat can also be done during Spacecraft Combat, but below are the rule detailing the three main actions. All of these checks can be assisted by anyone with at least three in a relevant attribute, or a relevant skill.
-#### Piloting
-While a pilot is controlling a ship from the helm, each turn they make a difficulty 10 **\[Dex\]** + **{Spacecrafts}** to control the ship. If they fail they lose control, and weapons fire against them gains a +1 bonus. For every 2 rolled over the difficulty, the pilot may execute one maneuver, including the same one more than once:
+## Piloting
+While a pilot is controlling a ship from the helm, each turn they make a difficulty 10 **\[Dex\]** + **{Spacecrafts}** to control the ship. If they fail they lose control, and weapons fire against them gains a +1 bonus. If they fail for multiple turns in a row they begin to lose control of the craft. For every 2 rolled over the difficulty, the pilot may execute one maneuver, but may not do the same one more than once:
 - **Evasive Maneuver**
     - Provide a -1 penalty on all incoming weapons fire checks.
 - **Acceleration Maneuver**
     - Add 3 to the ship's Speed Boost this turn.
 - **Aggressive Maneuver**
     - Provide a +1 bonus on all outgoing weapons fire checks.
-#### Fixing damage
+## Fixing damage
 Fixing a damaged part of a ship requires a [Skill Challenge](/Rules/Checks.md#Checks). Checks are made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred.
-#### Firing Weapons
+## Firing Weapons
 Some weapons fire automatically but most require an operator or a [Combat Computer](/Spacefaring/Ship%20Modules.md#Combat%20Computer). To fire a weapon, a character makes a check based on the weapon's attribute, plus their **{Heavy Weapons}** skill. All ship weapons can only be fired once per turn. One character can operate two weapons, taking a move action between them and accounting for action penalty.
-#### Boarding
+## Boarding
 When two ships are within 10m of each other, characters can attempt to board. They must end their turn by spending an action to exit an airlock and push off, or begin climbing to the enemy ship. As the other ship takes it's turn it will have a chance to fire at the boarders. When it goes back to the boarders' turn they will need to spend an action to enter an airlock. 
 ## Navigating Within the Ship
 In most ships, the helm is at the top and the engines are at the bottom. Navigating from one end of a ship to the other takes a number of move actions equal to the square root of the spacecraft's size (module count). Remember that a character can't take more than two move actions per turn. GMs can approximate distances within, deciding how many move actions are needed to move from any particular area of the ship to another.

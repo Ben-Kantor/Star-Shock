@@ -1,4 +1,4 @@
-To gain an cybernetic features, a character must spend one shift receiving the enhancement and and pay the cost starting at the table below. Each level costs 5 XP, and cannot be taken until you take all previous levels.
+To gain cybernetic features, a character must spend one shift receiving the enhancement and and pay the cost starting at the table below. Each level costs 5 XP, and cannot be taken until you take all previous levels.
 - Level 1 - ₮50
 - Level 2 - ₮150
 - Level 3 - ₮600

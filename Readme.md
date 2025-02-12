@@ -23,20 +23,20 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 #### Meta
 - Consider changing the game's name.
 - Either standardize or remove **bolding** for emphasis
-- Possibly replace 3+ damage effects with a check made by the defender
+- Consider a "player always rolls" system74
 #### Lore
-- Meteor Belt Houses
-- Criminal Syndicates
-- List of In-Game Materials
+- 1/2 More Meteor Belt Houses
 #### Features & Resources
 - Disciplines
 - Preset Expert Items
 - Spacecraft Sized Lifeforms
 - Spacecraft Stat Blocks
+- Combat advancements
 #### Future
 - Fine-Tune XP Abilities
 - Spacecraft Sheets
 - Expand NPC Stat Blocks
+- Robot PCs "Fluxborne?"
 ## Credits
 Made by Ben Kantor, with help from:
 - Ben Soroos - *Copy Editing*

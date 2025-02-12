@@ -74,6 +74,6 @@
 	- Range: 10m, Rate: 1, Roll + 6 - **\[Str Resist\]**
 	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply"
 - Hypnotoxin (x3)
-	- The target must make an immediate difficulty 10 **\[Str\]** check, on a failure they fall [Unconscious](Rules/Combat.md#Unconscious), on a success they are woozy next turn and get -1 on all checks.
+	- The target must make an immediate difficulty 10 **\[Str\]** check, on a failure they fall [Unconscious](../../Rules/Combat.md#Unconscious), on a success they are woozy next turn and get -1 on all checks.
 - Lightweight Exosuit *(Expert)*
     - "+1 **\[Dex Resist\]**, +1 **\[Int Resist\]**."
