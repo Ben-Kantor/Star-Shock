@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Backgrounds"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "301895df80d8af1f",
+        "type": "tabs",
+        "children": [
           {
             "id": "3d721897c34fb1d9",
             "type": "leaf",
@@ -181,20 +187,20 @@
   },
   "active": "d879db87c32703d0",
   "lastOpenFiles": [
+    "Player Resources/Disciplines.md",
+    "Player Resources/Backgrounds.md",
+    "Readme.md",
     "Player Resources/Character Creation.md",
     "Player Resources/Cybernetics.md",
-    "Player Resources/Disciplines.md",
+    "Items/Basic Items.md",
     "Player Resources/Psionics.md",
-    "Player Resources/Backgrounds.md",
     "Player Resources/Disciplines.md~",
     "Rules/Checks.md",
     "Spacefaring/Ship Combat.md",
     "Planets/Venus.md",
     "Planets/Human Commonwealth/The Human Commonwealth.md",
-    "Readme.md",
     "WIP/Combat Advancements.md",
     "Items/Armors.md",
-    "Items/Basic Items.md",
     "Exo-Local/Names.md",
     "Exo-Local/Secret Lore.md",
     "WIP/Naming.md",

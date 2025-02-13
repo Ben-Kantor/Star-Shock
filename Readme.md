@@ -25,17 +25,18 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 - Either standardize or remove **bolding** for emphasis
 - Consider a "player always rolls" system74
 #### Lore
-- 1/2 More Meteor Belt Houses
+- 1 or 2 More Meteor Belt Houses
 #### Features & Resources
-- Disciplines
+- Backgrounds/Disciplines
 - Preset Expert Items
 - Spacecraft Sized Lifeforms
 - Spacecraft Stat Blocks
-- Combat advancements
+- Combat Advancements
 #### Future
 - Fine-Tune XP Abilities
 - Spacecraft Sheets
 - Expand NPC Stat Blocks
+- Level 4 and 5 features, costing more XP
 - Robot PCs "Fluxborne?"
 ## Credits
 Made by Ben Kantor, with help from:
@@ -48,6 +49,7 @@ Made by Ben Kantor, with help from:
 - The science fiction of Andy Weir
 - Jupiter Ascending
 - Starship Troopers
+- Dark Heresy 1e TTRPG
 - Stellaris
 - Pulp Science Fiction Magazines:
     - [Galaxy Magazine](https://archive.org/details/galaxymagazine-1951-02/)
