@@ -1,5 +1,5 @@
 # EXO-2040
-Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting. This repo hosts the game source; the rules, lore, print-outs, and GM content used to play the game.
+Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries, set in the year 2040. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting. This repo hosts the game source; the rules, setting, print-outs, and GM content used to play the game.
 ## Features
 - An "atompunk" / "raypunk" retro-futuristic interplanetary setting.
 - A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md), with four attributes and thirty-six unlinked skills.
@@ -7,7 +7,7 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 - A [Two-Background](Backgrounds.md) system, that offers character customization without overwhelming new players.
 - A comprehensive system for [Spacecrafts](/Spacefaring/Spaceflight.md), including [Combat](/Spacefaring/Ship%20Combat.md) and [Upgrades](Ship%20Modules.md),
 - A highly extensible [XP System](XP.md) that allows GMs to incorporate their own ideas.
-- Well-organized, accessible [Lore](/Setting/) to serve as a jumping-off point for GMs.
+- A well-organized, accessible [Setting](/Setting/) to serve as a jumping-off point for GMs.
 - An intralinked, sorted Markdown wiki, that is much quicker to navigate than a traditional manuscript.
 ## Get Started
 If you are interested in this game, this is the recommended order to read the categories:
@@ -23,15 +23,14 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 #### Meta
 - Consider changing the game's name.
 - Either standardize or remove **bolding** for emphasis
-- Consider a "player always rolls" system74
-#### Lore
-- 1 or 2 More Meteor Belt Houses
+- Consider a "player always rolls" system
+#### Setting
+- 1 more Meteor Belt House
 #### Features & Resources
 - Backgrounds/Disciplines
 - Preset Expert Items
 - Spacecraft Sized Lifeforms
 - Spacecraft Stat Blocks
-- Combat Advancements
 #### Future
 - Fine-Tune XP Abilities
 - Spacecraft Sheets
@@ -43,13 +42,13 @@ Made by Ben Kantor, with help from:
 - Ben Soroos - *Copy Editing*
 #### Inspirations
 - Traveller TTRPG
+- Dark Heresy TTRPG
 - Have Space Suit-Will Travel
 - The Storyteller System
 - Star Trek: TOS, TNG, VOY, & DS9
 - The science fiction of Andy Weir
 - Jupiter Ascending
 - Starship Troopers
-- Dark Heresy 1e TTRPG
 - Stellaris
 - Pulp Science Fiction Magazines:
     - [Galaxy Magazine](https://archive.org/details/galaxymagazine-1951-02/)
@@ -71,7 +70,7 @@ The EXO-2040 game source is an intralinked markdown wiki, written and edited usi
 #### Formatting
 - Pages should contain a maximum of 1500 words, pages larger then that need to be split.
 - The [Markdown Style Guide](https://google.github.io/styleguide/docguide/style.html) should be followed, except for the spaces after lines and empty rows before and after headers, both of which can be skipped.
-- For rules and lore pages, h2 headers should be used, with optional h4 subheaders.
+- For rules and setting pages, h2 headers should be used, with optional h4 subheaders.
 - For list pages, h3 headers should be used, sometimes with an italic line after them adding flavor.
 - Bullet points should be used for lists, or sets of independent rules/facts.
 	- Lines should not be indented by more then one column from the main list.
