@@ -27,6 +27,24 @@ _You have textured greenish patches on your skin and are slightly taller than th
 	**-- Train for 5 XP --**
 2. ""
 	**-- Train for 5 XP --**
+3. -
+### Half-Ioan*
+_You have thin fur covering your body, and are much shorter than the average person (1-1.5m)._
+- (◆◇◇) Ioan Contact
+- 
+1. 
+	**-- Train for 5 XP --**
+2. 
+	**-- Train for 5 XP --**
+3. 
+### Half-Callistan*
+_You have marbled purple skin and are much slimmer than the average human._
+- (◆◇◇) Callistan Contact
+- Any **{{Explorer}}** Category Skil
+1. 
+	**-- Train for 5 XP --**
+2. 
+	**-- Train for 5 XP --**
 3. 
 ### Spacefarer
 _You are unusually tall and have no eyebrows._
@@ -44,143 +62,143 @@ _You have a cybernetic enhancement or replacement body part._
 - (◆◇◇) Cyberneticist Contact
 - **{Robotics}** Skill
 - **[Cybernetic](./Cybernetics.md)** Feature (choose any level 1)
-1. 
+7. 
 	**-- Train for 5 XP --**
-2. "Cybernetics feats cost you 1 XP less to unlock, as long as you don't have any psionic feats."
+8. "Cybernetics feats cost you 1 XP less to unlock, as long as you don't have any psionic feats."
 	**-- Train for 5 XP --**
-3. -
+9. -
 ### Psionic
 - **[Psionic](./Psionics.md)** Feature (choose any level 1)
-4. 
+10. 
 	**-- Train for 5 XP --**
-5. "Psionic feats cost you 1 XP less to unlock, as long as you don't have any cybernetic feats."
+11. "Psionic feats cost you 1 XP less to unlock, as long as you don't have any cybernetic feats."
 	**-- Train for 5 XP --**
-6. 
+12. 
 ### Explorer
 - **{{Explorer}}** Category Skill
 - "You can always find basic resources, such as food or water, in natural environments without rolling."
 - You may buy up to two additional starting items
-7. -"You can always find footprints or other signs of activity in an environment, if they exist."
+13. -"You can always find footprints or other signs of activity in an environment, if they exist."
 	**-- Train for 5 XP --**
-8. 
+14. 
 	**-- Train for 5 XP --**
-9. 
+15. 
 ### Merchant
 - (◆◇◇) Expert Trader Contact - OR - Illicit Goods Supplier Contact
 - **{Negotiate}** Skill
 - "You always know where or how to find a seller for any given item."
 - Discipline - **[Trader 1](./Disciplines.md#Trader)**
-10. 
+16. 
 	**-- Train for 5 XP --**
-11. -
+17. -
 	**-- Train for 5 XP --**
-12. "Your bargaining always starts at 75% of normal price when buying, or 75% when selling."
+18. "Your bargaining always starts at 75% of normal price when buying, or 75% when selling."
 ### Doctor
 - **{Chemistry}** and **{Medicate}** Skills
 - Starting Item: [Medical Kit](../Items/Basic%20Items.md)
-13. -"Whenever you administer a consumable you may reroll up to one die of any rolls caused by the consumable." 
+19. -"Whenever you administer a consumable you may reroll up to one die of any rolls caused by the consumable." 
 	**-- Train for 5 XP --**
-14. -
+20. -
 	**-- Train for 5 XP --**
-15. 
+21. 
 ### Hacker
 - (◆◇◇) Cybercriminal Contact - OR - (◆◇◇) Intelligence Service Contact
 - **{Computators}** Skill
 - Discipline - **[Hacker 1](./Disciplines.md#Hacker)**
-16. "You can gain access to secured computator systems with an **\[Int\]** + **{Computators}** skill challenge, provided you have access to a connected terminal." //link skill challenge
+22. "You can gain access to secured computator systems with an **\[Int\]** + **{Computators}** skill challenge, provided you have access to a connected terminal." //link skill challenge
 	**-- Train for 5 XP --**
-17. "You have one alternate identity, which you can register as on your identification chip"
+23. "You have one alternate identity, which you can register as on your identification chip"
 	**-- Train for 5 XP --**
-18. 
+24. 
 ### Pilot
 - **{Spacecrafts}** Skill
 - Starting Possession: A shuttlecraft //← link this
-19. "You have a +1 bonus on all checks to [Pilot Spacecraft](/Spacefaring/Ship%20Combat.md#Piloting)."
+25. "You have a +1 bonus on all checks to [Pilot Spacecraft](/Spacefaring/Ship%20Combat.md#Piloting)."
 	**-- Train for 5 XP --**
-20. "When piloting a spacecraft, you may make the same maneuver more than once, provided you roll well enough."
+26. "When piloting a spacecraft, you may make the same maneuver more than once, provided you roll well enough."
 	**-- Train for 5 XP --**
-21. 
+27. 
 ### Counselor
 - One **{{Academic}}** Category Skill
-22. -"Once per session, add your **\[Prs\]** attribute to any check made by another character you can communicate with, after they roll."
+28. -"Once per session, add your **\[Prs\]** attribute to any check made by another character you can communicate with, after they roll."
 	**-- Train for 5 XP --**
-23. 
+29. 
 	**-- Train for 5 XP --**
-24. 
+30. 
 ### Mechanic
 - Any **{{Engineering}}** Category Skill
 - Discipline - **[Engineer 1](./Disciplines.md#Engineer)**
 - Starting Item: [Universal Toolkit](../Items/Basic%20Items.md)
-25. "You can make two cycles of ship repairs and upgrades in one shift."
+31. "You can make two cycles of ship repairs and upgrades in one shift."
 	**-- Train for 5 XP --**
-26. 
+32. 
 	**-- Train for 5 XP --**
-27. "You can spend a shift tinkering with ship component/device and make a difficulty 12 check, on a success some or all of its functionality gets a +1 bonus, this can only apply to one device at a time."
+33. "You can spend a shift tinkering with ship component/device and make a difficulty 12 check, on a success some or all of its functionality gets a +1 bonus, this can only apply to one device at a time."
 ### Aristocrat*
 - (◆◇◇) Wealthy Sponsor Contact (could be a parent or other relation)
 - 5x Starting Wealth
 - **{{High-Life}}** Category Skill
-28. "Your sponsor contact provides you with an allowance each month, starting at ₮20x3d6, and increasing as you increase their contact level." //link this
+34. "Your sponsor contact provides you with an allowance each month, starting at ₮20x3d6, and increasing as you increase their contact level." //link this
 	**-- Train for 5 XP --**
-29. -
+35. -
 	**-- Train for 5 XP --**
-30. 
+36. 
 ### Mercenary
 - (◆◇◇) Order-Keeper Contact - OR - Smuggler Contact
 - One **{{Soldier}}** Skill and one **{{Explorer}}** Skill
 - Starting Item: Any [Weapon](../Items/Weapons.md)
-31. "You can always find mercenary jobs, and can negotiate on their prices."
+37. "You can always find mercenary jobs, and can negotiate on their prices."
 	**-- Train for 5 XP --**
-32. 
+38. 
 	**-- Train for 5 XP --**
-33. 
+39. 
 ### Enforcer
 - (◆◇◇) High Enforcer Contact
 - One **{{Soldier}}** Skill and one Skill from **Any Category.**
 - Discipline - **[Enforcer 1](./Disciplines.md#Enforcer)**
 - Starting Item: Any [Armor](../Items/Armors.md)
-34. "You may legally carry up to one restricted item in the inner solar system, though you cannot trade them."
+40. "You may legally carry up to one restricted item in the inner solar system, though you cannot trade them."
 	**-- Train for 5 XP --**
-35. 
+41. 
 	**-- Train for 5 XP --**
-36. 
+42. 
 ### Criminal //op?
 - (◆◇◇) Criminal Contact
 - One skill from any category
 - You may buy up to one [Illicit Item](Restricted%20Items.md) instead of a Basic Item when buying starting items
-37. Gain two **{{Low-Life}}** skills
+43. Gain two **{{Low-Life}}** skills
 	**-- Train for 5 XP --**
-38. -
+44. -
 	**-- Train for 5 XP --**
-39. -
+45. -
 ### Fighter
-40. "You can intimidate people using **\[Str\]** instead of **\[Prs\]**."
+46. "You can intimidate people using **\[Str\]** instead of **\[Prs\]**."
 ### Athlete
 - One **{{Explorer}}** or **{{Soldier}}** Category Skill
-41. -
+47. -
 	**-- Train for 5 XP --**
-42. "Once per session, re-roll one or both dice on a **\[Str\]** check."
+48. "Once per session, re-roll one or both dice on a **\[Str\]** check."
 	**-- Train for 5 XP --**
-43. 
+49. 
 ### Acrobat
 - **{{Engineer}}** or **{{Soldier}}** Category Skill
-1. "You can use **\[Dex\]** instead of **\[Str\]** for climbing checks and take half damage from falls."
+50. "You can use **\[Dex\]** instead of **\[Str\]** for climbing checks and take half damage from falls."
 	**-- Train for 5 XP --**
-2. "Once per session, re-roll one or both dice on a **\[Dex\]** check."
+51. "Once per session, re-roll one or both dice on a **\[Dex\]** check."
 	**-- Train for 5 XP --**
-3. 
+52. 
 ### Entertainer
 - One **{{High-Life}}** or **{{Low-Life}}** Category Skill
-4. "You can spend a shift in any community to pick up rumors, in general or related to a specific topic."
+53. "You can spend a shift in any community to pick up rumors, in general or related to a specific topic."
 	**-- Train for 5 XP --**
-5. "Once per session, re-roll one or both dice on a **\[Prs\]** check."
+54. "Once per session, re-roll one or both dice on a **\[Prs\]** check."
 	**-- Train for 5 XP --**
-6. 
+55. 
 
 ### Savant
 - One **{{Academic}}** and one **{{Engineering}}** Category Skill
-7. "Once per session you can recall any piece of public information."
+56. "Once per session you can recall any piece of public information."
 	**-- Train for 5 XP --**
-8. "Once per session, re-roll one or both dice on a **\[Int\]** check."
+57. "Once per session, re-roll one or both dice on a **\[Int\]** check."
 	**-- Train for 5 XP --**
-9. "Once per session, add your **\[Int\]** attribute to any check after rolling."
+58. "Once per session, add your **\[Int\]** attribute to any check after rolling."
