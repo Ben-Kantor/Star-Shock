@@ -164,29 +164,23 @@ _You have a cybernetic enhancement or replacement body part._
 43. 
 ### Acrobat
 - **{{Engineer}}** or **{{Soldier}}** Category Skill
-44. "You can use [Dex] instead of [Str] for climbing checks and take half damage from falls."
+1. "You can use **\[Dex\]** instead of **\[Str\]** for climbing checks and take half damage from falls."
 	**-- Train for 5 XP --**
-45. "Once per session, re-roll one or both dice on a **\[Dex\]** check."
+2. "Once per session, re-roll one or both dice on a **\[Dex\]** check."
 	**-- Train for 5 XP --**
-46. 
+3. 
 ### Entertainer
 - One **{{High-Life}}** or **{{Low-Life}}** Category Skill
-47. "You can spend a shift in any community to pick up rumors, in general or related to a specific topic."
+4. "You can spend a shift in any community to pick up rumors, in general or related to a specific topic."
 	**-- Train for 5 XP --**
-48. "Once per session, re-roll one or both dice on a **\[Prs\]** check."
+5. "Once per session, re-roll one or both dice on a **\[Prs\]** check."
 	**-- Train for 5 XP --**
-49. 
-### Academic
-- Two **{{Academic}}** Category Skills
-50. "Once per session you can recall any piece of public information."
-	**-- Train for 5 XP --**
-51. "Once per session, re-roll one or both dice on a **\[Int\]** check."
-	**-- Train for 5 XP --**
-52. 
+6. 
+
 ### Savant
 - One **{{Academic}}** and one **{{Engineering}}** Category Skill
-53. 
+7. "Once per session you can recall any piece of public information."
 	**-- Train for 5 XP --**
-54. "Once per session, add your **\[Int\]** attribute to any check after rolling."
+8. "Once per session, re-roll one or both dice on a **\[Int\]** check."
 	**-- Train for 5 XP --**
-55. 
+9. "Once per session, add your **\[Int\]** attribute to any check after rolling."
