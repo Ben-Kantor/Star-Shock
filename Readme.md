@@ -35,7 +35,7 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 - Fine-Tune XP Abilities
 - Spacecraft Sheets
 - Expand NPC Stat Blocks
-- Level 4 and 5 features, costing more XP
+- Level 4 and 5 features, costing 10 and 15 XP respectively
 - Robot PCs "Fluxborne?"
 ## Credits
 Made by Ben Kantor, with help from:
