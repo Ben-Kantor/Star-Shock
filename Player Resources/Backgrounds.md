@@ -1,179 +1,140 @@
-//each background must grant:
-- a contact, starting item, or other impermanent advantage
-- a skill
-- a ?????? - OR - a second skill
-
-- Each background has four categories: background, 1, 2, 3.
-- Characters get background and level 1 when they start with the discipline as a background
-- Can buy 2 and 3 from there
-- Other characters can buy into the discipline, but don't get the background features
-- Have a separate page for just purchasable backgrounds, separate folder for spending XP?
-- This also has some issues with the ancestry backgrounds that need solving
-//idea: have the level 2 feature of each background be a combat ability
-### Half-Martian*
+### Half-Martian
 _You have slightly reflective skin and are slightly shorter than the average human._
 - (◆◇◇) Martian Contact
-- Any **{{Academic}}** Category Skill
-1. "Each shift spent in a low or zero gravity environment causes you to heal one damage point."
-	**-- Train for 5 XP --**
+- 2x **{{Academic}}** Category Skill
+1. "You can sense magnetic fields, allowing you to detect nearby large metallic objects or ships."
 2. "You are immune to radiation and have +1 **\[Int Resist\]**."
-	**-- Train for 5 XP --**
-3. "You can sense magnetic fields, allowing you to detect nearby large metallic objects or ships."
-### Half-Venusian*
+3. 
+### Half-Venusian
 _You have textured greenish patches on your skin and are slightly taller than the average human._
 - (◆◇◇) Venusian Contact
-- Any **{{Explorer}}** Category Skill
-4. "Each shift spent exposed to warm sunlight causes you to heal one damage point."
-	**-- Train for 5 XP --**
-5. "Your thickened skin increases your resistance by one against fire or energy-based attack."
-	**-- Train for 5 XP --**
-6. -
-### Half-Ioan*
-_You have thin fur covering your body, and are much shorter than the average person (1-1.5m)._
-- (◆◇◇) Ioan Contact
-- 
-1. 
-	**-- Train for 5 XP --**
-2. "You have retractable claws//... figure out these stats"
-	**-- Train for 5 XP --**
+- **{{Explorer}}** Category Skill
+1. "Each shift spent exposed to warm sunlight heals one damage point and counts as a meal."
+2. "Your thickened skin grants +1 **\[Dex Resist\]** against fire and energy-based attacks."
 3. 
-### Half-Callistan*
+### Half-Ioan
+_You have thin fur covering your body and are much shorter than the average person (1-1.5m)._
+- (◆◇◇) Ioan Contact
+- any **{{Explorer}}** Category Skill
+1. "You suffer no penalties from extreme cold, even in near-freezing conditions."//underpowered
+2. "Your retractable claws which grant +1 on climbing checks."//and can be used as a weapon
+3. 
+### Half-Callistan
 _You have marbled purple skin and are much slimmer than the average human._
 - (◆◇◇) Callistan Contact
-- 
-4. 
-	**-- Train for 5 XP --**
-5. "You gain +1 **\[Dex Resist\]** and cannot be blinded by light."
-	**-- Train for 5 XP --**
-6. "You can morph your face to mimic any person you have seen for up to a number of turns equal to a **\[Prs\]** check, once per rest."
+- any **{{Explorer}}** Category Skill
+1. 
+2. 
+3. "You can morph your face to mimic any person you’ve seen for up to a number of turns equal to a **\[Prs\]** check, once per rest."
 ### Spacefarer
 _You are unusually tall and have no eyebrows._
 - **{Spacecrafts}** Skill
-- Psionic Ability (choose one)
-	- **[Telekinesis 1](./Psionics.md#Precognition)** //preview the feats for these
-	- **[Precognition 1](./Psionics.md#Precognition)**
-7. "You don't suffer penalties for being in a zero-grav environment and can push off and land skillfully."
-	**-- Train for 5 XP --**
-8. 
-	**-- Train for 5 XP --**
-9. "You have a +1 bonus on all checks to [Pilot Spacecraft](/Spacefaring/Ship%20Combat.md#Piloting), and may make the same maneuver more than once, provided you roll well enough."
+- Psionic Ability (choose one) //this should be removed
+    - **[Telekinesis 1](./Psionics.md#Precognition)
+    - **[Precognition 1](./Psionics.md#Precognition)
+4. "You don’t suffer penalties in zero gravity and can push off and land skillfully."
+5. 
+6. "You have a +1 bonus on all checks to [Pilot Spacecraft](/Spacefaring/Ship%20Combat.md#Piloting), and may make the same maneuver more than once, provided you roll well enough."
 ### Cybernetic
-_You have received extensive internel cybernetic enhancement._
+_You have received extensive internal cybernetic enhancement._
 - (◆◇◇) Cyberneticist Contact
 - **{Robotics}** Skill
 - **[Cybernetic](./Cybernetics.md)** Feature (choose any level 1)
-10. "You do not need to sleep in the traditional sense and can remain alert during rest."
-	**-- Train for 5 XP --**
-11. "You can override pain responses, allowing you to ignore one first point of damage taken in a combat encounter, per cybernetic feature you have."
-	**-- Train for 5 XP --**
-12. "Cybernetics feats cost you 1 XP less to unlock, as long as you don't have any psionic feats."
+7. "You do not need to sleep in the traditional sense and can remain alert during rest."
+8. "Ignore the first point of damage taken in a combat encounter, plus one additional per cybernetic feature you have."
+9. "Cybernetics feats cost 1 XP less, as long as you have no psionic feats."
 ### Psionic
+_You have an innate talent for mental abilities._
 - **[Psionic](./Psionics.md)** Feature (choose any level 1)
-13. "You can instinctively sense when you are being observed or recorded."
-	**-- Train for 5 XP --**
-14. //simple psionic attack
-	**-- Train for 5 XP --**
-15. "Psionic feats cost you 1 XP less to unlock, as long as you don't have any cybernetic feats."
-### Explorer
-- **{{Explorer}}** Category Skill
-- You may buy up to two additional starting items
-16. "You can always find footprints or other signs of activity in an environment, if they exist."
-	**-- Train for 5 XP --**
-17. 
-	**-- Train for 5 XP --**
-18. 
+10. "You instinctively sense when you are being observed or recorded."
+11. 
+12. "Psionic feats cost 1 XP less, as long as you have no cybernetic feats."
+### Mechanic
+_You are skilled in engineering, ship repair, and machinery._
+- **{{Engineering}}** Category Skill
+- Starting Item: [Universal Toolkit](../Items/Basic%20Items.md)
+16. "You can make two cycles of ship repairs or upgrades in one shift."
+17. "When you deal 3+ damage with a non-ranged attack, the target is knocked back 3m."
+18. "You can tinker with a ship module or device during a shift, granting it a +1 bonus, until you tinker with another device."
 ### Merchant
+_You are skilled in trade, negotiation, and market manipulation._
 - (◆◇◇) Expert Trader Contact - OR - Illicit Goods Supplier Contact
 - **{Negotiate}** Skill
-- Discipline - **[Trader 1](./Disciplines.md#Trader)**
 19. "You always know where or how to find a seller for any given item."
-	**-- Train for 5 XP --**
-20. -
-	**-- Train for 5 XP --**
-21. "Your bargaining always starts at 75% of normal price when buying, or 125% when selling."
+20. 
+21. "Your bargaining always starts at 75% of normal price when buying or 125% when selling."
+### Aristocrat
+_You come from wealth and influence._
+- (◆◇◇) Wealthy Sponsor Contact (could be a parent or patron)
+- 5x Starting Wealth
+- **{{High-Life}}** Category Skill
+1. "Your sponsor provides an allowance per adventure (~10 XP), starting at ₮10x3d6 and doubling for each ◆ gained."
+2.  
+3. "By spending 1 XP you can invoke a favor, calling in a (◆◇◇) contact for up to one session."
+### Counselor
+_You are a skilled negotiator, therapist, or advisor._
+- One **{{Academic}}** Category Skill
+25. "Once per session, add your **\[Prs\]** to any check made by another character after they roll."
+26. "Once per combat, you can intimidate or distract an opponent, imposing a -1 penalty on their next action."
+27. "You can make **\[Prs\]** + **{Negotiate}** checks to defuse social situations, and can delay most attackers by at least one minute."
 ### Doctor
 - **{Chemistry}** and **{Medicate}** Skills
 - Starting Item: [Medical Kit](../Items/Basic%20Items.md)
-22. -"Whenever you administer a consumable you may reroll up to one die of any rolls caused by the consumable." 
+1. -"Whenever you administer a consumable you may reroll up to one die of any rolls caused by the consumable." 
 	**-- Train for 5 XP --**
 23. //some combat medicine ability
 	**-- Train for 5 XP --**
 24. 
-### Hacker
-- (◆◇◇) Cybercriminal Contact - OR - (◆◇◇) Intelligence Service Contact
-- **{Computators}** Skill
-- Discipline - **[Hacker 1](./Disciplines.md#Hacker)**
-25. "You can gain access to secured computator systems with an **\[Int\]** + **{Computators}** skill challenge, provided you have access to a connected terminal." //link skill challenge
-	**-- Train for 5 XP --**
-26. "You have one alternate identity, which you can register as on your identification chip"
-	**-- Train for 5 XP --**
-27. 
-### Counselor
-- One **{{Academic}}** Category Skill
-28. -"Once per session, add your **\[Prs\]** attribute to any check made by another character you can communicate with, after they roll."
-	**-- Train for 5 XP --**
-29. //ability to effectivly intimidate, confuse, or distract someone in combat
-	**-- Train for 5 XP --**
-30. 
-### Mechanic
-- Any **{{Engineering}}** Category Skill
-- Discipline - **[Engineer 1](./Disciplines.md#Engineer)**
-- Starting Item: [Universal Toolkit](../Items/Basic%20Items.md)
-31. "You can make two cycles of ship repairs and upgrades in one shift."
-	**-- Train for 5 XP --**
-32. "When you deal 3+ damage with a blunt force weapon, you can knock the target back by 3m." //a bit unrelated
-	**-- Train for 5 XP --**
-33. "You can spend a shift tinkering with ship component/device and make a difficulty 12 check, on a success some or all of its functionality gets a +1 bonus, this can only apply to one device at a time."
-### Aristocrat*
-- (◆◇◇) Wealthy Sponsor Contact (could be a parent or other relation)
-- 5x Starting Wealth
-- **{{High-Life}}** Category Skill
-34. "Your sponsor contact provides you with an allowance each month, starting at ₮20x3d6, and increasing as you increase their contact level." //link this
-	**-- Train for 5 XP --**
-35. -
-	**-- Train for 5 XP --**
-36. 
+### Mercenary
+_You have experience as a hired gun, soldier, or security operative._
+- One **{{Soldier}}** Skill and one **{{Explorer}}** Skill
+- Starting Item: any [Weapon](../Items/Weapons.md)
+1. "You can always find mercenary work and can negotiate the pay."
+2. "Once per combat, reroll one or both dice on an attack."
+3. "You gain a +1 bonus on all checks related to battlefield strategy and positioning."
+### Enforcer
+_You enforce the law—or break it._
+- (◆◇◇) High Enforcer Contact
+- One **{{Soldier}}** Skill and one from any Category
+- Starting Item: any [Armor](../Items/Armors.md)
+31. "You may legally carry one restricted item in the inner solar system, though you can’t trade it."
+32. "Once per combat, knock an enemy prone if you deal 3+ damage in melee."
+33. "You can always tell when someone is not being completely honest"
 ### Criminal
+_You’ve spent your life in the underworld, dealing in theft, smuggling, or worse._
 - (◆◇◇) Criminal Contact
 - One skill from any category
 - You may buy up to one [Illicit Item](Restricted%20Items.md) instead of a Basic Item when buying starting items
-37. Gain two **{{Low-Life}}** skills
-	**-- Train for 5 XP --**
-38. "Once per combat, you can reroll one or both dice on an attack with a ranged or melee weapon."
-	**-- Train for 5 XP --**
-39. -
+34. "Gain two **{{Low-Life}}** skills."
+35. "Once per combat, reroll one or both dice on an attack with a ranged or melee weapon."
+36. "You always know where to find illegal goods or services, no matter where you are."
 ### Fighter
-- One **{{Soldier}}** Category Skill and one Skill from any Category.
-1. "You can intimidate people using **\[Str\]** instead of **\[Prs\]**."
-	**-- Train for 5 XP --**
+_You are a trained warrior, brawler, or melee specialist._
+- One **{{Soldier}}** Category Skill.
+1. "Gain the **{Intimidate}** skill, you can use it with **\[Str\]** instead of **\[Prs\]**."
 2. "Once per combat, you may take an additional melee attack without action penalty."
-	**-- Train for 5 XP --**
-3. -
+3. 
 ### Athlete
+_You have exceptional physical conditioning, trained in endurance and strength._
 - One **{{Explorer}}** or **{{Soldier}}** Category Skill
-4. "You have twice the strength of an average human, granting +2 on **\[Str\]** checks other than attacks."
-	**-- Train for 5 XP --**
-5. "Once per session, re-roll one or both dice on a **\[Str\]** check."
-	**-- Train for 5 XP --**
-6. "You can climb any type of wall no matter how steep, up to a number of meters equal to a **\[Str\]** check."
+40. "You have twice the strength of an average human, granting +2 on **\[Str\]** checks other than attacks."
+41. "Once per session, re-roll one or both dice on a **\[Str\]** check."
+42. "You can climb any surface up to a number of meters equal to a **\[Str\]** check, regardless of angle."
 ### Acrobat
-- **{{Engineer}}** or **{{Soldier}}** Category Skill
-7. "You can use **\[Dex\]** instead of **\[Str\]** for climbing checks and take half damage from falls."
-	**-- Train for 5 XP --**
-8. "Once per session, re-roll one or both dice on a **\[Dex\]** check."
-	**-- Train for 5 XP --**
-9. 
+_You are highly agile, trained in balance, movement, and reflexes._
+- One **{{Engineer}}** or **{{Soldier}}** Category Skill
+43. "You can use **\[Dex\]** instead of **\[Str\]** for climbing checks and take half damage from falls."
+44. "Once per combat, you can impose a -1 penalty on an enemy attack against you."
+45. 
 ### Entertainer
+_You are a performer, con artist, or public figure who thrives in the spotlight._
 - One **{{High-Life}}** or **{{Low-Life}}** Category Skill
-10. "You can spend a shift in any community to pick up rumors, in general or related to a specific topic."
-	**-- Train for 5 XP --**
-11. "Once per session, re-roll one or both dice on a **\[Prs\]** check."
-	**-- Train for 5 XP --**
-12. 
+1. "You can spend a shift in any community to pick up rumors, in general or related to a specific topic."
+2. "Once per session, re-roll one or both dice on a **\[Prs\]** check."
+3. 
 ### Savant
+_You possess an extraordinary intellect, excelling in academics and invention._
 - One **{{Academic}}** and one **{{Engineering}}** Category Skill
-13. "Once per session you can recall any piece of public information."
-	**-- Train for 5 XP --**
-14. "Once per session, re-roll one or both dice on a **\[Int\]** check."
-	**-- Train for 5 XP --**
-15. "Once per session, add your **\[Int\]** attribute to any check after rolling."
+49. "Once per session, you can recall any piece of public information."
+50. "Once per session, re-roll one or both dice on an **\[Int\]** check."
+51. 

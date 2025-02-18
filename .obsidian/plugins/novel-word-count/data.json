@@ -121,25 +121,25 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 101,
+      "wordCount": 108,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 610,
-      "nonWhitespaceCharacterCount": 503,
-      "readingTimeInMinutes": 0.38113207547169814,
+      "pageCount": 0.36,
+      "characterCount": 652,
+      "nonWhitespaceCharacterCount": 539,
+      "readingTimeInMinutes": 0.4075471698113208,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1739120592463,
-      "modifiedDate": 1739120994777,
-      "sizeInBytes": 610,
+      "modifiedDate": 1739412295392,
+      "sizeInBytes": 652,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.33666666666666667,
-        "wordCount": 101,
-        "characterCount": 610,
-        "nonWhitespaceCharacterCount": 503
+        "pageCount": 0.36,
+        "wordCount": 108,
+        "characterCount": 652,
+        "nonWhitespaceCharacterCount": 539
       }
     },
     "Spacefaring/Spaceflight.md": {
@@ -200,21 +200,21 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3,
-      "characterCount": 5362,
-      "nonWhitespaceCharacterCount": 4430,
+      "characterCount": 5351,
+      "nonWhitespaceCharacterCount": 4419,
       "readingTimeInMinutes": 3.3962264150943398,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161065,
-      "modifiedDate": 1739369463843,
-      "sizeInBytes": 5364,
+      "modifiedDate": 1739412227056,
+      "sizeInBytes": 5353,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 3,
         "wordCount": 900,
-        "characterCount": 5362,
-        "nonWhitespaceCharacterCount": 4430
+        "characterCount": 5351,
+        "nonWhitespaceCharacterCount": 4419
       }
     },
     "Spacefaring/Logistics.md": {
@@ -482,14 +482,14 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161074,
-      "modifiedDate": 1738451708266,
+      "modifiedDate": 1739912571445,
       "sizeInBytes": 8418,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.57,
         "wordCount": 1371,
-        "characterCount": 8418,
-        "nonWhitespaceCharacterCount": 6890
+        "characterCount": 8426,
+        "nonWhitespaceCharacterCount": 6898
       }
     },
     "Rules/Checks.md": {
@@ -507,64 +507,64 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161081,
-      "modifiedDate": 1738712152860,
+      "modifiedDate": 1739912556992,
       "sizeInBytes": 5924,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.95,
         "wordCount": 885,
-        "characterCount": 5924,
-        "nonWhitespaceCharacterCount": 4811
+        "characterCount": 5925,
+        "nonWhitespaceCharacterCount": 4812
       }
     },
     "Readme.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 682,
+      "wordCount": 686,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.2733333333333334,
-      "characterCount": 5004,
-      "nonWhitespaceCharacterCount": 4231,
-      "readingTimeInMinutes": 2.5735849056603772,
+      "pageCount": 2.2866666666666666,
+      "characterCount": 5025,
+      "nonWhitespaceCharacterCount": 4249,
+      "readingTimeInMinutes": 2.5886792452830187,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202160858,
-      "modifiedDate": 1739406979444,
-      "sizeInBytes": 5004,
+      "modifiedDate": 1739833027691,
+      "sizeInBytes": 5025,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.2266666666666666,
-        "wordCount": 668,
-        "characterCount": 4924,
-        "nonWhitespaceCharacterCount": 4167
+        "pageCount": 2.2866666666666666,
+        "wordCount": 686,
+        "characterCount": 5025,
+        "nonWhitespaceCharacterCount": 4249
       }
     },
     "Player Resources/XP.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 413,
+      "wordCount": 461,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.3766666666666667,
-      "characterCount": 2552,
-      "nonWhitespaceCharacterCount": 2124,
-      "readingTimeInMinutes": 1.558490566037736,
+      "pageCount": 1.5366666666666666,
+      "characterCount": 2795,
+      "nonWhitespaceCharacterCount": 2320,
+      "readingTimeInMinutes": 1.739622641509434,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202160841,
-      "modifiedDate": 1738713286377,
-      "sizeInBytes": 2558,
+      "modifiedDate": 1739912015601,
+      "sizeInBytes": 2801,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.3766666666666667,
-        "wordCount": 413,
-        "characterCount": 2552,
-        "nonWhitespaceCharacterCount": 2124
+        "pageCount": 1.5366666666666666,
+        "wordCount": 461,
+        "characterCount": 2795,
+        "nonWhitespaceCharacterCount": 2320
       }
     },
     "Player Resources/Skills & Attributes.md": {
@@ -636,10 +636,10 @@
       "sizeInBytes": 300,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.1233333333333333,
-        "wordCount": 337,
-        "characterCount": 2042,
-        "nonWhitespaceCharacterCount": 1691
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 300,
+        "nonWhitespaceCharacterCount": 246
       }
     },
     "Player Resources/Cybernetics.md": {
@@ -671,50 +671,50 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1175,
+      "wordCount": 1163,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.9166666666666665,
-      "characterCount": 8078,
-      "nonWhitespaceCharacterCount": 6640,
-      "readingTimeInMinutes": 4.433962264150943,
+      "pageCount": 3.8766666666666665,
+      "characterCount": 8033,
+      "nonWhitespaceCharacterCount": 6606,
+      "readingTimeInMinutes": 4.388679245283019,
       "linkCount": 13,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202160837,
-      "modifiedDate": 1738525444963,
-      "sizeInBytes": 8118,
+      "modifiedDate": 1739911809347,
+      "sizeInBytes": 8075,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.9166666666666665,
-        "wordCount": 1175,
-        "characterCount": 8078,
-        "nonWhitespaceCharacterCount": 6640
+        "pageCount": 3.8766666666666665,
+        "wordCount": 1163,
+        "characterCount": 8033,
+        "nonWhitespaceCharacterCount": 6606
       }
     },
     "Player Resources/Backgrounds.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1142,
+      "wordCount": 1143,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.8066666666666666,
-      "characterCount": 7923,
-      "nonWhitespaceCharacterCount": 6514,
-      "readingTimeInMinutes": 4.309433962264151,
-      "linkCount": 14,
+      "pageCount": 3.81,
+      "characterCount": 7629,
+      "nonWhitespaceCharacterCount": 6384,
+      "readingTimeInMinutes": 4.313207547169811,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1738202160839,
-      "modifiedDate": 1739408068630,
-      "sizeInBytes": 7987,
+      "createdDate": 1739843888663,
+      "modifiedDate": 1739911414856,
+      "sizeInBytes": 7703,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.263333333333333,
-        "wordCount": 679,
-        "characterCount": 5655,
-        "nonWhitespaceCharacterCount": 4817
+        "pageCount": 3.81,
+        "wordCount": 1143,
+        "characterCount": 7629,
+        "nonWhitespaceCharacterCount": 6384
       }
     },
     "Planets/Venus.md": {
@@ -742,7 +742,7 @@
         "nonWhitespaceCharacterCount": 2384
       }
     },
-    "Planets/The Belt/The Meteor Belt.md": {
+    "Planets/The Meteor Belt/The Meteor Belt.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -767,7 +767,32 @@
         "nonWhitespaceCharacterCount": 924
       }
     },
-    "Planets/The Belt/House Scalerium.md": {
+    "Planets/The Meteor Belt/House Varnholt.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 355,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1833333333333333,
+      "characterCount": 2436,
+      "nonWhitespaceCharacterCount": 2065,
+      "readingTimeInMinutes": 1.3396226415094339,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739412633900,
+      "modifiedDate": 1739413772899,
+      "sizeInBytes": 2452,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1833333333333333,
+        "wordCount": 355,
+        "characterCount": 2436,
+        "nonWhitespaceCharacterCount": 2065
+      }
+    },
+    "Planets/The Meteor Belt/House Scalerium.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -792,7 +817,7 @@
         "nonWhitespaceCharacterCount": 1829
       }
     },
-    "Planets/The Belt/House Navarium.md": {
+    "Planets/The Meteor Belt/House Navarium.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -817,7 +842,7 @@
         "nonWhitespaceCharacterCount": 2634
       }
     },
-    "Planets/The Belt/House Colebarum.md": {
+    "Planets/The Meteor Belt/House Colebarum.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -896,25 +921,25 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 326,
+      "wordCount": 338,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0866666666666667,
-      "characterCount": 2032,
-      "nonWhitespaceCharacterCount": 1696,
-      "readingTimeInMinutes": 1.230188679245283,
+      "pageCount": 1.1266666666666667,
+      "characterCount": 2088,
+      "nonWhitespaceCharacterCount": 1741,
+      "readingTimeInMinutes": 1.2754716981132075,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161100,
-      "modifiedDate": 1738202161100,
-      "sizeInBytes": 2032,
+      "modifiedDate": 1739810627323,
+      "sizeInBytes": 2088,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.0866666666666667,
-        "wordCount": 326,
-        "characterCount": 2032,
-        "nonWhitespaceCharacterCount": 1696
+        "pageCount": 1.1266666666666667,
+        "wordCount": 338,
+        "characterCount": 2088,
+        "nonWhitespaceCharacterCount": 1741
       }
     },
     "Planets/Human Commonwealth/The Human Commonwealth.md": {
@@ -946,25 +971,25 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 972,
+      "wordCount": 982,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.24,
-      "characterCount": 6097,
-      "nonWhitespaceCharacterCount": 5085,
-      "readingTimeInMinutes": 3.667924528301887,
+      "pageCount": 3.2733333333333334,
+      "characterCount": 6159,
+      "nonWhitespaceCharacterCount": 5137,
+      "readingTimeInMinutes": 3.7056603773584906,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738202161089,
-      "modifiedDate": 1738202161090,
-      "sizeInBytes": 6099,
+      "modifiedDate": 1739810058362,
+      "sizeInBytes": 6161,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.24,
-        "wordCount": 972,
-        "characterCount": 6097,
-        "nonWhitespaceCharacterCount": 5085
+        "pageCount": 3.2733333333333334,
+        "wordCount": 982,
+        "characterCount": 6159,
+        "nonWhitespaceCharacterCount": 5137
       }
     },
     "Planets/Human Commonwealth/Human Spacecraft.md": {
@@ -1242,31 +1267,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "GM Resources/Time Scales.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 244,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8133333333333334,
-      "characterCount": 1575,
-      "nonWhitespaceCharacterCount": 1308,
-      "readingTimeInMinutes": 0.9207547169811321,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738202160863,
-      "modifiedDate": 1739318651429,
-      "sizeInBytes": 1575,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8133333333333334,
-        "wordCount": 244,
-        "characterCount": 1575,
-        "nonWhitespaceCharacterCount": 1308
-      }
-    },
     "GM Resources/Stat Blocks/Security Officers.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1292,31 +1292,6 @@
         "nonWhitespaceCharacterCount": 1253
       }
     },
-    "GM Resources/Stat Blocks/HIF Officers.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 244,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8133333333333334,
-      "characterCount": 1783,
-      "nonWhitespaceCharacterCount": 1444,
-      "readingTimeInMinutes": 0.9207547169811321,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738202160874,
-      "modifiedDate": 1738534716055,
-      "sizeInBytes": 1789,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8133333333333334,
-        "wordCount": 244,
-        "characterCount": 1783,
-        "nonWhitespaceCharacterCount": 1444
-      }
-    },
     "GM Resources/Stat Blocks/How to Use.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1340,6 +1315,31 @@
         "wordCount": 212,
         "characterCount": 1243,
         "nonWhitespaceCharacterCount": 1028
+      }
+    },
+    "GM Resources/Stat Blocks/HIF Officers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 244,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 1783,
+      "nonWhitespaceCharacterCount": 1444,
+      "readingTimeInMinutes": 0.9207547169811321,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738202160874,
+      "modifiedDate": 1738534716055,
+      "sizeInBytes": 1789,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8133333333333334,
+        "wordCount": 244,
+        "characterCount": 1783,
+        "nonWhitespaceCharacterCount": 1444
       }
     },
     "GM Resources/Stat Blocks/Criminals.md": {
@@ -1390,6 +1390,31 @@
         "wordCount": 425,
         "characterCount": 3015,
         "nonWhitespaceCharacterCount": 2454
+      }
+    },
+    "GM Resources/Time Scales.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 244,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 1575,
+      "nonWhitespaceCharacterCount": 1308,
+      "readingTimeInMinutes": 0.9207547169811321,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738202160863,
+      "modifiedDate": 1739318651429,
+      "sizeInBytes": 1575,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8133333333333334,
+        "wordCount": 244,
+        "characterCount": 1575,
+        "nonWhitespaceCharacterCount": 1308
       }
     },
     "GM Resources/Running a Campaign.md": {
@@ -1742,31 +1767,6 @@
         "nonWhitespaceCharacterCount": 3360
       }
     },
-    "Exo-Local/Disciplines.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 489,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.63,
-      "characterCount": 2975,
-      "nonWhitespaceCharacterCount": 2476,
-      "readingTimeInMinutes": 1.8452830188679246,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738500309630,
-      "modifiedDate": 1738500309637,
-      "sizeInBytes": 2975,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.63,
-        "wordCount": 489,
-        "characterCount": 2975,
-        "nonWhitespaceCharacterCount": 2476
-      }
-    },
     "Exo-Local/BodyTemplate.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1806,9 +1806,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738530802615,
-      "modifiedDate": 1738530802782,
-      "sizeInBytes": 127228,
+      "createdDate": 1739912590596,
+      "modifiedDate": 1739912590745,
+      "sizeInBytes": 128532,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1831,9 +1831,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738530796149,
-      "modifiedDate": 1738530796870,
-      "sizeInBytes": 445929,
+      "createdDate": 1739911766818,
+      "modifiedDate": 1739911767332,
+      "sizeInBytes": 412462,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
