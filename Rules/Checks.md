@@ -47,6 +47,8 @@ Sometimes check will be split up into a Skill Challenge, usually when the check 
 GMs should narrate the checks to explain each step that is needed. During combat only one attempt at any skill challenge can be made per turn. The number of successes needed or failures allowed may vary.
 #### Secret Checks
 Sometimes a character might make a check in such a way that they won't know whether or not it succeeded. In this case the player must act as their character would, without considering the result of the dice. The GM may choose to make such checks secretly, but if so should ask the player before rolling whether they would be willing to spend a luck point to re-roll a 1 on the check, if it is spent, they immediately tell the player so they can mark it down. 
+#### The Default Penalty //rename
+Some checks that require specialist knowledge, (for instance those in the **{{Academics}}** category) will be especially difficult for those without knowledge of them. For such checks, characters who do not have a relevant skill, or a reason that their character would be familiar with the subject matter, receive a -1 penalty.
 ## Bonuses and Penalties
 Situational bonuses and penalties may be given given by the GM, based on the conditions of a check. When a check is made, all bonuses and penalties are totaled and added to the check.
 #### Bonuses

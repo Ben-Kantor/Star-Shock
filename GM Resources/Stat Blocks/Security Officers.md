@@ -5,19 +5,7 @@
 - Baton
 	- Range: 1m, Rate: 1, Roll + 3 - **\[Str Resist\]**
 - Communicator
-### Skilled Enforcer
-- **\[Str\]** - 2, **\[Dex\]** - 1, **\[Int\]** - 1, **\[Prs\]** - 1
-- {Authority}, {Melee}, {Firearms}
-- **\[Str Resist\]** - 9, **\[Dex Resist\]** - 9, **\[Int Resist\]** - 8, **\[Prs Resist\]** - 8
-- Electric Baton
-	- Range: 1m, Rate: 1, Roll + 3 - **\[Str Resist\]**
-	- "3+ dmg → 1d6 additional energy damage."
-- Disposable Laser Pistol
-	- Range: 5m, Rate: 1, Value: ₮20, Roll + 2 - **\[Int Resist\]**
-	- "Can only fire three shots, after which it is inoperable"
-- Plastic Plate
-	- "+1 **\[Dex Resist\]**"
-- Communicator, ID Card, Self-Sealing Handcuffs
+
 ### Strike Officer
 - **\[Str\]** - 3, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 1
 - {Authority}, {Melee}, {Firearms}, {Move}

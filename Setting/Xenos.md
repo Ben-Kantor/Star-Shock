@@ -1,0 +1,4 @@
+The term "Xenos",  while initially by humans to refer to all aliens, is now only used to refer to the strangest forms of life in the solar system. 
+### Leviathans
+### Krillig
+Originating from Mars, Krillig is a type of hybrid lifeform that begins with a fungus-like colony. Colonies grow around energy cables, heat-pipes, batteries, transmitters and anything else that releases thermal or electromagnetic energy. They look like blue mesh, and after they have collected enough they begin to grow large, light-blue bulbs in which eventualy burst to release the slimy, pentapodal animal stage of the species. These creatures form the main threat of the Krillig with the larger ones can grow up to 1m across and will defend their colonies violently. Some are capable of spraying acid, and all are very fast-moving and toxic. Many are also much smaller, down to less then a centimeter across, and can move around undetected and form new colonies at other sources of energy.

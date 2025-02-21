@@ -10,5 +10,3 @@ The most notorious illegal substance is Wormoss spores from Venus, known as "Wor
 With the Universal Implant system controlling much of human society, there's a thriving black market for forged identities. Criminal specialists can modify or clone implants, though the process is dangerous and expensive. Some outlaws choose to remove their implants entirely, though this makes it nearly impossible to access legal markets and services.
 ## Piracy
 While rare in the inner system due to strong naval presence, piracy flourishes from the belt and out. Pirates target cargo ships, mining operations, and isolated settlements. Some pirate groups have grown powerful enough to control entire asteroids or small moons, particularly in Jupiter's outer satellite system.
-## Contract Crime
-Professional criminals-for-hire offer services ranging from theft to sabotage to assassination. Their main operation, however, is espionage. Various Houses of the Belt will hire them to spy on or even interfere with the operations of rival houses. Many operate through legitimate-seeming businesses in the Belt, using complex networks of intermediaries to maintain deniability. 

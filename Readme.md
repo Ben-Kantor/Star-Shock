@@ -24,19 +24,17 @@ If anything seems unclear to you, you have questions, or you have an idea, pleas
 - Consider changing the game's name.
 - Either standardize or remove **bolding** for emphasis
 - Consider a "player always rolls" system
-#### Setting
-- 1 more Meteor Belt House
 #### Features & Resources
 - Backgrounds/Disciplines
 - Preset Expert Items
-- Spacecraft Sized Lifeforms
 - Spacecraft Stat Blocks
+- Xeno Stat Blocks
 #### Future
 - Fine-Tune XP Abilities
 - Spacecraft Sheets
 - Expand NPC Stat Blocks
 - Level 4 and 5 features, costing 10 and 15 XP respectively
-- Robot PCs "Fluxborne?"
+- More Backgrounds
 ## Credits
 Made by Ben Kantor, with help from:
 - Ben Soroos - *Copy Editing*
@@ -48,8 +46,8 @@ Made by Ben Kantor, with help from:
 - Star Trek: TOS, TNG, VOY, & DS9
 - The science fiction of Andy Weir
 - Jupiter Ascending
-- Starship Troopers
 - Stellaris
+- Starship Troopers
 - Pulp Science Fiction Magazines:
     - [Galaxy Magazine](https://archive.org/details/galaxymagazine-1951-02/)
     - [Science Fiction Quarterly](https://archive.org/details/sciencefictionquarterly)

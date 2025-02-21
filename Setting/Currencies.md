@@ -8,6 +8,6 @@ Trilium (helium-3) is the most widely accepted currency across the solar system.
 #### Zenth
 The primary currency of the Meteor Belt is Zenth, coins minted from ten grams of tungsten. Zenth coins are about the size of a quarter or £1 piece and often have the insignia of a particular House stamped entirely through the coin. Costs in Zenth are often seemingly random numbers rather than round values.
 
-Zenth are represented by "Ƶ"; for instance, 15 Zenth would be written as Ƶ15. Five Zenth is roughly equivalent to 1 TSI, but this changes frequently with the value of Tungsten. Coins are frequently weighed on scales to verify authenticity, as counterfeiting is a known issue in the Meteor Belt.
+Zenth are represented by "Ƶ"; for instance, 15 Zenth would be written as Ƶ15. Five Zenth is roughly equit to 1 TSI, but this changes frequently with the value of Tungsten. Coins are frequently weighed on scales to verify authenticity, as counterfeiting is a known issue in the Meteor Belt.
 ## Measurements
 All units should be in metric/SI, except force which is measured in gravity on Earth. Time and date are the same, except instead of calendar months lunar months, 30 days long, are used.

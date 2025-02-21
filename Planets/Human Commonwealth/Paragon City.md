@@ -13,7 +13,7 @@ The upper floors are owned by wealthy businesses, including some extra-terrestri
 A the top of the tower is a thin spire called the Lunar Aerie, which is the command center for the Interplanetary Force of the Human Commonwealth. At the top an enormous Jacobs ladder several kilometers tall sends off messages to human ships as far out as Neptune. Landing pads are located around it in pairs of three alternating by angle, with various small but elaborate ships. The bottom few floors are open to anyone, but security increases the higher you go.
 ## Locations
 - **Star-Burger** - A fast food chain with multiple locations, serving hamburgers made out of algea and similar foods.
-- **Astral Gardens** (or just the **Gardens**), an entire floor filled with a park, including a zoo and a large amount of hanging garden baskets suspended magnetically. The only place that follows a day/night cycle.
+- **Astral Gardens** (or just the **Gardens**), an entire floor filled with a park, including a zoo and a large amount of hanging garden baskets suspended magnetically.
 - **Lunar Exchange** - The central trading hub on the upper floors, where precious gasses, metals, and currencies are exchanged constantly. 
 - **Regolith Foundry** - A sprawling industrial complex around the base of the spire, where lunar regolith is processed into everything from construction materials to consumer goods. 
 - **Polaris Observatory** - A high-end observatory near the upper floors, offering views of the Earth, stars, and passing spacecraft, for a fee.
@@ -21,10 +21,10 @@ A the top of the tower is a thin spire called the Lunar Aerie, which is the comm
 - **Tranquility Square** - A large public plaza on a middle floor, featuring an enormous holographic projection of the Earth.
 - **Paragon Academy** - A prestigious school for young pilots and engineers on the upper floors, training the next generation of space-captains and HIF officers.
 - **Moonshine Docks** - A hidden distillery and bar on a low floor, producing "moonshine" liquors that are popular among the lower-class residents.
-- **The Tycho Arcade** - A retro-futuristic entertainment floor filled with holographic games, zero-gravity sports arenas, and vintage arcade cabinets, run by a Martian.
+- **The Tycho Arcade** - A large arcade filled with holographic games, zero-gravity sports arenas, and vintage arcade cabinets, run by several Martians.
 - **Mechanics Guild** - A workshop complex on a middle floor where residents can bring damaged equipment for repair or trade knowledge about spacecraft and technology.
 - **Nebula Heights** - The most exclusive residential area in the city, located near the top of the spire, offering unparalleled views and luxury accommodations.
 - **Starlight Memorial** - A somber monument on a mid-level floor dedicated to those who lost their lives during the Martian Wars.
-- **The Scarab's Nest** - A communal living spacs built from stacked cargo containers on a lower floor.
+- **The Scarab's Nest** - A communal living space built from stacked cargo containers on a lower floor.
 - **Lunar Enterprises** - The factory, and offices of the corporation Lunar Enterprises are built on an entire upper floor, along with the Lunar Mall, a luxury mall which sells their goods as well as others.
 - **Stack-Malls** - Small retail centers built on lower floors, named as such because they are built in small scraps of space between floors. The two largest are The Crater and Trenteloth's.

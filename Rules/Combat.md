@@ -51,7 +51,7 @@ Resistances are represented as **\[Abl Resist]** in the game source, with Abl re
 
 Resistances can also be increased by wearing [Armor](Checks.md#Armor) [(List)](/Items/Armors.md), or by some enhancements.
 ## Taking Damage
-When damage is dealt to a character, it is added to their previous total damage, which starts at 0. This number can be tracked in the big Damage Taken box on the character sheet. Then if they have seven or more total damage they must make a **consciousness check**. To do so, they roll a Strength check against half the total number of damage they have taken (round up).
+When damage is dealt to a character, it is added to their previous total damage, which starts at 0. This number can be tracked in the big Damage Taken box on the character sheet. Then if they have seven or more total damage they must make a **consciousness check**. To do so, they roll a **\[Str\]** check against the number of damage points they have taken.
 - If they succeed, nothing happens.
 - If they fail, they fall unconscious.
 - If they fail by 7 or more, they fall into a coma.
@@ -64,12 +64,12 @@ Consult below to see how much damage is taken from falling a certain distance. T
 #### Unconscious
  While a character is unconscious, if the amount of damage they have decreases, they may re-roll their consciousness check and wake up on a success. If the amount of damage increases, they must re-roll their consciousness check to see if they fall into a coma, but they don't wake up on a success. Without interference, unconscious characters will wake up after 1 hour. They can also be woken up with a successful Difficulty 10 **\[Dex\]** + **{Medicate}** check.
 #### Comatose
-Characters in a coma are unable to communicate and do not make consciousness checks as normal. Instead, every 24 hours, they make a coma check (Strength vs half of total damage):
+Characters in a coma are unable to communicate and do not make consciousness checks as normal. Instead, every 24 hours, they make a coma check (a **\[Str\]** against total damage):
 - If they succeed, they wake up.
 - If they fail, they take one additional damage point.
 - If they fail by seven or more or roll snake-eyes, and have more damage points than total XP, they die.
 
-While in a coma, the same item can't be used more than once, and heal checks do nothing. To wake up, they will need advanced healing from a medical center, followed by electroshock therapy.
+While in a coma, the same consumable item can't be used more than once on them, and standard heal checks do nothing. They will need advanced healing from a medical center, followed by electroshock therapy to wake them.
 #### Prone
 While prone, characters have a -1 penalty on attacks and some physical checks, and attacks against them have a +1 bonus. Moving the same distance that would normally take one move action instead requires two move actions. They can stand up from prone as an action.
 #### Blinded
