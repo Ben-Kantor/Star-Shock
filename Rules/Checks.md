@@ -39,6 +39,8 @@ When a check is made in a situation where success is eventually possible, a fail
 If the dice show a total of 2 "snake-eyes" or 12 "boxcars" the result is a critical, and has either a failure with a setback, or a complete, easy success. This is mostly left up to the GM as to how it works.
 #### Re-Rolling
 If a character re-rolls one or both dice using an ability, they must take the new result unless they have another ability that allows them re-roll again.
+#### Cooperative Checks
+If multiple characters work together to accomplish a check that could also be accomplished by one character, this system is used. Each character makes their own check, and the highest one is taken. But for each roll that is less than 10, that character does poorly enough that they hinder the other character, giving the final result a -1 pnealty.
 #### Group Checks
 If multiple people are forced to perform a check together rather than just assisting one person, each character rolls, than the average of the highest and lowest roll is rounded up or down depending on the rest of the group's rolls (GM discretion) to determine the group's score. The GM can narrate how the character who rolled the best helped out the others, or how the character who rolled the worst failed.
 #### Skill Challenges
@@ -47,7 +49,7 @@ Sometimes check will be split up into a Skill Challenge, usually when the check 
 GMs should narrate the checks to explain each step that is needed. During combat only one attempt at any skill challenge can be made per turn. The number of successes needed or failures allowed may vary.
 #### Secret Checks
 Sometimes a character might make a check in such a way that they won't know whether or not it succeeded. In this case the player must act as their character would, without considering the result of the dice. The GM may choose to make such checks secretly, but if so should ask the player before rolling whether they would be willing to spend a luck point to re-roll a 1 on the check, if it is spent, they immediately tell the player so they can mark it down. 
-#### The Default Penalty //rename
+#### The Default Penalty
 Some checks that require specialist knowledge, (for instance those in the **{{Academics}}** category) will be especially difficult for those without knowledge of them. For such checks, characters who do not have a relevant skill, or a reason that their character would be familiar with the subject matter, receive a -1 penalty.
 ## Bonuses and Penalties
 Situational bonuses and penalties may be given given by the GM, based on the conditions of a check. When a check is made, all bonuses and penalties are totaled and added to the check.

@@ -1,5 +1,9 @@
 ## Initiative
-When combat or another rushed encounter begins, have each player roll 2d6 + Dex, whoever rolls highest (reroll on tie) goes first. Then play proceeds around the table (alternate directions), with the GM playing any enemies when it gets to them. If one character initiates the encounter themselves, they go first; if the players are taken by surprise by the enemies, the GM goes first. Each round is considered to take ten seconds in-game.
+When combat or another rushed encounter begins, have each character makes a **\[Dex\]** check. In order to be able to act before the enemy, characters must meet or exceed a difficulty of 10. Each character who did gets to take a turn first, in clockwise order. Then the GM takes a turn for all the enemies, and play continues around the table from them.
+
+- Each round is considered to take ten seconds in-game.
+- The order around the table alternates between clockwise and counter-clockwise.
+- The GM can grant bonuses or penalties to initiative checks, depending on either side be hidden, distracted, or taking the other side by suprise.
 ## Taking Actions
 At the start of their turn, players declare how many actions they are taking, **up to three**.
 Each action that involves a dice roll gets -1 for each action more than one that they are taking this turn. This is called the **Action Penalty**, and means if you take three actions in a turn, each one gets -2 on the roll. Actions that do not require a roll can ignore this.

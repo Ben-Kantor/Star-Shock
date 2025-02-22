@@ -1,7 +1,4 @@
 - Match skills between pages
-- Cooperative check rules
-- Replace history with general knowledge skill
-- Improve Initiative System
 - Give all backgrounds balanced item, skill, contact bonuses
 - Fill in Missing Background Features
 - Make background/advancement rules clearer
