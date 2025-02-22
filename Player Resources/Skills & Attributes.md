@@ -78,7 +78,7 @@ Two skills or more are granted by your backgrounds, as well as one skill from th
 - **{Firearms}** - Use conventional ranged weapons like pistols and rifles.
 - **{Energy Weapons}** - Use advanced weaponry like laser guns or disintegrators.
 - **{Martial Arts}** - Engage in unarmed combat with precision and training.
-- **{Heavy Weapons}** - Handle and operate large, powerful weaponry, including mounted systems.
+- **{Artillery}** - Handle and operate large, powerful weaponry, including mounted systems.
 #### {{Explorer}}
 - **{Medicate}** - Provide first aid and medical treatment to heal injuries and ailments.
 - **{Move}** - Climb surfaces and navigate difficult terrain.

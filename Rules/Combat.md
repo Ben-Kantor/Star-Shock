@@ -30,10 +30,10 @@ Below is a list of basic actions that can be taken during a turn. This is not a 
 - **Stand up from Prone**
 ## Free Actions
 Free actions are things a character can do during initiative without spending an action, and that can happen during other people's turns. You generally can't take the same Free Action multiple times during a turn cycle, unless you spend an action.
+- **Free Move** - Move up to 5m, this can be split up between actions.
 - **Drop Prone** - Drop to the ground in the prone position, or stand up from it.
 - **Change Items** - Put up to one item they are holding away, and then draw up to one item from their inventory.
 - **Communicate** - Say something short to another character.
-- **Step** - Move up to 3m, this can't be done if you are also taking a move action, or in difficult terrain.
 ## Holding Actions
 If a character wants to take an action outside of their turn, they can choose to hold an action. This happens after they declare how many actions they are taking, and after they are done with any other actions they want to take. They can use this one action whenever they like during the turn cycle, and it has the same action penalty as the other actions they took during their turn. If initiative comes all the way back to them, they get to take that one action before starting their turn.
 

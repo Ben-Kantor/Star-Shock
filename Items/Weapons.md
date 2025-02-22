@@ -33,9 +33,9 @@ Each weapon has several different values that determine its unique properties. W
 - Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
 	- "3+ dmg → make an extra attack immediately, ignoring action penalty, up to once per turn."
 ### Electric Baton
-- Range: 1m, Rate: 1, Value ₮30
-- Roll + 2 + **\[Str\]** - **\[Str Resist\]**
-	- "3+ dmg → 1d6 additional energy damage."
+- Range: 1m, Rate: 2, Value ₮30
+- Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
+	- "3+ dmg → 1 additional energy damage."
 ### Needle Gun
 - Range: 10m, Rate: 2, Value ₮50
 - Roll + 3 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
@@ -44,11 +44,11 @@ Each weapon has several different values that determine its unique properties. W
 - Range: 10m, Rate: 2, Value: ₮40
 - Roll + 2 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
 	- "Ignores action penalty."
-### Tungsten Knuckles
-- Range: 1m, Rate: 3, Value: ₮10
-- Roll + 2 + **\[Str\]** + **{Martial Arts}** - **\[Str Resist\]**
-    - "3+ dmg → target is knocked prone."
 ### Tungsten Staff
 - Range: 2m, Rate: 2, Value: ₮40
 - Roll + 2 + **\[Str\]** or **\[Dex\]** + **{Martial Arts}** - **\[Dex Resist\]**
 	- "3+ dmg → target can't use psionics on their next turn."
+### Collapsible Spear
+- Range: 5m Thrown, Rate: 1, Value: ₮20
+- Roll + 2 + **\[Str\]** + **{Martial Arts}** - **\[Dex Resist\]**
+	- "3+ dmg → target is pinned to a wall if feasible, and can't move until freed with a difficulty 10 **\[Str\]** check from themselves or someone else."

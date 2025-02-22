@@ -5,7 +5,7 @@
 	- "6+ dmg → disintegrate a limb of the target."
 ### Disposable Laser Pistol
 - Range: 5m, Rate: 1, Value: ₮20, *Restricted*
-- Roll + 3 + **\[Dex\]** + **{Energy Weapons}** - **\[Int Resist\]**
+- Roll + 3 + **\[Int\]** + **{Energy Weapons}** - **\[Int Resist\]**
 	- "Can only fire three shots, after which it is inoperable"
 ### Laser Pistol
 - Range: 5m, Rate: 2, Value: ₮100, *Restricted*
@@ -23,7 +23,3 @@
 - Range: 1m, Rate: 1, Value: ₮100, *Restricted*
 - Roll + 3 + **\[Str\]** + **{Melee}** - **\[Dex Resist\]**
     - "3+ dmg → target is knocked back 1d6 meters."
-### Collapsible Spear
-- Range: 5m Thrown, Rate: 1, Value: ₮20
-- Roll + 2 + **\[Str\]** + **{Martial Arts}** - **\[Dex Resist\]**
-	- "3+ dmg → target is pinned to a wall if feasible, and can't move until freed with a difficulty 10 **\[Str\]** check from themselves or someone else."

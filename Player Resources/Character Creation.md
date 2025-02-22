@@ -25,7 +25,7 @@ Then choose two skills, one from the **{{Soldier}}** category and one skill from
 | {Mechanics}      | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
 | {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
 | {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
-| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Heavy Weapons}  | {Nature}     |
+| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Artillery}  | {Nature}     |
 
 See [Skills & Attributes](/Player%20Resources/Skills%20&%20Attributes.md) for more details on what each skill and attribute represents.
 ### 3. Write Descriptions

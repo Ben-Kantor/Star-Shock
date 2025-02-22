@@ -19,20 +19,10 @@ If you are interested in this game, this is the recommended order to read the ca
 6. Items (optional)
 
 If anything seems unclear to you, you have questions, or you have an idea, please open an [Issue](https://github.com/Ben-Kantor/EXO-2040/issues) so we can improve the game. You can also check out the [Contributing](Readme.md#Contributing) section below on how to make your own changes to the game source.
-## To-Do List
-#### Meta
-- Consider changing the game's name.
-- Either standardize or remove **bolding** for emphasis
-- Consider a "player always rolls" system
-#### Features & Resources
-- Backgrounds/Disciplines
-- Preset Expert Items
-- Spacecraft Stat Blocks
-- Xeno Stat Blocks
-#### Future
-- Fine-Tune XP Abilities
+## Future Plans
 - Spacecraft Sheets
-- Expand NPC Stat Blocks
+- More NPC Stat Blocks
+- Fine-Tune XP Abilities
 - Level 4 and 5 features, costing 10 and 15 XP respectively
 - More Backgrounds
 ## Credits

@@ -12,7 +12,7 @@ To gain cybernetic features, a character must spend one shift receiving the enha
 2. "You can magnify your view up to 100x, allowing you to see far away and tiny details."
 3. "You can detect all energy field, energy signatures, and radio waves."
 ### Cybernetic Legs
-1. "You gain a +1 bonus on checks to climb, and take 1/5 fall damage (round down)."
+1. "You gain a +1 bonus on checks to climb, and each d6 of fall damage you take is replaced with 1."
 2. "You can jump twice as far as normal and can't be knocked prone."
 3. "You can walk across walls and ceilings."
 ### Adaptive Skin

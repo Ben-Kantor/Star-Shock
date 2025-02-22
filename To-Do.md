@@ -1,0 +1,17 @@
+- Match skills between pages
+- Cooperative check rules
+- Replace history with general knowledge skill
+- Improve Initiative System
+- Give all backgrounds balanced item, skill, contact bonuses
+- Fill in Missing Background Features
+- Make background/advancement rules clearer
+- Reduce all attacks by 1
+- Backgrounds/Disciplines
+- Preset Expert Items
+- Spacecraft Stat Blocks
+- Xeno Stat Blocks
+- Consider changing the game's name.
+- Either standardize or remove **bolding** for emphasis
+- Consider a "player always rolls" system
+- Fix 1px Lines on Character Sheet
+- Full Copy-Editing Pass
