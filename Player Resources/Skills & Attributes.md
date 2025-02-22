@@ -49,22 +49,22 @@ Two skills or more are granted by your backgrounds, as well as one skill from th
 - **{Robotics}** - Design, repair, and operate robotic systems and robots.
 - **{Mechanics}** - Work on physical machinery and perform structural repairs or modifications.
 - **{Energy Systems}** - Manage and repair plasma or high-electricity systems, including fusion engines and generators.
-- **{Explosives}** - Create, defuse, and use bombs, charges, and other explosive devices.
+- **{Comms}** - Modify, repair, and use transmitters, receivers, and scanners.
 - **{Spacecrafts}** - Pilot and maintain spacecrafts.
 #### {{Academic}}
 - **{Physics}** - Understand and apply principles of motion, forces, and energy.
 - **{Chemistry}** - Work with chemical substances for analysis, synthesis, and practical applications.
-- **{History}** - Remember past events and historical figures.
+- **{History}** - Remember past events and historical figures, as well as the current state of human civilization.
 - **{Biology}** - Have knowledge of living organisms, ecosystems, and medical practices.
-- **{Planetology}** - Understand planetary systems, geology, and environmental systems.
+- **{Planetology}** - Understand planetary environments, as well as space phenomena.
 - **{Xenology}** - Understand and interact with alien species, their biology, and cultures.
 #### {{High-Life}}
-- **{Investigate}** - Gather and analyze clues or information.
+- **{Negotiate}** - Mediate agreements between parties, negotiate deals.
 - **{Persuade}** - Convince others to act or believe in a specific way through argument.
 - **{Insight}** - Understand the motives, feelings, or truthfulness of others in interactions.
 - **{Authority}** - Assert your authority in social situations, and inspire others.
 - **{Charm}** - Use wit, charisma, and personal appeal to manipulate others.
-- **{Negotiate}** - Mediate agreements between parties, negotiate deals.
+- **{Investigate}** - Gather and analyze clues or information.
 #### {{Low-Life}}
 - **{Subtlety}** - Perform tasks requiring discretion or deception without drawing attention, use sleight of hand.
 - **{Deceive}** - Lie or manipulate facts to influence others or hide the truth.
@@ -74,7 +74,7 @@ Two skills or more are granted by your backgrounds, as well as one skill from th
 - **{Recon}** - Scout and gather information, keep watch, get a close view of something.
 #### {{Soldier}}
 - **{Archery}** - Use bows and similar projectile weapons.
-- **{Blades}** - Use swords, knives, and other melee weapons.
+- **{Melee}** - Use swords, knives, batons, and other melee weapons.
 - **{Firearms}** - Use conventional ranged weapons like pistols and rifles.
 - **{Energy Weapons}** - Use advanced weaponry like laser guns or disintegrators.
 - **{Martial Arts}** - Engage in unarmed combat with precision and training.

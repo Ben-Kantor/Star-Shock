@@ -1,9 +1,9 @@
-- Match skills between pages
-- Give all backgrounds balanced item, skill, contact bonuses
+- Give all backgrounds balanced item, contact bonuses
+- Seperate skills from background selection
+	- Add background requirements?
 - Fill in Missing Background Features
 - Make background/advancement rules clearer
 - Reduce all attacks by 1
-- Backgrounds/Disciplines
 - Preset Expert Items
 - Spacecraft Stat Blocks
 - Xeno Stat Blocks

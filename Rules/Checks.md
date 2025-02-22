@@ -21,6 +21,7 @@ Skills are represented by **{Single Brackets}** and categories of skills by **{{
 | {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
 | {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
 | {Spacecrafts}    | {Xenology}    | {Investigate} | {Recon}      | {Artillery}      | {Nature}     |
+
 ## Checks
 To make a check, follow these steps:
 1. Roll 2d6.
