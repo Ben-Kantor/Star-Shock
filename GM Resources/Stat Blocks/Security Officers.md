@@ -13,7 +13,7 @@
 - Electric Baton
 	- Range: 1m, Rate: 1, Roll + 3 - **\[Str Resist\]**
 	- "3+ dmg → 1d6 additional energy damage."
-- Laser Pistol
+- Ray-Gun
 	- Range: 5m, Rate: 2, Roll + 4 - **\[Int Resist\]**
 	- "3+ dmg → target is blinded next turn, giving a -1 penalty on relevant checks."
 - Aluminum Polymer

@@ -34,7 +34,7 @@ _You are unusually tall and have no eyebrows._
     - **[Precognition 1](./Psionics.md#Precognition)
 1. "You don’t suffer penalties in zero gravity and for wearing void-suits, and can push off and land skillfully."
 2. 
-3. "You have a +1 bonus on all checks to [Pilot Spacecraft](/Spacefaring/Ship%20Combat.md#Piloting), and may make the same maneuver more than once, provided you roll well enough."
+3. "You have a +1 bonus on all checks to [Pilot Spacecraft](Spacefaring/Combat.md#Piloting), and may make the same maneuver more than once, provided you roll well enough."
 ### Cybernetic
 - (◆◇◇) Cyberneticist Contact
 - **{Robotics}** Skill

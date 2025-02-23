@@ -3,15 +3,15 @@
 - Roll + 3 + **\[Int\]** + **{Energy Weapons}** - **\[Int Resist\]**
 	- "3+ dmg → disintegrate an item the target is holding/wearing."
 	- "6+ dmg → disintegrate a limb of the target."
-### Disposable Laser Pistol
+### Disposable Ray-Gun
 - Range: 5m, Rate: 1, Value: ₮20, *Restricted*
 - Roll + 3 + **\[Int\]** + **{Energy Weapons}** - **\[Int Resist\]**
 	- "Can only fire three shots, after which it is inoperable"
-### Laser Pistol
+### Ray-Gun
 - Range: 5m, Rate: 2, Value: ₮100, *Restricted*
 - Roll + 2 + **\[Int\]** + **{Energy Weapons}** - **\[Int Resist\]**
 	- "3+ dmg → target is blinded next turn, giving a -1 penalty on some checks."
-### Laser Rifle
+### Beam Rifle
 - Range: 10m, Rate: 2, Value: ₮200, *Restricted*
 - Roll + 3 + **\[Int\]** + **{Energy Weapons}** - **\[Int Resist\]**
 	- "3+ dmg → target is blinded next turn, giving a -1 penalty on some checks."

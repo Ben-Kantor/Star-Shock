@@ -15,15 +15,11 @@ These ranks are part of the administrative structure of the human commonwealth:
 - The Commonwealth Congress Standing Committee
 - The Commonwealth Congress and Director of the Office of Defence
 These ranks are Officers of the HIF:
-- Admirals
-- Captains, *Director\**
-- Commander\*\*, *Chief Officer*
-- Ensign, *Officer\*\*\**
+- Admiral
+- Captain, *Director\** (There are only 1-2 directors per specialty)
+- Commander\*\*, *Chief Officer* (Smaller ships are often run by a commander instead of a captain.)
+- Ensign, *Officer\*\*\** (Technically also ensigns, but just referred to as "\<specialty\> officer".)
 These ranks are trainees:
 - Cadet
-
-\* There are only 1-2 of these per specialty
-\*\* Smaller ships are often run by a commander instead of a captain.
-\*\*\* These are technically also ensigns, but just referred to as "__ Officer"
 
 Any civilian can enlist as a Cadet with no formal training, and will remain at that rank until promoted to ensign.

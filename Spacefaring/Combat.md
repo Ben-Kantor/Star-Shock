@@ -10,7 +10,7 @@ While a pilot is controlling a ship from the helm, each turn they make a difficu
 ## Fixing damage
 Fixing a damaged part of a ship requires a [Skill Challenge](/Rules/Checks.md#Checks). Checks are made using Strength or Dexterity plus a relevant **{{Engineering}}** skill. After a successful check, the total damage stays the same but functionality is restored to full, or to the previous damage level on components with multiple damage levels. This must be done from the location where the damage occurred.
 ## Firing Weapons
-Some weapons fire automatically but most require an operator or a [Combat Computer](/Spacefaring/Ship%20Modules.md#Combat%20Computer). To fire a weapon, a character makes a check based on the weapon's attribute, plus their **{Artillery}** skill. All ship weapons can only be fired once per turn. One character can operate two weapons, taking a move action between them and accounting for action penalty.
+Some weapons fire automatically but most require an operator or a [Combat Computer](Modules.md#Combat%20Computer). To fire a weapon, a character makes a check based on the weapon's attribute, plus their **{Artillery}** skill. All ship weapons can only be fired once per turn. One character can operate two weapons, taking a move action between them and accounting for action penalty.
 ## Boarding
 When two ships are within 10m of each other, characters can attempt to board. They must end their turn by spending an action to exit an airlock and push off, or begin climbing to the enemy ship. As the other ship takes it's turn it will have a chance to fire at the boarders. When it goes back to the boarders' turn they will need to spend an action to enter an airlock. 
 ## Navigating Within the Ship

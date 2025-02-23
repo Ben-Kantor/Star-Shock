@@ -29,7 +29,7 @@ Seven points may divided among these attributes, with no attribute containing a 
 - Analyzing problems, solving puzzles, or performing technical tasks (e.g. hacking, engineering).
 - Research, navigation, and deciphering complex information.
 - Operating advanced machinery or conducting scientific experiments.
-- Energy weapons (e.g. laser rifles, disintegration pistols).
+- Energy weapons (e.g. Beam Rifles, disintegration pistols).
 - Advanced tools or devices requiring skill to operate.
 #### Presence **\[Prs\]** 
 - Represents charisma, willpower, and emotional strength.

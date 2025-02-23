@@ -1,11 +1,11 @@
 # EXO-2040
-Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries, set in the year 2040. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting. This repo hosts the game source; the rules, setting, print-outs, and GM content used to play the game.
+Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired by the science fiction of the 19th and 20th centuries, set in the year 2040. The setting captures the imaginative vision of a bygone era, before our modern scientific understanding of the world, with a deliberately mysterious and wacky setting. The aesthetic of it's world is sometimes referred to as [Raygun Gothic](https://en.wikipedia.org/wiki/Raygun_Gothic). This repo hosts the game source; the rules, setting, print-outs, and GM content used to play the game.
 ## Features
 - An "atompunk" / "raypunk" retro-futuristic interplanetary setting.
 - A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md), with four attributes and thirty-six unlinked skills.
 - Mechanical depth with a relatively shallow learning curve
 - A [Two-Background](Backgrounds.md) system, that offers character customization without overwhelming new players.
-- A comprehensive system for [Spacecrafts](/Spacefaring/Spaceflight.md), including [Combat](/Spacefaring/Ship%20Combat.md) and [Upgrades](Ship%20Modules.md),
+- A comprehensive system for [Spacecrafts](Spacefaring/Mechanics.md), including [Combat](Spacefaring/Combat.md) and [Upgrades](Modules.md),
 - A highly extensible [XP System](XP.md) that allows GMs to incorporate their own ideas.
 - A well-organized, accessible [Setting](/Setting/) to serve as a jumping-off point for GMs.
 - An intralinked, sorted Markdown wiki, that is much quicker to navigate than a traditional manuscript.
