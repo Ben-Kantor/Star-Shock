@@ -17,38 +17,38 @@ Each weapon has several different values that determine its unique properties. W
 ---
 ### Longbow
 - Range: 20m, Rate: 1, Value: ₮40
-- Roll + 2 + **\[Dex\]** + **{Archery}** - **\[Dex Resist\]**
+- Roll + 1 + **\[Dex\]** + **{Archery}** - **\[Dex Resist\]**
 	- "a -1 penalty if the target took the move action last turn."
 ### Crossbow
 - Range: 15m, Rate: 1, Value: ₮30
-- Roll + 3 + **\[Str\]** + **{Archery}** - **\[Dex Resist\]**
+- Roll + 2 + **\[Str\]** + **{Archery}** - **\[Dex Resist\]**
 	- "Must take an action to reload between shots."
 ### Dagger
 - Range: 1m, (5m if thrown), Rate: 3, Value: ₮10
-- Roll + 1 + **\[Dex\]** + **{Melee}** - **\[Str Resist\]**
+- Roll + **\[Dex\]** + **{Melee}** - **\[Str Resist\]**
 	- "Can be hidden on person without a check."
 	- "If a harmful consumable is applied immediately before use."
 ### Venusian Machete
 - Range: 1m, Rate: 2, Value: ₮30
-- Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
+- Roll + 1 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
 	- "3+ dmg → make an extra attack immediately, ignoring action penalty, up to once per turn."
 ### Electric Baton
 - Range: 1m, Rate: 2, Value ₮30
-- Roll + 2 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
+- Roll + 1 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
 	- "3+ dmg → 1 additional energy damage."
 ### Needle Gun
 - Range: 10m, Rate: 2, Value ₮50
-- Roll + 3 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
+- Roll + 2 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
 	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply."
 ### Titanium Revolver
 - Range: 10m, Rate: 2, Value: ₮40
-- Roll + 2 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
+- Roll + 1 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
 	- "Ignores action penalty."
 ### Tungsten Staff
 - Range: 2m, Rate: 2, Value: ₮40
-- Roll + 2 + **\[Str\]** or **\[Dex\]** + **{Martial Arts}** - **\[Dex Resist\]**
+- Roll + 1 + **\[Str\]** or **\[Dex\]** + **{Martial Arts}** - **\[Dex Resist\]**
 	- "3+ dmg → target can't use psionics on their next turn."
 ### Collapsible Spear
 - Range: 5m Thrown, Rate: 1, Value: ₮20
-- Roll + 2 + **\[Str\]** + **{Martial Arts}** - **\[Dex Resist\]**
+- Roll + 1 + **\[Str\]** + **{Martial Arts}** - **\[Dex Resist\]**
 	- "3+ dmg → target is pinned to a wall if feasible, and can't move until freed with a difficulty 10 **\[Str\]** check from themselves or someone else."

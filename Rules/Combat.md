@@ -12,9 +12,9 @@ Many actions will have a Rate, this is the maximum number of times you can do th
 ## Attacks
 To make an attack, first choose a method of attack. There are two methods of attack that are always available:
 - **Light Unarmed** 
-	- Range: 1m, Rate: 3, Roll + 1 + **\[Dex\]** + **{Martial Arts}** - **\[Str Resist\]**.
+	- Range: 1m, Rate: 3, Roll + **\[Dex\]** + **{Martial Arts}** - **\[Str Resist\]**.
 - **Heavy Unarmed
-	- Range: 1m, Rate: 3, Roll + 1 + **\[Str\]**  + **{Martial Arts}** - **\[Dex Resist\]**.
+	- Range: 1m, Rate: 3, Roll + **\[Str\]**  + **{Martial Arts}** - **\[Dex Resist\]**.
 But most attacks will be made using a [weapons](/Items/Weapons.md).
 
 Next choose a target within the range of the attack.
