@@ -1,12 +1,8 @@
-- Give all backgrounds contact bonuses
-- Seperate skills from background selection
-	- Add background requirements?
 - Fill in Missing Background Features
-- Make background/advancement rules clearer
 - Consider changing the game's name
-- Either standardize or remove **bolding** for emphasis
 - Consider a "player always rolls" system
 - Preset Expert Items
 - Spacecraft Stat Blocks
 - Xeno Stat Blocks
+- Either standardize or remove **bolding** for emphasis
 - Full Copy-Editing Pass

@@ -5,8 +5,8 @@ To gain cybernetic features, a character must spend one shift receiving the enha
 ---
 ### Bionic Arm
 1. "Gain a +1 bonus on lifting, climbing, and other relevant non-combat checks."
-2. "Gain a +1 bonus on grappling, unarmed attacks. You can carry up to 100kg."
-3. "Melee attacks made with the arm ignore action penalty."
+2. "You can switch held items without spending an action."
+3. "Gain a +1 bonus on grappling and unarmed attacks. You can carry up to 100kg."
 ### Artificial Eye
 1. "Gain thermal vision within 10m, allowing you to see heat sources even in darkness and when blinded."
 2. "You can magnify your view up to 100x, allowing you to see far away and tiny details."

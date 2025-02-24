@@ -1,22 +1,23 @@
 This is a step by step guide to building a character for the EXO-2040 TTRPG. You should have access to all relevant documents and a character sheet, ideally printed out.  This guide will use page numbers with arrows pointing to where on the character sheet a field is to make it easy to find. Write with a pencil or erasable pen, and make sure your writing is legible for yourself and others. Start by putting your name or initials on the sheet (p1, ↗).
 ### 0. Learn The Setting
-Before building a character, it's important you get a basic understanding of the setting and tone of the world. First read the game's [Read-me](../Readme.md), plus the overview of the starting location, by default [Paragon City](Paragon%20City.md). Then browse through other setting documents until you feel you are ready. 
-### 1. Pick Backgrounds
-Take a look through [Backgrounds](Backgrounds.md) and pick two that appeal to you. You will unlock their base benefits plus their first feature (numbered 1). This is the most important choice in character creating, and will inform all future decisions so think carefully. Also talk to other players and hear what characters they are making, to make sure yours fits into the party. Once you have chosen two different backgrounds, write them down on your sheet (p1, ↑), then copy over any benefits they give you in skills (p2, ↖), their first level feature (p2, ←), and starting items in your inventory (p1, ↓).
+Before building a character, it's important you get a basic understanding of the setting and tone of the world. First read the game's [Read-me](/Readme.md), plus the overview of the starting location, by default [Paragon City](Paragon%20City.md). Then browse through other setting documents until you feel you are ready. 
+### 1. Pick Disciplines
+Take a look through [Disciplines](Disciplines.md) and pick two that appeal to you. You will gain their abilities now, and be able to unlock the rest later on.
 
-Copy any contacts (p1, ←) you gained, with the number of dotcs in the top right, and their occupation in the bottom box. You may then choose to give them a name (top row), or leave it blank for now. In the second row, for location, you can choose to either put your starting location or leave it blank for the contact to be introduced at another location later in the story. When they are filled in they will need a lot of specification. For instance, if you are granted a criminal contact, you will need to choose whether they are a smuggler, thief, fence, or something else.
-
-Property you start with that you don't carry with you can be tracked in the possessions section (p2, ↙).
+This is the most important choice in character creating, and will inform all future decisions so think carefully. Also talk to other players and hear what characters they are making, to make sure yours fits into the party. Once you have chosen two different backgrounds, write them down on your sheet (p1, ↑), then copy over any benefits they give you in skills (p2, ↖), their first level feature (p2, ←), and starting items in your inventory (p1, ↓).
 ### 2. Determine Attributes and Skills
 Here you will determine the main mechanical strengths and weaknesses of your character. For this part its best to co-ordinate with other players to make sure you have a well-balanced party.
 
 Now, divide up 7 points between the four attributes in the game, with no value above 3.  Keep in mind that putting a 0 in any attribute will leave you with serious a weakness and vulnerability to certain attacks. Enter these attributes on your sheet (p2, ↑). 
+
 - **Strength**: Physical power and endurance, for melee combat and brute force tasks.
 - **Dexterity**: Agility, precision, and speed, for ranged combat, stealth, and finesse-based actions.
 - **Intellect**: Mental acuity, problem-solving, and technical skills, for problem-solving and knowledge.
 - **Presence**: Charisma, influence, and force of personality, for social interactions and tests of willpower.
 
-Then choose two skills, one from the **{{Soldier}}** category and one skill from any category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
+See [Skills & Attributes](/Player%20Resources/Skills%20&%20Attributes.md) for more details on what each skill and attribute represents.
+
+Then choose three skills, at least one of which should be from the **{{Soldier}}** category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
 
 | {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
@@ -26,8 +27,6 @@ Then choose two skills, one from the **{{Soldier}}** category and one skill from
 | {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
 | {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
 | {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Artillery}  | {Nature}     |
-
-See [Skills & Attributes](/Player%20Resources/Skills%20&%20Attributes.md) for more details on what each skill and attribute represents.
 ### 3. Write Descriptions
 There are two boxes on your character sheet for Personality and Appearance (p1, ↑). You can choose to write a more detailed description for either of these, but at a minimum you should have three adjectives/descriptions for each. If you have more to add there's space in the notes box (p1, ↙).
 
@@ -60,16 +59,36 @@ You can also add a middle initial to improve the sound of your full name.
 ### 5. Determine Money and Buy Starting Items
 Add your bank account under accounts (p1, ↘).
 - Holder: *The Planetary Reserve*
-- Unit: ₮ [(*TSI*)](../Setting/Currencies.md#TSI)
+- Unit: ₮ [(*TSI*)](/Setting/Currencies.md#TSI)
 - Value: Roll 3d6 x 10 (don't cheat)
 
-You may then buy up to two different Items from [Basic Items](../Items/Basic%20Items.md) page (and multiples if you like), and up to one weapon from the [Weapons](../Items/Weapons.md) page. Add these to the inventory section (p1, ↓), and also add the weapon to the items section (p2, |). For help with filling in the item boxes see the [Checks](../Rules/Checks.md#Weapons) section on weapons.
+You may then buy up to two different Items from [Basic Items](/Items/Basic%20Items.md) page (and multiples if you like), and up to one weapon from the [Weapons](/Items/Weapons.md) page. Add these to the inventory section (p1, ↓), and also add the weapon to the items section (p2, |). For help with filling in the item boxes see the [Checks](/Rules/Checks.md#Weapons) section on weapons.
 
 Once you are done buying starting items, add an additional ₮25 to your account, as starting money that cannot be spent before the game.
-### 6. Miscellaneous Tasks
+### 6. Add a Contact
+You will also start with one [Contact](/Rules/Mechanics.md#Contacts), essentially an NPC which trusts your character and is willing to offer them items or services. Each contact will have some occupation or some special service they can offer, below is list of ideas. It is important that you find an idea that could be useful in the story, but will not offer you to much of an advantage, so work with your GM.
+
+- Doctor
+- Enforcer
+- Hacker
+- Cyberneticist
+- Data Broker
+- Relic Hunter
+- Journalist
+- Shipwright
+- Dockmaster
+- HIF Officer
+- Smuggler
+- Retired Mercenary
+- Crime Syndicate Member
+- Fence
+- Corrupt Bureaucrat
+
+Write these contacts on your sheet (p1, ←), each with one dot (◆◇◇) of trust. Put their occupation in the bottom box. You may then choose to give them a name (top row), or leave it blank for now. In the second row, for location, you can choose to either put your starting location or leave it blank for the contact to be introduced at another location later in the story. 
+### 7. Miscellaneous Tasks
 Just a few more things to fill out:
 - Put 0 in both spent and total [XP](XP.md) (p1, →).
-- For each [Resistance](../Rules/Combat.md#Resistances) (p2, →), put 5 plus your value in the associated attribute, plus any [Armor](../Rules/Checks.md#Armor) bonuses.
-- Put a 0 in [Damage Taken](../Rules/Combat.md#Damage%20Taken) and [Luck Points](../Rules/Mechanics.md#Luck%20Points) (p2, ↘).
-### 7. Talk to Your GM
+- For each [Resistance](/Rules/Combat.md#Resistances) (p2, →), put 5 plus your value in the associated attribute, plus any [Armor](/Rules/Checks.md#Armor) bonuses.
+- Put a 0 in [Damage Taken](/Rules/Combat.md#Damage%20Taken) and [Luck Points](/Rules/Mechanics.md#Luck%20Points) (p2, ↘).
+### 8. Talk to Your GM
 Give your GM a chance to look over your sheet to make sure everything is filled out correctly. They might ask you questions about your character to help understand them, or suggest changes to make sure they fit the setting and are fun to play. Between sessions you should leave your sheet with your GM so they can use it to plan the story, but they won't change anything.

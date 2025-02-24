@@ -4,7 +4,7 @@ Exo-2040 is a rules-light, retro-futuristic tabletop role-playing game inspired 
 - An "atompunk" / "raypunk" retro-futuristic interplanetary setting.
 - A simple, flexible, 2d6 based [Dice System](/Rules/Checks.md), with four attributes and thirty-six unlinked skills.
 - Mechanical depth with a relatively shallow learning curve
-- A [Two-Background](Backgrounds.md) system, that offers character customization without overwhelming new players.
+- A [Two-Background](Disciplines.md) system, that offers character customization without overwhelming new players.
 - A comprehensive system for [Spacecrafts](Spacefaring/Mechanics.md), including [Combat](Spacefaring/Combat.md) and [Upgrades](Modules.md),
 - A highly extensible [XP System](XP.md) that allows GMs to incorporate their own ideas.
 - A well-organized, accessible [Setting](/Setting/) to serve as a jumping-off point for GMs.

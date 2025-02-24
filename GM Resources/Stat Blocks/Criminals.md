@@ -29,7 +29,7 @@
 - Dagger (x2)
 	- Range: 1m, (5m if thrown), Rate: 3, Roll + 3 - **\[Str Resist\]**
 - Portable Communicator
-- Contact: Several [Enforcers](../../..//GM%20Resources/Stat%20Blocks/Criminals.md#Enforcer) for hired protection within 5 moves away.
+- Contact: Several [Enforcers](/GM%20Resources/Stat%20Blocks/Criminals.md#Enforcer) for hired protection within 5 moves away.
 ### Enforcer
 - **\[Str\]** - 3, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 1
 - {Melee}, {Martial Arts}, {Intimidate}
@@ -74,6 +74,6 @@
 	- Range: 10m, Rate: 1, Roll + 6 - **\[Str Resist\]**
 	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply"
 - Hypnotoxin (x3)
-	- The target must make an immediate difficulty 10 **\[Str\]** check, on a failure they fall [Unconscious](../../Rules/Combat.md#Unconscious), on a success they are woozy next turn and get -1 on all checks.
+	- The target must make an immediate difficulty 10 **\[Str\]** check, on a failure they fall [Unconscious](/Rules/Combat.md#Unconscious), on a success they are woozy next turn and get -1 on all checks.
 - Lightweight Exosuit *(Expert)*
     - "+1 **\[Dex Resist\]**, +1 **\[Int Resist\]**."

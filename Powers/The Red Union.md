@@ -1,4 +1,4 @@
-During the [Martian Wars](../Setting/History.md#The%20Martian%20Wars), the Soviet Union, China, Korea, Vietnam, Iran, Pakistan, and various other countries joined in an alliance they called the Red Union. It was formed to secure their alliance with each other, and with the [Martians](./Mars.md), against the [Human Commonwealth](./The%20Human%20Commonwealth/Politics.md).
+During the [Martian Wars](/Setting/History.md#The%20Martian%20Wars), the Soviet Union, China, Korea, Vietnam, Iran, Pakistan, and various other countries joined in an alliance they called the Red Union. It was formed to secure their alliance with each other, and with the [Martians](./Mars.md), against the [Human Commonwealth](./The%20Human%20Commonwealth/Politics.md).
 
 They maintain a large space-force called the **Revolutionary Armada**, which maintains a large fleet of diverse ships. Their spacecraft traditionally have a conical or pyramidal shape, with engines at the back, and carry traditional artillery in addition to energy weapons. Their largest spacecraft is the Lastochka station, built on the framework of an enormous orbital cannon that was halted mid-construction by a treaty.
 
