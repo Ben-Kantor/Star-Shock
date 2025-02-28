@@ -1,6 +1,7 @@
+**THIS FILE IS DEPRECATED AND SHOULD NOT BE USED FOR CHARACTER CREATION**
 ### Half-Martian*
 _You have slightly reflective skin and are slightly shorter than the average human.
-1. "You can sense magnetic fields, allowing you to detect nearby large metallic objects or ships."
+1. 
 2. "You are immune to radiation and have +1 **\[Int Resist\]**."
 3. 
 ### Half-Venusian*
