@@ -16,7 +16,7 @@ When making a psionics check against a character, roll a Prs check against a dif
 2. "You can feel the emotions of any character you can sense."
 3. "By touching a character's skin, you can read their thoughts for 1 minute if you succeed on a psionics check against them, though learning their secrets may require additional checks."
 ### Telekinesis
-1. "You can slowly manipulate objects weighing up to 5kg."
+1. "You can slowly manipulate objects weighing up to 5kg with your mind, within 10m."
 2. "You can manipulate up to 20kg with a difficulty 10 psionics check or disarm a target by succeeding a contested check using your Prs against their Str."
 3. "You can lift up to 100kg and move it up to 10m per turn with a difficulty 12 psionics check. You can throw an object to make an attack: 2 + Prs - Dex Resistance."
 ### Manipulation

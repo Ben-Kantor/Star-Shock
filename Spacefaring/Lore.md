@@ -9,6 +9,7 @@ The first letter indicates what domain of the system the craft operates from.
 - J - Jovian
 - M - Martian
 - N - Neptunian
+- O - Outer (archaic term, means Belt)
 - P - Plutonian
 - R - Revolutionary / Red Union
 - S - Saturnian

@@ -23,10 +23,10 @@ You will get most of your skills from your [Backgrounds](https://github.com/Ben-
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
 | {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
 | {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
-| {Mechanics}      | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
+| {Mechanics}      | {Lore}        | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
 | {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
 | {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
-| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Artillery}  | {Nature}     |
+| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Artillery}      | {Nature}     |
 ### 3. Write Descriptions
 There are two boxes on your character sheet for Personality and Appearance (p1, ↑). You can choose to write a more detailed description for either of these, but at a minimum you should have three adjectives/descriptions for each. If you have more to add there's space in the notes box (p1, ↙).
 
@@ -68,7 +68,7 @@ Once you are done buying starting items, add an additional ₮25 to your account
 ### 6. Miscellaneous Tasks
 Just a few more things to fill out:
 - Put 0 in both spent and total [XP](XP.md) (p1, →).
-- For each [Resistance](/Rules/Combat.md#Resistances) (p2, →), put 5 plus your value in the associated attribute, plus any [Armor](/Rules/Checks.md#Armor) bonuses.
+- For each [Resistance](/Rules/Combat.md#Resistances) (p2, →), put 7 plus your value in the associated attribute, plus any [Armor](/Rules/Checks.md#Armor) bonuses.
 - Put a 0 in [Damage Taken](/Rules/Combat.md#Damage%20Taken) and [Luck Points](/Rules/Mechanics.md#Luck%20Points) (p2, ↘).
 ### 7. Talk to Your GM
 Give your GM a chance to look over your sheet to make sure everything is filled out correctly. They might ask you questions about your character to help understand them, or suggest changes to make sure they fit the setting and are fun to play. Between sessions you should leave your sheet with your GM so they can use it to plan the story, but they won't change anything.

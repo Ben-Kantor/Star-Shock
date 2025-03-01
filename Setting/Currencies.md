@@ -4,7 +4,7 @@ The main human currency is TSI (_Terran Square Inch_), pronounced "Tsai." Each u
 
 TSI are tracked and stored by the Human Commonwealth's Planetary Reserve. Many humans carry a tsi-card, an aluminum card used to make payments by touching it to another card or station. Tsi-cards are permanently linked to a specific account and display the value of the account on a small analog screen. They cannot be used unless they are near the implanted wrist chip of their owner.
 #### Trilium
-Trilium (helium-3) is the most widely accepted currency across the solar system. It is traded by the gram and is usually traded in small gas tanks, mostly with prices in powers of two, and never in fractions of a gram. One gram of it is represented by the symbol 🜁. It also serves as the primary fuel for fusion spacecrafts. 8 Grams of Trilium is approximately equal to one Tsi.
+Trilium (helium-3) is the most widely accepted currency across the solar system. It is traded by the gram and is usually traded in small gas tanks, mostly with prices in powers of two, and never in fractions of a gram. One gram of it is represented by the symbol 🜁. It also serves as the primary fuel for fusion spacecrafts. 1 Grams of Trilium is worth approximately fourty Tsi.
 #### Zenth
 The primary currency of the Meteor Belt is Zenth, coins minted from ten grams of tungsten. Zenth coins are about the size of a quarter or £1 piece and often have the insignia of a particular House stamped entirely through the coin. Costs in Zenth are often seemingly random numbers rather than round values.
 

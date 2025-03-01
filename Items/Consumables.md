@@ -1,4 +1,3 @@
-# Beneficial Consumables
 Anyone in a Coma cannot use beneficial consumables, as it is assumed that they receive healing supplies as needed. Only one beneficial consumable can be used per day, each further one taken causes 1d6 damage.
 ### Spray-on Skin
 Value: (₮15) 
@@ -19,7 +18,6 @@ Value: (₮60)
 *(Restricted)*
 Value: (₮90)
 - User makes a presence check and concentrate on a subject, you receive a vision/dream containing information or prediction about that topic, with quality, quantity, and relevance depending on the roll. Then after a minute they take damage equal to their roll and fall unconscious.
----
 # Harmful Consumables
 ### Simple Poison
 Value: (₮15)

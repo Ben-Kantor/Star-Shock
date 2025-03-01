@@ -12,18 +12,18 @@ _You have textured greenish patches on your skin and are slightly taller than th
 - Skill Category: **{{Explorer}}** (choose one)
 - **Solar Sustenance**: "Each shift spent exposed to warm sunlight heals one damage point and counts as a meal."
 - **Heat Resistance**: "You are immune to heat up to 100°C, and have +1 Resistance against heat-based damage."
-### Void-Born
+### Space-Born
 _You are unusually tall and have no eyebrows._
 - Skill: **{Spacecrafts}**
 - **Zero-G Adaptation**: "You don't suffer penalties in zero gravity or for wearing void-suits, and can push off and land skillfully."
 - **[Psionic](./Psionics.md) Ability**: (choose one)
     - **Telekinesis 1**: "You can slowly manipulate objects weighing up to 5kg."
     - **Precognition 1**: "As an action, you may learn roughly what a non-player character is going to do next turn unless circumstances change."
-### Augmented
+### Cybernetic
 _You have a cybernetic enhancement or replacement body part._
 - Contact: (◆◇◇) Cyberneticist Contact
 - Skill: **{Robotics}**
-- **Augmented Resistance**: "Once per combat, you can increase your resistance by the number of cybernetic features you have."
+- **Neural Port**: "You can interface with any device directly, with a +1 bonus."
 - **Cybernetic**: Choose a [Cybernetics](./Cybernetics) Feature
 ### Explorer
 _You are an expert at navigating and surviving in unknown or hostile environments._
@@ -36,17 +36,17 @@ _You are skilled in trade, negotiation, and market manipulation._
 - Skill: **{Negotiate}**
 - **Market Awareness**: "You always know where or how to find a seller for any given item."
 - **Profit Margin**: "Your bargaining always starts at 75% of normal price when buying or 125% when selling."
-### Healer
+### Doctor
 _You have medical training and expertise in treating injuries and ailments._
 - Skills: **{Chemistry}** and **{Medicate}**
 - **Efficient Treatment**: "Whenever you administer a consumable, you may reroll up to one die of any rolls caused by the consumable."
 - Starting item: **\[Medical Kit\]**
-### Cybercriminal
+### Hacker
 _You are a skilled hacker and manipulator of digital systems._
 - Contact: (◆◇◇) Cybercriminal Contact - OR - Intelligence Service Contact
 - Skill: **{Computators}**
-- **False Identity**: "You have one alternate identity, which you can register on your identification chip."
-### Helmsman
+- **False Identity**: "You have one alternate identity, which you can register as on your universal implant when you choose."
+### Pilot
 _You are an experienced pilot, skilled at maneuvering spacecraft in all conditions._
 - Skill: **{Spacecrafts}**
 - **Skillful Maneuvering**: "When piloting a spacecraft, you may make the same maneuver more than once, provided you roll well enough."
@@ -56,9 +56,9 @@ _You are a seasoned fighter-for-hire, familiar with both warzones and back-alley
 - Contact: (◆◇◇) Order-Keeper Contact - OR - Smuggler Contact
 - Category Skills: **{{Soldier}}** and **{{Explorer}}** (choose one from each)
 - **Tactical Awareness**: "Once per combat, you can reroll one or both dice on an attack with a ranged or melee weapon."
-### Guard
+### Enforcer
 _You are trained in security, enforcement, and combat._
-- Contact: (◆◇◇) High Enforcer Contact
+- Contact: (◆◇◇) Chief Enforcer Contact
 - Category Skills: **{{Soldier}}** and **{{Low-Life}}** (choose one from each)
 - **Armor Training**: Starting item: **Any Armor**
 - **Authority**: "You may legally carry up to one restricted item in the inner solar system, though you cannot trade them."
@@ -94,3 +94,7 @@ _You are highly intelligent and adept at analysis and technical skills._
 - Skills: One **{{Academic}}** and one **{{Engineering}}** Category Skill
 - **Recall Knowledge**: "Once per session, you can recall any piece of public information."
 - **Analytical Mind**: "Once per session, add your **\[Int\]** attribute to any check after rolling."
+### **Advisor**
+_You are a skilled negotiator, therapist, or advisor._
+- Category Skill: **{{Academic}}** (choose one)
+- **Guidance**: "Once per session, add your **\[Prs\]** attribute to any check made by another character you can communicate with, after they roll. This ability can't be used on checks made to attack or otherwise cause harm."

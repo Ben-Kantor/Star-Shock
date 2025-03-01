@@ -2,7 +2,7 @@
 - **\[Str\]** - 1, **\[Dex\]** - 1, **\[Int\]** - 1, **\[Prs\]** - 1
 - {Energy Weapons} + One other skill based on their specialization.
 - **\[Str Resist\]** - 8, **\[Dex Resist\]** - 8, **\[Int Resist\]** - 8, **\[Prs Resist\]** - 8
-- HIF Ray-Gunexpert)*
+- HIF Ray-Gun *(expert)*
 	- Range: 5m, Rate: 1, Roll + 4 - **\[Int Resist\]**
 	- "3+ dmg → choose one
 		- target is blinded next turn, giving a -1 penalty on some checks.
@@ -13,7 +13,7 @@
 - **\[Str\]** - 2, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 1
 - {Energy Weapons} + Two other skills based on their specialization.
 - **\[Str Resist\]** - 9, **\[Dex Resist\]** - 9, **\[Int Resist\]** - 8, **\[Prs Resist\]** - 8
-- HIF Ray-Gunert)*
+- HIF Ray-Gun *(expert)*
 	- Range: 5m, Rate: 1, Roll + 4 - **\[Int Resist\]**
 	- "3+ dmg → choose one
 		- target is blinded next turn, giving a -1 penalty on some checks.

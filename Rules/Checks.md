@@ -17,7 +17,7 @@ Skills are represented by **{Single Brackets}** and categories of skills by **{{
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
 | {Computators}    | {Physics}     | {Negotiate}   | {Subtlety}   | {Archery}        | {Medicate}   |
 | {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
-| {Mechanics}      | {History}     | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
+| {Mechanics}      | {Lore}        | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
 | {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
 | {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
 | {Spacecrafts}    | {Xenology}    | {Investigate} | {Recon}      | {Artillery}      | {Nature}     |

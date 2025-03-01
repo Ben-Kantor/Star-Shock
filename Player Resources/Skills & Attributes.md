@@ -54,7 +54,7 @@ Two skills or more are granted by your backgrounds, as well as one skill from th
 #### {{Academic}}
 - **{Physics}** - Understand and apply principles of motion, forces, and energy.
 - **{Chemistry}** - Work with chemical substances for analysis, synthesis, and practical applications.
-- **{History}** - Remember past events and historical figures, as well as the current state of human civilization.
+- **{Lore}** - Remember past events and historical figures, as well as the current state of human civilization.
 - **{Biology}** - Have knowledge of living organisms, ecosystems, and medical practices.
 - **{Planetology}** - Understand planetary environments, as well as space phenomena.
 - **{Xenology}** - Understand and interact with alien species, their biology, and cultures.
