@@ -5,3 +5,4 @@
 - Xeno Stat Blocks
 - Full Copy-Editing Pass
 - Form-Fillable PDF
+- NPC Health (re-double damage?)

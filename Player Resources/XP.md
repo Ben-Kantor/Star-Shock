@@ -12,7 +12,7 @@ Some highly powerful items require training to use, this training can be gained 
 Each set of leveled features will have three levels, each of which must be bought in order. Each level costs 5 XP and takes one shift to gain. It is possible to have higher level features without ones before them, but you must have all previous disciplines already in order to train a new one with XP.
 
 Tiered features are divided up into three categories, each of which represent one way in which a character can grow, and each of which have some of their own special rules which can be found on their respective pages.
-- [Disciplines](./Disciplines.md) - General abilities and expertises gained through training.
+- [Disciplines](Disciplines.md) - General abilities and expertises gained through training.
 - [Psionics](/Player%20Resources/Psionics.md) - Supernatural abilities through powerful mental focus.
 - [Cybernetics](/Player%20Resources/Cybernetics.md) - Technologic enhancements to the user's body.
 #### Emergency Luck
