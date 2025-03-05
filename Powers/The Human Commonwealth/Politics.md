@@ -13,6 +13,6 @@ In addition to governments, many private corporations have become multi-planetar
 - Planatia Armory - Simple weapons and armor
 - Lunar Enterprises - Medical supplies and repair kits
 - Interplanetary Business Machines (IBM) - Computators and communicators
-- Vulcan Arms – Heavy weapons and artillery
+- Vulcan Arms - Heavy weapons and artillery
 - Polaris Publishing - Newspapers and star-charts
 - Ceres Instruments - Computators and heavy weapons.

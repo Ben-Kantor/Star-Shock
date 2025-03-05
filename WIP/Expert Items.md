@@ -11,7 +11,6 @@ Plasma Sword
 Chrono-Gun that sends people into the future
 Quantum Computator
 Radium Gun
-
 # Armor
 ### Aluminum Polymer Cloak
 - "+1 **\[Dex Resist\]**, +1 **\[Str Resist\]**.

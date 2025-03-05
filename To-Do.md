@@ -1,8 +1,6 @@
-- Consider changing the game's name
-- Consider a "player always rolls" system
 - Preset Expert Items
 - Spacecraft Stat Blocks
 - Xeno Stat Blocks
 - Full Copy-Editing Pass
 - Form-Fillable PDF
-- NPC Health (re-double damage?)
+- NPC Health

@@ -10,10 +10,10 @@ If a player really wants, they can use unspent XP instead of Luck Points, howeve
 Contacts are NPCs that a player character has a connection to, providing support or access to specific resources. Players can note any NPC they meet as a contact, provided they ask their name and establish a way to contact them in the future.
 #### Trust Levels
 Contacts have four levels of trust, which increase as the PCs build rapport with them. These levels are visually represented by diamonds (◇◇◇), filled in as trust grows.
-- **◇◇◇** – **Acquaintance:** You know this person, and they’re open to small deals or basic interactions, but they won’t take risks for you.
-- **◆◇◇** – **Familiar Contact:** The contact has had positive experiences with you. They’re willing to take minor risks, share useful information, or engage in larger deals.
-- **◆◆◇** – **Trusted Ally:** A strong and reliable relationship has formed. The contact trusts you, takes significant risks, and may share sensitive resources or information.
-- **◆◆◆** – **Loyal Partner:** The bond is deep, built on loyalty or shared interests. The contact will prioritize your needs, take substantial risks, and provide critical aid when necessary.
+- **◇◇◇** - **Acquaintance:** You know this person, and they’re open to small deals or basic interactions, but they won’t take risks for you.
+- **◆◇◇** - **Familiar Contact:** The contact has had positive experiences with you. They’re willing to take minor risks, share useful information, or engage in larger deals.
+- **◆◆◇** - **Trusted Ally:** A strong and reliable relationship has formed. The contact trusts you, takes significant risks, and may share sensitive resources or information.
+- **◆◆◆** - **Loyal Partner:** The bond is deep, built on loyalty or shared interests. The contact will prioritize your needs, take substantial risks, and provide critical aid when necessary.
 #### Building and Losing Trust
 A contact’s trust level can increase at most once per session, provided the players make a significant, positive interaction or deal with the contact. Small, routine interactions won't improve trust if the contact already has a high level of trust.
 

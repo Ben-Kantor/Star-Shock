@@ -25,7 +25,7 @@ Next make the roll, and announce what resistance is subtracted. The the GM will 
 ## Other Actions
 Below is a list of basic actions that can be taken during a turn. This is not a complete list 
 - **Interact with Object** - You can usually only interact with the same object once per turn
-- **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 5m of ground, though in more difficult terrain it might be 2.5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
+- **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 5m of ground, or one move between [Zones](./Combat.md#Zones). In more difficult terrain it might be 2.5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
 - **Assist** - Offer help to a check someone else is about to make, granting them a +1 bonus if you have an attribute of three or higher or a skill relevant to the check.
 - **Emergency Medicate** - Make a **\[Dex\]** + **{Medicate}** with a difficulty of 10 to heal a willing target within 1m that is not in a coma. This roll is at disadvantage unless you have a [Medical Kit](/Items/Basic%20Items.md). If successful they remove one damage point. This can allow someone who is [Unconcious](./Combat.md#Unconcious) to make a medicate check towards waking up.
 - **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md). This is usually for making repairs to a ship or something similar, and will take several turns to complete.
@@ -80,5 +80,7 @@ While prone, characters have a -1 penalty on attacks and some physical checks, a
 Characters who are blinded get a -1 penalty on attacks and other checks that require sight. This condition will usually be inflicted by an item or ability, and last a specified duration.
 #### Others
 Some other abilities will inflict other status conditions, which will always be described and have an end condition specified.
+## Zones
+At the start of combat, the GM will describe the area in which combat is taking place, and describe how it is divided up into **Zones**. Each Zone is an area that is up to 5m in any dimension, but sometimes smaller. Movement within the same Zone is free, but moving between Zones costs one action. For the purpose of ranged weapons and such, each one zone of distance counts as 5m. If a character leaves a Zone in which there are hostile combatants, they must make a difficulty 10 **\[Dex\]** + **{Move}** check, if they fail one enemy combatant can take a free attack at them immediately with no action penalty.
 ## Map Combat
 For some complex encounters, the GM may decide to setup a map. The recommended way to do this is having a printed out or drawn map, and to use small markers. A virtual table-top can also be used, we recommend [Owlbear Rodeo](https://www.owlbear.rodeo/). While doing combat on a map, squares or hexes may be used, each of which represents 1m. One move action lets a character move by 10m. Moving diagonally on grids counts as only 1m. 
