@@ -2,6 +2,6 @@ During the [Martian Wars](/Setting/History.md#The%20Martian%20Wars), the Soviet 
 
 They maintain a large space-force called the **Revolutionary Armada**, which maintains a large fleet of diverse ships. Their spacecraft traditionally have a conical or pyramidal shape, with engines at the back, and carry traditional artillery in addition to energy weapons. Their largest spacecraft is the Lastochka station, built on the framework of an enormous orbital cannon that was halted mid-construction by a treaty.
 
-On Earth, the Union controls many large spaceports includeing the Hanoi and Baikonur Cosmodromes. But the majority of launches come from the city of Hai Cheng, built of underwater domes in the South China sea.
+On Earth, the Union controls many large spaceports including the Hanoi and Baikonur Cosmodromes. But the majority of launches come from the city of Hai Cheng, built of underwater domes in the South China sea.
 
 Their government functions on a system of grand councils, each governing a region or a specific goal of the Union. The current General Secretary, Kai Sato is a popular leader who supports some efforts to demilitarize, but tensions with the Commonwealth are still high.

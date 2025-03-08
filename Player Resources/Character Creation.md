@@ -17,7 +17,7 @@ Now, divide up 7 points between the four attributes in the game, with no value a
 
 See [Skills & Attributes](/Player%20Resources/Skills%20&%20Attributes.md) for more details on what each skill and attribute represents.
 
-You will get most of your skills from your [Backgrounds](https://github.com/Ben-Kantor/Star-Shock/blob/3b373c236c1026822b27c087b96905cbd1aafcc1/Player%20Resources/Backgrounds.md), which will sometimes grant fixed skills and sometimes let you choose from within a category. Each character will get also an additional skill from the **{{Soldier}}** category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
+You will get most of your skills from your [Backgrounds](./Backgrounds.md), which will sometimes grant fixed skills and sometimes let you choose from within a category. Each character will get also an additional skill from the **{{Soldier}}** category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
 
 | {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
 | ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |

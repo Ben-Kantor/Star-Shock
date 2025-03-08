@@ -25,7 +25,7 @@ To gain cybernetic features, a character must spend one shift receiving the enha
 
 ### Adaptive Skin
 1. "You can withstand high and low temperatures, pressure, and high radiation environments."
-2. "When you are dealt damage after Int resistance, you may remove half of it (round down) or reflect it to a character within 1m."
+2. "When you are dealt damage that is reduced by **\[Int Resist\]**, you may remove half of the final damage (round down) or reflect it to a character within 1m."
 3. "Take on the face and general appearance of any character you have seen for up to ten minutes. You must rest before using this ability again."
 
 ### Neural Interface

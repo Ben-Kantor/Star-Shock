@@ -6,8 +6,10 @@ Though uncommon due to their high price, robots are not uncommon. Most are built
 The most common ones are the Servidroids™, light teal robots with 6 legs and a central rolling ball, about 1.2m tall, with two stiff and two flexible arms, two shelves accessible from all sides as large as their torso, and a central core with various pipes running through. They have a disco-ball for a head that rotates slowly and they beep and whir when confused. There are also a variety of robots shaped like small tables with walking legs.
 ## Computators
 Computators are devices used to control large ships, stations, or for other purposes. They are controlled through a typewriter terminal, typed out onto a paper roll, and then typewriter automatically prints the output. Without special skill, they are extremely difficult to use. Small computators are just the size of briefcase, larger ones are the size of rooms. They can be given a prompt in plain text and answer using strict logic, and only information available to them. More advanced questions may require an **\[Int\]** + **{Computators}** Check
-## Communicator
+## Communicators
 Small communicators are flip-phone like devices which communicate like walkie-talkies that have a maximum range of 1km, but can be configured to go through various relays to communicate over long distances with an **\[Int\]** + **{Comms}** check. Ships and stations often have larger antennas, the range of an antenna scales linearly with its volume and power consumption. Larger communicators such as those on ships have a range of up to 10km.
+## Comm-Libraries
+A variety of comm libraries on the network offer the service of finding articles for a fee. The larges one is the Armstrong Library located on Earth, which will do a search of news articles, reports, and scholarly articles for a fee of ₮2 and send back a response within an hour.
 ## Photonic Cables
 Large bundled cables that transfer data. Data moves at about 10m/s so large computator systems try to be as compact as possible. The bundle of data can be seen as a glowing spot moving along the cable. Cables transferring lots of data might be glowing permanently.
 ## Artificial Gravity

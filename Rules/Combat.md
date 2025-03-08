@@ -53,7 +53,7 @@ Each attribute has an associated resistance, usually equal to the attribute (min
 | Presence  | Psychic, mental damage.               |
 Resistances are represented as **\[Abl Resist]** in the game source, with Abl replaced with the relevant ability.
 
-Resistances can also be increased by wearing [Armor](Checks.md#Armor) [(List)](/Items/Armors.md), or by some enhancements.
+Resistances can also be increased by wearing [Armor](Rules/Checks.md#Armor) [(List)](/Items/Armors.md), or by some enhancements.
 ## Taking Damage
 When damage is dealt to a character, it is added to their previous total damage, which starts at 0. This number can be tracked in the big Damage Taken box on the character sheet. Then if they have seven or more total damage they must make a **consciousness check**. To do so, they roll a **\[Str\]** check against the number of damage points they have taken.
 - If they succeed, nothing happens.
@@ -80,7 +80,11 @@ While prone, characters have a -1 penalty on attacks and some physical checks, a
 Characters who are blinded get a -1 penalty on attacks and other checks that require sight. This condition will usually be inflicted by an item or ability, and last a specified duration.
 #### Others
 Some other abilities will inflict other status conditions, which will always be described and have an end condition specified.
-## Zones
+## Zone Combat
 At the start of combat, the GM will describe the area in which combat is taking place, and describe how it is divided up into **Zones**. Each Zone is an area that is up to 5m in any dimension, but sometimes smaller. Movement within the same Zone is free, but moving between Zones costs one action. For the purpose of ranged weapons and such, each one zone of distance counts as 5m. If a character leaves a Zone in which there are hostile combatants, they must make a difficulty 10 **\[Dex\]** + **{Move}** check, if they fail one enemy combatant can take a free attack at them immediately with no action penalty.
-## Map Combat
-For some complex encounters, the GM may decide to setup a map. The recommended way to do this is having a printed out or drawn map, and to use small markers. A virtual table-top can also be used, we recommend [Owlbear Rodeo](https://www.owlbear.rodeo/). While doing combat on a map, squares or hexes may be used, each of which represents 1m. One move action lets a character move by 10m. Moving diagonally on grids counts as only 1m. 
+
+Each zone can have special properties or mechanics that make combat more interesting, here are some options:
+- Slippery - Each time a character in this zone takes damage they must make a difficulty 8 dexterity check or fall prone.
+- Elevated - Ranged attacks down from this zone have a +1 bonus.
+## Map Combat *(Variant)*
+For some complex encounters, the GM may decide to setup a map instead of zones. The recommended way to do this is having a printed out or drawn map, and to use small markers. A virtual table-top can also be used, we recommend [Owlbear Rodeo](https://www.owlbear.rodeo/). While doing combat on a map, squares or hexes may be used, each of which represents 1m. Characters have a pool of movement that starts at 5m, which they can use to move during their turn. By spending an action, they can gain an additional 5m of movement.

@@ -3,13 +3,13 @@ Value: ₮500
 Increases ship speed by 1 for every 1/5 of the module slots filled with this module. 
 ### Reburner
 Value: ₮400
-For every 1/5 of module slots filled with this module, the ship has a 1/6 chance to not consume fuel whenever it would normally do so.
+For every 1/5 of module slots filled with this module, the ship has a 1/3 chance to not consume fuel whenever it would normally do so.
 ### Jammer
 Value: ₮600
 Disrupts enemy communications and targeting systems within 100m.
 ### Torpedo Bay
 Value: ₮700
-Once per combat, can launch a torpedo at an enemy ship. Torpedoes can target specific ship areas and are fired with a difficulty 10 **\[Int\]** + **{Artillery}** check. Can be intercepted while in space (defenses at 7, destroyed with 10 damage). Explodes one turn after launch, dealing 2d6 + 15 damage minus both resistances to the target. Reloading requires torpedoes, purchased at ₮100 each {restricted}.  
+Once per combat, can launch a torpedo at an enemy ship. Torpedoes can target specific ship areas and are fired with a difficulty 10 **\[Int\]** + **{Artillery}** check. Can be intercepted while in space (defenses at 7, destroyed with 10 damage). Explodes one turn after launch, dealing 2d6 + 15 damage minus both resistances to the target. Reloading requires torpedoes, purchased at ₮100 each {restricted}. Torpedos move about 100m per second.
 ### Shuttle Bay (requires two slots)
 Value: ₮600
 Holds up to one small craft (e.g., shuttles, racing pods). Can also hold two escape pods.
