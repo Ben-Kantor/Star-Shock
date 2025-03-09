@@ -1,4 +1,6 @@
 - Preset Expert Items
+- Complete Combat Overhaul
+- Redo NPC Stat Blocks
 - Spacecraft Stat Blocks
 - Xeno Stat Blocks
 - Full Copy-Editing Pass

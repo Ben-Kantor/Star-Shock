@@ -3,27 +3,29 @@ When combat or another rushed encounter begins, have each character makes a **\[
 
 - Each round is considered to take ten seconds in-game.
 - The order around the table alternates between clockwise and counter-clockwise.
-- The GM can grant bonuses or penalties to initiative checks, depending on either side be hidden, distracted, or taking the other side by suprise.
-## Taking Actions
+- The GM can grant bonuses or penalties to initiative checks, depending on either side be hidden, distracted, or taking the other side by surprise.
+
+**During each round, each player may take up to two actions, only one of which can be an attack.**
+## Attacks
 At the start of their turn, players declare how many actions they are taking, **up to three**.
 Each action that involves a dice roll gets -1 for each action more than one that they are taking this turn. This is called the **Action Penalty**, and means if you take three actions in a turn, each one gets -2 on the roll. Actions that do not require a roll can ignore this.
 
 Many actions will have a Rate, this is the maximum number of times you can do them per turn. You can take as many actions with a rate of 1 as you want per turn, as long as each is different.
 ## Attacks
-To make an attack, first choose a method of attack. There are two methods of attack that are always available:
-- **Light Unarmed** 
-	- Range: 1m, Rate: 3, Roll + **\[Dex\]** + **{Martial Arts}** - **\[Str Resist\]**.
-- **Heavy Unarmed
-	- Range: 1m, Rate: 3, Roll + **\[Str\]**  + **{Martial Arts}** - **\[Dex Resist\]**.
-But most attacks will be made using a [weapons](/Items/Weapons.md).
+Below are the basic steps to make an attack:
+1. Choose and declare method of attack, usually a [weapon](/Items/Weapons.md).
+2. Choose and declare a target for your attack.
+3. Roll 2d6, add your attribute, skill (if any) and bonuses and penalties (if any).
+4. Tell the GM, along with whether armor or resistance is used by the weapon.
+5. The GM will compare your total roll to the target's armor or resistance.
+6. The GM will tell you how many maneuvers you get, one for each two points you exceed the armor value by.
+7. The GM may narrate the hit, and will tell you whether you have knocked the target out.
+8. For each maneuver you earned, you may choose and execute it. You may not take the same maneuver more than once in the same attack.
+9. Determine the amount of damage, and tell the GM.
 
-Next choose a target within the range of the attack.
-- It is possible to choose targets farther away, but each multiple of range the target is away, the roll gets a -1 penalty.
-
-Next make the roll, and announce what resistance is subtracted. The the GM will tell you how much damage was dealt. Sometimes weapons will have an ability that triggers if 3 or more damage is dealt, which would activate now.
-
+- **Range** - "Melee" weapons can only be used to attack within the same zone, "Ranged" weapons can be used to attack farther away, with a -1 penalty for each zone/5m away the target is.
 ## Other Actions
-Below is a list of basic actions that can be taken during a turn. This is not a complete list 
+Below is a list of basic actions that can be taken during a turn. This is not a complete list
 - **Interact with Object** - You can usually only interact with the same object once per turn
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 5m of ground, or one move between [Zones](./Combat.md#Zones). In more difficult terrain it might be 2.5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
 - **Assist** - Offer help to a check someone else is about to make, granting them a +1 bonus if you have an attribute of three or higher or a skill relevant to the check.
@@ -31,31 +33,23 @@ Below is a list of basic actions that can be taken during a turn. This is not a 
 - **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md). This is usually for making repairs to a ship or something similar, and will take several turns to complete.
 - **Block, Dodge, Concentrate, Meditate** - Gain a +1 bonus to one of your resistances until your next turn.
 - **Use a Consumable** - Use up a [Consumable Item](/Items/Consumables), and apply it's effects to yourself or a willing target within 1m.
-- **Stand up from Prone**
+- **Stand up from [Prone](./Combat.md#Prone)**.
 ## Free Actions
 Free actions are things a character can do during initiative without spending an action, and that can happen during other people's turns. You generally can't take the same Free Action multiple times during a turn cycle, unless you spend an action.
 - **Free Move** - Move up to 5m, this can be split up between actions.
-- **Drop Prone** - Drop to the ground in the prone position, or stand up from it.
+- **Drop [Prone](./Combat.md#Prone)** - Drop to the ground in the prone position, or stand up from it.
 - **Change Items** - Put up to one item they are holding away, and then draw up to one item from their inventory.
 - **Communicate** - Say something short to another character.
-## Holding Actions
-If a character wants to take an action outside of their turn, they can choose to hold an action. This happens after they declare how many actions they are taking, and after they are done with any other actions they want to take. They can use this one action whenever they like during the turn cycle, and it has the same action penalty as the other actions they took during their turn. If initiative comes all the way back to them, they get to take that one action before starting their turn.
+## Armor & Resistance
+The two values of Armor and Resistance control how well you are able to resist or evade attacks.
+- **Armor** represents your ability to dodge or block incoming physical attacks.
+	- Base Armor = 7 + **\[Str\]** or **\[Dex\]**  *(whichever is higher)*
+- **Resistance** represents your ability to cleverly avoid or overcome energy attacks and psionics.
+	- Base Resistance = 7 + **\[Int\]** or **\[Prs\]**  *(whichever is higher)*
 
-Alternatively, two players may switch seats to change the initiative position of their characters.
-## Resistances
-Each attribute has an associated resistance, usually equal to the attribute (min 0) + 7. Many sources of damage are reduced by a specified resistance (to a minimum of 0). Where a resistance is not specified, none applies.
-
-| Ability   | Damage                                |
-| --------- | ------------------------------------- |
-| Strength  | Light, quick attacks; ranged attacks. |
-| Dexterity | Heavy, slow attacks; falling objects. |
-| Intellect | Energy weapons, fire, lightning.      |
-| Presence  | Psychic, mental damage.               |
-Resistances are represented as **\[Abl Resist]** in the game source, with Abl replaced with the relevant ability.
-
-Resistances can also be increased by wearing [Armor](Rules/Checks.md#Armor) [(List)](/Items/Armors.md), or by some enhancements.
-## Taking Damage
-When damage is dealt to a character, it is added to their previous total damage, which starts at 0. This number can be tracked in the big Damage Taken box on the character sheet. Then if they have seven or more total damage they must make a **consciousness check**. To do so, they roll a **\[Str\]** check against the number of damage points they have taken.
+In order for an incoming attack to hit, the roll must be at least equal to your relevant value.
+## Taking Damage: Consciousness Checks
+When damage is dealt to a character, it is added to their previous total damage, which starts at 0. This number can be tracked in the big "Damage Taken" box on the character sheet. Then if they have seven or more total damage they must make a **consciousness check**. To do so, they roll a **\[Str\]** check against the number of damage points they have taken.
 - If they succeed, nothing happens.
 - If they fail, they fall unconscious.
 - If they fail by 7 or more, they fall into a coma.
@@ -75,7 +69,7 @@ Characters in a coma are unable to communicate and do not make consciousness che
 
 While in a coma, the same consumable item can't be used more than once on them, and standard heal checks do nothing. They will need advanced healing from a medical center, followed by electroshock therapy to wake them.
 #### Prone
-While prone, characters have a -1 penalty on attacks and some physical checks, and attacks against them have a +1 bonus. Moving the same distance that would normally take one move action instead requires two move actions. They can stand up from prone as an action.
+While prone, characters have a -1 penalty on attacks and some physical checks, and attacks against them have a +1 bonus. They can stand up from prone as an action.
 #### Blinded
 Characters who are blinded get a -1 penalty on attacks and other checks that require sight. This condition will usually be inflicted by an item or ability, and last a specified duration.
 #### Others

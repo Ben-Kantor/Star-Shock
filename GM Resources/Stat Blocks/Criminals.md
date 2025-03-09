@@ -51,7 +51,7 @@
 	- Allows user to tap into photonic cables without detection and access to transmitted information with an **\[Int\]** + **{Computators}** check.
 - EMP Charge
 	- "Emits a localized electromagnetic pulse on impact, disabling electronics within 1m for one turn. Destroyed on use."
-- Aluminum Polymer Cloak *(Expert)*
+- Poly-luminum Cloak *(Expert)*
     - "+1 **\[Dex Resist\]**, +1 **\[Str Resist\]**."
 ### Gang Leader
 - **\[Str\]** - 2, **\[Dex\]** - 2, **\[Int\]** - 1, **\[Prs\]** - 2

@@ -1,23 +1,17 @@
 Each character can hold up to 10 items, with multiples of small items counting as one. Some items can be used an unlimited number of times, but others are consumables. All consumables are single-use, characters can only intake at most one consumable per day, resetting every 24 hours or on a rest. Some items such as armor, weapons, or advances items will need to be added to the Items boxes on the character sheet, to indicate they are currently equipped. This includes items which don't have a range, modifier, resistance, or rate.
 
 ---
-### Portable Computator 
-Value: (₮80)
+### Portable Computator (₮80)
 A brief-case sized typewriter based [Computator](Technology.md#Computators) terminal which can solve advanced math and physics problems. Can only answer five prompts per 24 hours, to prevent overheating.
-### Magnetic Boots 
-Value: (₮30)
+### Magnetic Boots (₮30)
 Custom tailored boots with toggleable magnets that allow a user to walk along metal panels. May allow the use of **\[Str\]** instead of **\[Dex\]** to navigate such environments.
-### Omni-Linguistic Decoder 
-Value: (₮30)
+### Omni-Linguistic Decoder (₮30)
 A hand-held device that translates any known language into the user’s native tongue. May require an **\[Int\]** + **{Comms}** check to decipher exotic languages or idoms/slang.
-### Atomic Lantern 
-Value: (₮15)
+### Atomic Lantern (₮15)
 Bright lamp with a blue glowing cylinder of enriched radium. Can be focused to blind someone within 10m for a turn unless they make a difficulty 10 **\[Prs\]** check.
-### Spider-Silk Rope 
-Value: (₮5)
+### Poly-luminum Rope (₮5)
 Fifteen meters of rope, can hold up to one ton in earth gravity.
-### Communicator 
-Value: (₮15)
+### Communicator (₮15)
 A flip-phone like device which communicate like walkey-talkeys with a maximum range of 1km.
 ### Universal Toolkit 
 Value: (₮30)

@@ -2,8 +2,8 @@
 At the start of each session, each player gains 1d6 luck points, up to a maximum of 7. Players can then donate luck points to other who have fewer than them, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
 
 There are two ways to spend Luck Points:
-- One luck point can be spent to reroll any d6 as part 
-- Before making an action, a player may spend a luck point to ignore one point of action penalty, this is most useful when a character needs to take more actions then planned.
+- To reroll any d6 as part of a 2d6 check. *(This may be done any number of times)*
+- To take an additional action during a turn. *(Do this no more than once per turn)*
 
 If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent advantage for being the protagonists of the story, as no NPCs have luck points.
 ## Contacts

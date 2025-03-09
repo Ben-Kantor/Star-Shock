@@ -1,55 +1,72 @@
-Each weapon has several different values that determine its unique properties. Weapons that shoot energy or a projectile are called **Ranged** and those that don't are **Melee**.
-##### Range
-- How many meters away the weapon can reach.
-- If the weapon is ranged, it may be used at twice the range with a -1 penalty, triple the range with a -2 penalty, ...
-- Some weapons can be thrown with a -1 penalty at a range of 5m.
-##### Rate
-- How many times the weapon can be used per turn. Each use still requires an action.
-##### Modifier
-- What attribute and skill are used to make the attack, and possibly a constant bonus or penalty.
-- Total this up when you add a weapon to your character sheet and write down the final number.
-##### Resistance
-- When Resistance score is used to reduce the damage for the defender.
-- On your character sheet put this down as Strength, Dexterity, Intellect, or Presence
-##### Special Ability
-- Any special mechanics or abilities of the weapon. Write this down in the big empty box in the item panel on your character sheet.
-- If special abilities can be activated after an amount of damage, only one can be chosen at a time.
----
-### Longbow
-- Range: 10m, Rate: 1, Value: ₮40
-- Roll + 1 + **\[Dex\]** + **{Archery}** - **\[Dex Resist\]**
-	- "A -1 penalty if you or the target just moved."
-### Crossbow
-- Range: 5m, Rate: 1, Value: ₮30
-- Roll + 2 + **\[Str\]** + **{Archery}** - **\[Dex Resist\]**
-	- "Must take an action to reload between shots."
-### Dagger
-- Range: 1m, (5m if thrown), Rate: 3, Value: ₮10
-- Roll + **\[Dex\]** + **{Melee}** - **\[Str Resist\]**
-	- "Can be hidden on person without a check."
-	- "If a harmful consumable is applied immediately before use."
-### Venusian Machete
-- Range: 1m, Rate: 2, Value: ₮30
-- Roll + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
-	- "3+ dmg → make an extra attack immediately, ignoring action penalty, up to once per turn."
-### Electric Baton
-- Range: 1m, Rate: 2, Value ₮30
-- Roll + 1 + **\[Str\]** + **{Melee}** - **\[Str Resist\]**
-	- "3+ dmg → deals 1 additional energy damage."
-### Needle Gun
-- Range: 10m, Rate: 1, Value ₮50
-- Roll + 2 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
-	- "3+ dmg → injects an applied poison or medicine, action needed to re-apply."
-	- "Must take an action to reload between shots."
-### Titanium Revolver
-- Range: 10m, Rate: 2, Value: ₮40
-- Roll + 1 + **\[Dex\]** + **{Firearms}** - **\[Str Resist\]**
-	- "Ignores action penalty."
-### Tungsten Staff
-- Range: 2m, Rate: 2, Value: ₮40
-- Roll + 1 + **\[Str\]** or **\[Dex\]** + **{Martial Arts}** - **\[Dex Resist\]**
-	- "3+ dmg → target can't use psionics on their next turn."
-### Collapsible Spear
-- Range: 5m Thrown, Rate: 1, Value: ₮20
-- Roll + 1 + **\[Str\]** + **{Martial Arts}** - **\[Dex Resist\]**
-	- "3+ dmg → target is pinned to a wall if feasible, and can't move until freed with a difficulty 10 **\[Str\]** check from themselves or someone else."
+### Plasticate Longbow (₮60)
+- (2x) Ranged, Damage: 4
+- Roll + **[Dex]** ≥ **[Armor]**
+- **Special:** Only takes -1 range penalty for each two zones or 10m away the target is.
+- **Maneuver:** (Deal 1 additional damage)
+### Aluminum Crossbow (₮45)
+- Ranged, Damage: 5
+- Roll + **[Str]** ≥ **[Armor]**
+- **Special:** "Require an action to reload after each shot."
+- **Maneuver:** (Reload automatically)
+### Dagger (₮30)
+- Melee *- or -* Ranged (thrown), Damage: 5
+- Roll + **[Dex]** ≥ **[Armor]**
+- **Maneuver:** (Deal 1 damage to another character in the same zone)
+### Venusian Machete (₮30)
+- Melee, Damage: 5
+- Roll + **[Str]** ≥ **[Armor]**
+- **Maneuver:** (You can make another attack as an action this turn)
+### Needle Gun (₮60)
+- Ranged, Damage: 3
+- Roll + **[Dex]** ≥ **[Armor]**
+- **Special:** "May be loaded with a substance to inject as an action, consumed each attack."
+- **Maneuver:** (Injects an applied poison or medicine)
+### Tungsten Staff (₮45)
+- Melee, Damage: 1d6
+- Roll + **[Str]** *- or -* **[Dex]** ≥ **[Armor]**
+- **Special:** "Can use **[Str]** or **[Dex]**."
+- **Maneuver:** (Re-roll the damage die, taking the new value if it's higher)
+### Collapsible Spear (₮30)
+- Ranged (thrown), Damage: 4
+- Roll + **[Str]** ≥ **[Armor]**
+- **Maneuver:** (Target is knocked prone and needs a difficulty 10 **[Str]** check from themselves or another to stand up)
+### Shock Shield (₮15)
+- Type: Melee, Damage: 3
+- **Attack:** Roll + **[Str]** ≥ **[Armor]**
+- **Special:** "+1 Armor while carrying."
+- **Maneuver:** (Target is knocked back a zone, or prone if against wall)
+### Electric Baton (₮30)
+- Melee, Damage: 4
+- Roll + **[Str]** ≥ **[Resistance]**
+- **Maneuver:** (Deal 1 additional damage)
+### Grav Hammer (₮90)
+- Melee, Damage: 4
+- Roll + **[Str]** ≥ **[Resistance]**
+- **Maneuver:** (Target is knocked back a zone, or prone if against wall)
+### Electron Revolver (₮45)
+- Ranged, Damage: 3
+- Roll + **[Dex]** ≥ **[Resistance]**
+- **Maneuver:** (You may make another free attack this turn, it and all future attacks suffer a -1 penalty.)
+### Disposable Ray-Gun (₮15)
+- Ranged, Damage: 4
+- Roll + **[Int]** ≥ **[Resistance]**
+- **Special:** "Can only fire three shots, after which it requires repairs."
+### Tesla Pistol (₮60)
+- Ranged, Damage: 3
+- Roll + **[Int]** ≥ **[Resistance]**
+- **Maneuver:** (Deals 1d6 damage to another character within the same zone)
+### Ray-Gun (₮120)
+- Ranged, Damage: 4
+- Roll + **[Int]** ≥ **[Resistance]**
+- **Maneuver:** (Target is blinded next turn, giving a -1 penalty on attacks and relevant checks.)
+### Beam Rifle (₮180)
+- (2x) Ranged, Damage: 4
+- Roll + **[Int]** ≥ **[Resistance]**
+- **Special:** "Only takes -1 range penalty for each two zones or 10m away the target is."
+- **Special:** "-1 Penalty against targets in the same Zone as you, or within 5m."
+- **Maneuver:** (Target is blinded next turn, giving a -1 penalty on attacks and relevant checks.)
+### Disintegration Pistol (₮300)
+- Ranged, Damage: 4
+- Roll + **[Int]** ≥ **[Resistance]**
+- **(2x) Maneuver:** (Disintegrate an item the target is holding/wearing)
+- **(3x) Maneuver:** (Disintegrate one of the target's limbs)

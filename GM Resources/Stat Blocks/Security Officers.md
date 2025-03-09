@@ -16,7 +16,7 @@
 - Ray-Gun
 	- Range: 5m, Rate: 2, Roll + 4 - **\[Int Resist\]**
 	- "3+ dmg → target is blinded next turn, giving a -1 penalty on relevant checks."
-- Aluminum Polymer
+- Poly-luminum
 	- "+1 Dex, +1 **\[Int Resist\]**"
 	- "Self-Destructs into sludge if its wearer is knocked unconscious."
 - Communicator, ID Card, Encrypted Micro-Computator
