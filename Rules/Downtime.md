@@ -3,7 +3,7 @@ In non-urgent situations, the game progresses in 4-hour intervals called **Shift
 #### Resting
 Characters can rest requiring one ration per character. A successful rest reduces the character’s damage to half (round down).
 #### Performing a Medicate Check
-A character trained in medicine can make an **\[Dex\]** + **{Medicate}** check of difficulty 10. On success, one character can heal down to 1/3 damage after their next rest. Characters have a -1 penalty when attempting to heal themselves. The one being healed must spend their shift resting or engaging in a stationary activity. While in a population center, this service can be purchased for ₮5.
+A character trained in medicine can make an **\[Dex\]** + **{Medicate}** check of difficulty 10, if they have necessary supplies. On success, one character currently resting can heal down to 1/3 damage instead of 1/2 (round down as usual). 
 #### Crafting
 Players can craft items, gadgets, or weapons if they have the necessary materials and skills.
 #### Ship Modification
@@ -11,11 +11,11 @@ Characters with technical expertise can perform modifications or repairs on the 
 #### Spending XP
 Characters can allocate experience points to improve skills, abilities, or attributes.
 #### Research or Study
-If the players gain access to books, schematics, or data they need, they may need to spend several shifts studying it. This can sometimes require repeated checks until achieving a set number of successes.
+Study a text or other resource, either a small one or some part of a large one. Or make a request to a [Comm-Library](/Setting/Technology.md#Comm-Libraries) and study the results.
 #### Keeping Watch
-While characters are resting, it is usually prudent for at least one character to keep watch. This involves making a **\[Prs\]** + **{Recon}** check.
+Make **\[Prs\]** + **{Recon}** / **{Comms}** check to keep watch for stealthy or cloaked activity.
 #### Earning Money
-Characters can find temporary work. A skill check determines how much they earn during the Shift.
+Characters can find temporary work. A skill check determines how much they earn during the Shift (Tsi equal to their roll).
 #### Trade
 Buying and selling goods in the marketplace. No more than one significant transaction is allowed per Shift.
 #### Carousing

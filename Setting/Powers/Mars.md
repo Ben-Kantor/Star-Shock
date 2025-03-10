@@ -1,5 +1,5 @@
 ## Martians
-Martians look mostly like humans, but have silverish skin, are slightly shorter at 1-1.5 m. The entirety of Mars has a unified government called the Martian Union, which is an associate member of the [Red Union](./The%20Red%20Union.md).
+Martians look mostly like humans, but have silverish skin, are slightly shorter at 1-1.5 m. The entirety of Mars has a unified government called the Martian Union, which is an associate member of the [Red Union](The%20Red%20Union.md).
 ## Planetology
 The surface of Mars is mostly a windswept desert, but red-colored plants grow from cracks in the ground. Ancient Martians built enormous channels on their planet, which bring water from the polar caps to the equator where large craters safe from dust storms can be found. This is where the Martian capital city of Utopia Planitia City, a sprawling megalopolis in a crater with a population of 100 million, and the only city in which Humans are allowed without approval, can be found.
 
