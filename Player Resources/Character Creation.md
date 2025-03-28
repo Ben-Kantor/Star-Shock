@@ -17,16 +17,16 @@ Now, divide up 7 points between the four attributes in the game, with no value a
 
 See [Skills & Attributes](/Player%20Resources/Skills%20&%20Attributes.md) for more details on what each skill and attribute represents.
 
-You will get most of your skills from your [Backgrounds](./Backgrounds.md), which will sometimes grant fixed skills and sometimes let you choose from within a category. Each character will get also an additional skill from the **{{Soldier}}** category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
+You will get most of your skills from your [Backgrounds](./Backgrounds.md), which will sometimes grant fixed skills and sometimes let you choose from within a category. Think about skills that will contribute to the persona of a character you are working on. Enter these on your sheet (p2, ←).
 
-| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
-| ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
-| {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Archery}        | {Medicate}   |
-| {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
-| {Mechanics}      | {Lore}        | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
-| {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
-| {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
-| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | {Artillery}      | {Nature}     |
+| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Explorer}} |
+| ---------------- | ------------- | ------------- | ------------ | ------------ |
+| {Computators}    | {Physics}     | {Investigate} | {Subtlety}   | {Medicate}   |
+| {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Move}       |
+| {Mechanics}      | {Lore}        | {Insight}     | {Stealth}    | {Survival}   |
+| {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Navigate}   |
+| {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Track}      |
+| {Spacecrafts}    | {Xenology}    | {Negotiate}   | {Recon}      | Nature}      |
 ### 3. Write Descriptions
 There are two boxes on your character sheet for Personality and Appearance (p1, ↑). You can choose to write a more detailed description for either of these, but at a minimum you should have three adjectives/descriptions for each. If you have more to add there's space in the notes box (p1, ↙).
 

@@ -13,14 +13,14 @@ Whenever they make a check that relates to one of their skills, they can add +1 
 
 Skills are represented by **{Single Brackets}** and categories of skills by **{{Double Brackets}}**, here and elsewhere in the game source.
 
-| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Soldier}}      | {{Explorer}} |
-| ---------------- | ------------- | ------------- | ------------ | ---------------- | ------------ |
-| {Computators}    | {Physics}     | {Negotiate}   | {Subtlety}   | {Archery}        | {Medicate}   |
-| {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Melee}          | {Move}       |
-| {Mechanics}      | {Lore}        | {Insight}     | {Stealth}    | {Firearms}       | {Survival}   |
-| {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Energy Weapons} | {Navigate}   |
-| {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Martial Arts}   | {Track}      |
-| {Spacecrafts}    | {Xenology}    | {Investigate} | {Recon}      | {Artillery}      | {Nature}     |
+| {{Engineering}}  | {{Academic}}  | {{High-Life}} | {{Low-Life}} | {{Explorer}} |
+| ---------------- | ------------- | ------------- | ------------ | ------------ |
+| {Computators}    | {Physics}     | {Negotiate}   | {Subtlety}   | {Medicate}   |
+| {Robotics}       | {Chemistry}   | {Persuade}    | {Deceive}    | {Move}       |
+| {Mechanics}      | {Lore}        | {Insight}     | {Stealth}    | {Survival}   |
+| {Energy Systems} | {Biology}     | {Authority}   | {Streetwise} | {Navigate}   |
+| {Comms}          | {Planetology} | {Charm}       | {Intimidate} | {Track}      |
+| {Spacecrafts}    | {Xenology}    | {Investigate} | {Recon}      | {Nature}     |
 ## Checks
 To make a check, follow these steps:
 1. Roll 2d6.

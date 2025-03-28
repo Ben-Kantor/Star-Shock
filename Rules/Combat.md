@@ -29,10 +29,10 @@ Below is a list of basic actions that can be taken during a turn. This is not a 
 - **Interact with Object** - You can usually only interact with the same object once per turn
 - **Move** - Move somewhere, this can just mean running, or climbing, swimming, etc. One move action covers about 5m of ground, or one move between [Zones](./Combat.md#Zones). In more difficult terrain it might be 2.5m or less. If the movement requires difficult climbing or other skills, a **{Move}** check may be required.
 - **Assist** - Offer help to a check someone else is about to make, granting them a +1 bonus if you have an attribute of three or higher or a skill relevant to the check.
-- **Emergency Medicate** - Make a **\[Dex\]** + **{Medicate}** with a difficulty of 10 to heal a willing target within 1m that is not in a coma. This roll is at disadvantage unless you have a [Medical Kit](/Items/Basic%20Items.md). If successful they remove one damage point. This can allow someone who is [Unconcious](./Combat.md#Unconcious) to make a medicate check towards waking up.
-- **Skill Challenges** - Working on a [Skill Challenge](/Rules/Checks.md#Multi-Turn%20Checks.md). This is usually for making repairs to a ship or something similar, and will take several turns to complete.
-- **Block, Dodge, Concentrate, Meditate** - Gain a +1 bonus to one of your resistances until your next turn.
-- **Use a Consumable** - Use up a [Consumable Item](/Items/Consumables), and apply it's effects to yourself or a willing target within 1m.
+- **Emergency Medicate** - Make a **\[Dex\]** + **{Medicate}** with a difficulty of 10 to heal a willing target within 1m that is not in a coma, with a [Medical Kit](/Items/Basic%20Items.md). If successful they remove one damage point. This can't be done more than once per rest.
+- **Block, Deflect** - Gain a +1 bonus to either Armor or Resistance until your next turn.
+- **Use a Consumable** - Use up a [Consumable Item](/Items/Consumables), and apply it's effects to a willing character.
+- **Aim** - Gain +1 on your next attack roll this turn.
 - **Stand up from [Prone](./Combat.md#Prone)**.
 ## Free Actions
 Free actions are things a character can do during initiative without spending an action, and that can happen during other people's turns. You generally can't take the same Free Action multiple times during a turn cycle, unless you spend an action.
@@ -60,7 +60,7 @@ Consult below to see how much damage is taken from falling a certain distance. T
 - Large asteroids and moons - 1d6 per 10m fallen
 ## Status Conditions
 #### Unconscious
- While a character is unconscious, if the amount of damage they have decreases, they may re-roll their consciousness check and wake up on a success. If the amount of damage increases, they must re-roll their consciousness check to see if they fall into a coma, but they don't wake up on a success. Without interference, unconscious characters will wake up after 1 hour. They can also be woken up with a successful Difficulty 10 **\[Dex\]** + **{Medicate}** check.
+ While a character is unconscious, if the amount of damage they have decreases, they may re-roll their consciousness check and wake up on a success. If the amount of damage increases, they must re-roll their consciousness check to see if they fall into a coma, but they don't wake up on a success. If aided, unconscious characters can repeat this check every minute. They can also be woken up with a successful difficulty 10 **\[Dex\]** + **{Medicate}** check.
 #### Comatose
 Characters in a coma are unable to communicate and do not make consciousness checks as normal. Instead, every 24 hours, they make a coma check (a **\[Str\]** against total damage):
 - If they succeed, they wake up.

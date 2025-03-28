@@ -28,3 +28,4 @@ A the top of the tower is a thin spire called the Lunar Aerie, which is the comm
 - **The Scarab's Nest** - A communal living space built from stacked cargo containers on a lower floor.
 - **Lunar Enterprises** - The factory, and offices of the corporation Lunar Enterprises are built on an entire upper floor, along with the Lunar Mall, a luxury mall which sells their goods as well as others.
 - **Stack-Malls** - Small retail centers built on lower floors, named as such because they are built in small scraps of space between floors. The two largest are The Crater and Trenteloth's.
+- **Trelaba Hospital** - A large-scale hospital on the middle floors.

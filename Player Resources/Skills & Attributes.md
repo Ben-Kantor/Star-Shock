@@ -72,13 +72,6 @@ Two or more skills are granted by your backgrounds, as well as one skill from th
 - **{Streetwise}** - Be in tune with an urban environment, find contacts and pick up rumors.
 - **{Intimidate}** - Use fear or threats to manipulate others.
 - **{Recon}** - Scout and gather information, keep watch, get a close view of something.
-#### {{Soldier}}
-- **{Archery}** - Use bows and similar projectile weapons.
-- **{Melee}** - Use swords, knives, batons, and other melee weapons.
-- **{Firearms}** - Use conventional ranged weapons like pistols and rifles.
-- **{Energy Weapons}** - Use advanced weaponry like laser guns or disintegrators.
-- **{Martial Arts}** - Engage in unarmed combat with precision and training.
-- **{Artillery}** - Handle and operate large, powerful weaponry, including mounted systems.
 #### {{Explorer}}
 - **{Medicate}** - Provide first aid and medical treatment to heal injuries and ailments.
 - **{Move}** - Climb surfaces and navigate difficult terrain.

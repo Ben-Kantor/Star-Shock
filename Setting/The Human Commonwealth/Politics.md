@@ -4,7 +4,7 @@ All citizens of the commonwealth have an identification chip implanted in their 
 
 Enforcement is usually carried out by order-keepers, colloquially called the "blues" for their uniforms. They mostly bring a sense of justice and hand out traffic and other municipal violations, but most serious anti-criminal activity is done using hired mercenaries. The Human Commonwealth operates a space-fleet called the Human Interplanetary Fleet or HIF.
 
-The Commonwealth was formed in 1973 during the Martian Wars, to mount an opposition to the [Red Union](../The%20Red%20Union.md).
+The Commonwealth was formed in 1973 during the Martian Wars, to mount an opposition to the [Red Union](The%20Red%20Union.md).
 #### Corporations
 In addition to governments, many private corporations have become multi-planetary businesses. These include:
 - General Plasmatics - Spacecraft and land vehicles

@@ -23,7 +23,7 @@ _You are unusually tall and have no eyebrows._
 _You have a cybernetic enhancement or replacement body part._
 - Contact: (◆◇◇) Cyberneticist Contact
 - Skill: **{Robotics}**
-- **Neural Port**: "You can interface with any device directly, with a +1 bonus."
+- **Neural Port**: "You can interface with any device directly, with a +1 bonus to use it."
 - **[Cybernetic](./Cybernetics.md) Ability**: (choose any)
 ### Explorer
 _You are an expert at navigating and surviving in unknown or hostile environments._

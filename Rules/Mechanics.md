@@ -1,11 +1,9 @@
 ## Luck Points
-At the start of each session, each player gains 1d6 luck points, up to a maximum of 7. Players can then donate luck points to other who have fewer than them, but in-game currency cannot be traded for these, as the points belong to the players not the characters. The GM may also grant luck points as a bonus.
-
-There are two ways to spend Luck Points:
+At the start of each session, each player gains 1d6 luck points, up to a maximum of 7. There are two ways to spend Luck Points:
 - To reroll any d6 as part of a 2d6 check. *(This may be done any number of times)*
 - To take an additional action during a turn. *(Do this no more than once per turn)*
 
-If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent advantage for being the protagonists of the story, as no NPCs have luck points.
+Players can also give each other luck points, as they are needed. If a player really wants, they can use unspent XP instead of Luck Points, however this should be saved for desperate situations. This ability offers the characters an inherent advantage for being the protagonists of the story, as no NPCs have luck points.
 ## Contacts
 Contacts are NPCs that a player character has a connection to, providing support or access to specific resources. Players can note any NPC they meet as a contact, provided they ask their name and establish a way to contact them in the future.
 #### Trust Levels
